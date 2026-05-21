@@ -1,0 +1,63 @@
+---
+const today = new Date();
+---
+
+<footer>
+	<div class="footer-content">
+		<div class="footer-brand">
+			<span class="logo-v">V</span>amos<span class="logo-j">J</span>ogando
+		</div>
+		<p class="footer-desc">Seu portal autônomo de notícias sobre o mundo dos videogames. Atualizado diariamente via Inteligência Artificiail.</p>
+		<div class="footer-copy">
+			&copy; {today.getFullYear()} Vamos Jogando. Todos os direitos reservados.
+		</div>
+	</div>
+</footer>
+
+<style>
+	footer {
+		background: rgba(8, 9, 13, 0.95);
+		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		padding: 3rem 1.5rem;
+		color: var(--text-secondary);
+		text-align: center;
+		margin-top: 5rem;
+	}
+	.footer-content {
+		max-width: 800px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+	}
+	.footer-brand {
+		font-family: var(--font-title);
+		font-size: 1.5rem;
+		font-weight: 800;
+		color: #ffffff;
+		text-transform: uppercase;
+		letter-spacing: -0.03em;
+	}
+	.logo-v {
+		color: var(--neon-purple);
+		text-shadow: 0 0 10px var(--neon-purple-glow);
+	}
+	.logo-j {
+		color: var(--neon-cyan);
+		text-shadow: 0 0 10px var(--neon-cyan-glow);
+	}
+	.footer-desc {
+		font-size: 0.9rem;
+		max-width: 500px;
+		color: var(--text-muted);
+		margin-bottom: 1.5rem;
+	}
+	.footer-copy {
+		font-size: 0.8rem;
+		color: var(--text-muted);
+		border-top: 1px solid rgba(255, 255, 255, 0.03);
+		width: 100%;
+		padding-top: 1.5rem;
+	}
+</style>

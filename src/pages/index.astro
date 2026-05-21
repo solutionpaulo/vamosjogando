@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HeroSection from '../components/HeroSection.astro';
+import FeaturedCard from '../components/FeaturedCard.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getAllPosts, getFeaturedPost, getRecentPosts } from '../utils/posts';
+
+const posts = await getAllPosts();
+const featuredPost = await getFeaturedPost(posts);
+const recentPosts = await getRecentPosts(posts, 4);
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <HeroSection />
+
+  {featuredPost && <FeaturedCard post={featuredPost} />}
+
+  <section>
+    <div class="section-header">
+      <h2 class="section-title">Últimas Notícias</h2>
+      <a href="/blog" class="btn-link">Ver todas &rarr;</a>
+    </div>
+
+    <div class="news-grid news-grid-tight">
+      {recentPosts.map((post) => (
+        <li class="no-marker">
+          <PostCard post={post} />
+        </li>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .btn-link {
+    color: var(--neon-cyan);
+    font-weight: 700;
+    font-size: 0.9rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+  .btn-link:hover { color: var(--neon-purple); }
+  .no-marker { list-style: none; margin: 0; }
+</style>

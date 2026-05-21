@@ -1,0 +1,51 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BlogPost from '../../layouts/BlogPost.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getRelatedPosts } from '../../utils/posts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  if (posts.length === 0) {
+    console.warn('[slug] WARNING: No blog posts found!');
+    return [];
+  }
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: post,
+  }));
+}
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const relatedPosts = getRelatedPosts(allPosts, post, 3);
+---
+
+<BlogPost {...post.data}>
+  <Content />
+
+  {relatedPosts.length > 0 && (
+    <section style="margin-top: 4rem;">
+      <hr />
+      <h2 style="margin-bottom: 1.5rem;">Artigos Relacionados</h2>
+      <div class="related-grid">
+        {relatedPosts.map((rp) => (
+          <PostCard post={rp} />
+        ))}
+      </div>
+    </section>
+  )}
+</BlogPost>
+
+<style>
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+</style>

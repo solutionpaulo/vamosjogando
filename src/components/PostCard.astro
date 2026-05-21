@@ -1,0 +1,111 @@
+---
+import { Image } from 'astro:assets';
+import FormattedDate from './FormattedDate.astro';
+import type { CollectionEntry } from 'astro:content';
+
+type Props = {
+  post: CollectionEntry<'blog'>;
+};
+
+const { post } = Astro.props;
+---
+
+<article class="post-card glass-panel">
+  <a href={`/blog/${post.id}/`}>
+    <div class="post-img-container">
+      {post.data.heroImage && (
+        <Image width={720} height={360} src={post.data.heroImage} alt="" loading="lazy" />
+      )}
+    </div>
+    <div class="post-content">
+      <p class="post-date">
+        <FormattedDate date={post.data.pubDate} />
+      </p>
+      <h2 class="post-title">{post.data.title}</h2>
+      <p class="post-desc">{post.data.description}</p>
+      <span class="btn-link">
+        Ler Artigo Completo
+        <svg viewBox="0 0 20 20" width="14" height="14" fill="currentColor">
+          <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
+        </svg>
+      </span>
+    </div>
+  </a>
+</article>
+
+<style>
+  .post-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .post-card a {
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .post-card a:hover {
+    color: inherit;
+    text-shadow: none;
+  }
+  .post-img-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 12px 12px 0 0;
+  }
+  .post-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
+  .post-card:hover .post-img-container img {
+    transform: scale(1.05);
+  }
+  .post-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  .post-date {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+  .post-title {
+    font-size: 1.35rem;
+    line-height: 1.3;
+    margin-bottom: 0.75rem;
+    color: #ffffff;
+    flex-grow: 1;
+    transition: color 0.2s ease;
+  }
+  .post-card:hover .post-title {
+    color: var(--neon-cyan);
+  }
+  .post-desc {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .btn-link {
+    color: var(--neon-cyan);
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-top: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: color 0.2s ease;
+  }
+  .post-card:hover .btn-link {
+    color: var(--neon-purple);
+  }
+</style>

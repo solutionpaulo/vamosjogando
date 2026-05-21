@@ -1,0 +1,48 @@
+name: Auto Publish AI Article
+
+on:
+  schedule:
+    # Executa às 09:00 e 18:00 UTC todos os dias (06:00 e 15:00 no Horário de Brasília)
+    - cron: '0 9,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Auto Publisher
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run generate
+
+      - name: Commit and push new articles
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Verifica se há novos arquivos na pasta de blog
+          if [ -n "$(git status --porcelain src/content/blog/)" ]; then
+            git add src/content/blog/
+            git commit -m "Auto: Novo artigo publicado via IA"
+            git push
+            echo "Novos posts commitados e enviados para o repositório principal!"
+          else
+            echo "Nenhum post novo gerado neste ciclo."
+          fi

@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import TagBadge from '../../components/TagBadge.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { getAllPosts, getAllTags } from '../../utils/posts';
+
+const posts = await getAllPosts();
+const allTags = await getAllTags();
+---
+
+<BaseLayout title={`Feed de Notícias - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+  <div style="padding-top: 2rem;">
+    <h1 class="page-title">Feed de Notícias</h1>
+
+    {allTags.length > 0 && (
+      <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+        <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Tags:</span>
+        {allTags.map(tag => <TagBadge tag={tag} />)}
+      </div>
+    )}
+
+    <ul class="news-grid">
+      {posts.map((post) => (
+        <li style="list-style: none; margin: 0;">
+          <PostCard post={post} />
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.75rem;
+    position: relative;
+  }
+  .page-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background: var(--accent-gradient);
+    border-radius: 9999px;
+  }
+</style>

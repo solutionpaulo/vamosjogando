@@ -1,0 +1,65 @@
+---
+
+---
+
+<section class="hero-section">
+  <div class="hero-badge">
+    <span class="hero-badge-dot"></span>
+    Autônomo & Inteligente
+  </div>
+  <h1 class="hero-title">Acompanhe o Jogo</h1>
+  <p class="hero-desc">As notícias mais quentes, análises rápidas e tudo sobre videogames compilados por IA em tempo real.</p>
+</section>
+
+<style>
+  .hero-section {
+    text-align: center;
+    padding: 4rem 1rem 3rem 1rem;
+    position: relative;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(139, 92, 246, 0.1);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    color: #c084fc;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+  }
+  .hero-badge-dot {
+    width: 8px;
+    height: 8px;
+    background-color: var(--neon-cyan);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--neon-cyan-glow);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% { opacity: 0.4; }
+    50% { opacity: 1; }
+    100% { opacity: 0.4; }
+  }
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    letter-spacing: -0.04em;
+  }
+  .hero-desc {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto 2.5rem auto;
+  }
+  @media (max-width: 900px) {
+    .hero-title {
+      font-size: 2.5rem;
+    }
+  }
+</style>

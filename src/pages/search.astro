@@ -1,0 +1,172 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../consts';
+import { getAllPosts } from '../utils/posts';
+
+const posts = await getAllPosts();
+---
+
+<BaseLayout title={`Buscar - ${SITE_TITLE}`} description="Busque notícias no Vamos Jogando">
+  <div style="padding-top: 2rem; max-width: 800px; margin: 0 auto;">
+    <h1 class="page-title">Buscar Notícias</h1>
+
+    <div class="search-box">
+      <svg class="search-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="M21 21l-4.35-4.35"/>
+      </svg>
+      <input type="search" id="search-input" class="search-input" placeholder="Digite para buscar..." autofocus />
+    </div>
+
+    <div id="results" class="search-results"></div>
+  </div>
+</BaseLayout>
+
+<script>
+  const posts = JSON.parse(document.getElementById('search-data').textContent);
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('results');
+
+  input.addEventListener('input', function() {
+    const q = this.value.toLowerCase().trim();
+    if (!q) { results.innerHTML = '<p class="search-hint">Digite um termo para buscar nos artigos...</p>'; return; }
+
+    const matches = posts.filter(p =>
+      p.title.toLowerCase().includes(q) ||
+      p.description.toLowerCase().includes(q) ||
+      (p.tags || []).some(t => t.toLowerCase().includes(q))
+    );
+
+    if (matches.length === 0) {
+      results.innerHTML = '<p class="search-empty">Nenhum resultado encontrado.</p>';
+      return;
+    }
+
+    results.innerHTML = matches.slice(0, 20).map(p => `
+      <a href="/blog/${p.slug}/" class="search-item glass-panel">
+        <h3 class="search-item-title">${highlight(p.title, q)}</h3>
+        <p class="search-item-desc">${highlight(p.description, q)}</p>
+        <div class="search-item-meta">
+          <span>${new Date(p.pubDate).toLocaleDateString('pt-BR')}</span>
+          ${p.tags ? p.tags.map(t => `<span class="badge">${t}</span>`).join('') : ''}
+        </div>
+      </a>
+    `).join('');
+  });
+
+  function highlight(text, query) {
+    if (!query) return text;
+    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<mark>$1</mark>');
+  }
+
+  // Trigger initial
+  input.dispatchEvent(new Event('input'));
+</script>
+
+<textarea id="search-data" style="display:none">{JSON.stringify(posts.map(p => ({
+  slug: p.id,
+  title: p.data.title,
+  description: p.data.description,
+  pubDate: p.data.pubDate.toISOString(),
+  tags: p.data.tags || [],
+})))}</textarea>
+
+<style>
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.75rem;
+    position: relative;
+  }
+  .page-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background: var(--accent-gradient);
+    border-radius: 9999px;
+  }
+  .search-box {
+    position: relative;
+    margin-bottom: 2rem;
+  }
+  .search-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+  }
+  .search-input {
+    width: 100%;
+    padding: 1rem 1rem 1rem 3rem;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    background: var(--bg-card);
+    color: #ffffff;
+    outline: none;
+    transition: border-color 0.2s ease;
+  }
+  .search-input:focus {
+    border-color: var(--neon-purple);
+    box-shadow: 0 0 15px var(--neon-purple-glow);
+  }
+  .search-input::placeholder { color: var(--text-muted); }
+  .search-hint, .search-empty {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 3rem 1rem;
+    font-size: 1.05rem;
+  }
+  .search-results {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .search-item {
+    display: block;
+    padding: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  .search-item:hover {
+    text-shadow: none;
+    border-color: var(--border-color-hover);
+  }
+  .search-item-title {
+    font-size: 1.25rem;
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+  }
+  .search-item:hover .search-item-title {
+    color: var(--neon-cyan);
+  }
+  .search-item-title :global(mark),
+  .search-item-desc :global(mark) {
+    background: rgba(139, 92, 246, 0.3);
+    color: #ffffff;
+    padding: 0.1rem 0.2rem;
+    border-radius: 3px;
+  }
+  .search-item-desc {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.75rem;
+  }
+  .search-item-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+</style>

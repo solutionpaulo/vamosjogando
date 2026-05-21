@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import TagBadge from '../../../components/TagBadge.astro';
+import { SITE_TITLE } from '../../../consts';
+import { getAllPosts, getAllTags, getPostsByTag, slugifyTag } from '../../../utils/posts';
+
+export async function getStaticPaths() {
+  const tags = await getAllTags();
+  return tags.map((tag) => ({
+    params: { tag: slugifyTag(tag) },
+    props: { originalTag: tag },
+  }));
+}
+
+type Props = { originalTag: string };
+const { originalTag } = Astro.props;
+const allPosts = await getAllPosts();
+const filteredPosts = getPostsByTag(allPosts, originalTag);
+const allTags = await getAllTags();
+---
+
+<BaseLayout title={`${originalTag} - ${SITE_TITLE}`} description={`Notícias sobre ${originalTag} no Vamos Jogando`}>
+  <div style="padding-top: 2rem;">
+    <div class="page-header">
+      <h1 class="page-title">{originalTag}</h1>
+      <span class="post-count">{filteredPosts.length} artigo{filteredPosts.length !== 1 ? 's' : ''}</span>
+    </div>
+
+    {allTags.length > 0 && (
+      <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+        <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Todas as tags:</span>
+        {allTags.map(t => <a href={`/blog/tag/${slugifyTag(t)}`} class="badge">{t}</a>)}
+      </div>
+    )}
+
+    {filteredPosts.length > 0 ? (
+      <ul class="news-grid">
+        {filteredPosts.map((post) => (
+          <li style="list-style: none; margin: 0;">
+            <PostCard post={post} />
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <div class="empty-state">
+        <p>Nenhum artigo encontrado para esta tag.</p>
+        <a href="/blog" class="btn-link">Ver todas as notícias &rarr;</a>
+      </div>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.75rem;
+    position: relative;
+  }
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+  .page-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background: var(--accent-gradient);
+    border-radius: 9999px;
+  }
+  .post-count {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+  }
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  .btn-link {
+    color: var(--neon-cyan);
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+  .btn-link:hover { color: var(--neon-purple); }
+</style>

@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
+import { SITE_TITLE } from '../consts';
+---
+
+<BaseLayout title={`Sobre - ${SITE_TITLE}`} description="Saiba mais sobre o Vamos Jogando, o portal de notícias de games inteligente e autônomo.">
+  <article class="glass-panel about-container">
+    <div class="about-hero">
+      <img src={AboutHeroImage.src} alt="Vamos Jogando" width={1020} height={510} />
+    </div>
+    <div class="about-content">
+      <h1>Sobre o Vamos Jogando</h1>
+      <p>
+        Bem-vindo ao <strong>Vamos Jogando</strong>, um portal de notícias de videogame totalmente autônomo, desenhado para manter você atualizado com o que há de mais quente no mundo dos jogos, sem complicações.
+      </p>
+
+      <h2>Como funciona?</h2>
+      <p>
+        O portal é 100% autossuficiente. Por trás das cortinas, um script inteligente desenvolvido em Node.js é executado periodicamente através do <strong>GitHub Actions</strong>. Ele varre feeds RSS de alguns dos maiores portais de notícias de jogos.
+      </p>
+      <p>
+        Após filtrar as notícias mais importantes do momento, o sistema envia esses tópicos à API do <strong>Gemini (Google AI)</strong>. A inteligência artificial analisa o contexto, cruza informações e redige um artigo totalmente novo, rico em detalhes e otimizado para SEO.
+      </p>
+
+      <h2>Sem Custos e Open Source</h2>
+      <p>
+        O <strong>Vamos Jogando</strong> foi planejado para ser hospedado de forma totalmente gratuita usando o <strong>GitHub Pages</strong>. Os posts são armazenados como arquivos Markdown no repositório, servindo como banco de dados distribuído e leve.
+      </p>
+
+      <blockquote>
+        "Uma fusão moderna entre jornalismo gamer, automação programada e Inteligência Artificial."
+      </blockquote>
+
+      <p>Sinta-se livre para explorar as notícias e acompanhar o ritmo da indústria com a gente.</p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .about-hero {
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+  }
+  .about-hero img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .about-content {
+    padding: 2.5rem;
+  }
+  .about-content blockquote {
+    border-left: 4px solid var(--neon-purple);
+    background: rgba(139, 92, 246, 0.05);
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    border-radius: 0 12px 12px 0;
+    font-style: italic;
+    color: #e2e8f0;
+  }
+  @media (max-width: 768px) {
+    .about-content { padding: 1.5rem; }
+  }
+</style>
