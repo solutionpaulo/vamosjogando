@@ -1,8 +1,8 @@
 ---
 title: 'Virtua Fighter Crossroads: O Vazamento que Incendiou a Comunidade e o Futuro da Luta!'
-description: 'Um vídeo misterioso de \'Virtua Fighter Crossroads\' vazou, levantando a expectativa para o possível retorno de uma das franquias de luta mais icônicas, prometendo agitar o cenário gamer.'
+description: 'Um vídeo misterioso de ''Virtua Fighter Crossroads'' vazou, levantando a expectativa para o possível retorno de uma das franquias de luta mais icônicas, prometendo agitar o cenário gamer.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/virtua-fighter-crossroads-aparece-em-video-vazado-e-empolga-fas.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 tags: ['Virtua Fighter', 'Jogos de Luta', 'SEGA', 'Lançamento']
 ---
 
