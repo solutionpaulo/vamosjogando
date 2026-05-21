@@ -42,7 +42,7 @@ async function fetchLatestNews() {
   return allItems.sort((a, b) => b.date - a.date);
 }
 
-function buildPrompt(newsItem) {
+function buildPrompt(newsItem, attempt = 1) {
   return `
 Você é um redator gamer profissional do blog "Vamos Jogando".
 Sua tarefa é criar um artigo completo, engajador e otimizado para SEO em português a partir da seguinte notícia:
@@ -61,13 +61,14 @@ Instruções:
    - Use uma citação blockquote (> ) se houver falas de desenvolvedores ou se fizer sentido
    - Finalize com uma breve análise ou opinião gamer sobre o impacto dessa notícia.
 4. Defina de 2 a 4 tags relevantes (ex: Playstation, Xbox, Nintendo, RPG, Lançamento, etc).
-5. O retorno DEVE ser estritamente um JSON:
+5. O retorno DEVE ser estritamente um JSON SEM TRAILING COMMAS, SEM quebras de linha dentro das strings:
 {
   "title": "Seu título aqui",
   "description": "Sua descrição curta aqui",
   "content": "Conteúdo completo em markdown aqui...",
   "tags": ["tag1", "tag2"]
 }
+${attempt > 1 ? '\nATENÇÃO: Sua resposta anterior continha JSON inválido. Certifique-se de que o JSON está perfeitamente formatado, sem vírgulas extras e com todas as strings escapadas corretamente.' : ''}
 `;
 }
 
@@ -101,19 +102,38 @@ Podemos esperar novidades adicionais conforme o assunto continue evoluindo. O qu
   };
 }
 
-async function generateWithGemini(newsItem, apiKey) {
-  console.log('Enviando solicitação para a API do Gemini...');
+function cleanJSON(raw) {
+  let s = raw.trim();
+  s = s.replace(/^```(?:json)?\s*/, '').replace(/\s*```$/, '');
+  s = s.replace(/,\s*([}\]])/g, '$1');
+  s = s.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '');
+  return s;
+}
+
+async function attemptGeneration(newsItem, apiKey, attempt = 1) {
   const ai = new GoogleGenAI({ apiKey });
   const response = await ai.models.generateContent({
     model: 'gemini-2.5-flash',
-    contents: buildPrompt(newsItem),
+    contents: buildPrompt(newsItem, attempt),
     config: { responseMimeType: 'application/json' },
   });
 
-  const text = response.text?.trim();
+  let text = response.text?.trim();
   if (!text) throw new Error('Resposta vazia da API Gemini');
 
-  return JSON.parse(text);
+  text = cleanJSON(text);
+  try {
+    return JSON.parse(text);
+  } catch (parseErr) {
+    if (attempt >= 2) throw new Error(`Falha ao parsear JSON após 2 tentativas: ${parseErr.message}`);
+    console.log(`JSON inválido, tentativa ${attempt + 1}...`);
+    return attemptGeneration(newsItem, apiKey, attempt + 1);
+  }
+}
+
+async function generateWithGemini(newsItem, apiKey) {
+  console.log('Enviando solicitação para a API do Gemini...');
+  return attemptGeneration(newsItem, apiKey);
 }
 
 async function fetchOgImage(url) {
