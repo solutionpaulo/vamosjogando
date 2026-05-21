@@ -37,12 +37,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Verifica se há novos arquivos na pasta de blog
-          if [ -n "$(git status --porcelain src/content/blog/)" ]; then
-            git add src/content/blog/
+          # Verifica se há novos arquivos
+          if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
+            git add src/content/blog/ src/assets/
             git commit -m "Auto: Novo artigo publicado via IA"
             git push
-            echo "Novos posts commitados e enviados para o repositório principal!"
+            echo "Novos posts e imagens commitados e enviados!"
           else
             echo "Nenhum post novo gerado neste ciclo."
           fi

@@ -159,9 +159,10 @@ function generateArticleFile(newsItem, article, slug, heroImage) {
     heroImage = `../../assets/blog-placeholder-${imgNumber}.jpg`;
   }
 
+  const escapeYAML = s => s.replace(/'/g, "''");
   return `---
-title: '${article.title.replace(/'/g, "\\'")}'
-description: '${article.description.replace(/'/g, "\\'")}'
+title: '${escapeYAML(article.title)}'
+description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
 heroImage: '${heroImage}'
 tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
