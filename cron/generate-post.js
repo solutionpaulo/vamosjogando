@@ -9,6 +9,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
+const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
 const parser = new Parser();
 
 function getExistingSlugs() {
@@ -115,9 +116,48 @@ async function generateWithGemini(newsItem, apiKey) {
   return JSON.parse(text);
 }
 
-function generateArticleFile(newsItem, article, slug) {
-  const imgNumber = Math.floor(Math.random() * 5) + 1;
-  const heroImage = `../../assets/blog-placeholder-${imgNumber}.jpg`;
+async function fetchOgImage(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; VamosJogando/1.0)' },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const match = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i);
+    return match?.[1] || null;
+  } catch {
+    return null;
+  }
+}
+
+async function downloadImage(imageUrl, slug) {
+  try {
+    const res = await fetch(imageUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; VamosJogando/1.0)' },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) return null;
+
+    const contentType = res.headers.get('content-type') || '';
+    const extMap = { 'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/gif': '.gif', 'image/avif': '.avif' };
+    const ext = extMap[contentType] || '.jpg';
+    const fileName = `${slug}${ext}`;
+    const filePath = path.join(ASSETS_DIR, fileName);
+    const buffer = Buffer.from(await res.arrayBuffer());
+    fs.writeFileSync(filePath, buffer);
+    console.log(`Imagem salva: ${filePath}`);
+    return `../../assets/${fileName}`;
+  } catch {
+    return null;
+  }
+}
+
+function generateArticleFile(newsItem, article, slug, heroImage) {
+  if (!heroImage) {
+    const imgNumber = Math.floor(Math.random() * 5) + 1;
+    heroImage = `../../assets/blog-placeholder-${imgNumber}.jpg`;
+  }
 
   return `---
 title: '${article.title.replace(/'/g, "\\'")}'
@@ -167,7 +207,19 @@ async function run() {
         ? await generateWithGemini(item, apiKey)
         : generateMockArticle(item);
 
-      const fileContent = generateArticleFile(item, article, slug);
+      let heroImage = null;
+      if (item.link) {
+        console.log(`Buscando imagem para: ${item.link}`);
+        const ogUrl = await fetchOgImage(item.link);
+        if (ogUrl) {
+          heroImage = await downloadImage(ogUrl, slug);
+        }
+      }
+      if (!heroImage) {
+        console.log('Usando placeholder aleatório.');
+      }
+
+      const fileContent = generateArticleFile(item, article, slug, heroImage);
       const filePath = path.join(BLOG_DIR, `${slug}.md`);
       fs.writeFileSync(filePath, fileContent, 'utf-8');
       console.log(`Post salvo: ${filePath}`);
