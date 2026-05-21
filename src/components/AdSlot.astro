@@ -1,0 +1,30 @@
+---
+import { ADSENSE_CLIENT_ID } from '../adsense';
+
+export interface Props {
+  slot: string;
+  format?: 'auto' | 'rectangle' | 'horizontal' | 'vertical';
+}
+
+const { slot, format = 'auto' } = Astro.props;
+const styleMap = {
+  auto: 'display: block;',
+  rectangle: 'display: inline-block; width: 300px; height: 250px;',
+  horizontal: 'display: inline-block; width: 728px; height: 90px;',
+  vertical: 'display: inline-block; width: 160px; height: 600px;',
+};
+---
+
+{ADSENSE_CLIENT_ID && (
+  <div class="ad-container">
+    <ins
+      class="adsbygoogle"
+      style={styleMap[format]}
+      data-ad-client={ADSENSE_CLIENT_ID}
+      data-ad-slot={slot}
+      data-ad-format={format === 'auto' ? 'auto' : undefined}
+      data-full-width-responsive="true"
+    />
+    <script>{(adsbygoogle = window.adsbygoogle || []).push({})}</script>
+  </div>
+)}
