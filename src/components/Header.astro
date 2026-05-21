@@ -1,20 +1,20 @@
 ---
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, SITE_BASE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header class="site-header">
   <nav>
     <div class="logo">
-      <a href="/" class="logo-link">
+      <a href={SITE_BASE + '/'} class="logo-link">
         <span class="logo-v">V</span>amos<span class="logo-j">J</span>ogando
       </a>
     </div>
     <div class="internal-links">
-      <HeaderLink href="/">Início</HeaderLink>
-      <HeaderLink href="/blog">Notícias</HeaderLink>
-      <HeaderLink href="/search">Buscar</HeaderLink>
-      <HeaderLink href="/about">Sobre</HeaderLink>
+      <HeaderLink href={SITE_BASE + '/'}>Início</HeaderLink>
+      <HeaderLink href={SITE_BASE + '/blog'}>Notícias</HeaderLink>
+      <HeaderLink href={SITE_BASE + '/search'}>Buscar</HeaderLink>
+      <HeaderLink href={SITE_BASE + '/about'}>Sobre</HeaderLink>
     </div>
     <div class="social-links">
       <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">

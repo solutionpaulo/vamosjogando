@@ -2,7 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PostCard from '../../../components/PostCard.astro';
 import TagBadge from '../../../components/TagBadge.astro';
-import { SITE_TITLE } from '../../../consts';
+import { SITE_TITLE, SITE_BASE } from '../../../consts';
 import { getAllPosts, getAllTags, getPostsByTag, slugifyTag } from '../../../utils/posts';
 
 export async function getStaticPaths() {
@@ -30,7 +30,7 @@ const allTags = await getAllTags();
     {allTags.length > 0 && (
       <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
         <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Todas as tags:</span>
-        {allTags.map(t => <a href={`/blog/tag/${slugifyTag(t)}`} class="badge">{t}</a>)}
+        {allTags.map(t => <a href={SITE_BASE + '/blog/tag/' + slugifyTag(t)} class="badge">{t}</a>)}
       </div>
     )}
 
@@ -45,7 +45,7 @@ const allTags = await getAllTags();
     ) : (
       <div class="empty-state">
         <p>Nenhum artigo encontrado para esta tag.</p>
-        <a href="/blog" class="btn-link">Ver todas as notícias &rarr;</a>
+        <a href={SITE_BASE + '/blog'} class="btn-link">Ver todas as notícias &rarr;</a>
       </div>
     )}
   </div>

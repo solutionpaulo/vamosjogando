@@ -1,5 +1,6 @@
 ---
 import { slugifyTag } from '../utils/posts';
+import { SITE_BASE } from '../consts';
 
 interface Props {
   tag: string;
@@ -12,7 +13,7 @@ const { tag, link = true, variant = 'default' } = Astro.props;
 
 {
   link ? (
-    <a href={`/blog/tag/${slugifyTag(tag)}`} class={`badge ${variant === 'cyan' ? 'badge-cyan' : ''}`}>
+    <a href={SITE_BASE + '/blog/tag/' + slugifyTag(tag)} class={`badge ${variant === 'cyan' ? 'badge-cyan' : ''}`}>
       {tag}
     </a>
   ) : (

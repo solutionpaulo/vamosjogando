@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, SITE_BASE } from '../consts';
 ---
 
 <BaseLayout title={`Página não encontrada - ${SITE_TITLE}`} description="Página não encontrada">
@@ -8,7 +8,7 @@ import { SITE_TITLE } from '../consts';
     <div class="not-found-code">404</div>
     <h1>Página não encontrada</h1>
     <p>Parece que você se perdeu. Esta página não existe ou foi removida.</p>
-    <a href="/" class="btn-home">Voltar ao Início</a>
+    <a href={SITE_BASE + '/'} class="btn-home">Voltar ao Início</a>
   </div>
 </BaseLayout>
 

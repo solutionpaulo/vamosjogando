@@ -7,11 +7,13 @@ type Props = {
   post: CollectionEntry<'blog'>;
 };
 
+import { SITE_BASE } from '../consts';
+
 const { post } = Astro.props;
 ---
 
 <article class="post-card glass-panel">
-  <a href={`/blog/${post.id}/`}>
+  <a href={SITE_BASE + '/blog/' + post.id + '/'}>
     <div class="post-img-container">
       {post.data.heroImage && (
         <Image width={720} height={360} src={post.data.heroImage} alt="" loading="lazy" />

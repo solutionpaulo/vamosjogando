@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import type { ImageMetadata } from 'astro';
 import FallbackImage from '../assets/blog-placeholder-1.jpg';
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, SITE_BASE } from '../consts';
 
 interface Props {
   title: string;
@@ -16,9 +16,9 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-<link rel="icon" href="/favicon.ico" />
-<link rel="sitemap" href="/sitemap-index.xml" />
+<link rel="icon" type="image/svg+xml" href={SITE_BASE + '/favicon.svg'} />
+<link rel="icon" href={SITE_BASE + '/favicon.ico'} />
+<link rel="sitemap" href={SITE_BASE + '/sitemap-index.xml'} />
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
 <meta name="generator" content={Astro.generator} />
 

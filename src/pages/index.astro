@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import HeroSection from '../components/HeroSection.astro';
 import FeaturedCard from '../components/FeaturedCard.astro';
 import PostCard from '../components/PostCard.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_BASE } from '../consts';
 import { getAllPosts, getFeaturedPost, getRecentPosts } from '../utils/posts';
 
 const posts = await getAllPosts();
@@ -19,7 +19,7 @@ const recentPosts = await getRecentPosts(posts, 4);
   <section>
     <div class="section-header">
       <h2 class="section-title">Últimas Notícias</h2>
-      <a href="/blog" class="btn-link">Ver todas &rarr;</a>
+      <a href={SITE_BASE + '/blog'} class="btn-link">Ver todas &rarr;</a>
     </div>
 
     <div class="news-grid news-grid-tight">

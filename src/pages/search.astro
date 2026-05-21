@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, SITE_BASE } from '../consts';
 import { getAllPosts } from '../utils/posts';
 
 const posts = await getAllPosts();
@@ -23,6 +23,7 @@ const posts = await getAllPosts();
 </BaseLayout>
 
 <script>
+  const BASE = document.querySelector('meta[name="base-url"]')?.content || '/vamosjogando';
   const posts = JSON.parse(document.getElementById('search-data').textContent);
   const input = document.getElementById('search-input');
   const results = document.getElementById('results');
@@ -43,7 +44,7 @@ const posts = await getAllPosts();
     }
 
     results.innerHTML = matches.slice(0, 20).map(p => `
-      <a href="/blog/${p.slug}/" class="search-item glass-panel">
+      <a href="${BASE}/blog/${p.slug}/" class="search-item glass-panel">
         <h3 class="search-item-title">${highlight(p.title, q)}</h3>
         <p class="search-item-desc">${highlight(p.description, q)}</p>
         <div class="search-item-meta">
@@ -64,6 +65,7 @@ const posts = await getAllPosts();
   input.dispatchEvent(new Event('input'));
 </script>
 
+<meta name="base-url" content={SITE_BASE} />
 <textarea id="search-data" style="display:none">{JSON.stringify(posts.map(p => ({
   slug: p.id,
   title: p.data.title,
