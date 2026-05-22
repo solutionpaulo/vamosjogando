@@ -99,7 +99,7 @@ Podemos esperar novidades adicionais conforme o assunto continue evoluindo. O qu
 }
 
 async function generateArticle(newsItem) {
-  const apiKey = process.env.GEMINI_API_KEY || process.env.DEEPSEEK_API_KEY;
+  const apiKey = process.env.GEMINI_API_KEY || process.env.DEEPSEEK_API_KEY || process.env.GROQ_API_KEY;
   if (!apiKey) {
     console.log('Nenhum LLM configurado. Usando modo mock.');
     return generateMockArticle(newsItem);
