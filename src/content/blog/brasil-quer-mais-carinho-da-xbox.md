@@ -2,7 +2,7 @@
 title: 'A Voz Potente do Brasil: Comunidade Xbox Clama por Maior Reconhecimento e Apoio!'
 description: 'A fervorosa comunidade Xbox no Brasil expressa seu desejo por maior atenção e reconhecimento da Microsoft. Descubra por que os jogadores brasileiros, uma das bases mais apaixonadas do mundo, sentem que merecem mais carinho.'
 pubDate: 'Wed May 20 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/brasil-quer-mais-carinho-da-xbox.png'
 tags: ['Xbox', 'Brasil', 'Comunidade Gamer', 'Microsoft']
 ---
 

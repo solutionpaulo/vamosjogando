@@ -2,7 +2,7 @@
 title: 'State of Play Chega aos Cinemas: A Sony Revive um Formato Épico para Anúncios de Peso!'
 description: 'A Sony levará o próximo State of Play para cinemas selecionados nos EUA, uma estratégia que remete à grandiosidade da E3 2018 e promete revelações que merecem a tela grande.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/state-of-play-sera-transmitido-nos-cinemas-e-da-ultima-vez-que-isso-aconteceu.jpg'
 tags: ['PlayStation', 'State of Play', 'Lançamentos', 'Eventos']
 ---
 

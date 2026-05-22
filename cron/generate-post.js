@@ -174,11 +174,6 @@ async function downloadImage(imageUrl, slug) {
 }
 
 function generateArticleFile(newsItem, article, slug, heroImage) {
-  if (!heroImage) {
-    const imgNumber = Math.floor(Math.random() * 5) + 1;
-    heroImage = `../../assets/blog-placeholder-${imgNumber}.jpg`;
-  }
-
   const escapeYAML = s => s.replace(/'/g, "''");
   return `---
 title: '${escapeYAML(article.title)}'
@@ -190,6 +185,111 @@ tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
 
 ${article.content}
 `;
+}
+
+const UA = 'VamosJogandoBot/1.0 (https://vamosjogando.com)';
+
+const TOPIC_OVERRIDES = {
+  'xbox': 'Xbox',
+  'game pass': 'Xbox Game Pass',
+  'destiny': 'Destiny 2',
+  'splinter cell': 'Splinter Cell (series)',
+  'uncharted': 'Uncharted',
+  'virtua fighter': 'Virtua Fighter',
+  'warhammer': 'Warhammer 40,000: Mechanicus',
+  'playstation': 'PlayStation',
+  'state of play': 'State of Play',
+  'naughty dog': 'Naughty Dog',
+  'ubisoft': 'Ubisoft',
+  'bungie': 'Bungie',
+  'sega': 'Sega',
+  'microsoft': 'Xbox',
+};
+
+function findTopicOverride(article) {
+  if (!article.tags) return null;
+  const combined = (article.title + ' ' + article.tags.join(' ')).toLowerCase();
+  for (const [key, value] of Object.entries(TOPIC_OVERRIDES)) {
+    if (combined.includes(key)) return value;
+  }
+  const nonGeneric = article.tags.filter(t =>
+    !['Games', 'Lançamento', 'Lançamentos', 'Eventos', 'Novidades', 'FPS', 'MMO',
+      'RPG', 'Tático', 'Estratégia', 'Tecnologia', 'Hardware', 'Linux', 'Remake',
+      'Jogos de Luta', 'Jogos Grátis', 'Free Play Days', 'Serviços de Assinatura',
+      'Comunidade Gamer', 'Desenvolvimento de Jogos', 'Novidades'].includes(t));
+  return nonGeneric.length > 0 ? nonGeneric[0] : null;
+}
+
+async function fetchJSON(url) {
+  const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(10000) });
+  if (!res.ok) return null;
+  return res.json();
+}
+
+async function findWikipediaPageId(topic) {
+  const data = await fetchJSON(
+    `https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=3`
+  );
+  return data?.query?.search?.[0]?.pageid || null;
+}
+
+function isGoodGameImage(title) {
+  const lower = title.toLowerCase();
+  const badPatterns = ['icon', 'button', 'banner', 'favicon', 'portal', 'wikiproject',
+    'category', 'sprite', 'symbol', 'letter_', 'letter-', 'wikiquote', 'wikimedia',
+    'flag_of', 'bandeira'];
+  if (badPatterns.some(p => lower.includes(p))) return false;
+  if (lower.endsWith('.svg')) return false;
+  return true;
+}
+
+function prioritizeImage(images) {
+  const filtered = images.filter(i => isGoodGameImage(i.title));
+  const cover = filtered.find(x => x.title.toLowerCase().includes('cover'));
+  if (cover) return cover;
+  const png = filtered.find(x => x.title.endsWith('.png'));
+  if (png) return png;
+  const jpg = filtered.find(x => x.title.endsWith('.jpg') || x.title.endsWith('.jpeg'));
+  if (jpg) return jpg;
+  if (filtered.length > 0) return filtered[0];
+  if (images.length > 0) return images[0];
+  return null;
+}
+
+async function getWikipediaImages(pageId) {
+  const data = await fetchJSON(
+    `https://en.wikipedia.org/w/api.php?action=query&prop=images&format=json&pageids=${pageId}&redirects=1`
+  );
+  const page = Object.values(data?.query?.pages || {})[0];
+  return page?.images || [];
+}
+
+async function getWikipediaImageUrl(imageTitle) {
+  const data = await fetchJSON(
+    `https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&titles=${encodeURIComponent(imageTitle)}`
+  );
+  const page = Object.values(data?.query?.pages || {})[0];
+  return page?.imageinfo?.[0]?.url || null;
+}
+
+async function fetchWikipediaImage(article) {
+  const topic = findTopicOverride(article);
+  if (!topic) return null;
+
+  try {
+    const pageId = await findWikipediaPageId(topic);
+    if (!pageId) return null;
+
+    const images = await getWikipediaImages(pageId);
+    if (images.length === 0) return null;
+
+    const best = prioritizeImage(images);
+    if (!best) return null;
+
+    return getWikipediaImageUrl(best.title);
+  } catch {
+    return null;
+  }
 }
 
 async function run() {
@@ -229,18 +329,28 @@ async function run() {
         : generateMockArticle(item);
 
       let heroImage = null;
+      // Try OG image from source URL first
       if (item.link) {
-        console.log(`Buscando imagem para: ${item.link}`);
+        console.log(`Buscando imagem OG para: ${item.link}`);
         const ogUrl = await fetchOgImage(item.link);
         if (ogUrl) {
           heroImage = await downloadImage(ogUrl, slug);
         }
       }
+      // Fallback: try Wikipedia with article tags
+      if (!heroImage && article.tags) {
+        console.log('Buscando imagem na Wikipedia...');
+        const wikiUrl = await fetchWikipediaImage(article);
+        if (wikiUrl) {
+          heroImage = await downloadImage(wikiUrl, slug);
+        }
+      }
+      // Last resort: placeholder
       if (!heroImage) {
         console.log('Usando placeholder aleatório.');
       }
 
-      const fileContent = generateArticleFile(item, article, slug, heroImage);
+      const fileContent = generateArticleFile(item, article, slug, heroImage || `../../assets/blog-placeholder-${Math.floor(Math.random() * 5) + 1}.jpg`);
       const filePath = path.join(BLOG_DIR, `${slug}.md`);
       fs.writeFileSync(filePath, fileContent, 'utf-8');
       console.log(`Post salvo: ${filePath}`);

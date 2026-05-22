@@ -2,7 +2,7 @@
 title: 'Adeus, Guardiões? Destiny 2 Chega ao Fim de Uma Era com Última Grande Atualização em Junho'
 description: 'Após quase uma década de batalhas cósmicas e inovações, Destiny 2 se prepara para receber sua derradeira grande atualização em junho, marcando o fim de um capítulo épico para milhões de jogadores.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/o-fim-chegou-destiny-2-vai-ganhar-sua-ultima-atualizacao-em-junho.jpg'
 tags: ['Destiny 2', 'Bungie', 'FPS', 'MMO']
 ---
 

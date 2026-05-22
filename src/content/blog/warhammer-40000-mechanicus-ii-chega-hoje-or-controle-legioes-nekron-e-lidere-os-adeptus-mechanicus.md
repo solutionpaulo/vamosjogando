@@ -2,7 +2,7 @@
 title: 'Warhammer 40.000: Mechanicus II Chega para Revolucionar Estratégias com Duas Facções Icônicas'
 description: 'O aguardado Warhammer 40.000: Mechanicus II já está disponível, convidando os jogadores a dominar tanto os Adeptus Mechanicus quanto as poderosas legiões Nekron em um épico embate tático.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/warhammer-40000-mechanicus-ii-chega-hoje-or-controle-legioes-nekron-e-lidere-os-adeptus-mechanicus.jpg'
 tags: ['Warhammer 40.000', 'Estratégia', 'Lançamento', 'Tático']
 ---
 

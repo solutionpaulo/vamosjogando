@@ -2,7 +2,7 @@
 title: 'O Silêncio de Sam Fisher: Onde Está o Remake de Splinter Cell nos Planos da Ubisoft Até 2029?'
 description: 'A Ubisoft divulgou seus planos estratégicos e financeiros até março de 2029, e a ausência do aguardado remake de Splinter Cell levanta questionamentos sobre seu desenvolvimento e lançamento, deixando os fãs apreensivos.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/remake-de-splinter-cell-nao-aparece-em-relatorio-da-ubisoft.png'
 tags: ['Splinter Cell', 'Ubisoft', 'Remake', 'Desenvolvimento de Jogos']
 ---
 

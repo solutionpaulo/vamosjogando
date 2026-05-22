@@ -2,7 +2,7 @@
 title: 'Xbox Game Pass: Maratona de Fim de Semana com 5 Jogos Gratuitos e Imperdíveis!'
 description: 'Assinantes Xbox Game Pass Essential, Premium e Ultimate terão a chance de mergulhar em cinco títulos empolgantes de graça neste fim de semana, uma oportunidade perfeita para novas aventuras.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/xbox-libera-5-jogos-para-jogar-de-graca-neste-fim-de-semana-confira.png'
 tags: ['Xbox', 'Game Pass', 'Jogos Grátis', 'Free Play Days']
 ---
 

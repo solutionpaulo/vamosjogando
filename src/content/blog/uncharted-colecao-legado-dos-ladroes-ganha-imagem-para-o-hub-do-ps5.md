@@ -2,7 +2,7 @@
 title: 'Uncharted no PS5: Naughty Dog Celebra 10 Anos de Aventura com Nova Imagem no Hub!'
 description: 'Em um tributo emocionante ao 10º aniversário da primeira imagem de revelação de Uncharted 4, a Naughty Dog presenteia os fãs com um deslumbrante plano de fundo para o Hub do PS5 da Coleção Legado dos Ladrões. Uma celebração visual que reafirma o legado de Nathan Drake!'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/uncharted-colecao-legado-dos-ladroes-ganha-imagem-para-o-hub-do-ps5.jpg'
 tags: ['PlayStation', 'Uncharted', 'Naughty Dog', 'PS5']
 ---
 

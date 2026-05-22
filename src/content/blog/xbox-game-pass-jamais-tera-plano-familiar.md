@@ -2,7 +2,7 @@
 title: 'Xbox Game Pass: Por Que o Plano Família Não Verá a Luz do Dia? A Aliança com a EA Explica Tudo!'
 description: 'Fãs do Xbox Game Pass aguardavam um plano familiar, mas a Microsoft confirmou que isso não acontecerá. Entenda como a complexa parceria com a EA é o principal impedimento para essa funcionalidade tão desejada.'
 pubDate: 'Wed May 20 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/xbox-game-pass-jamais-tera-plano-familiar.png'
 tags: ['Xbox', 'Game Pass', 'EA', 'Serviços de Assinatura']
 ---
 
