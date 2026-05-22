@@ -1,9 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { GoogleGenAI } from '@google/genai';
-import dotenv from 'dotenv';
-
-dotenv.config();
+import { generateJSON } from './llm.js';
 
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
@@ -203,30 +200,12 @@ O ${topic.name} é uma excelente escolha para quem valoriza qualidade e não abr
   };
 }
 
-async function generateWithGemini(topic) {
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) {
-    console.log('GEMINI_API_KEY nao configurada. Usando modo mock.');
-    return generateMockReview(topic);
-  }
+async function generateWithLLM(topic) {
+  const article = await generateJSON(buildReviewPrompt(topic), 'review');
+  if (article) return article;
 
-  try {
-    const ai = new GoogleGenAI({ apiKey });
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: buildReviewPrompt(topic),
-      config: { responseMimeType: 'application/json' },
-    });
-
-    const text = response.text?.trim();
-    if (!text) throw new Error('Resposta vazia da API');
-
-    const clean = s => s.replace(/^```(?:json)?\s*/, '').replace(/\s*```$/, '').replace(/,\s*([}\]])/g, '$1');
-    return JSON.parse(clean(text));
-  } catch (err) {
-    console.log(`API Gemini falhou: ${err.message}. Usando modo mock.`);
-    return generateMockReview(topic);
-  }
+  console.log('Usando modo mock.');
+  return generateMockReview(topic);
 }
 
 function slugify(text) {
@@ -255,7 +234,7 @@ async function run() {
 
   console.log(`\n--- Gerando review: ${topic.name} (slug: ${slug}) ---`);
 
-  const article = await generateWithGemini(topic);
+  const article = await generateWithLLM(topic);
   if (!article) return;
 
   console.log('Review gerado com sucesso.');

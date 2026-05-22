@@ -2,11 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import slugify from 'slugify';
-import { GoogleGenAI } from '@google/genai';
 import { feeds } from './feeds.js';
-import dotenv from 'dotenv';
-
-dotenv.config();
+import { generateJSON } from './llm.js';
 
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
@@ -42,7 +39,7 @@ async function fetchLatestNews() {
   return allItems.sort((a, b) => b.date - a.date);
 }
 
-function buildPrompt(newsItem, attempt = 1) {
+function buildPrompt(newsItem) {
   return `
 Você é um redator gamer profissional do blog "Vamos Jogando".
 Sua tarefa é criar um artigo completo, engajador e otimizado para SEO em português a partir da seguinte notícia:
@@ -68,7 +65,6 @@ Instruções:
   "content": "Conteúdo completo em markdown aqui...",
   "tags": ["tag1", "tag2"]
 }
-${attempt > 1 ? '\nATENÇÃO: Sua resposta anterior continha JSON inválido. Certifique-se de que o JSON está perfeitamente formatado, sem vírgulas extras e com todas as strings escapadas corretamente.' : ''}
 `;
 }
 
@@ -102,43 +98,19 @@ Podemos esperar novidades adicionais conforme o assunto continue evoluindo. O qu
   };
 }
 
-function cleanJSON(raw) {
-  let s = raw.trim();
-  s = s.replace(/^```(?:json)?\s*/, '').replace(/\s*```$/, '');
-  s = s.replace(/,\s*([}\]])/g, '$1');
-  s = s.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '');
-  return s;
-}
-
-async function attemptGeneration(newsItem, apiKey, attempt = 1) {
-  const ai = new GoogleGenAI({ apiKey });
-  const response = await ai.models.generateContent({
-    model: 'gemini-2.5-flash',
-    contents: buildPrompt(newsItem, attempt),
-    config: { responseMimeType: 'application/json' },
-  });
-
-  let text = response.text?.trim();
-  if (!text) throw new Error('Resposta vazia da API Gemini');
-
-  text = cleanJSON(text);
-  try {
-    return JSON.parse(text);
-  } catch (parseErr) {
-    if (attempt >= 2) throw new Error(`Falha ao parsear JSON após 2 tentativas: ${parseErr.message}`);
-    console.log(`JSON inválido, tentativa ${attempt + 1}...`);
-    return attemptGeneration(newsItem, apiKey, attempt + 1);
-  }
-}
-
-async function generateWithGemini(newsItem, apiKey) {
-  console.log('Enviando solicitação para a API do Gemini...');
-  try {
-    return await attemptGeneration(newsItem, apiKey);
-  } catch (err) {
-    console.log(`API Gemini falhou: ${err.message}. Usando modo mock.`);
+async function generateArticle(newsItem) {
+  const apiKey = process.env.GEMINI_API_KEY || process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    console.log('Nenhum LLM configurado. Usando modo mock.');
     return generateMockArticle(newsItem);
   }
+
+  const prompt = buildPrompt(newsItem);
+  const article = await generateJSON(prompt, 'artigo de noticia');
+  if (article) return article;
+
+  console.log('Usando modo mock.');
+  return generateMockArticle(newsItem);
 }
 
 async function fetchOgImage(url) {
@@ -298,7 +270,6 @@ async function fetchWikipediaImage(article) {
 }
 
 async function run() {
-  const apiKey = process.env.GEMINI_API_KEY;
   const existingSlugs = getExistingSlugs();
   const MAX_ARTICLES = 2;
 
@@ -329,9 +300,7 @@ async function run() {
     for (const { item, slug } of selected) {
       console.log(`\n--- Processando: "${item.title}" (slug: ${slug}) ---`);
 
-      const article = apiKey
-        ? await generateWithGemini(item, apiKey)
-        : generateMockArticle(item);
+      const article = await generateArticle(item);
 
       let heroImage = null;
       // Try OG image from source URL first
