@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   publish-news:
@@ -50,6 +52,21 @@ jobs:
             echo "Nenhum post novo gerado neste ciclo."
           fi
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Astro
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
   publish-review:
     runs-on: ubuntu-latest
     if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
@@ -88,3 +105,18 @@ jobs:
           else
             echo "Nenhuma review gerada neste ciclo."
           fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Astro
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
