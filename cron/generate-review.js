@@ -210,18 +210,23 @@ async function generateWithGemini(topic) {
     return generateMockReview(topic);
   }
 
-  const ai = new GoogleGenAI({ apiKey });
-  const response = await ai.models.generateContent({
-    model: 'gemini-2.5-flash',
-    contents: buildReviewPrompt(topic),
-    config: { responseMimeType: 'application/json' },
-  });
+  try {
+    const ai = new GoogleGenAI({ apiKey });
+    const response = await ai.models.generateContent({
+      model: 'gemini-2.5-flash',
+      contents: buildReviewPrompt(topic),
+      config: { responseMimeType: 'application/json' },
+    });
 
-  const text = response.text?.trim();
-  if (!text) throw new Error('Resposta vazia da API');
+    const text = response.text?.trim();
+    if (!text) throw new Error('Resposta vazia da API');
 
-  const clean = s => s.replace(/^```(?:json)?\s*/, '').replace(/\s*```$/, '').replace(/,\s*([}\]])/g, '$1');
-  return JSON.parse(clean(text));
+    const clean = s => s.replace(/^```(?:json)?\s*/, '').replace(/\s*```$/, '').replace(/,\s*([}\]])/g, '$1');
+    return JSON.parse(clean(text));
+  } catch (err) {
+    console.log(`API Gemini falhou: ${err.message}. Usando modo mock.`);
+    return generateMockReview(topic);
+  }
 }
 
 function slugify(text) {

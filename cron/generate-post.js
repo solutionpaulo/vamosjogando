@@ -133,7 +133,12 @@ async function attemptGeneration(newsItem, apiKey, attempt = 1) {
 
 async function generateWithGemini(newsItem, apiKey) {
   console.log('Enviando solicitação para a API do Gemini...');
-  return attemptGeneration(newsItem, apiKey);
+  try {
+    return await attemptGeneration(newsItem, apiKey);
+  } catch (err) {
+    console.log(`API Gemini falhou: ${err.message}. Usando modo mock.`);
+    return generateMockArticle(newsItem);
+  }
 }
 
 async function fetchOgImage(url) {
