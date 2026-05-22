@@ -54,6 +54,12 @@ import { SITE_TITLE } from '../consts';
     font-weight: 800;
     color: white;
     text-shadow: 0 0 20px rgba(0,0,0,0.5);
+    padding: 0 1rem;
+    text-align: center;
+  }
+  @media (max-width: 480px) {
+    .about-hero { height: 200px; }
+    .about-hero::after { font-size: 1.6rem; }
   }
   .about-content {
     padding: 2.5rem;

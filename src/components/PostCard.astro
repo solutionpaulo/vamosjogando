@@ -57,6 +57,11 @@ const { post } = Astro.props;
     overflow: hidden;
     border-radius: 12px 12px 0 0;
   }
+  @media (max-width: 480px) {
+    .post-img-container { height: 180px; }
+    .post-content { padding: 1rem; }
+    .post-title { font-size: 1.15rem; }
+  }
   .post-img-container img {
     width: 100%;
     height: 100%;
