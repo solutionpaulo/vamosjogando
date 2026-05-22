@@ -19,15 +19,15 @@ const PROVIDERS = [
     },
   },
   {
-    name: 'DeepSeek',
-    key: () => process.env.DEEPSEEK_API_KEY,
+    name: 'Groq',
+    key: () => process.env.GROQ_API_KEY,
     call: async (prompt) => {
       const client = new OpenAI({
-        apiKey: process.env.DEEPSEEK_API_KEY,
-        baseURL: 'https://api.deepseek.com/v1',
+        apiKey: process.env.GROQ_API_KEY,
+        baseURL: 'https://api.groq.com/openai/v1',
       });
       const response = await client.chat.completions.create({
-        model: 'deepseek-chat',
+        model: 'llama3-70b-8192',
         messages: [{ role: 'user', content: prompt }],
         response_format: { type: 'json_object' },
       });
