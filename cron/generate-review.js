@@ -149,11 +149,60 @@ async function downloadImage(imageUrl, slug) {
   }
 }
 
+function generateMockReview(topic) {
+  const pros = [
+    'Construção premium com materiais de alta qualidade',
+    'Resposta tátil precisa e personalizável',
+    'Bateria com duração acima da média para o segmento',
+    'Compatibilidade ampla com jogos e plataformas',
+    'Software de configuração intuitivo e cheio de opções'
+  ];
+  const cons = [
+    'Preço elevado comparado a concorrentes diretos',
+    'Peso ligeiramente superior que pode cansar em maratonas',
+    'Ausência de alguns recursos presentes em modelos anteriores',
+    'Disponibilidade limitada em certas regiões'
+  ];
+
+  return {
+    title: `Review: ${topic.name} - Vale a Pena o Investimento?`,
+    description: `Analisamos detalhadamente o ${topic.name}: design, desempenho, ergonomia e custo-benefício. Veja se este é o periférico ideal para o seu setup gamer.`,
+    content: `
+## Introdução
+
+O mercado de periféricos gamer está cada vez mais competitivo, e o **${topic.name}** chega para disputar um lugar de destaque. Nesta review, vamos explorar cada aspecto deste dispositivo para ajudar você a decidir se ele merece um lugar no seu setup.
+
+## Design e Construção
+
+O ${topic.name} impressiona pelo acabamento premium e atenção aos detalhes. Os materiais utilizados transmitem solidez e durabilidade, enquanto o design ergonômico foi claramente pensado para horas de uso confortável. As conexões são robustas e os botões respondem com precisão.
+
+## Desempenho e Experiência de Uso
+
+Nos testes práticos, o dispositivo se destacou pela resposta rápida e precisa. A latência é imperceptível, e a personalização via software permite ajustar cada detalhe ao seu estilo de jogo. Seja em FPS, RPG ou jogos de luta, o desempenho se manteve consistente.
+
+### Pontos Positivos
+${pros.map(p => `- ${p}`).join('\n')}
+
+### Pontos Negativos
+${cons.map(c => `- ${c}`).join('\n')}
+
+## Comparação com Concorrentes
+
+Quando comparado a produtos similares do mercado, o ${topic.name} se destaca pela qualidade de construção e pela experiência de uso refinada. Porém, o preço mais elevado pode ser um obstáculo para quem busca um custo-benefício mais agressivo.
+
+## Veredito Final
+
+O ${topic.name} é uma excelente escolha para quem valoriza qualidade e não abre mão de uma experiência premium. Apesar do investimento mais alto, os recursos oferecidos justificam o valor para entusiastas e jogadores competitivos. Recomendado para quem busca o melhor em desempenho e durabilidade.
+`.trim(),
+    tags: ['Hardware', topic.name, 'Review', 'Periféricos Gamer']
+  };
+}
+
 async function generateWithGemini(topic) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
-    console.log('GEMINI_API_KEY nao configurada. Pulando geracao.');
-    return null;
+    console.log('GEMINI_API_KEY nao configurada. Usando modo mock.');
+    return generateMockReview(topic);
   }
 
   const ai = new GoogleGenAI({ apiKey });
