@@ -43,6 +43,7 @@ jobs:
           if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
             git add src/content/blog/ src/assets/
             git commit -m "Auto: Novo artigo publicado via IA"
+            git pull --rebase
             git push
             echo "Novos posts e imagens commitados e enviados!"
           else
@@ -81,6 +82,7 @@ jobs:
           if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
             git add src/content/blog/ src/assets/
             git commit -m "Auto: Nova review de hardware publicada via IA"
+            git pull --rebase
             git push
             echo "Review commitada e enviada!"
           else
