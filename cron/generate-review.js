@@ -20,6 +20,11 @@ const REVIEW_TOPICS = [
   { name: '8BitDo Pro 2', search: '8BitDo' },
   { name: 'Logitech G Cloud', search: 'Logitech G Cloud' },
   { name: 'Thrustmaster T-Flight', search: 'Thrustmaster T-Flight' },
+  { name: 'Nintendo Switch OLED', search: 'Nintendo Switch OLED' },
+  { name: 'Nintendo Switch Lite', search: 'Nintendo Switch Lite' },
+  { name: 'Lenovo Legion Go', search: 'Lenovo Legion Go' },
+  { name: 'Lenovo Legion Glasses', search: 'Lenovo Legion Glasses' },
+  { name: 'Lenovo Legion H300', search: 'Lenovo Legion H300' },
 ];
 
 function getExistingSlugs() {
