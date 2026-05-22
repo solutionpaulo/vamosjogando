@@ -2,7 +2,7 @@
 title: 'Echoes of Aincrad: Seu Legado em Aincrad Ganha Vida com Combate Dinâmico e Personalização Épica!'
 description: 'Prepare-se para forjar sua própria lenda! O novo trailer de Echoes of Aincrad detalha o combate em tempo real, o sistema de parceiros e a criação de personagem profunda, prometendo a mais imersiva aventura em Aincrad já vista em um RPG de Sword Art Online.'
 pubDate: 'Thu May 21 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/echoes-of-aincrad-ganha-novo-trailer-com-foco-em-combate-parceiros-e-personalizacao.jpg'
 tags: ['RPG', 'Sword Art Online', 'Lançamento', 'Action RPG']
 ---
 
