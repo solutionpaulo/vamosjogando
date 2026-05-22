@@ -23,4 +23,16 @@ export const feeds = [
     name: 'The Enemy',
     url: 'https://www.theenemy.com.br/feed',
   },
+  {
+    name: 'Canaltech',
+    url: 'https://canaltech.com.br/rss/',
+  },
+  {
+    name: 'TecMundo',
+    url: 'https://www.tecmundo.com.br/feed/',
+  },
+  {
+    name: 'Olhar Digital',
+    url: 'https://olhardigital.com.br/feed/',
+  },
 ];
