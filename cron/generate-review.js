@@ -237,6 +237,10 @@ async function run() {
   const article = await generateWithLLM(topic);
   if (!article) return;
 
+  if (!article.tags.includes('Review')) {
+    article.tags.push('Review');
+  }
+
   console.log('Review gerado com sucesso.');
 
   // Fetch image from Wikipedia

@@ -3,20 +3,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import TagBadge from '../../components/TagBadge.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
-import { getAllNews, getAllTags } from '../../utils/posts';
+import { getAllReviews, getAllTags } from '../../utils/posts';
 
-const posts = await getAllNews();
+const posts = await getAllReviews();
 const allTags = await getAllTags();
+const reviewTags = allTags.filter(t => posts.some(p => p.data.tags?.includes(t)));
 ---
 
-<BaseLayout title={`Feed de Notícias - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+<BaseLayout title={`Reviews - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
   <div style="padding-top: 2rem;">
-    <h1 class="page-title">Feed de Notícias</h1>
+    <h1 class="page-title">Reviews</h1>
 
-    {allTags.length > 0 && (
+    {reviewTags.length > 0 && (
       <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
         <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Tags:</span>
-        {allTags.map(tag => <TagBadge tag={tag} />)}
+        {reviewTags.map(tag => <TagBadge tag={tag} />)}
       </div>
     )}
 

@@ -4,11 +4,13 @@ import HeroSection from '../components/HeroSection.astro';
 import FeaturedCard from '../components/FeaturedCard.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE_DESCRIPTION, SITE_TITLE, SITE_BASE } from '../consts';
-import { getAllPosts, getFeaturedPost, getRecentPosts } from '../utils/posts';
+import { getAllPosts, getAllReviews, getFeaturedPost, getRecentPosts } from '../utils/posts';
 
 const posts = await getAllPosts();
+const allReviews = await getAllReviews();
 const featuredPost = await getFeaturedPost(posts);
 const recentPosts = await getRecentPosts(posts, 4);
+const recentReviews = allReviews.slice(0, 4);
 ---
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
@@ -30,6 +32,23 @@ const recentPosts = await getRecentPosts(posts, 4);
       ))}
     </div>
   </section>
+
+  {recentReviews.length > 0 && (
+    <section>
+      <div class="section-header">
+        <h2 class="section-title">Últimas Reviews</h2>
+        <a href={SITE_BASE + '/reviews'} class="btn-link">Ver todas &rarr;</a>
+      </div>
+
+      <div class="news-grid news-grid-tight">
+        {recentReviews.map((post) => (
+          <li class="no-marker">
+            <PostCard post={post} />
+          </li>
+        ))}
+      </div>
+    </section>
+  )}
 </BaseLayout>
 
 <style>

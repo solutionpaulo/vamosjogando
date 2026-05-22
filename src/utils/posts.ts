@@ -7,6 +7,20 @@ export async function getAllPosts(): Promise<Post[]> {
   return posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 }
 
+function isReview(post: Post): boolean {
+  return post.id.startsWith('review-') || (post.data.tags?.includes('Review') ?? false);
+}
+
+export async function getAllReviews(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts.filter(isReview);
+}
+
+export async function getAllNews(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts.filter(p => !isReview(p));
+}
+
 export async function getAllTags(): Promise<string[]> {
   const posts = await getAllPosts();
   const tagSet = new Set<string>();
