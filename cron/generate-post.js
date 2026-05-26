@@ -5,6 +5,50 @@ import slugify from 'slugify';
 import { feeds } from './feeds.js';
 import { generateJSON } from './llm.js';
 
+const AFFILIATE_ENABLED = false;
+const AMAZON_TAG = '';
+const MERCADOLIVRE_ID = '';
+
+function afiliadoUrlAmazon(termo) {
+  const tag = AMAZON_TAG || 'seudotag-20';
+  return `https://www.amazon.com.br/s?k=${encodeURIComponent(termo)}&tag=${tag}`;
+}
+
+function afiliadoUrlMercadoLivre(termo) {
+  const id = MERCADOLIVRE_ID || 'seu_id';
+  return `https://www.mercadolivre.com.br/${encodeURIComponent(termo)}/#D=D&mllib=${id}`;
+}
+
+const PALAVRAS_PRODUTO = [
+  'console', 'controle', 'headset', 'fone', 'teclado', 'mouse',
+  'monitor', 'cadeira', 'mesa', 'ssd', 'hd', 'placa de vídeo',
+  'processador', 'memória ram', 'notebook gamer', 'tv',
+];
+
+function detectarProduto(titulo, tags) {
+  const texto = ((titulo || '') + ' ' + (tags || []).join(' ')).toLowerCase();
+  const encontradas = PALAVRAS_PRODUTO.filter(p => texto.includes(p));
+  return encontradas.length > 0 ? encontradas[0] : null;
+}
+
+function gerarRodapeAfiliado(titulo, tags) {
+  if (!AFFILIATE_ENABLED) return '';
+  const produto = detectarProduto(titulo, tags);
+  if (!produto) return '';
+  return `
+---
+
+### 🛒 Procurando onde comprar?
+
+Se você está pensando em adquirir produtos relacionados ao assunto, confira as ofertas:
+
+- [Buscar na Amazon](${afiliadoUrlAmazon(produto)})
+- [Buscar no Mercado Livre](${afiliadoUrlMercadoLivre(produto)})
+
+*Links de afiliado — você não paga nada a mais, e ajuda o Vamos Jogando.*
+`;
+}
+
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
 const parser = new Parser();
@@ -152,6 +196,7 @@ async function downloadImage(imageUrl, slug) {
 
 function generateArticleFile(newsItem, article, slug, heroImage) {
   const escapeYAML = s => s.replace(/'/g, "''");
+  const rodapeAfiliado = gerarRodapeAfiliado(article.title, article.tags);
   return `---
 title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
@@ -160,7 +205,7 @@ heroImage: '${heroImage}'
 tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
 ---
 
-${article.content}
+${article.content}${rodapeAfiliado}
 `;
 }
 

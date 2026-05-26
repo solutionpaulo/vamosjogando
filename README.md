@@ -88,6 +88,42 @@ Se você quiser testar ou fazer alterações locais:
 
 ---
 
+## 🔗 Sistema de Afiliados (Amazon + Mercado Livre)
+
+O projeto possui um sistema de links de afiliado **pronto, mas desligado por padrão**.
+
+### O que foi implementado
+
+- **`src/affiliates.ts`** — Config central com mapping de 15 produtos gamers para links de busca na Amazon e Mercado Livre
+- **`src/components/BuyBox.astro`** — Card com botões "Comprar na Amazon" e "Ver no Mercado Livre" no final de cada post
+- **`src/components/AffiliateDisclosure.astro`** — Banner de transparência "links de afiliado"
+- **`src/components/Footer.astro`** — Disclosure no rodapé do site
+- **`cron/generate-review.js`** / **`cron/generate-post.js`** — Rodapé com links de afiliado nos artigos gerados por IA
+
+Tudo controlado pela flag `AFFILIATE_ENABLED = false` — nada é exibido enquanto estiver desligado.
+
+### Como ativar
+
+1. Inscreva-se nos programas de afiliado:
+   - **Amazon Associates Brasil**: https://associados.amazon.com.br
+   - **Mercado Livre**: https://programa-afiliados.mercadolivre.com.br
+
+2. Edite `src/affiliates.ts`:
+   ```ts
+   export const AFFILIATE_ENABLED = true
+   export const AMAZON_TAG = 'seu-tag-20'
+   export const MERCADOLIVRE_ID = 'seu_id'
+   ```
+
+3. Edite `cron/generate-review.js` e `cron/generate-post.js`:
+   ```js
+   const AFFILIATE_ENABLED = true;
+   const AMAZON_TAG = 'seu-tag-20';
+   const MERCADOLIVRE_ID = 'seu_id';
+   ```
+
+---
+
 ## 🎨 Design System
 O visual foi desenvolvido com foco na estética gamer premium:
 * **Tema Escuro Padrão**: Fundo em tons de cinza escuro azulado e carbono.

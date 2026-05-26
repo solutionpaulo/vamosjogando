@@ -1,0 +1,90 @@
+---
+import { AFFILIATE_ENABLED, amazonUrl, mercadolivreUrl, buscarProduto, type ProdutoAfiliado } from '../affiliates';
+
+export interface Props {
+  produto?: string;
+  titulo?: string;
+}
+
+const { produto, titulo } = Astro.props;
+
+const prod: ProdutoAfiliado | null = AFFILIATE_ENABLED && produto
+  ? buscarProduto(produto)
+  : null;
+
+const show = AFFILIATE_ENABLED && prod;
+const label = titulo || `Comprar ${prod?.nome || produto}`;
+---
+
+{show && (
+  <div class="buy-box">
+    <p class="buy-title">📦 {label}</p>
+    <div class="buy-links">
+      <a
+        href={amazonUrl(prod!.termosBusca[0])}
+        target="_blank"
+        rel="sponsored nofollow"
+        class="buy-btn amazon"
+      >
+        Comprar na Amazon
+      </a>
+      <a
+        href={mercadolivreUrl(prod!.termosBusca[0])}
+        target="_blank"
+        rel="sponsored nofollow"
+        class="buy-btn mercadolivre"
+      >
+        Ver no Mercado Livre
+      </a>
+    </div>
+  </div>
+)}
+
+<style>
+  .buy-box {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.08), rgba(6, 182, 212, 0.08));
+    border: 1px solid rgba(139, 92, 246, 0.25);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    text-align: center;
+  }
+  .buy-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0 1rem 0;
+    color: #ffffff;
+  }
+  .buy-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .buy-btn {
+    display: inline-block;
+    padding: 0.7rem 1.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .buy-btn:hover {
+    transform: translateY(-2px);
+  }
+  .amazon {
+    background: linear-gradient(135deg, #f90, #ff8c00);
+    color: #000;
+  }
+  .amazon:hover {
+    box-shadow: 0 4px 15px rgba(255, 153, 0, 0.4);
+  }
+  .mercadolivre {
+    background: linear-gradient(135deg, #ffe600, #ffd700);
+    color: #000;
+  }
+  .mercadolivre:hover {
+    box-shadow: 0 4px 15px rgba(255, 230, 0, 0.4);
+  }
+</style>

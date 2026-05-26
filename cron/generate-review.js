@@ -2,6 +2,56 @@ import fs from 'fs';
 import path from 'path';
 import { generateJSON } from './llm.js';
 
+const AFFILIATE_ENABLED = false;
+const AMAZON_TAG = '';
+const MERCADOLIVRE_ID = '';
+
+function afiliadoUrlAmazon(termo) {
+  const tag = AMAZON_TAG || 'seudotag-20';
+  return `https://www.amazon.com.br/s?k=${encodeURIComponent(termo)}&tag=${tag}`;
+}
+
+function afiliadoUrlMercadoLivre(termo) {
+  const id = MERCADOLIVRE_ID || 'seu_id';
+  return `https://www.mercadolivre.com.br/${encodeURIComponent(termo)}/#D=D&mllib=${id}`;
+}
+
+const PRODUTOS_AFILIADOS = [
+  { nome: 'DualSense Edge', termos: ['dualsense edge', 'controle ps5'] },
+  { nome: 'Xbox Elite Series 2', termos: ['xbox elite', 'controle xbox'] },
+  { nome: 'Nintendo Switch 2', termos: ['nintendo switch 2', 'nintendo switch oled'] },
+  { nome: 'ASUS ROG Ally', termos: ['asus rog ally', 'rog ally'] },
+  { nome: 'Steam Deck', termos: ['steam deck'] },
+  { nome: 'PlayStation Portal', termos: ['playstation portal', 'ps portal'] },
+  { nome: '8BitDo Pro 2', termos: ['8bitdo'] },
+  { nome: 'Logitech G Cloud', termos: ['logitech g cloud'] },
+  { nome: 'Razer Kishi', termos: ['razer kishi'] },
+  { nome: 'Lenovo Legion Go', termos: ['lenovo legion go'] },
+];
+
+function buscarProduto(nome) {
+  const lower = nome.toLowerCase();
+  return PRODUTOS_AFILIADOS.find(p => p.termos.some(t => lower.includes(t))) || null;
+}
+
+function gerarRodapeAfiliado(nome) {
+  if (!AFFILIATE_ENABLED) return '';
+  const prod = buscarProduto(nome);
+  if (!prod) return '';
+  return `
+---
+
+### 🔗 Onde comprar
+
+Se você ficou interessado no **${prod.nome}**, confira os melhores preços nos links abaixo:
+
+- [Comprar na Amazon](${afiliadoUrlAmazon(prod.termos[0])})
+- [Ver no Mercado Livre](${afiliadoUrlMercadoLivre(prod.termos[0])})
+
+*Links de afiliado — você não paga nada a mais, e ajuda o Vamos Jogando.*
+`;
+}
+
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
 const UA = 'VamosJogandoBot/1.0 (https://vamosjogando.com)';
@@ -259,6 +309,7 @@ async function run() {
 
   // Build file
   const escapeYAML = s => s.replace(/'/g, "''");
+  const rodapeAfiliado = gerarRodapeAfiliado(topic.name);
   const fileContent = `---
 title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
@@ -267,7 +318,7 @@ heroImage: '${heroImage}'
 tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
 ---
 
-${article.content}
+${article.content}${rodapeAfiliado}
 `;
 
   const filePath = path.join(BLOG_DIR, `${slug}.md`);

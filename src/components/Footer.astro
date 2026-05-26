@@ -1,4 +1,5 @@
 ---
+import { AFFILIATE_ENABLED } from '../affiliates';
 const today = new Date();
 ---
 
@@ -8,6 +9,12 @@ const today = new Date();
 			<span class="logo-v">V</span>amos<span class="logo-j">J</span>ogando
 		</div>
 		<p class="footer-desc">Seu portal autônomo de notícias sobre o mundo dos videogames. Atualizado diariamente via Inteligência Artificiail.</p>
+		{AFFILIATE_ENABLED && (
+			<p class="footer-affiliate">
+				Este site contém links de afiliado. Ao comprar através deles,
+				você ajuda a manter o Vamos Jogando sem custo adicional.
+			</p>
+		)}
 		<div class="footer-copy">
 			&copy; {today.getFullYear()} Vamos Jogando. Todos os direitos reservados.
 		</div>
@@ -52,6 +59,13 @@ const today = new Date();
 		max-width: 500px;
 		color: var(--text-muted);
 		margin-bottom: 1.5rem;
+	}
+	.footer-affiliate {
+		font-size: 0.8rem;
+		color: var(--text-muted);
+		max-width: 500px;
+		margin: 0 auto 1rem;
+		line-height: 1.5;
 	}
 	.footer-copy {
 		font-size: 0.8rem;
