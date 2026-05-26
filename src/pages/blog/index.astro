@@ -13,13 +13,6 @@ const allTags = await getAllTags();
   <div style="padding-top: 2rem;">
     <h1 class="page-title">Feed de Notícias</h1>
 
-    {allTags.length > 0 && (
-      <div style="margin-bottom: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
-        <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Tags:</span>
-        {allTags.map(tag => <TagBadge tag={tag} />)}
-      </div>
-    )}
-
     <ul class="news-grid">
       {posts.map((post) => (
         <li style="list-style: none; margin: 0;">
@@ -27,6 +20,13 @@ const allTags = await getAllTags();
         </li>
       ))}
     </ul>
+
+    {allTags.length > 0 && (
+      <div style="margin-top: 2rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+        <span style="color: var(--text-muted); font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">Tags:</span>
+        {allTags.map(tag => <TagBadge tag={tag} />)}
+      </div>
+    )}
   </div>
 </BaseLayout>
 

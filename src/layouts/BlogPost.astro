@@ -90,16 +90,16 @@ const jsonLd = {
           </div>
           <h1 class="article-title">{title}</h1>
           <p class="article-desc">{description}</p>
-          {tags && tags.length > 0 && (
-            <div class="tags-section">
-              {tags.map(t => <TagBadge tag={t} />)}
-            </div>
-          )}
           <hr />
         </div>
         <div class="prose">
           <slot />
         </div>
+        {tags && tags.length > 0 && (
+          <div class="tags-section" style="margin-top: 2rem;">
+            {tags.map(t => <TagBadge tag={t} />)}
+          </div>
+        )}
         <AffiliateDisclosure />
         <BuyBox produto={title} />
       </article>
