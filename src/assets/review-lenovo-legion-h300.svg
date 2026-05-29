@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1040"/>
+      <stop offset="50%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#0d2137"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <circle cx="200" cy="315" r="250" fill="#8b5cf6" opacity="0.08"/>
+  <circle cx="1000" cy="315" r="250" fill="#06b6d4" opacity="0.08"/>
+  <!-- Headset icon -->
+  <g transform="translate(600,250)" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-80,60 C-80,0 -60,-40 0,-40 C60,-40 80,0 80,60" stroke-width="3"/>
+    <rect x="-100" y="40" width="40" height="40" rx="8" stroke-width="2.5"/>
+    <rect x="60" y="40" width="40" height="40" rx="8" stroke-width="2.5"/>
+    <path d="M-100,60 C-100,100 -80,120 -60,120" stroke-width="2.5"/>
+    <path d="M100,60 C100,100 80,120 60,120" stroke-width="2.5"/>
+    <path d="M-60,110 L-60,130 C-60,140 -50,145 -40,145 L-20,145" stroke-width="2"/>
+    <path d="M60,110 L60,130 C60,140 50,145 40,145 L20,145" stroke-width="2"/>
+    <circle cx="-40" cy="130" r="6" fill="#8b5cf6" stroke="none"/>
+    <circle cx="40" cy="130" r="6" fill="#06b6d4" stroke="none"/>
+    <path d="M-30,50 C-30,40 -10,30 0,30 C10,30 30,40 30,50" stroke-width="2" opacity="0.5"/>
+  </g>
+  <!-- Text -->
+  <text x="600" y="440" text-anchor="middle" font-family="Outfit, sans-serif" font-size="42" font-weight="800" fill="#f3f4f6">Review Lenovo Legion H300</text>
+  <text x="600" y="480" text-anchor="middle" font-family="Plus Jakarta Sans, sans-serif" font-size="20" fill="#9ca3af">Um Headset Gamer Potente</text>
+  <rect x="540" y="500" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+  <!-- Grid lines -->
+  <line x1="0" y1="580" x2="1200" y2="580" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+</svg>
