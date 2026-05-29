@@ -9,6 +9,20 @@ const today = new Date();
 			<span class="logo-v">V</span>amos<span class="logo-j">J</span>ogando
 		</div>
 		<p class="footer-desc">Seu portal autônomo de notícias sobre o mundo dos videogames. Atualizado diariamente via Inteligência Artificiail.</p>
+		<div class="footer-social">
+			<a href="https://www.twitch.tv/vamosjogando" target="_blank" rel="noopener noreferrer" aria-label="Twitch">
+				<svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+					<path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.428l-3 3v-3H6.857V1.714h13.714z"/>
+				</svg>
+				<span>Twitch</span>
+			</a>
+			<a href="https://www.youtube.com/@vamosjogando" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+				<svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+					<path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.38.55A3.02 3.02 0 0 0 .5 6.19 31.6 31.6 0 0 0 0 12a31.6 31.6 0 0 0 .5 5.81 3.02 3.02 0 0 0 2.12 2.14c1.88.55 9.38.55 9.38.55s7.5 0 9.38-.55a3.02 3.02 0 0 0 2.12-2.14A31.6 31.6 0 0 0 24 12a31.6 31.6 0 0 0-.5-5.81zM9.55 15.57V8.43L15.82 12z"/>
+				</svg>
+				<span>YouTube</span>
+			</a>
+		</div>
 		{AFFILIATE_ENABLED && (
 			<p class="footer-affiliate">
 				Este site contém links de afiliado. Ao comprar através deles,
@@ -66,6 +80,29 @@ const today = new Date();
 		max-width: 500px;
 		margin: 0 auto 1rem;
 		line-height: 1.5;
+	}
+	.footer-social {
+		display: flex;
+		gap: 1.25rem;
+		margin-bottom: 1.5rem;
+	}
+	.footer-social a {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		color: var(--text-secondary);
+		text-decoration: none;
+		font-size: 0.85rem;
+		padding: 0.5rem 1rem;
+		border-radius: 8px;
+		border: 1px solid rgba(255,255,255,0.06);
+		transition: all 0.2s ease;
+	}
+	.footer-social a:hover {
+		color: var(--neon-cyan);
+		background: rgba(6, 182, 212, 0.05);
+		border-color: rgba(6, 182, 212, 0.2);
+		text-shadow: 0 0 8px var(--neon-cyan-glow);
 	}
 	.footer-copy {
 		font-size: 0.8rem;
