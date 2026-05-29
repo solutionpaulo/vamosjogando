@@ -6,30 +6,121 @@ import { SITE_TITLE } from '../consts';
 <BaseLayout title={`Sobre - ${SITE_TITLE}`} description="Saiba mais sobre o Vamos Jogando, o portal de notícias de games inteligente e autônomo.">
   <article class="glass-panel about-container">
     <div class="about-hero">
+      <div class="about-hero-content">
+        <div class="about-hero-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="48" height="48">
+            <path d="M21 12a9 9 0 1 1-9-9" stroke-linecap="round"/>
+            <path d="M12 3v6l3-3-3-3Z"/>
+            <path d="M12 21v-6l3 3-3 3Z"/>
+            <path d="M3 12h6l-3-3-3 3Z"/>
+            <path d="M21 12h-6l3-3 3 3Z"/>
+          </svg>
+        </div>
+        <h1 class="about-hero-title">Sobre o Vamos Jogando</h1>
+        <p class="about-hero-subtitle">O portal de notícias que funciona sozinho</p>
+      </div>
+    </div>
+
     <div class="about-content">
-      <h1>Sobre o Vamos Jogando</h1>
-      <p>
-        Bem-vindo ao <strong>Vamos Jogando</strong>, um portal de notícias de videogame totalmente autônomo, desenhado para manter você atualizado com o que há de mais quente no mundo dos jogos, sem complicações.
+      <p class="about-intro">
+        Bem-vindo ao <strong>Vamos Jogando</strong>, um portal de notícias de videogame totalmente autônomo, desenhado para manter você atualizado com o que há de mais quente no mundo dos jogos — sem complicações.
       </p>
 
-      <h2>Como funciona?</h2>
-      <p>
-        O portal é 100% autossuficiente. Por trás das cortinas, um script inteligente desenvolvido em Node.js é executado periodicamente através do <strong>GitHub Actions</strong>. Ele varre feeds RSS de alguns dos maiores portais de notícias de jogos.
-      </p>
-      <p>
-        Após filtrar as notícias mais importantes do momento, o sistema envia esses tópicos à API do <strong>Gemini (Google AI)</strong>. A inteligência artificial analisa o contexto, cruza informações e redige um artigo totalmente novo, rico em detalhes e otimizado para SEO.
-      </p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon feature-icon-purple">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+              <path d="M12 2L2 7l10 5 10-5-10-5Z"/>
+              <path d="M2 17l10 5 10-5"/>
+              <path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <h3 class="feature-title">IA que Escreve</h3>
+          <p class="feature-desc">Artigos gerados pelo <strong>Gemini (Google AI)</strong> com conteúdo original, em português, SEO-friendly e com tom gamer.</p>
+        </div>
 
-      <h2>Sem Custos e Open Source</h2>
-      <p>
-        O <strong>Vamos Jogando</strong> foi planejado para ser hospedado de forma totalmente gratuita usando o <strong>GitHub Pages</strong>. Os posts são armazenados como arquivos Markdown no repositório, servindo como banco de dados distribuído e leve.
-      </p>
+        <div class="feature-card">
+          <div class="feature-icon feature-icon-cyan">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+            </svg>
+          </div>
+          <h3 class="feature-title">Automação Total</h3>
+          <p class="feature-desc">O <strong>GitHub Actions</strong> busca, gera e publica novos posts 2x ao dia, sem intervenção manual.</p>
+        </div>
 
-      <blockquote>
-        "Uma fusão moderna entre jornalismo gamer, automação programada e Inteligência Artificial."
+        <div class="feature-card">
+          <div class="feature-icon feature-icon-pink">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+              <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+            </svg>
+          </div>
+          <h3 class="feature-title">100% Gratuito</h3>
+          <p class="feature-desc">Hospedado no <strong>GitHub Pages</strong> com custo zero. Código aberto para qualquer um usar ou contribuir.</p>
+        </div>
+
+        <div class="feature-card">
+          <div class="feature-icon feature-icon-green">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+          </div>
+          <h3 class="feature-title">6 Fontes RSS</h3>
+          <p class="feature-desc">Agrega notícias dos maiores portais brasileiros de games: Eurogamer, GameBlast, Adrenaline e mais.</p>
+        </div>
+      </div>
+
+      <h2 class="section-title">Como Funciona?</h2>
+
+      <div class="flow-steps">
+        <div class="flow-step">
+          <div class="flow-number">1</div>
+          <div class="flow-content">
+            <h3>Coleta</h3>
+            <p>Um script Node.js varre feeds RSS de 6 portais de games brasileiros em busca das notícias mais recentes.</p>
+          </div>
+        </div>
+        <div class="flow-step">
+          <div class="flow-number">2</div>
+          <div class="flow-content">
+            <h3>Filtro</h3>
+            <p>O sistema compara com os artigos já publicados para evitar duplicatas e seleciona os temas mais quentes.</p>
+          </div>
+        </div>
+        <div class="flow-step">
+          <div class="flow-number">3</div>
+          <div class="flow-content">
+            <h3>Geração</h3>
+            <p>A API do Google Gemini recebe o contexto e cria um artigo original, rico em detalhes e otimizado para SEO.</p>
+          </div>
+        </div>
+        <div class="flow-step">
+          <div class="flow-number">4</div>
+          <div class="flow-content">
+            <h3>Publicação</h3>
+            <p>O artigo em Markdown é commitado no repositório, acionando o deploy automático para o GitHub Pages.</p>
+          </div>
+        </div>
+      </div>
+
+      <blockquote class="about-quote">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="32" height="32" class="quote-icon">
+          <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10H14.017zM0 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151C7.546 6.068 5.983 8.789 5.983 11H10v10H0z"/>
+        </svg>
+        <p>"Uma fusão moderna entre jornalismo gamer, automação programada e Inteligência Artificial."</p>
       </blockquote>
 
-      <p>Sinta-se livre para explorar as notícias e acompanhar o ritmo da indústria com a gente.</p>
+      <div class="about-footer">
+        <p>Sinta-se livre para explorar as notícias e acompanhar o ritmo da indústria com a gente.</p>
+        <div class="tech-stack">
+          <span class="tech-badge">Astro 6</span>
+          <span class="tech-badge">Gemini AI</span>
+          <span class="tech-badge">GitHub Actions</span>
+          <span class="tech-badge">Node.js</span>
+          <span class="tech-badge">RSS</span>
+          <span class="tech-badge">TypeScript</span>
+        </div>
+      </div>
     </div>
   </article>
 </BaseLayout>
@@ -40,40 +131,246 @@ import { SITE_TITLE } from '../consts';
     margin: 0 auto;
     overflow: hidden;
   }
+
   .about-hero {
-    width: 100%;
-    height: 300px;
-    background: linear-gradient(135deg, var(--neon-purple), var(--neon-cyan));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .about-hero::after {
-    content: 'Vamos Jogando';
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: white;
-    text-shadow: 0 0 20px rgba(0,0,0,0.5);
-    padding: 0 1rem;
+    background: linear-gradient(135deg, #1a1040 0%, #0a1628 50%, #0d2137 100%);
+    padding: 4rem 2.5rem;
     text-align: center;
+    position: relative;
+    overflow: hidden;
   }
-  @media (max-width: 480px) {
-    .about-hero { height: 200px; }
-    .about-hero::after { font-size: 1.6rem; }
+  .about-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(circle at 20% 50%, var(--neon-purple-glow) 0%, transparent 50%),
+      radial-gradient(circle at 80% 50%, var(--neon-cyan-glow) 0%, transparent 50%);
+    opacity: 0.6;
   }
+  .about-hero-content {
+    position: relative;
+    z-index: 1;
+  }
+  .about-hero-icon {
+    display: inline-flex;
+    padding: 1rem;
+    border-radius: 20px;
+    background: rgba(139, 92, 246, 0.15);
+    border: 1px solid rgba(139, 92, 246, 0.3);
+    color: var(--neon-cyan);
+    margin-bottom: 1.5rem;
+    animation: spin-slow 8s linear infinite;
+  }
+  @keyframes spin-slow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  .about-hero-title {
+    font-size: 2.75rem;
+    margin-bottom: 0.75rem;
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .about-hero-subtitle {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    margin-bottom: 0;
+  }
+
   .about-content {
     padding: 2.5rem;
   }
-  .about-content blockquote {
-    border-left: 4px solid var(--neon-purple);
+  .about-intro {
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    text-align: center;
+    max-width: 650px;
+    margin: 0 auto 3rem;
+    line-height: 1.7;
+  }
+  .about-intro strong {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 3rem;
+  }
+  .feature-card {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+  }
+  .feature-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-color-hover);
+    box-shadow: 0 0 20px var(--neon-purple-glow);
+    transform: translateY(-2px);
+  }
+  .feature-icon {
+    display: inline-flex;
+    padding: 0.65rem;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+  }
+  .feature-icon-purple {
+    background: rgba(139, 92, 246, 0.15);
+    color: #c084fc;
+  }
+  .feature-icon-cyan {
+    background: rgba(6, 182, 212, 0.15);
+    color: #22d3ee;
+  }
+  .feature-icon-pink {
+    background: rgba(236, 72, 153, 0.15);
+    color: #f472b6;
+  }
+  .feature-icon-green {
+    background: rgba(34, 197, 94, 0.15);
+    color: #4ade80;
+  }
+  .feature-title {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+  }
+  .feature-desc {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    color: var(--text-secondary);
+  }
+
+  .flow-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+    position: relative;
+  }
+  .flow-steps::before {
+    content: '';
+    position: absolute;
+    left: 23px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--neon-purple), var(--neon-cyan));
+  }
+  .flow-step {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+  }
+  .flow-number {
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-title);
+    font-weight: 800;
+    font-size: 1.2rem;
+    background: var(--accent-gradient);
+    color: white;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 0 12px var(--neon-purple-glow);
+  }
+  .flow-content h3 {
+    font-size: 1.05rem;
+    margin-bottom: 0.3rem;
+    color: var(--text-primary);
+  }
+  .flow-content p {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+  }
+  .section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: var(--accent-gradient);
+    border-radius: 9999px;
+  }
+
+  .about-quote {
+    border: 1px solid rgba(139, 92, 246, 0.2);
     background: rgba(139, 92, 246, 0.05);
-    padding: 1.5rem 2rem;
-    margin: 2rem 0;
-    border-radius: 0 12px 12px 0;
+    padding: 1.75rem 2rem;
+    margin: 2.5rem 0;
+    border-radius: 14px;
+    text-align: center;
+    position: relative;
+  }
+  .quote-icon {
+    color: var(--neon-purple);
+    opacity: 0.3;
+    margin-bottom: 0.75rem;
+  }
+  .about-quote p {
+    font-size: 1.1rem;
     font-style: italic;
     color: #e2e8f0;
+    margin-bottom: 0;
+    line-height: 1.6;
   }
+
+  .about-footer {
+    text-align: center;
+  }
+  .about-footer p {
+    margin-bottom: 1.5rem;
+  }
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    justify-content: center;
+  }
+  .tech-badge {
+    padding: 0.35rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    background: rgba(139, 92, 246, 0.1);
+    color: #c084fc;
+    border: 1px solid rgba(139, 92, 246, 0.25);
+    letter-spacing: 0.02em;
+    transition: all 0.2s;
+  }
+  .tech-badge:hover {
+    border-color: var(--neon-purple);
+    box-shadow: 0 0 10px var(--neon-purple-glow);
+  }
+
   @media (max-width: 768px) {
+    .about-hero { padding: 3rem 1.5rem; }
+    .about-hero-title { font-size: 2rem; }
     .about-content { padding: 1.5rem; }
+    .features-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 480px) {
+    .about-hero-title { font-size: 1.6rem; }
+    .about-hero-subtitle { font-size: 1rem; }
   }
 </style>
