@@ -2,7 +2,6 @@
 title: 'Review: Lenovo Legion H300 - Um Headset Gamer Potente'
 description: 'O Lenovo Legion H300 é um headset gamer que combina desempenho de alta qualidade com design ergonômico, oferecendo uma experiência de jogo imersiva.'
 pubDate: 'Thu May 28 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
 tags: ['Headset Gamer', 'Lenovo Legion H300', 'Review']
 ---
 
