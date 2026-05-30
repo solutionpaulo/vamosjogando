@@ -2,7 +2,7 @@
 title: 'ThinkPad T43: O Ícone Que Desafia o Tempo e Abarca Décadas de Windows em um Único Hardware!'
 description: 'Um lendário ThinkPad T43 prova a incrível longevidade do hardware ao rodar versões do Windows de 1996 até o Windows 10, demonstrando a robustez dos clássicos.'
 pubDate: 'Fri May 29 2026'
-heroImage: '../../assets/thinkpad-t43-desafia-o-tempo-e-roda-windows-de-1996-ate-o-windows-10-no-mesmo-hardware.png'
+heroImage: '../../assets/thinkpad-t43-desafia-o-tempo-e-roda-windows-de-1996-ate-o-windows-10-no-mesmo-hardware.jpg'
 tags: ['Hardware Clássico', 'Retro Gaming', 'Tecnologia', 'Windows']
 ---
 
