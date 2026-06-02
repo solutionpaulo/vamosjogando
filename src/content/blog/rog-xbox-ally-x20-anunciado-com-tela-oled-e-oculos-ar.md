@@ -2,7 +2,7 @@
 title: 'ROG Xbox Ally X20 é Anunciado com Tela OLED, Novos Joyticks e Kit com Óculos AR'
 description: 'ASUS apresenta o ROG Xbox Ally X20 com display OLED de 7,4", joysticks TMR, design translúcido edição especial e bundle com óculos de realidade aumentada XREAL R1.'
 pubDate: 'Tue Jun 02 2026'
-heroImage: '../../assets/rog-xbox-ally-x20-anunciado-com-tela-oled-e-oculos-ar.webp'
+heroImage: '../../assets/rog-xbox-ally-x20-anunciado-com-tela-oled-e-oculos-ar.jpg'
 tags: ['Xbox', 'ASUS ROG', 'Handheld', 'Computex']
 ---
 
