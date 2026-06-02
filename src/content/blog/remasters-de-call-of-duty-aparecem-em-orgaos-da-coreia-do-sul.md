@@ -2,7 +2,7 @@
 title: 'Vazamento na Coreia do Sul Aponta para Remasters de Call of Duty: Clássicos a Caminho?'
 description: 'Novas listagens em órgãos de classificação sul-coreanos sugerem o retorno de dois dos mais amados títulos da franquia Call of Duty, reacendendo a esperança dos fãs por versões remasterizadas.'
 pubDate: 'Sun May 31 2026'
-heroImage: '../../assets/remasters-de-call-of-duty-aparecem-em-orgaos-da-coreia-do-sul.jpg'
+heroImage: '../../assets/remasters-de-call-of-duty-aparecem-em-orgaos-da-coreia-do-sul.png'
 tags: ['Call of Duty', 'Remaster', 'Activision', 'Notícias Gamer']
 ---
 
