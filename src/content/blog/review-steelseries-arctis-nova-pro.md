@@ -2,7 +2,7 @@
 title: 'Review: SteelSeries Arctis Nova Pro - Redefinindo o Áudio Premium para Gamers'
 description: 'O SteelSeries Arctis Nova Pro eleva o patamar dos headsets gamer de alto desempenho, entregando uma combinação potente de áudio Hi-Res, conforto superior e tecnologias inovadoras como ANC e o GameDAC Gen 2.'
 pubDate: 'Wed Jun 03 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-steelseries-arctis-nova-pro.jpg'
 tags: ['SteelSeries', 'Arctis Nova Pro', 'Headset Gamer', 'Áudio Premium', 'Review Hardware', 'Review']
 ---
 
