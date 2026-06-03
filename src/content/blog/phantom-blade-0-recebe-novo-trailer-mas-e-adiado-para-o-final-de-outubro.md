@@ -2,7 +2,7 @@
 title: 'Phantom Blade 0: Trailer Épico Acende Expectativas, Mas o Lançamento Agora Mira o Fim de Outubro'
 description: 'O aguardado RPG de ação Phantom Blade 0 exibiu um novo e espetacular trailer, porém, a data de lançamento foi reagendada para o final de outubro, entrando em um período desafiador no calendário gamer.'
 pubDate: 'Wed Jun 03 2026'
-heroImage: '../../assets/phantom-blade-0-recebe-novo-trailer-mas-e-adiado-para-o-final-de-outubro.png'
+heroImage: '../../assets/phantom-blade-0-recebe-novo-trailer-mas-e-adiado-para-o-final-de-outubro.jpg'
 tags: ['RPG de Ação', 'Phantom Blade 0', 'Lançamentos', 'PlayStation 5']
 ---
 

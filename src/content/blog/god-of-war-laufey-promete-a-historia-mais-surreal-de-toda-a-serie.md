@@ -2,7 +2,7 @@
 title: 'God of War: Laufey Mergulha no Multiverso Mitológico com Uma Protagonista Inesperada!'
 description: 'Prepare-se para uma reviravolta sem precedentes! God of War: Laufey promete a história mais surreal da série, introduzindo uma protagonista chocante e um ''Everywhen'' onde deuses de múltiplas mitologias colidem.'
 pubDate: 'Tue Jun 02 2026'
-heroImage: '../../assets/god-of-war-laufey-promete-a-historia-mais-surreal-de-toda-a-serie.png'
+heroImage: '../../assets/god-of-war-laufey-promete-a-historia-mais-surreal-de-toda-a-serie.jpg'
 tags: ['Playstation', 'Ação', 'Aventura', 'Mitologia']
 ---
 
