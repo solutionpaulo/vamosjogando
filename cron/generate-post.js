@@ -196,13 +196,14 @@ async function downloadImage(imageUrl, slug) {
 
 function generateArticleFile(newsItem, article, slug, heroImage) {
   const escapeYAML = s => s.replace(/'/g, "''");
-  const rodapeAfiliado = gerarRodapeAfiliado(article.title, article.tags);
+  const tags = article.tags || [];
+  const rodapeAfiliado = gerarRodapeAfiliado(article.title, tags);
   return `---
 title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
 heroImage: '${heroImage}'
-tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
+tags: [${tags.map(t => `'${t}'`).join(', ')}]
 ---
 
 ${article.content}${rodapeAfiliado}

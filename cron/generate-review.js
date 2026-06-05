@@ -311,6 +311,7 @@ async function run() {
   const article = await generateWithLLM(topic);
   if (!article) return;
 
+  if (!article.tags) article.tags = [];
   if (!article.tags.includes('Review')) {
     article.tags.push('Review');
   }
