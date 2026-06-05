@@ -1,6 +1,7 @@
 ---
 import { SITE_TITLE, SITE_BASE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import ThemeToggle from './ThemeToggle.astro';
 ---
 
 <header class="site-header">
@@ -23,6 +24,7 @@ import HeaderLink from './HeaderLink.astro';
         <HeaderLink href={SITE_BASE + '/search'}>Buscar</HeaderLink>
         <HeaderLink href={SITE_BASE + '/about'}>Sobre</HeaderLink>
       </div>
+      <ThemeToggle />
       <div class="social-links">
         <a href="https://www.twitch.tv/vamosjogando" target="_blank" rel="noopener noreferrer" aria-label="Twitch">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
@@ -62,10 +64,10 @@ import HeaderLink from './HeaderLink.astro';
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(8, 9, 13, 0.75);
+    background: var(--bg-header);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    border-bottom: 1px solid var(--border-color);
     padding: 0 1.5rem;
     height: 70px;
   }
@@ -89,7 +91,7 @@ import HeaderLink from './HeaderLink.astro';
     gap: 0.1rem;
     text-shadow: none;
   }
-  .logo-link:hover { color: #ffffff; text-shadow: none; }
+  .logo-link:hover { color: var(--text-heading); text-shadow: none; }
   .logo-v {
     color: var(--neon-purple);
     text-shadow: 0 0 10px var(--neon-purple-glow);

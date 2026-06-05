@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 import { generateJSON } from './llm.js';
+import { generateOgImage } from './generate-og.js';
 
 const AFFILIATE_ENABLED = false;
 const AMAZON_TAG = '';
@@ -362,6 +363,14 @@ async function run() {
     heroImage = await downloadImage(imgUrl, slug);
   }
 
+  // Generate OG image
+  let ogImage = null;
+  try {
+    ogImage = await generateOgImage(article.title, slug);
+  } catch {
+    console.log('OG image não gerada (erro ignorado).');
+  }
+
   if (!heroImage) {
     heroImage = `../../assets/blog-placeholder-${Math.floor(Math.random() * 5) + 1}.jpg`;
     console.log('Usando placeholder (imagem nao encontrada).');
@@ -374,7 +383,7 @@ async function run() {
 title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
-heroImage: '${heroImage}'
+heroImage: '${heroImage}'${ogImage ? `\nogImage: '${ogImage}'` : ''}
 tags: [${article.tags.map(t => `'${t}'`).join(', ')}]
 ---
 

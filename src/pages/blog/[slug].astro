@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getRelatedPosts } from '../../utils/posts';
+import { readingTime } from '../../utils/readingTime';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -19,6 +20,7 @@ type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+const readTime = readingTime(post.body);
 
 const allPosts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -26,7 +28,7 @@ const allPosts = (await getCollection('blog')).sort(
 const relatedPosts = getRelatedPosts(allPosts, post, 3);
 ---
 
-<BlogPost {...post.data}>
+  <BlogPost {...post.data} readingTime={readTime}>
   <Content />
 
   {relatedPosts.length > 0 && (

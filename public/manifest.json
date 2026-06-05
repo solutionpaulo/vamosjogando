@@ -1,0 +1,31 @@
+{
+  "name": "Vamos Jogando",
+  "short_name": "Vamos Jogando",
+  "description": "Seu portal de notícias de jogos inteligente e automatizado!",
+  "start_url": "/vamosjogando/",
+  "display": "standalone",
+  "background_color": "#08090d",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/vamosjogando/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vamosjogando/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vamosjogando/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

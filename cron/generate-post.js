@@ -5,6 +5,7 @@ import slugify from 'slugify';
 import sharp from 'sharp';
 import { feeds } from './feeds.js';
 import { generateJSON } from './llm.js';
+import { generateOgImage } from './generate-og.js';
 
 const AFFILIATE_ENABLED = false;
 const AMAZON_TAG = '';
@@ -231,7 +232,7 @@ async function downloadImage(imageUrl, slug) {
   }
 }
 
-function generateArticleFile(newsItem, article, slug, heroImage) {
+function generateArticleFile(newsItem, article, slug, heroImage, ogImage) {
   const escapeYAML = s => s.replace(/'/g, "''");
   const tags = article.tags || [];
   const rodapeAfiliado = gerarRodapeAfiliado(article.title, tags);
@@ -239,10 +240,9 @@ function generateArticleFile(newsItem, article, slug, heroImage) {
 title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
-heroImage: '${heroImage}'
+heroImage: '${heroImage}'${ogImage ? `\nogImage: '${ogImage}'` : ''}
 tags: [${tags.map(t => `'${t}'`).join(', ')}]
 ---
-
 ${article.content}${rodapeAfiliado}
 `;
 }
@@ -426,12 +426,20 @@ async function run() {
           heroImage = await downloadImage(wikiUrl, slug);
         }
       }
+      // Generate OG image
+      let ogImage = null;
+      try {
+        ogImage = await generateOgImage(article.title, slug);
+      } catch {
+        console.log('OG image não gerada (erro ignorado).');
+      }
+
       // Last resort: placeholder
       if (!heroImage) {
         console.log('Usando placeholder aleatório.');
       }
 
-      const fileContent = generateArticleFile(item, article, slug, heroImage || `../../assets/blog-placeholder-${Math.floor(Math.random() * 5) + 1}.jpg`);
+      const fileContent = generateArticleFile(item, article, slug, heroImage || `../../assets/blog-placeholder-${Math.floor(Math.random() * 5) + 1}.jpg`, ogImage);
       const filePath = path.join(BLOG_DIR, `${slug}.md`);
       fs.writeFileSync(filePath, fileContent, 'utf-8');
       console.log(`Post salvo: ${filePath}`);

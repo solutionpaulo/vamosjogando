@@ -25,6 +25,8 @@ const imageUrl = typeof image === 'string'
 <link rel="icon" href={SITE_BASE + '/favicon.ico'} />
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
 <link rel="sitemap" href={new URL(SITE_BASE + '/sitemap.xml', Astro.site)} />
+<link rel="manifest" href={SITE_BASE + '/manifest.json'} />
+<meta name="theme-color" content="#8b5cf6" />
 <meta name="generator" content={Astro.generator} />
 
 <link rel="canonical" href={canonicalURL} />
@@ -58,3 +60,9 @@ const imageUrl = typeof image === 'string'
 {imageUrl && <meta property="twitter:image" content={imageUrl} />}
 
 <AdScript />
+
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/vamosjogando/sw.js').catch(() => {});
+  }
+</script>

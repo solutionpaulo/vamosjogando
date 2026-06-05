@@ -11,9 +11,9 @@ import BuyBox from '../components/BuyBox.astro';
 import '../styles/global.css';
 import '../styles/prose.css';
 
-type Props = CollectionEntry<'blog'>['data'] & { tags?: string[] };
+type Props = CollectionEntry<'blog'>['data'] & { tags?: string[]; readingTime?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, ogImage, tags, readingTime: readTime } = Astro.props;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'NewsArticle',
@@ -28,7 +28,7 @@ const jsonLd = {
 <!doctype html>
 <html lang="pt-BR">
   <head>
-    <BaseHead {title} {description} image={heroImage} />
+    <BaseHead {title} {description} image={ogImage || heroImage} />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <style>
       main { width: 100%; max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
@@ -46,10 +46,10 @@ const jsonLd = {
         align-items: center; gap: 0.5rem; flex-wrap: wrap;
       }
       .updated-date { font-style: italic; color: var(--neon-cyan); }
+      .reading-time { color: var(--neon-cyan); font-weight: 600; }
       .article-title {
         font-size: 2.85rem; font-weight: 800; margin-bottom: 1.25rem; line-height: 1.15;
-        background: linear-gradient(135deg, #ffffff 30%, #e2e8f0 100%);
-        -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        color: var(--text-heading);
       }
       .article-desc {
         font-size: 1.15rem; color: var(--text-secondary); max-width: 700px;
@@ -80,14 +80,15 @@ const jsonLd = {
           </div>
         )}
         <div class="title-section">
-          <div class="date">
-            <FormattedDate date={pubDate} />
-            {updatedDate && (
-              <span class="updated-date">
-                (Atualizado em <FormattedDate date={updatedDate} />)
-              </span>
-            )}
-          </div>
+      <div class="date">
+        <FormattedDate date={pubDate} />
+        {readTime && <span class="reading-time">{readTime}</span>}
+        {updatedDate && (
+          <span class="updated-date">
+            (Atualizado em <FormattedDate date={updatedDate} />)
+          </span>
+        )}
+      </div>
           <h1 class="article-title">{title}</h1>
           <p class="article-desc">{description}</p>
           <hr />
