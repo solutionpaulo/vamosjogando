@@ -18,7 +18,7 @@ const { post } = Astro.props;
   <div class="featured-card glass-panel glow-cyan">
     <div class="featured-img-container">
       {post.data.heroImage && (
-        <Image width={800} height={450} src={post.data.heroImage} alt="" />
+        <Image width={800} height={450} src={post.data.heroImage} alt="" loading="lazy" />
       )}
     </div>
     <div class="featured-content">

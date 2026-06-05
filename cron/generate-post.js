@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import slugify from 'slugify';
+import sharp from 'sharp';
 import { feeds } from './feeds.js';
 import { generateJSON } from './llm.js';
 
@@ -85,30 +86,48 @@ async function fetchLatestNews() {
 
 function buildPrompt(newsItem) {
   return `
-Você é um redator gamer profissional do blog "Vamos Jogando".
-Sua tarefa é criar um artigo completo, engajador e otimizado para SEO em português a partir da seguinte notícia:
+**Contexto:** Você é o redator-chefe do blog "Vamos Jogando" (pt-BR), especializado em cobrir o mundo dos games com profundidade e opinião. Sua audiência é composta por gamers brasileiros que buscam análise além da notícia superficial.
 
-Título original: ${newsItem.title}
-Fonte original: ${newsItem.source}
-Conteúdo/Resumo original: ${newsItem.content}
-Link de referência: ${newsItem.link}
+**Notícia original:**
+- Título: ${newsItem.title}
+- Fonte: ${newsItem.source}
+- Resumo: ${newsItem.content}
+- Link: ${newsItem.link}
 
-Instruções:
-1. Crie um novo título chamativo e profissional em português. Não use clickbait apelativo, mas seja empolgante.
-2. Escreva uma breve descrição (resumo de 1 a 2 frases) para ser exibido na listagem de notícias.
-3. Escreva o conteúdo do artigo de forma aprofundada, com parágrafos bem escritos. Use formatação Markdown:
-   - Divida em seções com títulos secundários (use ## para h2)
-   - Use listas de tópicos para detalhar pontos chaves se apropriado
-   - Use uma citação blockquote (> ) se houver falas de desenvolvedores ou se fizer sentido
-   - Finalize com uma breve análise ou opinião gamer sobre o impacto dessa notícia.
-4. Defina de 2 a 4 tags relevantes (ex: Playstation, Xbox, Nintendo, RPG, Lançamento, etc).
-5. O retorno DEVE ser estritamente um JSON SEM TRAILING COMMAS, SEM quebras de linha dentro das strings:
+**Processo de criação (siga cada passo):**
+
+1. **Análise:** Identifique o gancho principal da notícia. Qual é a informação mais relevante para o leitor brasileiro?
+
+2. **Título:** Crie um título chamativo e profissional em português. Use linguagem empolgante sem clickbait. Máximo 80 caracteres.
+
+3. **Descrição:** Resuma em 1-2 frases o essencial para aparecer na listagem do blog.
+
+4. **Estrutura do conteúdo:**
+   - Abra com um parágrafo contextualizando o leitor
+   - Desenvolva com seções em ## (h2) — cada seção cobre um aspecto diferente
+   - Use listas (-) para detalhar pontos-chave quando apropriado
+   - Inclua > blockquote com falas relevantes de desenvolvedores ou fontes
+   - Finalize com uma análise pessoal: qual o impacto dessa notícia para o mercado brasileiro?
+
+5. **Tags:** Escolha 2 a 4 tags. Prefira específicas (ex: Playstation, Xbox, Nintendo, Steam, RPG, FPS) em vez de genéricas (Games, Novidades).
+
+**Exemplo de saída esperada:**
 {
-  "title": "Seu título aqui",
-  "description": "Sua descrição curta aqui",
-  "content": "Conteúdo completo em markdown aqui...",
-  "tags": ["tag1", "tag2"]
+  "title": "Novo controle da Xbox tem bateria removível e conexão USB-C",
+  "description": "Microsoft revela redesign do controle do Xbox Series X|S com bateria recarregável padrão, conector USB-C e acabamento em tons pastéis.",
+  "content": "## O que mudou no novo controle\\n\\nA Microsoft anunciou...\\n\\n## Impacto para o jogador brasileiro\\n\\n> \\\"A bateria removível era um pedido antigo da comunidade\\\"...\\n\\n## Nossa análise\\n\\nA mudança acerta em cheio...",
+  "tags": ["Xbox", "Microsoft", "Hardware"]
 }
+
+**Autoverificação antes de responder:**
+- O título tem menos de 80 caracteres?
+- A descrição tem 1-2 frases?
+- O conteúdo tem pelo menos 3 seções com ##?
+- Inclui uma blockquote com citação?
+- As tags são específicas (não "Games" ou "Novidades")?
+- O JSON é válido sem trailing commas?
+
+Retorne APENAS o JSON, sem markdown envolvente ou texto extra.
 `;
 }
 
@@ -142,6 +161,17 @@ Podemos esperar novidades adicionais conforme o assunto continue evoluindo. O qu
   };
 }
 
+const ARTICLE_SCHEMA = {
+  type: 'object',
+  properties: {
+    title: { type: 'string', description: 'Título chamativo e profissional em português' },
+    description: { type: 'string', description: 'Resumo curto de 1 a 2 frases' },
+    content: { type: 'string', description: 'Conteúdo completo do artigo em markdown' },
+    tags: { type: 'array', items: { type: 'string' }, description: 'De 2 a 4 tags relevantes' },
+  },
+  required: ['title', 'description', 'content', 'tags'],
+};
+
 async function generateArticle(newsItem) {
   const apiKey = process.env.GEMINI_API_KEY || process.env.DEEPSEEK_API_KEY || process.env.GROQ_API_KEY;
   if (!apiKey) {
@@ -150,7 +180,7 @@ async function generateArticle(newsItem) {
   }
 
   const prompt = buildPrompt(newsItem);
-  const article = await generateJSON(prompt, 'artigo de noticia');
+  const article = await generateJSON(prompt, 'artigo de noticia', ARTICLE_SCHEMA);
   if (article) return article;
 
   console.log('Usando modo mock.');
@@ -180,14 +210,21 @@ async function downloadImage(imageUrl, slug) {
     });
     if (!res.ok) return null;
 
-    const contentType = res.headers.get('content-type') || '';
-    const extMap = { 'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/gif': '.gif', 'image/avif': '.avif' };
-    const ext = extMap[contentType] || '.jpg';
-    const fileName = `${slug}${ext}`;
+    let buffer = Buffer.from(await res.arrayBuffer());
+    if (buffer.length < 5120) {
+      console.log(`Imagem muito pequena (${buffer.length} bytes), ignorando.`);
+      return null;
+    }
+
+    // Convert to WebP via sharp, resize to max 1200px width
+    const fileName = `${slug}.webp`;
     const filePath = path.join(ASSETS_DIR, fileName);
-    const buffer = Buffer.from(await res.arrayBuffer());
+    buffer = await sharp(buffer)
+      .resize({ width: 1200, height: 900, fit: 'inside', withoutEnlargement: true })
+      .webp({ quality: 80 })
+      .toBuffer();
     fs.writeFileSync(filePath, buffer);
-    console.log(`Imagem salva: ${filePath}`);
+    console.log(`Imagem salva: ${filePath} (${(buffer.length / 1024).toFixed(0)}KB WebP)`);
     return `../../assets/${fileName}`;
   } catch {
     return null;
@@ -240,7 +277,13 @@ function findTopicOverride(article) {
       'RPG', 'Tático', 'Estratégia', 'Tecnologia', 'Hardware', 'Linux', 'Remake',
       'Jogos de Luta', 'Jogos Grátis', 'Free Play Days', 'Serviços de Assinatura',
       'Comunidade Gamer', 'Desenvolvimento de Jogos', 'Novidades'].includes(t));
-  return nonGeneric.length > 0 ? nonGeneric[0] : null;
+  if (nonGeneric.length > 0) return nonGeneric[0];
+  // Fallback: extract meaningful words from the title
+  const title = article.title || '';
+  const words = title.replace(/[^a-zA-ZÀ-ÿ0-9\s]/g, '').split(/\s+/).filter(w => w.length > 3);
+  const stopwords = ['para', 'com', 'como', 'mais', 'dos', 'das', 'numa', 'pelo', 'sobre', 'apos', 'essa', 'este', 'nova', 'novo', 'game', 'jogo', 'jogos', 'traz', 'tem', 'sua', 'seu', 'entre'];
+  const meaningful = words.filter(w => !stopwords.includes(w.toLowerCase()));
+  return meaningful.length > 0 ? meaningful.slice(0, 3).join(' ') : null;
 }
 
 async function fetchJSON(url) {
@@ -249,9 +292,9 @@ async function fetchJSON(url) {
   return res.json();
 }
 
-async function findWikipediaPageId(topic) {
+async function findWikipediaPageId(topic, lang = 'pt') {
   const data = await fetchJSON(
-    `https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=3`
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=5`
   );
   return data?.query?.search?.[0]?.pageid || null;
 }
@@ -295,24 +338,42 @@ async function getWikipediaImageUrl(imageTitle) {
   return page?.imageinfo?.[0]?.url || null;
 }
 
+async function fetchWikipediaImageByTopic(topic) {
+  for (const lang of ['pt', 'en']) {
+    try {
+      const pageId = await findWikipediaPageId(topic, lang);
+      if (!pageId) continue;
+      const images = await getWikipediaImages(pageId);
+      if (images.length === 0) continue;
+      const best = prioritizeImage(images);
+      if (!best) continue;
+      const url = await getWikipediaImageUrl(best.title);
+      if (url) return url;
+    } catch { }
+    await new Promise(r => setTimeout(r, 500));
+  }
+  return null;
+}
+
 async function fetchWikipediaImage(article) {
   const topic = findTopicOverride(article);
   if (!topic) return null;
 
-  try {
-    const pageId = await findWikipediaPageId(topic);
-    if (!pageId) return null;
+  // Try the main topic first
+  const result = await fetchWikipediaImageByTopic(topic);
+  if (result) return result;
 
-    const images = await getWikipediaImages(pageId);
-    if (images.length === 0) return null;
-
-    const best = prioritizeImage(images);
-    if (!best) return null;
-
-    return getWikipediaImageUrl(best.title);
-  } catch {
-    return null;
+  // Try splitting multi-word topics (e.g. "Elden Ring Nightreign" -> "Elden Ring", "Nightreign")
+  const words = topic.split(/\s+/);
+  if (words.length > 2) {
+    for (let i = words.length - 1; i >= 1; i--) {
+      const subTopic = words.slice(0, i).join(' ');
+      const subResult = await fetchWikipediaImageByTopic(subTopic);
+      if (subResult) return subResult;
+    }
   }
+
+  return null;
 }
 
 async function run() {

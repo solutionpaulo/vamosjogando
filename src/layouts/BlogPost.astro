@@ -28,7 +28,7 @@ const jsonLd = {
 <!doctype html>
 <html lang="pt-BR">
   <head>
-    <BaseHead {title} {description} />
+    <BaseHead {title} {description} image={heroImage} />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <style>
       main { width: 100%; max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
@@ -76,7 +76,7 @@ const jsonLd = {
       <article class="glass-panel article-container">
         {heroImage && (
           <div class="hero-image">
-            <Image width={1020} height={510} src={heroImage} alt="" />
+            <Image width={1020} height={510} src={heroImage} alt="" loading="eager" fetchpriority="high" />
           </div>
         )}
         <div class="title-section">

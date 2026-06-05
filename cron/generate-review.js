@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import sharp from 'sharp';
 import { generateJSON } from './llm.js';
 
 const AFFILIATE_ENABLED = false;
@@ -105,33 +106,47 @@ function getExistingSlugs() {
 
 function buildReviewPrompt(topic) {
   return `
-Você é um redator especializado em reviews de hardware gamer do blog "Vamos Jogando".
-Sua tarefa é criar uma review completa, detalhada e imparcial em português sobre o seguinte produto:
+**Contexto:** Você é o analista de hardware do blog "Vamos Jogando" (pt-BR). Sua especialidade é avaliar periféricos e hardware gamer com imparcialidade, profundidade técnica e linguagem acessível para o público brasileiro.
 
-Produto: ${topic.name}
-Termo de pesquisa: ${topic.search}
+**Produto:** ${topic.name}
+**Termo de pesquisa:** ${topic.search}
 
-A review deve conter:
-1. Um título chamativo no formato "Review: [Produto] - [diferencial]"
-2. Uma breve descrição (resumo de 1-2 frases)
-3. Seções detalhadas:
-   - Introdução contextualizando o produto no mercado
-   - Design e construção (materiais, ergonomia, conexões)
-   - Desempenho e experiência de uso (sensores, resposta, bateria, etc)
-   - Pontos positivos (em formato de lista)
-   - Pontos negativos (em formato de lista)
-   - Comparação com concorrentes diretos
-   - Veredito final com nota ou recomendação
-4. De 3 a 5 tags relevantes
-5. Use formatação Markdown com ## para seções e listas
+**Processo de criação (siga cada passo):**
 
-O retorno DEVE ser estritamente um JSON SEM TRAILING COMMAS:
+1. **Pesquisa mental:** Considere o que se sabe sobre ${topic.name}: posicionamento no mercado, faixa de preço, concorrentes diretos, público-alvo.
+
+2. **Título:** Formato "Review: ${topic.name} — [diferencial principal]". Seja descritivo, não sensacionalista.
+
+3. **Descrição:** Resumo de 1-2 frases cobrindo o veredito e o público ideal.
+
+4. **Estrutura do conteúdo (use ## para cada seção):**
+   - **Introdução:** Contextualize o produto no mercado brasileiro (disponibilidade, preço estimado em R$)
+   - **Design e Construção:** Materiais, ergonomia, conexões, acabamento
+   - **Desempenho e Experiência:** Sensores, resposta, bateria, software — detalhe técnico sem ser prolixo
+   - **Pontos Positivos:** Lista com 3-5 itens
+   - **Pontos Negativos:** Lista com 2-4 itens
+   - **Comparação:** Compare com 1-2 concorrentes diretos citando preço e diferenças-chave
+   - **Veredito:** Nota de 0 a 10 e recomendação clara (para quem é? vale o preço?)
+
+5. **Tags:** 3 a 5 tags. Sempre inclua "Review" e "Hardware" mais o nome do produto e categoria.
+
+**Exemplo de saída esperada:**
 {
-  "title": "Review: Título aqui",
-  "description": "Descrição curta aqui",
-  "content": "Conteúdo completo em markdown aqui...",
-  "tags": ["tag1", "tag2"]
+  "title": "Review: Razer DeathAdder V3 Pro — O melhor mouse sem fio para competitivo?",
+  "description": "Analisamos o Razer DeathAdder V3 Pro: peso pluma de 63g, sensor Focus Pro 30K e bateria de 90 horas. Veja se vale os R$ 900.",
+  "content": "## Introdução\\n\\nA Razer atualizou seu clássico...\\n\\n## Design e Construção\\n\\nCom apenas 63g...\\n\\n## Desempenho\\n\\nO sensor Focus Pro 30K...\\n\\n### Pontos Positivos\\n- Peso extremamente leve\\n- Sensor preciso\\n\\n### Pontos Negativos\\n- Preço elevado\\n- Sem RGB\\n\\n## Comparação\\n\\nConcorrente direto: Logitech G Pro X Superlight 2...\\n\\n## Veredito\\n\\n**Nota: 9/10** — Recomendado para jogadores competitivos que priorizam peso e performance.",
+  "tags": ["Review", "Hardware", "Razer", "Mouse Gamer", "Periféricos Gamer"]
 }
+
+**Autoverificação antes de responder:**
+- A review tem todas as 7 seções (Introdução, Design, Desempenho, Positivos, Negativos, Comparação, Veredito)?
+- Inclui preço estimado em R$ na introdução?
+- Os pontos positivos e negativos estão em formato de lista?
+- O veredito tem nota de 0 a 10?
+- As tags incluem "Review" e "Hardware"?
+- JSON válido sem trailing commas?
+
+Retorne APENAS o JSON, sem markdown envolvente ou texto extra.
 `;
 }
 
@@ -146,9 +161,9 @@ async function fetchJSON(url) {
   return res.json();
 }
 
-async function findWikipediaPageId(topic) {
+async function findWikipediaPageId(topic, lang = 'pt') {
   const data = await fetchJSON(
-    `https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=5`
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=5`
   );
   return data?.query?.search?.[0]?.pageid || null;
 }
@@ -190,9 +205,9 @@ async function getImageUrl(imageTitle) {
 }
 
 async function fetchWikipediaImage(topic) {
-  for (const lang of ['en', 'pt']) {
+  for (const lang of ['pt', 'en']) {
     try {
-      const pageId = await findWikipediaPageId(topic);
+      const pageId = await findWikipediaPageId(topic, lang);
       if (!pageId) continue;
       const images = await getWikipediaImages(pageId);
       if (!images.length) continue;
@@ -201,7 +216,7 @@ async function fetchWikipediaImage(topic) {
       const url = await getImageUrl(best.title);
       if (url) return url;
     } catch { }
-    await new Promise(r => setTimeout(r, 1000));
+    await new Promise(r => setTimeout(r, 500));
   }
   return null;
 }
@@ -213,12 +228,21 @@ async function downloadImage(imageUrl, slug) {
       signal: AbortSignal.timeout(15000),
     });
     if (!res.ok) return null;
-    const contentType = res.headers.get('content-type') || '';
-    const extMap = { 'image/jpeg': '.jpg', 'image/png': '.png',
-      'image/webp': '.webp', 'image/gif': '.gif', 'image/avif': '.avif' };
-    const ext = extMap[contentType] || '.jpg';
-    const fileName = `${slug}${ext}`;
-    fs.writeFileSync(path.join(ASSETS_DIR, fileName), Buffer.from(await res.arrayBuffer()));
+
+    let buffer = Buffer.from(await res.arrayBuffer());
+    if (buffer.length < 5120) {
+      console.log(`Imagem muito pequena (${buffer.length} bytes), ignorando.`);
+      return null;
+    }
+
+    const fileName = `${slug}.webp`;
+    const filePath = path.join(ASSETS_DIR, fileName);
+    buffer = await sharp(buffer)
+      .resize({ width: 1200, height: 900, fit: 'inside', withoutEnlargement: true })
+      .webp({ quality: 80 })
+      .toBuffer();
+    fs.writeFileSync(filePath, buffer);
+    console.log(`Imagem salva: ${filePath} (${(buffer.length / 1024).toFixed(0)}KB WebP)`);
     return `../../assets/${fileName}`;
   } catch {
     return null;
@@ -274,8 +298,19 @@ O ${topic.name} é uma excelente escolha para quem valoriza qualidade e não abr
   };
 }
 
+const REVIEW_SCHEMA = {
+  type: 'object',
+  properties: {
+    title: { type: 'string', description: 'Título no formato "Review: [Produto] - [diferencial]"' },
+    description: { type: 'string', description: 'Resumo curto de 1 a 2 frases' },
+    content: { type: 'string', description: 'Conteúdo completo da review em markdown' },
+    tags: { type: 'array', items: { type: 'string' }, description: 'De 3 a 5 tags relevantes' },
+  },
+  required: ['title', 'description', 'content', 'tags'],
+};
+
 async function generateWithLLM(topic) {
-  const article = await generateJSON(buildReviewPrompt(topic), 'review');
+  const article = await generateJSON(buildReviewPrompt(topic), 'review', REVIEW_SCHEMA);
   if (article) return article;
 
   console.log('Usando modo mock.');
