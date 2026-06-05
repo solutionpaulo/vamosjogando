@@ -54,13 +54,13 @@ Site Astro com muitas imagens e conteúdo dinâmico. Podemos auditar Core Web Vi
 
 ---
 
-## 6. Workflows do GitHub Actions
+## ✅ 6. Workflows do GitHub Actions
 
 **Skill:** `github-actions-templates`
 
 Os workflows atuais (`auto-publish.yml`, `deploy.yml`) podem ser melhorados com patterns testados: caching de dependências, matrix builds, validação de qualidade.
 
-**Ação:** Revisar e otimizar os workflows.
+**Feito:** Concurrency groups, timeouts (15min publish, 10min deploy), shallow clones (`fetch-depth: 1`), `defaults.shell: bash`, `workflow_dispatch` inputs, `conventional commits` nas mensagens, scheduling fix (separação news/review por `github.event.schedule`).
 
 ---
 

@@ -2,25 +2,46 @@ name: Auto Publish AI Article
 
 on:
   schedule:
-    # Noticias 4x ao dia: 00:00, 06:00, 12:00, 18:00 (Horário de Brasília)
+    # Noticias 4x ao dia: 00:00, 06:00, 12:00, 18:00 (Horário de Brasília = UTC-3)
     - cron: '0 3,9,15,21 * * *'
-    # Review de hardware 1x ao dia: 09:00 (Horário de Brasília)
+    # Review de hardware 1x ao dia: 09:00 (Horário de Brasília = UTC-3)
     - cron: '0 12 * * *'
   workflow_dispatch:
+    inputs:
+      generate_news:
+        description: 'Gerar notícias'
+        type: boolean
+        default: true
+      generate_review:
+        description: 'Gerar review'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+concurrency:
+  group: auto-publish-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash
+
 jobs:
   publish-news:
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && github.event.schedule != '0 12 * * *')
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -32,34 +53,41 @@ jobs:
         run: npm ci
 
       - name: Run Auto Publisher
+        id: generate
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: npm run generate
 
       - name: Commit and push new articles
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+
           if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
             git add src/content/blog/ src/assets/
-            git commit -m "Auto: Novo artigo publicado via IA"
+            git commit -m "feat(content): artigo automatico $(date +'%Y-%m-%d %H:%M')"
             git pull --rebase
             git push
+            echo "generated=true" >> "$GITHUB_OUTPUT"
             echo "Novos posts e imagens commitados e enviados!"
           else
+            echo "generated=false" >> "$GITHUB_OUTPUT"
             echo "Nenhum post novo gerado neste ciclo."
           fi
 
   publish-review:
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 12 * * *'
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -71,23 +99,27 @@ jobs:
         run: npm ci
 
       - name: Generate Hardware Review
+        id: generate
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: npm run review
 
       - name: Commit and push review
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+
           if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
             git add src/content/blog/ src/assets/
-            git commit -m "Auto: Nova review de hardware publicada via IA"
+            git commit -m "feat(review): review de hardware $(date +'%Y-%m-%d %H:%M')"
             git pull --rebase
             git push
+            echo "generated=true" >> "$GITHUB_OUTPUT"
             echo "Review commitada e enviada!"
           else
+            echo "generated=false" >> "$GITHUB_OUTPUT"
             echo "Nenhuma review gerada neste ciclo."
           fi
 
@@ -95,12 +127,13 @@ jobs:
     needs: [publish-news, publish-review]
     if: always()
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
