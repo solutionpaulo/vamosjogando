@@ -64,13 +64,13 @@ Os workflows atuais (`auto-publish.yml`, `deploy.yml`) podem ser melhorados com 
 
 ---
 
-## 7. Integração com Gemini API
+## ✅ 7. Integração com Gemini API
 
 **Skill:** `gemini-api-integration`
 
 Cobre boas práticas de produção: rate limiting, retry com backoff, streaming, function calling. O código atual em `cron/llm.js` pode se beneficiar.
 
-**Ação:** Revisar `cron/llm.js` à luz das práticas recomendadas.
+**Feito:** `isTransientError` para classificar erros (rate limit, timeout, 5xx, rede), `callWithRetry` com exponential backoff + jitter (3 retries, 1s→2s→4s base), `RateLimiter` com intervalo mínimo de 500ms entre chamadas, `AbortSignal.timeout` de 60s, e integração com os clients Gemini e Groq.
 
 ---
 
