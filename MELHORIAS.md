@@ -133,35 +133,27 @@ docs(MELHORIAS): marcar itens 1-5 como concluídos
 
 ---
 
-## 11. PWA / Service Worker
+## ✅ 11. PWA / Service Worker
 
-**Ideia:** Adicionar um `public/sw.js` simples que permite cache offline e instalação do site como aplicativo no celular/desktop (manifest.json + icons).
-
-**Ação:** Criar service worker com cache-first para assets estáticos e network-first para páginas. Adicionar `manifest.json` com ícones.
+**Feito:** `public/manifest.json` com icons SVG + PNG (192/512), `public/sw.js` com cache-first para assets estáticos e network-first para páginas, `icon-192.png` e `icon-512.png` gerados do favicon via sharp, registro do SW em `BaseHead.astro`.
 
 ---
 
-## 12. Tempo de Leitura
+## ✅ 12. Tempo de Leitura
 
-**Ideia:** Exibir "3 min de leitura" nos cards e no cabeçalho dos artigos. Melhora a experiência e expectativa do leitor.
-
-**Ação:** Função que conta palavras do conteúdo e divide por 200 (média de leitura por minuto em português). Adicionar ao `BlogPost.astro` e `PostCard.astro`.
+**Feito:** `src/utils/readingTime.js` (contagem de palavras / 200 wpm), exibido em `PostCard.astro`, `FeaturedCard.astro` e `BlogPost.astro` (passado via `[slug].astro`).
 
 ---
 
-## 13. Dark/Light Mode
+## ✅ 13. Dark/Light Mode
 
-**Ideia:** Alternador de tema (já tem dark theme completo). Adicionar toggle no header + CSS variables para tema claro.
-
-**Ação:** Criar `ThemeToggle.astro`, persistir preferência em `localStorage`, respeitar `prefers-color-scheme`.
+**Feito:** `ThemeToggle.astro` (ícone sol/lua), `data-theme="light"` com CSS variables completas em `global.css`, persistência em `localStorage` com fallback para `prefers-color-scheme`. Header e cards adaptados com `--text-heading` e `--text-card-title`.
 
 ---
 
-## 14. Open Graph Images Dinâmicas
+## ✅ 14. Open Graph Images Dinâmicas
 
-**Ideia:** Gerar imagem de compartilhamento com o título do artigo sobreposto (usando sharp, similar ao pipeline de hero images).
-
-**Ação:** Script `cron/generate-og.js` que usa sharp + texto para criar `og-image-{slug}.jpg`. Referenciar no `BaseHead.astro`.
+**Feito:** `cron/generate-og.js` — gera SVG com gradiente + título do artigo (word wrap em 42 chars), converte para WebP 1200×630 via sharp (q85). Integrado ao `generate-post.js` e `generate-review.js`; `ogImage` no frontmatter é priorizado sobre `heroImage` no `BaseHead.astro`.
 
 ---
 

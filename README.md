@@ -96,9 +96,12 @@ Criar variável de ambiente (não secret) `PUBLIC_GA_ID=G-XXXXXXXXXX` em **Setti
 - **Busca inteligente**: Wikipedia PT → EN → sub-tópicos, fallback por palavras do título
 - **Conversão automática**: WebP via sharp (qualidade 80, max 1200×900, fit inside)
 - **Validação**: imagens < 5KB são rejeitadas (placeholder)
+- **OG dinâmicas**: generate-og.js gera imagem 1200×630 com gradiente + título via sharp, integrado ao pipeline de geração
 
 ### SEO
 - **OG tags**: og:image, og:title, og:description, Twitter cards em todas as páginas
+- **OG image dinâmica**: imagem personalizada com gradiente e título do artigo, gerada via sharp (SVG → WebP q85)
+- **Sitemap dinâmico**: gerado a cada build a partir dos HTMLs do dist/
 - **Sitemap dinâmico**: gerado a cada build a partir dos HTMLs do dist/
 - **robots.txt**: permite toda indexação
 - **Canonical URLs**: evita conteúdo duplicado
@@ -110,6 +113,12 @@ Criar variável de ambiente (não secret) `PUBLIC_GA_ID=G-XXXXXXXXXX` em **Setti
 - **Lazy loading**: imagens em cards carregam sob demanda
 - **fetchpriority**: hero image do artigo usa "high" (LCP)
 - **Imagens WebP**: formato moderno com compressão eficiente
+- **Tempo de leitura**: exibe "X min de leitura" nos cards e artigos (200 palavras/min)
+
+### PWA
+- **manifest.json**: nome, ícones SVG + PNG (192/512), theme-color, display standalone
+- **Service Worker**: cache-first para assets (CSS/JS/fonts/imagens), network-first para páginas
+- **Offline**: navegação básica funciona mesmo sem conexão
 
 ### Analytics
 - **GA4 integrado**: condicional via env var `PUBLIC_GA_ID`
@@ -158,10 +167,12 @@ Variáveis: **Settings → Secrets and variables → Actions → Variables**
 
 ## Design System
 
-- **Tema escuro**: fundo cinza azulado/carbono
+- **Tema escuro**: fundo cinza azulado/carbono (padrão)
+- **Tema claro**: fundo cinza claro com texto escuro — alternável via toggle no header
 - **Acentos neon**: glow e gradientes em Ciano (`#06b6d4`) e Roxo (`#8b5cf6`)
 - **Glassmorphism**: elementos com backdrop-filter blur
 - **Tipografia**: Outfit (títulos) + Plus Jakarta Sans (corpo) via Google Fonts
+- **Theme toggle**: botão sol/lua no header, persiste em localStorage, respeita `prefers-color-scheme`
 
 ---
 
