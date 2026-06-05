@@ -74,13 +74,13 @@ Cobre boas práticas de produção: rate limiting, retry com backoff, streaming,
 
 ---
 
-## 8. Promoção nas Redes Sociais
+## ✅ 8. Promoção nas Redes Sociais
 
 **Skill:** `social-post-writer-seo`
 
 Cada artigo gerado poderia ter um post correspondente pra Instagram/LinkedIn/Facebook gerado automaticamente.
 
-**Ação:** Criar um script `cron/social-promote.js` que gera posts de divulgação.
+**Feito:** `cron/social-promote.js` gera posts curtos (X/Twitter), médios (LinkedIn/Facebook) e hashtags via LLM, salvos em `src/content/social/`. Publicação real desativada (`PUBLISH_ENABLED = false`) com stubs prontos para Twitter, LinkedIn e Facebook. Integrado ao `auto-publish.yml` como passo pós-geração. Script: `npm run social`.
 
 ---
 

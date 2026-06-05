@@ -77,6 +77,24 @@ jobs:
             echo "Nenhum post novo gerado neste ciclo."
           fi
 
+      - name: Generate social media posts
+        if: steps.commit.outputs.generated == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: npm run social
+
+      - name: Commit social posts
+        if: steps.commit.outputs.generated == 'true'
+        run: |
+          if [ -n "$(git status --porcelain src/content/social/)" ]; then
+            git add src/content/social/
+            git commit -m "feat(social): posts de divulgacao $(date +'%Y-%m-%d %H:%M')" || true
+            git pull --rebase
+            git push
+            echo "Posts sociais commitados e enviados!"
+          fi
+
   publish-review:
     if: |
       github.event_name == 'workflow_dispatch' ||
