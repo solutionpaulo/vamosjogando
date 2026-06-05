@@ -2,7 +2,7 @@
 title: 'eFootball Aterrissa no Switch 2: Futebol de Peso e Realismo no seu Bolso'
 description: 'Konami lança eFootball Kick-Off! para o aguardado Nintendo Switch 2, prometendo levar a emoção dos grandes times para a palma da mão dos jogadores. Prepare-se para um futebol de alto nível onde você for.'
 pubDate: 'Fri Jun 05 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/og-efootball-kick-off-e-oficialmente-lancado-para-nintendo-switch-2.webp'
 tags: ['Nintendo Switch 2', 'eFootball', 'Futebol', 'Konami']
 ---
 
