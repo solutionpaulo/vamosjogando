@@ -130,3 +130,75 @@ fix(deploy): gerar sitemap no build ao invés de arquivo estático
 ci: adicionar concurrency groups aos workflows
 docs(MELHORIAS): marcar itens 1-5 como concluídos
 ```
+
+---
+
+## 11. PWA / Service Worker
+
+**Ideia:** Adicionar um `public/sw.js` simples que permite cache offline e instalação do site como aplicativo no celular/desktop (manifest.json + icons).
+
+**Ação:** Criar service worker com cache-first para assets estáticos e network-first para páginas. Adicionar `manifest.json` com ícones.
+
+---
+
+## 12. Tempo de Leitura
+
+**Ideia:** Exibir "3 min de leitura" nos cards e no cabeçalho dos artigos. Melhora a experiência e expectativa do leitor.
+
+**Ação:** Função que conta palavras do conteúdo e divide por 200 (média de leitura por minuto em português). Adicionar ao `BlogPost.astro` e `PostCard.astro`.
+
+---
+
+## 13. Dark/Light Mode
+
+**Ideia:** Alternador de tema (já tem dark theme completo). Adicionar toggle no header + CSS variables para tema claro.
+
+**Ação:** Criar `ThemeToggle.astro`, persistir preferência em `localStorage`, respeitar `prefers-color-scheme`.
+
+---
+
+## 14. Open Graph Images Dinâmicas
+
+**Ideia:** Gerar imagem de compartilhamento com o título do artigo sobreposto (usando sharp, similar ao pipeline de hero images).
+
+**Ação:** Script `cron/generate-og.js` que usa sharp + texto para criar `og-image-{slug}.jpg`. Referenciar no `BaseHead.astro`.
+
+---
+
+## 15. Busca Full-Text com Pagefind
+
+**Ideia:** Integrar [Pagefind](https://pagefind.app) para busca offline ultra-rápida no site. Muito superior à busca atual.
+
+**Ação:** Adicionar `npx pagefind` ao build, substituir `src/pages/search.astro` para usar a API do Pagefind.
+
+---
+
+## 16. Paginação
+
+**Ideia:** `/blog/page/2/`, `/blog/page/3/` etc. Com 426 artigos crescendo 4/dia, a página inicial de blog já está pesada.
+
+**Ação:** Criar rotas dinâmicas `[page].astro` em `src/pages/blog/`, ajustar `getStaticPaths` para paginar os posts.
+
+---
+
+## 17. Notificações de Publicação
+
+**Ideia:** Enviar notificação quando um novo artigo for gerado — bot do Telegram, webhook Discord, ou e-mail.
+
+**Ação:** Script `cron/notify.js` chamado após geração no workflow, enviando título + link para webhook configurado via env var.
+
+---
+
+## 18. Comentários com Giscus
+
+**Ideia:** Integrar [giscus](https://giscus.app) — sistema de comentários baseado em GitHub Discussions. Gratuito, sem banco de dados.
+
+**Ação:** Criar `src/components/Giscus.astro`, adicionar no final do `BlogPost.astro`. Configurar repositório e categorias no GitHub.
+
+---
+
+## 19. Score de Qualidade
+
+**Ideia:** Avaliar o artigo gerado por IA antes de publicar — legibilidade (Flesch), densidade de SEO, tom consistente.
+
+**Ação:** Script `cron/assess-quality.js` que analisa o texto gerado e atribui nota. Abaixo do threshold, rejeita e tenta gerar novamente com feedback no prompt.```
