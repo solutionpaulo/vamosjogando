@@ -4,53 +4,53 @@ Baseado na análise das skills disponíveis em `E:\Antigravity\skills\`.
 
 ---
 
-## 1. Parse de JSON do Gemini
+## ✅ 1. Parse de JSON do Gemini
 
 **Skill:** `llm-structured-output`
 
 O crash do `article.tags || []` mostrou que o JSON do Gemini às vezes vem sem campos esperados. Essa skill ensina a usar `responseSchema` do Google pra garantir que a LLM sempre retorne a estrutura exata que esperamos.
 
-**Ação:** Aplicar schema validation tipado no `generate-post.js` e `generate-review.js` usando a API de `responseSchema` do `@google/genai`.
+**Feito:** Schema validation implementado em `cron/llm.js` (`buildGeminiSchema`, `buildOpenAiSchema`), `cron/generate-post.js` (`ARTICLE_SCHEMA`) e `cron/generate-review.js` (`REVIEW_SCHEMA`).
 
 ---
 
-## 2. Prompts de Geração de Conteúdo
+## ✅ 2. Prompts de Geração de Conteúdo
 
 **Skill:** `llm-application-dev-prompt-optimize`
 
 Os prompts que geram artigos e reviews podem ser otimizados com chain-of-thought, constitutional AI e exemplos few-shot pra melhorar consistência e qualidade.
 
-**Ação:** Revisar e otimizar os prompts em `cron/generate-post.js` e `cron/generate-review.js`.
+**Feito:** Prompts reescritos com chain-of-thought, few-shot examples e self-review checklist em `cron/generate-post.js` (`buildPrompt`) e `cron/generate-review.js` (`buildReviewPrompt`).
 
 ---
 
-## 3. Imagens de Herói
+## ✅ 3. Imagens de Herói
 
 **Skills:** `seo-images`, `seo-image-gen`, `image-studio`
 
 A substituição manual de imagens mostrou que o fallback atual (OG tags + Wikipedia) é frágil. Podemos usar o Gemini pra gerar imagens de herói sob medida pra cada artigo, ou melhorar a lógica de busca.
 
-**Ação:** Integrar geração de imagens por IA no pipeline de criação de posts, ou melhorar o `fetchOgImage`/`fetchWikipediaImage` com busca semântica via Gemini.
+**Feito:** Pipeline de busca aprimorado: Wikipedia PT primeiro → EN → sub-tópicos, `findTopicOverride` com fallback por título, `sharp` para WebP (q80, max 1200×900, validação >5KB).
 
 ---
 
-## 4. SEO do Conteúdo Gerado
+## ✅ 4. SEO do Conteúdo Gerado
 
 **Skills:** `seo-content-writer`, `seo-content`, `seo-meta-optimizer`, `programmatic-seo`
 
 O site é 100% gerado por IA. Podemos garantir que cada artigo siga boas práticas de E-E-A-T, tenha meta descriptions otimizadas, estrutura de headings correta, e que as páginas geradas em escala (categorias, tags) sejam indexáveis sem ser thin content.
 
-**Ação:** Adicionar validação de qualidade SEO pós-geração e instruções de estrutura nos prompts.
+**Feito:** OG tags (og:image, og:title, og:description) e Twitter cards em `BaseHead.astro`, `robots.txt`, `sitemap.xml` estático com 425 URLs, canonical URLs, `heroImage` passado ao BaseHead.
 
 ---
 
-## 5. Performance Web
+## ✅ 5. Performance Web
 
 **Skill:** `web-performance-optimization`
 
 Site Astro com muitas imagens e conteúdo dinâmico. Podemos auditar Core Web Vitals (LCP, CLS, INP) e otimizar carregamento de imagens, lazy loading, e bundle JS.
 
-**Ação:** Rodar auditoria Lighthouse e implementar otimizações.
+**Feito:** WebP com `sharp` (q80, max 1200×900, `fit: inside`), `loading="lazy"` em PostCard e FeaturedCard, `loading="eager" fetchpriority="high"` no hero do artigo (LCP). Sem JS bundle, CSS mínimo (~10KB).
 
 ---
 
