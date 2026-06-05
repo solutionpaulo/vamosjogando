@@ -84,20 +84,49 @@ Cada artigo gerado poderia ter um post correspondente pra Instagram/LinkedIn/Fac
 
 ---
 
-## 9. Analytics
+## ✅ 9. Analytics
 
 **Skill:** `analytics-tracking`
 
 Sem medição não dá pra saber se o site está tendo tração. Implementar um sistema de analytics (Google Analytics, Plausible, ou similar).
 
-**Ação:** Adicionar tracking ao site Astro.
+**Feito:** Componente GA4 em `src/components/BaseHead.astro` com script condicional (`ANALYTICS_ID` vindo de `PUBLIC_GA_ID` env var). Sem env var configurado, nada é injetado (opt-in).
 
 ---
 
-## 10. Commits Padronizados
+## ✅ 10. Commits Padronizados
 
 **Skill:** `commit`
 
 Os commits atuais são descritivos mas sem formato padrão. Adotar conventional commits facilita gerar changelog e rastrear mudanças.
 
-**Ação:** Seguir padrão `tipo(escopo): descrição` nos commits.
+**Feito:** Padrão adotado e documentado abaixo.
+
+### Formato
+
+```
+tipo(escopo): descrição curta (máx 72 chars)
+
+Corpo opcional com detalhes.
+```
+
+### Tipos usados no projeto
+
+| Tipo | Uso |
+|------|-----|
+| `feat` | Nova funcionalidade (artigo, review, script, componente) |
+| `fix` | Correção de bug ou problema |
+| `docs` | Documentação (MELHORIAS.md, README, etc.) |
+| `refactor` | Mudança interna sem alterar comportamento |
+| `perf` | Otimização de performance |
+| `ci` | Workflows, deploy, GitHub Actions |
+
+### Exemplos
+
+```
+feat(content): artigo sobre Summer Game Fest gerado via IA
+feat(review): review do Logitech G Pro X Superlight 2
+fix(deploy): gerar sitemap no build ao invés de arquivo estático
+ci: adicionar concurrency groups aos workflows
+docs(MELHORIAS): marcar itens 1-5 como concluídos
+```

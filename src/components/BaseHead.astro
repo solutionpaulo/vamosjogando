@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { SITE_TITLE, SITE_BASE } from '../consts';
+import { ANALYTICS_ID } from '../analytics';
 import AdScript from './AdScript.astro';
 
 interface Props {
@@ -27,6 +28,18 @@ const imageUrl = typeof image === 'string'
 <meta name="generator" content={Astro.generator} />
 
 <link rel="canonical" href={canonicalURL} />
+
+{ANALYTICS_ID && (
+  <>
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${ANALYTICS_ID}`} />
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{ANALYTICS_ID}');
+    </script>
+  </>
+)}
 
 <title>{title}</title>
 <meta name="title" content={title} />

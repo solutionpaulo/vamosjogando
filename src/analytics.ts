@@ -1,0 +1,1 @@
+export const ANALYTICS_ID = import.meta.env.PUBLIC_GA_ID || '';
