@@ -23,6 +23,7 @@ const imageUrl = typeof image === 'string'
 <link rel="icon" type="image/svg+xml" href={SITE_BASE + '/favicon.svg'} />
 <link rel="icon" href={SITE_BASE + '/favicon.ico'} />
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
+<link rel="sitemap" href={new URL(SITE_BASE + '/sitemap.xml', Astro.site)} />
 <meta name="generator" content={Astro.generator} />
 
 <link rel="canonical" href={canonicalURL} />
