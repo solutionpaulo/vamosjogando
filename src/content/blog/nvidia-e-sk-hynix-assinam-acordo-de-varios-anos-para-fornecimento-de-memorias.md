@@ -2,8 +2,8 @@
 title: 'NVIDIA e SK hynix: A Força Por Trás da Próxima Geração de Placas de Vídeo'
 description: 'NVIDIA e SK hynix firmam uma parceria estratégica plurianual para garantir o futuro das memórias de alto desempenho, prometendo inovações cruciais para as próximas gerações de placas de vídeo.'
 pubDate: 'Mon Jun 08 2026'
-heroImage: '../../assets/nvidia-e-sk-hynix-assinam-acordo-de-varios-anos-para-fornecimento-de-memorias.webp'
-ogImage: '../../assets/og-nvidia-e-sk-hynix-assinam-acordo-de-varios-anos-para-fornecimento-de-memorias.webp'
+heroImage: '../../assets/nvidia-sk-hynix-partnership.webp'
+ogImage: '../../assets/og-nvidia-sk-hynix-partnership.webp'
 tags: ['NVIDIA', 'Hardware', 'GPUs', 'Memória HBM']
 ---
 A cada nova geração de placas de vídeo, a busca por mais desempenho e eficiência energética se intensifica. No coração dessa evolução tecnológica, as memórias desempenham um papel fundamental. Por isso, a notícia de um acordo plurianual entre a NVIDIA, gigante das GPUs, e a SK hynix, uma das maiores fabricantes de memórias do mundo, reverberou no setor, indicando um futuro promissor para o hardware gráfico.

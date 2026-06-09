@@ -2,8 +2,8 @@
 title: 'Gears of War: E-Day: Exclusividade Xbox no Console de Volta?'
 description: 'Rumores indicam que Gears of War: E-Day pode ser um exclusivo de console Xbox, revertendo a recente estratégia multiplataforma da Microsoft. Isso reaquece o debate sobre a exclusividade no universo gamer.'
 pubDate: 'Sun Jun 07 2026'
-heroImage: '../../assets/gears-of-war-e-day-pode-nao-receber-versao-para-ps5.webp'
-ogImage: '../../assets/og-gears-of-war-e-day-pode-nao-receber-versao-para-ps5.webp'
+heroImage: '../../assets/gears-of-war-e-day-key-art.webp'
+ogImage: '../../assets/og-gears-of-war-e-day-key-art.webp'
 tags: ['Xbox', 'Gears of War', 'Exclusividade', 'PlayStation']
 ---
 A comunidade gamer foi pega de surpresa com a revelação de Gears of War: E-Day, um prequel aguardado que promete levar a franquia de volta às suas origens. Contudo, junto com a empolgação, surgiu um rumor que pode impactar diretamente onde os jogadores poderão experienciar essa nova aventura.

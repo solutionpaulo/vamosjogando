@@ -2,8 +2,8 @@
 title: '[MOCK] Capcom lançará “múltiplos títulos não anunciados” até março'
 description: 'Uma análise detalhada sobre a recente notícia de que Capcom lançará “múltiplos títulos não anunciados” até março, trazida pelo portal Meu PS4.'
 pubDate: 'Fri Jun 05 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
-ogImage: '../../assets/og-capcom-lancara-multiplos-titulos-nao-anunciados-ate-marco.webp'
+heroImage: '../../assets/capcom-logo.webp'
+ogImage: '../../assets/og-capcom-logo.webp'
 tags: ['Games', 'Meu PS4', 'Novidades']
 ---
 ## O que aconteceu?
