@@ -2,8 +2,8 @@
 title: 'Review: MSI Claw - Vale a Pena o Investimento?'
 description: 'Analisamos detalhadamente o MSI Claw: design, desempenho, ergonomia e custo-benefício. Veja se este é o periférico ideal para o seu setup gamer.'
 pubDate: 'Mon Jun 08 2026'
-heroImage: '../../assets/review-msi-claw.webp'
-ogImage: '../../assets/og-review-msi-claw.webp'
+heroImage: '../../assets/msi-claw-product.webp'
+ogImage: '../../assets/og-msi-claw-product.webp'
 tags: ['Hardware', 'MSI Claw', 'Review', 'Periféricos Gamer']
 ---
 

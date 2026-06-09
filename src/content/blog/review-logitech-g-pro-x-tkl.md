@@ -2,7 +2,8 @@
 title: 'Review: Logitech G Pro X TKL - O Teclado Gamer Perfeito para Profissionais'
 description: 'O Logitech G Pro X TKL é um teclado gamer de alta performance, projetado para profissionais que exigem o melhor. Com sua compacta estrutura TKL e switches Romer-G, este teclado promete oferecer uma experiência de jogo sem precedentes.'
 pubDate: 'Fri Jun 05 2026'
-heroImage: '../../assets/og-review-logitech-g-pro-x-tkl.webp'
+heroImage: '../../assets/logitech-g-pro-x-tkl.webp'
+ogImage: '../../assets/og-logitech-g-pro-x-tkl.webp'
 tags: ['teclados', 'gamer', 'logitech', 'Review']
 ---
 
