@@ -2,8 +2,8 @@
 title: 'IA Devora GPUs: O Futuro do PC Gamer Brasileiro Está Ameaçado?'
 description: 'A demanda por hardware potente para Inteligência Artificial está elevando os preços e a escassez, colocando em xeque a viabilidade do PC Gamer no Brasil. Entenda como essa competição impacta diretamente seu bolso e sua paixão.'
 pubDate: 'Sat Jun 13 2026'
-heroImage: '../../assets/nao-sobrou-nada-pro-gamer.webp'
-ogImage: '../../assets/og-nao-sobrou-nada-pro-gamer.webp'
+heroImage: '../../assets/ia-devora-gpus.webp'
+ogImage: '../../assets/ia-devora-gpus.webp'
 tags: ['GPUs', 'PC Gamer', 'IA', 'Mercado Brasileiro']
 ---
 A cada nova geração de hardware, a expectativa dos gamers é sempre a mesma: mais performance, gráficos incríveis e, claro, um preço que caiba no bolso. Contudo, nos últimos anos, o cenário para os entusiastas de PC Gamer tem se tornado cada vez mais desafiador. Se antes a mineração de criptomoedas era o grande vilão que encarecia as placas de vídeo, agora, uma nova força emergiu com ainda mais poder de fogo para disputar o hardware de ponta: a Inteligência Artificial.

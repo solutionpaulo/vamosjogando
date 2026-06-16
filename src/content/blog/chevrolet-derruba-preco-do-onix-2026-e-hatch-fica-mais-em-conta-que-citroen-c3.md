@@ -2,8 +2,8 @@
 title: 'O Renascimento de Mythos Online? Análise da Atualização 3.0!'
 description: 'A tão esperada atualização 3.0 de Mythos Online chegou, prometendo revolucionar a experiência dos jogadores com mudanças drásticas em combate e economia.'
 pubDate: 'Fri Jun 12 2026'
-heroImage: '../../assets/chevrolet-derruba-preco-do-onix-2026-e-hatch-fica-mais-em-conta-que-citroen-c3.webp'
-ogImage: '../../assets/og-chevrolet-derruba-preco-do-onix-2026-e-hatch-fica-mais-em-conta-que-citroen-c3.webp'
+heroImage: '../../assets/guild-wars-3-anunciado-para-ps5-e-pc.webp'
+ogImage: '../../assets/guild-wars-3-anunciado-para-ps5-e-pc.webp'
 tags: ['MMORPG', 'Atualização', 'Mythos Online', 'Análise']
 ---
 Após meses de especulações e uma base de jogadores cada vez mais frustrada, a produtora Phoenix Studios finalmente lançou a Atualização 3.0 para seu aclamado MMORPG, Mythos Online. O patch promete ser um divisor de águas, buscando resgatar a paixão dos veteranos e atrair novos aventureiros com uma série de mudanças significativas.

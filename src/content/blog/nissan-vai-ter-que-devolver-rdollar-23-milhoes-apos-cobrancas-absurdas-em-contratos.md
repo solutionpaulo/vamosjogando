@@ -2,8 +2,8 @@
 title: 'Cobranças Ocultas nos Games: Onde está a proteção ao consumidor?'
 description: 'Casos de cobranças abusivas em outros setores acendem um alerta. No universo dos games, discutimos como microtransações e políticas de monetização afetam o consumidor brasileiro.'
 pubDate: 'Mon Jun 15 2026'
-heroImage: '../../assets/nissan-vai-ter-que-devolver-rdollar-23-milhoes-apos-cobrancas-absurdas-em-contratos.webp'
-ogImage: '../../assets/og-nissan-vai-ter-que-devolver-rdollar-23-milhoes-apos-cobrancas-absurdas-em-contratos.webp'
+heroImage: '../../assets/cobrancas-ocultas.webp'
+ogImage: '../../assets/cobrancas-ocultas.webp'
 tags: ['Microtransações', 'Consumidor', 'Indústria de Games', 'Loot Boxes']
 ---
 Recentemente, casos de cobranças indevidas e práticas comerciais questionáveis em outros segmentos da indústria ganharam destaque, gerando debates importantes sobre proteção ao consumidor. Essa discussão não está distante do universo gamer, onde a monetização de jogos tem levantado questões complexas sobre transparência e justiça para o jogador brasileiro. Em um cenário onde o digital domina, é fundamental questionar: estamos realmente protegidos?
