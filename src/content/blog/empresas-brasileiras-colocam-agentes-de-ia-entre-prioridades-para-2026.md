@@ -3,7 +3,6 @@ title: 'IA no Brasil: O Futuro dos Games Passa Pelos Agentes Inteligentes?'
 description: 'Empresas brasileiras priorizam agentes de IA para 2026, indicando um salto tecnológico que pode transformar a indústria de jogos e o entretenimento digital no país.'
 pubDate: 'Tue Jun 16 2026'
 heroImage: '../../assets/empresas-brasileiras-colocam-agentes-de-ia-entre-prioridades-para-2026.webp'
-ogImage: '../../assets/og-empresas-brasileiras-colocam-agentes-de-ia-entre-prioridades-para-2026.webp'
 tags: ['Inteligência Artificial', 'Desenvolvimento de Jogos', 'Mercado Brasileiro', 'Tecnologia']
 ---
 A inteligência artificial não é mais uma ficção científica distante, mas uma realidade que avança rapidamente, inclusive no Brasil. Enquanto a indústria global de games já explora o potencial da IA em NPCs e geração de conteúdo, o cenário empresarial brasileiro mostra um movimento ambicioso: empresas estão colocando agentes de IA entre as principais prioridades para 2026.

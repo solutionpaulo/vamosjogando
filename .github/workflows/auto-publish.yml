@@ -33,7 +33,7 @@ defaults:
 jobs:
   publish-news:
     if: |
-      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_dispatch' && inputs.generate_news) ||
       (github.event_name == 'schedule' && github.event.schedule != '0 12 * * *')
     runs-on: ubuntu-latest
     timeout-minutes: 15
@@ -97,7 +97,7 @@ jobs:
 
   publish-review:
     if: |
-      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_dispatch' && inputs.generate_review) ||
       github.event.schedule == '0 12 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 15

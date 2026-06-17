@@ -3,8 +3,7 @@ title: 'Assassin''s Creed Shadows: O Épico Final Chega com Domínios e Templár
 description: 'Assassin''s Creed Shadows se aproxima de seu clímax narrativo com o capítulo final, trazendo um novo sistema de Domínios focado na jogabilidade e uma épica batalha contra os Templários.'
 pubDate: 'Tue Jun 16 2026'
 heroImage: '../../assets/assassins-creed-shadows-ganha-capitulo-final-com-batalha-contra-templarios.webp'
-ogImage: '../../assets/og-assassins-creed-shadows-ganha-capitulo-final-com-batalha-contra-templarios.webp'
-tags: ['Assassin's Creed', 'Ubisoft', 'Ação Aventura', 'Japão Feudal']
+tags: ["Assassin's Creed", 'Ubisoft', 'Ação Aventura', 'Japão Feudal']
 ---
 Fãs de Assassin's Creed, preparem-se! O aguardado Assassin's Creed Shadows está prestes a alcançar seu ápice com a revelação do seu 'capítulo final'. A jornada que acompanhamos está culminando em um confronto épico contra os Templários, prometendo fechar com chave de ouro a saga no Japão feudal.
 
