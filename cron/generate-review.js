@@ -98,6 +98,17 @@ const REVIEW_TOPICS = [
   { name: 'MSI Claw', search: 'MSI Claw handheld' },
   { name: 'NVIDIA RTX 5090', search: 'NVIDIA GeForce RTX 5090' },
   { name: 'AMD Radeon RX 9070 XT', search: 'AMD Radeon RX 9070 XT' },
+  { name: 'PlayStation VR2', search: 'PlayStation VR2' },
+  { name: 'Meta Quest 3', search: 'Meta Quest 3' },
+  { name: 'Turtle Beach Stealth Pro', search: 'Turtle Beach Stealth Pro' },
+  { name: 'Corsair K70 RGB Pro', search: 'Corsair K70 RGB' },
+  { name: 'Razer Basilisk V3 Pro', search: 'Razer Basilisk V3 Pro' },
+  { name: 'Logitech G Pro Racing Wheel', search: 'Logitech G Pro Racing Wheel' },
+  { name: 'Thrustmaster T300 RS', search: 'Thrustmaster T300 RS' },
+  { name: 'Sony WH-1000XM5', search: 'Sony WH-1000XM5' },
+  { name: 'AirPods Pro 2', search: 'AirPods Pro 2' },
+  { name: 'ASUS ROG Phone 9', search: 'ASUS ROG Phone 9' },
+  { name: 'RedMagic 10 Pro', search: 'RedMagic 10 Pro' },
 ];
 
 function getExistingSlugs() {

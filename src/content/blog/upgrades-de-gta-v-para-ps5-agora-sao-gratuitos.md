@@ -2,7 +2,7 @@
 title: 'GTA V no PS5: Upgrade Gratuito Agora para Donos de PS4!'
 description: 'Jogadores de GTA V no PS4 podem agora realizar o upgrade para a versão de PS5 sem custos adicionais, uma mudança bem-vinda para a comunidade.'
 pubDate: 'Wed Jun 17 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/upgrades-de-gta-v-para-ps5-agora-sao-gratuitos.webp'
 ogImage: '../../assets/og-upgrades-de-gta-v-para-ps5-agora-sao-gratuitos.webp'
 tags: ['GTA V', 'Playstation 5', 'Rockstar Games', 'Upgrade Gratuito']
 ---
