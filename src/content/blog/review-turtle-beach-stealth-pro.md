@@ -2,7 +2,7 @@
 title: 'Review: Turtle Beach Stealth Pro — O Fone Gamer Premium com ANC e Versatilidade Inigualável'
 description: 'Avaliamos o Turtle Beach Stealth Pro, um headset gamer de alta performance com cancelamento de ruído ativo e conectividade dupla. Descubra se este modelo premium vale o investimento para gamers exigentes.'
 pubDate: 'Thu Jun 18 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-turtle-beach-stealth-pro.webp'
 ogImage: '../../assets/og-review-turtle-beach-stealth-pro.webp'
 tags: ['Review', 'Hardware', 'Turtle Beach', 'Headset Gamer', 'ANC']
 ---
