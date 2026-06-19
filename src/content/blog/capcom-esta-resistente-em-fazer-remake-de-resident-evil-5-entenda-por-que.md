@@ -1,0 +1,20 @@
+---
+title: 'Remake de Resident Evil 5: Capcom Ignora Sucesso para Focar no Futuro?'
+description: 'Capcom estaria adiando o remake de Resident Evil 5, focando em outros projetos como Code: Veronica e RE0, apesar do sucesso de vendas do título original. Leakers indicam que a demanda interna não acompanha a popularidade do game.'
+pubDate: 'Fri Jun 19 2026'
+heroImage: '../../assets/capcom-esta-resistente-em-fazer-remake-de-resident-evil-5-entenda-por-que.webp'
+ogImage: '../../assets/og-capcom-esta-resistente-em-fazer-remake-de-resident-evil-5-entenda-por-que.webp'
+tags: ['Resident Evil', 'Capcom', 'Remake', 'Code Veronica']
+---
+A saga Resident Evil continua a ser um pilar fundamental para a Capcom, com a estratégia de remakes entregando títulos que cativam tanto veteranos quanto novos jogadores. Após o sucesso estrondoso de reimaginar clássicos como RE2, RE3 e, mais recentemente, RE4, a comunidade gamer aguarda ansiosamente o próximo passo da gigante japonesa. No entanto, informações recentes sugerem que um dos títulos mais vendidos da franquia pode não estar na lista de prioridades imediatas para um remake: Resident Evil 5.
+
+## O Dilema de Resident Evil 5
+Resident Evil 5 é, sem dúvida, um gigante comercial. Com mais de 15 milhões de cópias vendidas em suas diversas versões, o jogo representa um marco na transição da franquia para uma ação mais intensa e cooperativa. Apesar desse estrondoso sucesso de vendas, o aclamado leaker Dusk Golem, conhecido por seu histórico impecável com informações da Capcom, revelou que não há um forte desejo interno no estúdio para produzir um remake de RE5 no momento. Segundo ele, "existem outros projetos que a equipe quer fazer mais". Isso cria um interessante paradoxo: um jogo extremamente lucrativo sendo preterido em detrimento de outras prioridades.
+
+> "This isn't true from what I've heard. While I think a Resident Evil 5 Remake will probably happen in the future due to fan demand, at present I've heard there's not a strong desire within the company to remake RE5 presently, there's other projects the team wants to do more."
+
+## O Que a Capcom Quer Refazer?
+Se Resident Evil 5 não está no radar principal, quais são os projetos que monopolizam a atenção da Capcom? A resposta parece estar alinhada com as pesquisas de opinião junto aos fãs. Resident Evil Code: Veronica foi o título mais votado para um remake e já está confirmado para 2027. Além disso, rumores persistentes apontam para Resident Evil 0 como outro candidato forte, com a produção supostamente tendo passado por um reboot e agora sob os cuidados da equipe de Resident Evil Requiem. Há até mesmo indícios de que a série paralela Resident Evil Revelations poderia receber mais atenção para remakes do que RE5 e RE6, conforme expresso pelo diretor de Requiem. Aparentemente, a paixão dos fãs e o desejo interno da Capcom convergem para títulos que talvez não tenham o mesmo volume de vendas, mas carregam um peso cultural e uma base de fãs dedicados que clamam por uma nova versão.
+
+## Análise Vamos Jogando: A Voz da Comunidade Importa Mais?
+A postura da Capcom em relação ao remake de Resident Evil 5 é um claro exemplo da complexa dinâmica entre o sucesso comercial e o desejo criativo ou estratégico de um estúdio. Para os gamers brasileiros, que acompanharam a evolução da franquia e o sucesso dos remakes recentes, a notícia pode ser um balde de água fria. RE5, com sua campanha cooperativa e ambientação única, tem muitos defensores. No entanto, a decisão de priorizar títulos como Code: Veronica e RE0 mostra que a Capcom está atenta não apenas aos números, mas também à voz da comunidade e ao potencial de revitalizar narrativas e mecânicas que, talvez, não foram tão exploradas ou que ressoam de forma diferente com a base de fãs mais hardcore. Isso sugere uma estratégia mais focada na paixão e no legado da série, em vez de apenas seguir o rastro do maior sucesso de vendas. Para nós, do "Vamos Jogando", essa é uma escolha arriscada, mas que pode solidificar ainda mais a reputação da Capcom como uma empresa que ouve seus jogadores e valoriza a história de seus games.
