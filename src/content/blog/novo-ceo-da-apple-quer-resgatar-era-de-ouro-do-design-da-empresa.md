@@ -2,7 +2,7 @@
 title: 'Apple em Nova Era: O Resgate do Design Pode Inspirar o Setor Gamer?'
 description: 'O novo CEO da Apple, John Ternus, foca no resgate da influência do design na empresa. Exploramos as implicações dessa mudança para a indústria de tecnologia e como a valorização do design impacta a experiência do jogador.'
 pubDate: 'Mon Jun 22 2026'
-heroImage: '../../assets/novo-ceo-da-apple-quer-resgatar-era-de-ouro-do-design-da-empresa.webp'
+heroImage: '../../assets/apple-logo.png'
 ogImage: '../../assets/og-novo-ceo-da-apple-quer-resgatar-era-de-ouro-do-design-da-empresa.webp'
 tags: ['Apple', 'Design', 'Tecnologia', 'Hardware']
 ---

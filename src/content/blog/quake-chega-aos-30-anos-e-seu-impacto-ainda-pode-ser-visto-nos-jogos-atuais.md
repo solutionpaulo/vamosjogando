@@ -2,7 +2,7 @@
 title: 'Quake aos 30: O Legado Imortal que Moldou Nossos Jogos Atuais'
 description: 'Comemorando 30 anos, Quake transcendeu a sua época, popularizando o multiplayer online, a aceleração 3D e o modding, e seu impacto ressoa nos games modernos.'
 pubDate: 'Mon Jun 22 2026'
-heroImage: '../../assets/quake-chega-aos-30-anos-e-seu-impacto-ainda-pode-ser-visto-nos-jogos-atuais.webp'
+heroImage: '../../assets/quake-logo.png'
 ogImage: '../../assets/og-quake-chega-aos-30-anos-e-seu-impacto-ainda-pode-ser-visto-nos-jogos-atuais.webp'
 tags: ['Quake', 'FPS', 'id Software', 'História dos Games']
 ---

@@ -2,7 +2,7 @@
 title: 'Nuuvem Turbina Pré-Vendas de PC com Descontos Exclusivos e Cupom!'
 description: 'A Nuuvem lança uma promoção de pré-venda para jogos de PC, oferecendo descontos exclusivos e um cupom por tempo limitado. Gamers brasileiros podem garantir seus próximos títulos favoritos com vantagem.'
 pubDate: 'Mon Jun 22 2026'
-heroImage: '../../assets/jogos-de-pc-em-oferta-de-pre-jogo-na-nuuvem-com-cupom-limitado.webp'
+heroImage: '../../assets/nuuvem-logo.png'
 ogImage: '../../assets/og-jogos-de-pc-em-oferta-de-pre-jogo-na-nuuvem-com-cupom-limitado.webp'
 tags: ['Nuuvem', 'PC Gaming', 'Promoções', 'Pré-Venda']
 ---

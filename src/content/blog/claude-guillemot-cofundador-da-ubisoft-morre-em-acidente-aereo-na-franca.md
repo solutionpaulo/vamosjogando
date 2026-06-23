@@ -2,7 +2,7 @@
 title: 'Claude Guillemot: A Perda de um Pioneiro da Ubisoft'
 description: 'O mundo dos games perde Claude Guillemot, cofundador da Ubisoft, aos 69 anos em acidente aéreo. Sua visão moldou a gigante francesa e a indústria global.'
 pubDate: 'Sun Jun 21 2026'
-heroImage: '../../assets/claude-guillemot-cofundador-da-ubisoft-morre-em-acidente-aereo-na-franca.webp'
+heroImage: '../../assets/ubisoft-logo.png'
 ogImage: '../../assets/og-claude-guillemot-cofundador-da-ubisoft-morre-em-acidente-aereo-na-franca.webp'
 tags: ['Ubisoft', 'Claude Guillemot', 'Desenvolvimento de Jogos', 'Empresas de Games']
 ---
