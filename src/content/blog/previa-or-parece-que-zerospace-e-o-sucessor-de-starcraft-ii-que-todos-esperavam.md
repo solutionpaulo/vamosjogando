@@ -2,7 +2,7 @@
 title: 'Zerospace: O Sucessor de StarCraft II Que o Mundo RTS Estava Esperando?'
 description: 'Zerospace surge como uma promessa emocionante para os fãs de estratégia em tempo real, prometendo preencher o vazio deixado por StarCraft II com conteúdo robusto e inovações.'
 pubDate: 'Sun Jun 21 2026'
-heroImage: '../../assets/zerospace-logo.png'
+heroImage: '../../assets/zerospace-header.jpg'
 ogImage: '../../assets/og-previa-or-parece-que-zerospace-e-o-sucessor-de-starcraft-ii-que-todos-esperavam.webp'
 tags: ['Zerospace', 'RTS', 'StarCraft II', 'Estratégia']
 ---

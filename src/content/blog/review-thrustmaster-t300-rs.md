@@ -2,7 +2,7 @@
 title: 'Review: Thrustmaster T300 RS 		— O volante intermediário ideal para sim racers'
 description: 'O Thrustmaster T300 RS oferece force feedback suave e preciso com seu motor brushless, sendo uma excelente porta de entrada para sim racers que buscam imersão superior aos modelos de engrenagem. Ideal para quem busca upgrade sem ir para o direct drive.'
 pubDate: 'Mon Jun 22 2026'
-heroImage: '../../assets/review-thrustmaster-t300-rs.webp'
+heroImage: '../../assets/thrustmaster-t300-rs.jpg'
 ogImage: '../../assets/og-review-thrustmaster-t300-rs.webp'
 tags: ['Review', 'Hardware', 'Thrustmaster T300 RS', 'Volante Gamer', 'Sim Racing']
 ---
