@@ -2,7 +2,7 @@
 title: 'Gigantes Warner Bros. Descontos Explosivos na Steam: Até 95% OFF!'
 description: 'Grandes títulos da Warner Bros. Games estão com descontos imperdíveis de até 95% na Steam por tempo limitado, uma chance ouro para expandir sua biblioteca.'
 pubDate: 'Sat Jun 20 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/jogos-em-oferta-na-steam-com-ate-95percent-de-desconto-nesta-semana.jpg'
 ogImage: '../../assets/og-jogos-da-warner-bros-em-oferta-na-steam-ate-95percent-de-desconto.webp'
 tags: ['Steam', 'Promoção', 'WarnerBros', 'PCGaming']
 ---

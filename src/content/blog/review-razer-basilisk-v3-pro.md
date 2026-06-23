@@ -2,7 +2,7 @@
 title: 'Review: Razer Basilisk V3 Pro — Versatilidade Sem Fio e RGB Premium'
 description: 'O Razer Basilisk V3 Pro entrega um pacote completo de recursos premium, ergonomia confortável e desempenho sem fio de ponta para quem busca versatilidade e estilo.'
 pubDate: 'Sat Jun 20 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/razer-basilisk-v3-pro.webp'
 ogImage: '../../assets/og-review-razer-basilisk-v3-pro.webp'
 tags: ['Review', 'Hardware', 'Razer Basilisk V3 Pro', 'Mouse Gamer', 'Periféricos Gamer', 'Razer']
 ---

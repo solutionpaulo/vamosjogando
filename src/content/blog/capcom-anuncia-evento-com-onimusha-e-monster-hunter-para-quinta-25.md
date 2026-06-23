@@ -2,7 +2,7 @@
 title: '[MOCK] Capcom anuncia evento com Onimusha e Monster Hunter para quinta (25)'
 description: 'Uma análise detalhada sobre a recente notícia de que Capcom anuncia evento com Onimusha e Monster Hunter para quinta (25), trazida pelo portal Meu PS4.'
 pubDate: 'Tue Jun 23 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/capcom-logo.webp'
 ogImage: '../../assets/og-capcom-anuncia-evento-com-onimusha-e-monster-hunter-para-quinta-25.webp'
 tags: ['Games', 'Meu PS4', 'Novidades']
 ---

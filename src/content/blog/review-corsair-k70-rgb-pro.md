@@ -2,7 +2,7 @@
 title: 'Review: Corsair K70 RGB Pro — Resposta Ultrarrápida e Construção Premium'
 description: 'O Corsair K70 RGB Pro eleva a experiência de digitação e jogo com sua tecnologia AXON e construção robusta, ideal para gamers que buscam desempenho e durabilidade sem compromissos.'
 pubDate: 'Fri Jun 19 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/corsair-k70-rgb-pro.webp'
 ogImage: '../../assets/og-review-corsair-k70-rgb-pro.webp'
 tags: ['Review', 'Hardware', 'Corsair K70 RGB Pro', 'Teclado Mecânico', 'Teclado Gamer']
 ---
