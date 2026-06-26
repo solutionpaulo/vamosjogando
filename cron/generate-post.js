@@ -133,7 +133,7 @@ Retorne APENAS o JSON, sem markdown envolvente ou texto extra.
 }
 
 function generateMockArticle(newsItem) {
-  const mockTitle = `[MOCK] ${newsItem.title}`;
+  const mockTitle = newsItem.title;
   const mockDesc = `Uma análise detalhada sobre a recente notícia de que ${newsItem.title}, trazida pelo portal ${newsItem.source}.`;
   const mockContent = `
 ## O que aconteceu?
