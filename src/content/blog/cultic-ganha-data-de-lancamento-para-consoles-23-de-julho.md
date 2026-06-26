@@ -2,7 +2,7 @@
 title: 'Cultic Traz o Inferno Retrô aos Consoles em Julho: Prepare-se para o Tiroteio Clássico!'
 description: 'O aguardado FPS retrô Cultic, da Atari e Jasozz Games, tem sua data de lançamento confirmada para PlayStation 5, Xbox Series e Nintendo Switch em 23 de julho. Prepare-se para uma experiência de tiro nostálgica e brutal nos consoles.'
 pubDate: 'Wed Jun 24 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/cultic-ganha-data-de-lancamento-para-consoles-23-de-julho.webp'
 ogImage: '../../assets/og-cultic-ganha-data-de-lancamento-para-consoles-23-de-julho.webp'
 tags: ['Cultic', 'FPS', 'Boomer Shooter', 'Multiplataforma']
 ---

@@ -2,7 +2,7 @@
 title: 'Imperdível: Títulos PlayStation em Destaque na Promoção de Férias Steam!'
 description: 'Aproveite a Promoção de Férias da Steam para adquirir grandes sucessos da PlayStation Studios com descontos significativos. É a oportunidade perfeita para expandir sua biblioteca de jogos no PC.'
 pubDate: 'Fri Jun 26 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/jogos-da-playstation-em-oferta-na-promocao-de-ferias-steam.webp'
 ogImage: '../../assets/og-jogos-da-playstation-em-oferta-na-promocao-de-ferias-steam.webp'
 tags: ['PlayStation', 'Steam', 'PCGaming', 'Ofertas']
 ---

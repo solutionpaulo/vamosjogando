@@ -2,7 +2,7 @@
 title: 'GTA VI no PS5: Exclusivos que Elevam a Imersão a Outro Nível'
 description: 'GTA VI promete uma experiência sem precedentes no PlayStation 5, utilizando recursos exclusivos do console para levar a imersão a um patamar superior. Prepare-se para sentir o mundo de Vice City como nunca antes.'
 pubDate: 'Wed Jun 24 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/imersao-completa-gta-vi-tera-recursos-exclusivos-do-ps5.webp'
 ogImage: '../../assets/og-imersao-completa-gta-vi-tera-recursos-exclusivos-do-ps5.webp'
 tags: ['GTA VI', 'PlayStation 5', 'Rockstar Games', 'Imersão']
 ---
