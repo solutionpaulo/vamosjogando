@@ -2,7 +2,7 @@
 title: 'Review: Sony WH-1000XM5 — O ápice do cancelamento de ruído e áudio premium'
 description: 'O Sony WH-1000XM5 redefine a experiência de áudio com seu cancelamento de ruído incomparável e qualidade sonora excepcional. Ideal para quem busca imersão total e conforto premium em qualquer ambiente.'
 pubDate: 'Tue Jun 23 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-sony-wh-1000xm5.webp'
 ogImage: '../../assets/og-review-sony-wh-1000xm5.webp'
 tags: ['Review', 'Hardware', 'Sony WH-1000XM5', 'Fone de Ouvido', 'Cancelamento de Ruído']
 ---

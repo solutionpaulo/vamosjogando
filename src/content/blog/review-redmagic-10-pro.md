@@ -2,7 +2,7 @@
 title: 'Review: RedMagic 10 Pro — Potência Extrema e Resfriamento Ativo'
 description: 'O RedMagic 10 Pro é um monstro para jogos, entregando desempenho inigualável com seu sistema de resfriamento ativo. Ideal para gamers que buscam o máximo em performance mobile e recursos dedicados.'
 pubDate: 'Fri Jun 26 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-redmagic-10-pro.webp'
 ogImage: '../../assets/og-review-redmagic-10-pro.webp'
 tags: ['Review', 'Hardware', 'RedMagic 10 Pro', 'Smartphone Gamer', 'Mobile Gaming']
 ---
