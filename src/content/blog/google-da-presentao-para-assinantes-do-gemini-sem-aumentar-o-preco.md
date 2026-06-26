@@ -1,5 +1,5 @@
----
-title: '[MOCK] Google dá “presentão” para assinantes do Gemini sem aumentar o preço'
+﻿---
+title: 'Google dá “presentão” para assinantes do Gemini sem aumentar o preço'
 description: 'Uma análise detalhada sobre a recente notícia de que Google dá “presentão” para assinantes do Gemini sem aumentar o preço, trazida pelo portal Canaltech.'
 pubDate: 'Tue Jun 09 2026'
 heroImage: '../../assets/google-da-presentao-para-assinantes-do-gemini-sem-aumentar-o-preco.webp'

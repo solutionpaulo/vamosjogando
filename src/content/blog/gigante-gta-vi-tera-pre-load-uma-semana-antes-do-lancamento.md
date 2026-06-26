@@ -1,5 +1,5 @@
 ---
-title: '[MOCK] Gigante? GTA VI terá pré-load uma semana antes do lançamento'
+title: 'Gigante? GTA VI terá pré-load uma semana antes do lançamento'
 description: 'Uma análise detalhada sobre a recente notícia de que Gigante? GTA VI terá pré-load uma semana antes do lançamento, trazida pelo portal Meu PS4.'
 pubDate: 'Wed Jun 24 2026'
 heroImage: '../../assets/gigante-gta-vi-tera-pre-load-uma-semana-antes-do-lancamento.webp'

@@ -1,5 +1,5 @@
 ---
-title: '[MOCK] Melhor que Starlink? Balão vai transmitir 5G da estratosfera para o Japão'
+title: 'Melhor que Starlink? Balão vai transmitir 5G da estratosfera para o Japão'
 description: 'Uma análise detalhada sobre a recente notícia de que Melhor que Starlink? Balão vai transmitir 5G da estratosfera para o Japão, trazida pelo portal Canaltech.'
 pubDate: 'Wed Jun 24 2026'
 heroImage: '../../assets/melhor-que-starlink-balao-vai-transmitir-5g-da-estratosfera-para-o-japao.webp'

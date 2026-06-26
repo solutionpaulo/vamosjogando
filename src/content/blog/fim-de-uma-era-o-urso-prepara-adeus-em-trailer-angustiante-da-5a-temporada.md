@@ -1,5 +1,5 @@
 ---
-title: '[MOCK] Fim de uma era: O Urso prepara adeus em trailer angustiante da 5ª temporada'
+title: 'Fim de uma era: O Urso prepara adeus em trailer angustiante da 5ª temporada'
 description: 'Uma análise detalhada sobre a recente notícia de que Fim de uma era: O Urso prepara adeus em trailer angustiante da 5ª temporada, trazida pelo portal Canaltech.'
 pubDate: 'Tue Jun 09 2026'
 heroImage: '../../assets/fim-de-uma-era-o-urso-prepara-adeus-em-trailer-angustiante-da-5a-temporada.webp'

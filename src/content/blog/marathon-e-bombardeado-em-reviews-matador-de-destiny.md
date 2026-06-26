@@ -1,5 +1,5 @@
----
-title: '[MOCK] Marathon é bombardeado em reviews: “matador de Destiny”'
+﻿---
+title: 'Marathon é bombardeado em reviews: “matador de Destiny”'
 description: 'Uma análise detalhada sobre a recente notícia de que Marathon é bombardeado em reviews: “matador de Destiny”, trazida pelo portal Meu PS4.'
 pubDate: 'Fri May 22 2026'
 heroImage: '../../assets/marathon-e-bombardeado-em-reviews-matador-de-destiny.jpg'

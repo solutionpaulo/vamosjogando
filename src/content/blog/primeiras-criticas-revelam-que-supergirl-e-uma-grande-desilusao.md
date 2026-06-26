@@ -1,5 +1,5 @@
 ---
-title: '[MOCK] Primeiras críticas revelam que Supergirl é uma grande desilusão'
+title: 'Primeiras críticas revelam que Supergirl é uma grande desilusão'
 description: 'Uma análise detalhada sobre a recente notícia de que Primeiras críticas revelam que Supergirl é uma grande desilusão, trazida pelo portal Eurogamer.pt.'
 pubDate: 'Wed Jun 24 2026'
 heroImage: '../../assets/primeiras-criticas-revelam-que-supergirl-e-uma-grande-desilusao.webp'

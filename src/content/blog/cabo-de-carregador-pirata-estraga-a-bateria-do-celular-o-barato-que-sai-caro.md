@@ -1,5 +1,5 @@
 ---
-title: '[MOCK] Cabo de carregador pirata estraga a bateria do celular? O barato que sai caro'
+title: 'Cabo de carregador pirata estraga a bateria do celular? O barato que sai caro'
 description: 'Uma análise detalhada sobre a recente notícia de que Cabo de carregador pirata estraga a bateria do celular? O barato que sai caro, trazida pelo portal Canaltech.'
 pubDate: 'Tue Jun 23 2026'
 heroImage: '../../assets/cabo-de-carregador-pirata-estraga-a-bateria-do-celular-o-barato-que-sai-caro.webp'
