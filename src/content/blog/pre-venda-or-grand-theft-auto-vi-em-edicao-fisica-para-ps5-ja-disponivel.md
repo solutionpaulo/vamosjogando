@@ -2,7 +2,7 @@
 title: 'GTA VI Físico no PS5: Pré-Venda Chega ao Brasil com Desconto!'
 description: 'A pré-venda da mídia física de Grand Theft Auto VI para PlayStation 5 já está disponível no Brasil, com ofertas de lançamento que incluem desconto para pagamento à vista. Fãs podem garantir sua cópia de um dos jogos mais aguardados da década.'
 pubDate: 'Thu Jun 25 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/pre-venda-or-grand-theft-auto-vi-em-edicao-fisica-para-ps5-ja-disponivel.webp'
 ogImage: '../../assets/og-pre-venda-or-grand-theft-auto-vi-em-edicao-fisica-para-ps5-ja-disponivel.webp'
 tags: ['GTA VI', 'PlayStation 5', 'Pré-Venda', 'Rockstar Games']
 ---
