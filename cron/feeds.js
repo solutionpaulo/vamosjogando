@@ -1,15 +1,11 @@
+import Parser from 'rss-parser';
+
+const parser = new Parser();
+
 export const feeds = [
   {
     name: 'Eurogamer.pt',
     url: 'https://www.eurogamer.pt/feed',
-  },
-  {
-    name: 'GameBlast',
-    url: 'https://gameblast.com.br/feed/',
-  },
-  {
-    name: 'Combo Infinito',
-    url: 'https://comboinfinito.com.br/feed/',
   },
   {
     name: 'Adrenaline',
@@ -20,10 +16,6 @@ export const feeds = [
     url: 'https://meups.com.br/feed/',
   },
   {
-    name: 'The Enemy',
-    url: 'https://www.theenemy.com.br/feed',
-  },
-  {
     name: 'Canaltech',
     url: 'https://canaltech.com.br/rss/',
   },
@@ -31,5 +23,16 @@ export const feeds = [
     name: 'TecMundo',
     url: 'https://www.tecmundo.com.br/feed/',
   },
-
 ];
+
+export async function parseFeed(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    const text = await res.text();
+    return await parser.parseString(text);
+  } finally {
+    clearTimeout(timeout);
+  }
+}

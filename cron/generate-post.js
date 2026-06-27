@@ -1,9 +1,8 @@
 import fs from 'fs';
 import path from 'path';
-import Parser from 'rss-parser';
 import slugify from 'slugify';
 import sharp from 'sharp';
-import { feeds } from './feeds.js';
+import { feeds, parseFeed } from './feeds.js';
 import { generateJSON } from './llm.js';
 import { generateOgImage } from './generate-og.js';
 
@@ -53,7 +52,6 @@ Se você está pensando em adquirir produtos relacionados ao assunto, confira as
 
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
-const parser = new Parser();
 
 function getExistingSlugs() {
   if (!fs.existsSync(BLOG_DIR)) return [];
@@ -67,7 +65,7 @@ async function fetchLatestNews() {
   for (const feed of feeds) {
     try {
       console.log(`Lendo feed: ${feed.name}...`);
-      const parsed = await parser.parseURL(feed.url);
+      const parsed = await parseFeed(feed.url);
       for (const item of parsed.items) {
         allItems.push({
           title: item.title,
