@@ -157,6 +157,54 @@ const REVIEW_TOPICS = [
   { name: 'Secretlab Titan Evo', search: 'Secretlab Titan Evo' },
   { name: 'DXRacer Master Series', search: 'DXRacer Master Series' },
   { name: 'Flexform Prime', search: 'Flexform Prime' },
+
+  // === GPUs ===
+  { name: 'NVIDIA RTX 5080', search: 'NVIDIA GeForce RTX 5080' },
+  { name: 'NVIDIA RTX 5070 Ti', search: 'NVIDIA GeForce RTX 5070 Ti' },
+  { name: 'NVIDIA RTX 5070', search: 'NVIDIA GeForce RTX 5070' },
+  { name: 'AMD Radeon RX 9060 XT', search: 'AMD Radeon RX 9060 XT' },
+
+  // === Controles ===
+  { name: 'Xbox Wireless Controller', search: 'Xbox Wireless Controller' },
+  { name: '8BitDo Ultimate', search: '8BitDo Ultimate Bluetooth controller' },
+  { name: 'Gulikit KK3', search: 'Gulikit KK3 controller' },
+  { name: 'Flydigi Vader 4 Pro', search: 'Flydigi Vader 4 Pro controller' },
+  { name: 'Victrix Pro BFG', search: 'Victrix Pro BFG controller' },
+
+  // === Headsets ===
+  { name: 'Audeze Maxwell', search: 'Audeze Maxwell wireless headset' },
+  { name: 'Beyerdynamic DT 900 Pro X', search: 'Beyerdynamic DT 900 Pro X' },
+  { name: 'EPOS H6Pro', search: 'EPOS H6Pro headset' },
+
+  // === Teclados ===
+  { name: 'Wooting 60HE', search: 'Wooting 60HE keyboard' },
+  { name: 'Keychron Q1', search: 'Keychron Q1 mechanical keyboard' },
+  { name: 'Keychron Q3', search: 'Keychron Q3 mechanical keyboard' },
+  { name: 'Razer Huntsman V3 Pro', search: 'Razer Huntsman V3 Pro keyboard' },
+
+  // === Mouses ===
+  { name: 'Lamzu Atlantis', search: 'Lamzu Atlantis mouse' },
+  { name: 'Pulsar X2', search: 'Pulsar X2 gaming mouse' },
+  { name: 'G-Wolves HSK Pro', search: 'G-Wolves HSK Pro mouse' },
+  { name: 'Finalmouse UltralightX', search: 'Finalmouse UltralightX' },
+
+  // === Monitores ===
+  { name: 'Dell Alienware AW3225QF', search: 'Alienware AW3225QF monitor' },
+  { name: 'MSI MPG 321URX', search: 'MSI MPG 321URX monitor' },
+
+  // === SSDs ===
+  { name: 'Samsung 990 Pro', search: 'Samsung 990 Pro NVMe SSD' },
+  { name: 'WD Black SN850X', search: 'WD Black SN850X NVMe SSD' },
+  { name: 'Crucial T700', search: 'Crucial T700 NVMe SSD' },
+
+  // === Cadeiras Ergonômicas ===
+  { name: 'Herman Miller Aeron', search: 'Herman Miller Aeron chair' },
+  { name: 'Steelcase Gesture', search: 'Steelcase Gesture chair' },
+
+  // === Fones Bluetooth ===
+  { name: 'AirPods 4', search: 'AirPods 4' },
+  { name: 'Sony WH-1000XM6', search: 'Sony WH-1000XM6' },
+  { name: 'Samsung Galaxy Buds3 Pro', search: 'Samsung Galaxy Buds3 Pro' },
 ];
 
 function getExistingSlugs() {

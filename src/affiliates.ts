@@ -23,6 +23,47 @@ export interface ProdutoAfiliado {
 
 export const PRODUTOS: ProdutoAfiliado[] = [
   {
+    nome: 'NVIDIA RTX 5080',
+    termosBusca: ['rtx 5080', 'nvidia rtx 5080', 'geforce rtx 5080'],
+  },
+  {
+    nome: 'NVIDIA RTX 5070 Ti',
+    termosBusca: ['rtx 5070 ti', 'nvidia rtx 5070 ti'],
+  },
+  {
+    nome: 'NVIDIA RTX 5070',
+    termosBusca: ['rtx 5070', 'nvidia rtx 5070'],
+  },
+  {
+    nome: 'Wooting 60HE',
+    termosBusca: ['wooting 60he', 'wooting', 'teclado wooting'],
+  },
+  {
+    nome: 'Audeze Maxwell',
+    termosBusca: ['audeze maxwell', 'headset audeze', 'fone audeze'],
+  },
+  {
+    nome: 'Samsung 990 Pro',
+    termosBusca: ['samsung 990 pro', 'ssd samsung 990', 'nvme samsung'],
+  },
+  {
+    nome: 'WD Black SN850X',
+    termosBusca: ['wd black sn850x', 'sn850x', 'ssd wd black'],
+  },
+  {
+    nome: 'Herman Miller Aeron',
+    termosBusca: ['herman miller aeron', 'cadeira hernan miller', 'aeron chair'],
+  },
+  {
+    nome: 'AirPods 4',
+    termosBusca: ['airpods 4', 'airpods', 'fone apple'],
+  },
+  {
+    nome: 'Sony WH-1000XM6',
+    termosBusca: ['sony wh-1000xm6', 'wh1000xm6', 'fone sony'],
+  },
+  {
+  {
     nome: 'DualSense Edge',
     termosBusca: ['dualsense edge', 'controle ps5', 'playstation 5 controller'],
   },
