@@ -2,7 +2,7 @@
 title: 'Quem poderia imaginar? GTA VI lidera pré-vendas na PS Store Brasil'
 description: 'Uma análise detalhada sobre a recente notícia de que Quem poderia imaginar? GTA VI lidera pré-vendas na PS Store Brasil, trazida pelo portal Meu PS4.'
 pubDate: 'Sun Jun 28 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/gta-vi-lidera-pre-vendas-na-ps-store-brasil.webp'
 ogImage: '../../assets/og-quem-poderia-imaginar-gta-vi-lidera-pre-vendas-na-ps-store-brasil.webp'
 tags: ['Games', 'Meu PS4', 'Novidades']
 ---

@@ -2,7 +2,7 @@
 title: 'Steam Controller Vira Carrinho RC: A Engenhosidade Por Trás da Vibração'
 description: 'Um modder surpreende a comunidade gamer ao converter um Steam Controller em um carrinho de controle remoto, utilizando apenas os motores táteis do dispositivo. O feito é ainda mais impressionante por não exigir nenhuma alteração de firmware.'
 pubDate: 'Thu Jul 02 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/modder-transforma-steam-controller-em-um-carrinho-de-controle-remoto.webp'
 ogImage: '../../assets/og-modder-transforma-steam-controller-em-um-carrinho-de-controle-remoto.webp'
 tags: ['Steam Controller', 'Modding', 'Hardware', 'Inovação']
 ---

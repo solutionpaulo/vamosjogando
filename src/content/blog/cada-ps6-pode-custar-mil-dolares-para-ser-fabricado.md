@@ -2,7 +2,7 @@
 title: 'PS6 a US$1000 de custo: O que esperar do próximo console da Sony?'
 description: 'Novos rumores sugerem que a fabricação de cada PlayStation 6 pode custar mil dólares, levantando questões sobre o preço final e o impacto no mercado de games.'
 pubDate: 'Sun Jun 28 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/cada-ps6-pode-custar-mil-dolares-para-ser-fabricado.webp'
 ogImage: '../../assets/og-cada-ps6-pode-custar-mil-dolares-para-ser-fabricado.webp'
 tags: ['Playstation', 'PS6', 'Hardware', 'Economia Gamer']
 ---
