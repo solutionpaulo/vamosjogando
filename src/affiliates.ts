@@ -63,7 +63,6 @@ export const PRODUTOS: ProdutoAfiliado[] = [
     termosBusca: ['sony wh-1000xm6', 'wh1000xm6', 'fone sony'],
   },
   {
-  {
     nome: 'DualSense Edge',
     termosBusca: ['dualsense edge', 'controle ps5', 'playstation 5 controller'],
   },
