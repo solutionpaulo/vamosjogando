@@ -2,7 +2,7 @@
 title: 'Review: SteelSeries Apex Pro TKL — O Teclado Gamer Mais Adaptável do Mercado?'
 description: 'Avaliamos o SteelSeries Apex Pro TKL, um teclado mecânico que redefine a personalização com seus switches OmniPoint 2.0. Descubra se a tecnologia de atuação ajustável e rapid trigger vale o investimento para sua jogatina competitiva e profissional.'
 pubDate: 'Mon Jun 29 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/review-steelseries-apex-pro-tkl.webp'
 ogImage: '../../assets/og-review-steelseries-apex-pro-tkl.webp'
 tags: ['Review', 'Hardware', 'SteelSeries', 'Teclado Gamer', 'Apex Pro TKL']
 ---
