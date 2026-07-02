@@ -239,7 +239,7 @@ title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
 heroImage: '${heroImage}'${ogImage ? `\nogImage: '${ogImage}'` : ''}
-tags: [${tags.map(t => `'${t}'`).join(', ')}]
+tags: [${tags.map(t => `'${escapeYAML(t)}'`).join(', ')}]
 ---
 ${article.content}${rodapeAfiliado}
 `;

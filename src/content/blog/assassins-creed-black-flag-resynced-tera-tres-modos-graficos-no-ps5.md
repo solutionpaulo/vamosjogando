@@ -4,7 +4,7 @@ description: 'A Ubisoft revelou que Assassin''s Creed Black Flag Resynced oferec
 pubDate: 'Tue Jun 30 2026'
 heroImage: '../../assets/assassins-creed-black-flag-resynced-tera-tres-modos-graficos-no-ps5.webp'
 ogImage: '../../assets/og-assassins-creed-black-flag-resynced-tera-tres-modos-graficos-no-ps5.webp'
-tags: ['Assassin's Creed', 'PlayStation 5', 'Ubisoft', 'Remake']
+tags: ['Assassin''s Creed', 'PlayStation 5', 'Ubisoft', 'Remake']
 ---
 A antecipação pelo retorno de Edward Kenway tem sido palpável, e a Ubisoft acaba de acender ainda mais essa chama com novos detalhes sobre Assassin's Creed Black Flag Resynced. Faltando poucos dias para o lançamento, a notícia mais relevante para os jogadores de PlayStation 5 é a confirmação de que o aguardado remake chegará com opções gráficas para todos os gostos, permitindo uma customização da experiência visual que se adapta às preferências de cada um.
 
