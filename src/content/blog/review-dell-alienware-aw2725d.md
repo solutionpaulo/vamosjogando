@@ -2,7 +2,7 @@
 title: 'Review: Dell Alienware AW2725D — O QD-OLED 360Hz definitivo para gamers?'
 description: 'O Alienware AW2725D eleva o padrão dos monitores gamer com seu painel QD-OLED de 360Hz e tempo de resposta de 0.03ms. Descubra se esta máquina de pixels de alta performance vale o investimento para sua jogatina competitiva.'
 pubDate: 'Fri Jul 03 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-dell-alienware-aw2725d.jpg'
 ogImage: '../../assets/og-review-dell-alienware-aw2725d.webp'
 tags: ['Review', 'Hardware', 'Alienware AW2725D', 'Monitor Gamer', 'QD-OLED']
 ---
