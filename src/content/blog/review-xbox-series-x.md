@@ -2,7 +2,7 @@
 title: 'Review: Xbox Series X — A Potência Bruta da Nova Geração'
 description: 'Analisamos o Xbox Series X, o console mais poderoso da Microsoft. Descubra como ele se posiciona no mercado brasileiro e se entrega a experiência gamer que você busca.'
 pubDate: 'Sun Jul 05 2026'
-heroImage: '../../assets/xbox-series-x-smyths.webp'
+heroImage: '../../assets/xbox-series-x-ct.webp'
 ogImage: '../../assets/og-review-xbox-series-x.webp'
 tags: ['Review', 'Hardware', 'Xbox Series X', 'Console Gamer', 'Microsoft']
 ---
