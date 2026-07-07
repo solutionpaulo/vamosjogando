@@ -2,7 +2,7 @@
 title: 'Nexus: The Jupiter Incident Grátis na GOG – Um Clássico Espacial Imperdível!'
 description: 'Aproveite a oportunidade de resgatar Nexus: The Jupiter Incident, um aclamado jogo de estratégia espacial, gratuitamente na GOG por tempo limitado. Mergulhe em batalhas táticas interplanetárias sem custo!'
 pubDate: 'Sat Jul 04 2026'
-heroImage: '../../assets/nexus-the-jupiter-incident-para-pc-de-graca-hoje-resgate-agora.webp'
+heroImage: '../../assets/nexus-jupiter-incident-game.webp'
 ogImage: '../../assets/og-nexus-the-jupiter-incident-para-pc-de-graca-hoje-resgate-agora.webp'
 tags: ['Estratégia', 'Simulador Espacial', 'GOG', 'PC Gaming']
 ---

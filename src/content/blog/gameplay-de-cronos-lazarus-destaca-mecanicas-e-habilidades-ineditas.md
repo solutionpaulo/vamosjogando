@@ -2,7 +2,7 @@
 title: 'Cronos: Lazarus Revela Gameplay Inovador e Novas Habilidades em Diário Dev'
 description: 'Um novo diário de desenvolvedor de Cronos: Lazarus mergulha fundo em mecânicas inéditas, revelando habilidades impressionantes e uma arma exclusiva do Pathfinder. Prepare-se para detalhes da história que prometem moldar esta aventura.'
 pubDate: 'Sun Jul 05 2026'
-heroImage: '../../assets/gameplay-de-cronos-lazarus-destaca-mecanicas-e-habilidades-ineditas.webp'
+heroImage: '../../assets/cronos-lazarus-game.webp'
 ogImage: '../../assets/og-gameplay-de-cronos-lazarus-destaca-mecanicas-e-habilidades-ineditas.webp'
 tags: ['RPG', 'PlayStation', 'CronosLazarus', 'ActionRPG']
 ---

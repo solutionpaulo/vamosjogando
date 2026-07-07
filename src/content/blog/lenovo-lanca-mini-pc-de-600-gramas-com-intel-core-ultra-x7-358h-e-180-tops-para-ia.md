@@ -2,7 +2,7 @@
 title: 'Lenovo YOGA AI Mini PC: O Gigante de Bolso que Promete Revolucionar!'
 description: 'A Lenovo surpreende com um mini PC de apenas 600 gramas, equipado com Intel Core Ultra X7 e impressionantes 180 TOPS para IA local. Este pequeno notável redefine o que esperamos de portabilidade e desempenho.'
 pubDate: 'Tue Jul 07 2026'
-heroImage: '../../assets/lenovo-lanca-mini-pc-de-600-gramas-com-intel-core-ultra-x7-358h-e-180-tops-para-ia.webp'
+heroImage: '../../assets/lenovo-yoga-ai-mini-product.webp'
 ogImage: '../../assets/og-lenovo-lanca-mini-pc-de-600-gramas-com-intel-core-ultra-x7-358h-e-180-tops-para-ia.webp'
 tags: ['Lenovo', 'Mini PC', 'Hardware', 'Inteligencia Artificial']
 ---
