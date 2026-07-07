@@ -2,7 +2,7 @@
 title: 'Review: Retroid Pocket 5 — A evolução do retrogaming de bolso'
 description: 'O Retroid Pocket 5 busca ser o portátil definitivo para emulação, oferecendo hardware competente e o versátil sistema Android em um formato de bolso. Descubra se ele entrega a experiência que os entusiastas de jogos retrô tanto esperam.'
 pubDate: 'Mon Jul 06 2026'
-heroImage: '../../assets/review-retroid-pocket-5.webp'
+heroImage: '../../assets/retroid-pocket-5-product.webp'
 ogImage: '../../assets/og-review-retroid-pocket-5.webp'
 tags: ['Review', 'Hardware', 'Retroid Pocket 5', 'Portátil Gamer', 'Emulação']
 ---

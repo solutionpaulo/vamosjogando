@@ -2,7 +2,7 @@
 title: 'Review: Analogue Pocket — A Experiência Premium em Jogos Retrô Portáteis'
 description: 'O Analogue Pocket é uma ode aos consoles portáteis clássicos, oferecendo uma experiência premium para jogar cartuchos originais com fidelidade impecável. Descubra se esta joia da engenharia FPGA vale o investimento para os fãs mais exigentes de retro-gaming.'
 pubDate: 'Tue Jul 07 2026'
-heroImage: '../../assets/retro-gaming-handheld.webp'
+heroImage: '../../assets/analogue-pocket-product.webp'
 ogImage: '../../assets/og-review-analogue-pocket.webp'
 tags: ['Review', 'Hardware', 'Analogue Pocket', 'Retro Gaming', 'Console Portátil']
 ---
