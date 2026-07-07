@@ -2,7 +2,7 @@
 title: 'PlayStation para todos: Sony quer sua experiência além do console!'
 description: 'A Sony está desenvolvendo uma estratégia robusta para atrair de volta os gamers que trocaram o PlayStation pelo PC. A meta é expandir a experiência da marca para muito além dos consoles tradicionais.'
 pubDate: 'Sun Jul 05 2026'
-heroImage: '../../assets/sony-tem-plano-para-reconquistar-jogadores-que-migraram-para-o-pc.webp'
+heroImage: '../../assets/playstation-logo.webp'
 ogImage: '../../assets/og-sony-tem-plano-para-reconquistar-jogadores-que-migraram-para-o-pc.webp'
 tags: ['PlayStation', 'Sony', 'PC Gaming', 'Estratégia']
 ---

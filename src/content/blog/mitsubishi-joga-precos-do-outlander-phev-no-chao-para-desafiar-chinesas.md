@@ -2,7 +2,7 @@
 title: 'Onda de Descontos Abala Mercado Gamer e Desafia Gigantes!'
 description: 'Plataformas e publishers lançam promoções agressivas para atrair jogadores, acirrando a competição no cenário dos games digitais.'
 pubDate: 'Mon Jul 06 2026'
-heroImage: '../../assets/mitsubishi-joga-precos-do-outlander-phev-no-chao-para-desafiar-chinesas.webp'
+heroImage: '../../assets/steam-logo.webp'
 ogImage: '../../assets/og-mitsubishi-joga-precos-do-outlander-phev-no-chao-para-desafiar-chinesas.webp'
 tags: ['Promoções', 'MercadoDigital', 'PCGaming', 'Consoles']
 ---

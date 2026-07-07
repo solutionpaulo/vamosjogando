@@ -2,7 +2,7 @@
 title: 'Fim da Limitação! Linux Libera Placas de Captura 4K a 60 FPS para Gamers'
 description: 'Uma aguardada correção no kernel Linux finalmente restaura o potencial de 10 Gbps para placas de captura 4K, permitindo 60 FPS em modelos populares. Entenda o impacto para streamers e criadores de conteúdo que usam o sistema do pinguim.'
 pubDate: 'Mon Jul 06 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/linux-tux.webp'
 ogImage: '../../assets/og-linux-finalmente-corrige-bug-que-limitava-placas-de-captura-4k-a-30-fps.webp'
 tags: ['Linux', 'Hardware', 'Streaming', 'Periféricos']
 ---

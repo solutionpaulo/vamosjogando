@@ -2,7 +2,7 @@
 title: 'Game Pass ou PS Plus: Qual Assinatura de Games Compensa em 2026?'
 description: 'Com a proliferação de serviços como Game Pass e PS Plus, a escolha entre assinar ou comprar jogos se tornou um dilema. Analisamos o custo-benefício e o que esperar desses modelos para o jogador brasileiro em 2026.'
 pubDate: 'Sun Jul 05 2026'
-heroImage: '../../assets/carro-por-assinatura-vale-a-pena-em-2026-fizemos-as-contas-pra-voce.webp'
+heroImage: '../../assets/xbox-logo.webp'
 ogImage: '../../assets/og-carro-por-assinatura-vale-a-pena-em-2026-fizemos-as-contas-pra-voce.webp'
 tags: ['Xbox Game Pass', 'PlayStation Plus', 'Assinaturas de Jogos', 'Mercado Gamer']
 ---

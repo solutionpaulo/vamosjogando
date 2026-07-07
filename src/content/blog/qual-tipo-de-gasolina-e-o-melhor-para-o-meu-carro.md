@@ -2,7 +2,7 @@
 title: 'PC Gamer: O Dilema da Otimização e os Requisitos Absurdos de Hardware'
 description: 'Com jogos cada vez mais exigentes, exploramos o impacto dos requisitos de hardware crescentes e a importância da otimização para a comunidade gamer brasileira.'
 pubDate: 'Sat Jul 04 2026'
-heroImage: '../../assets/qual-tipo-de-gasolina-e-o-melhor-para-o-meu-carro.webp'
+heroImage: '../../assets/pc-gaming-setup.webp'
 ogImage: '../../assets/og-qual-tipo-de-gasolina-e-o-melhor-para-o-meu-carro.webp'
 tags: ['PC Gaming', 'Hardware', 'Otimização', 'Mercado Brasileiro']
 ---

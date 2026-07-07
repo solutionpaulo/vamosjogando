@@ -2,7 +2,7 @@
 title: 'O Preço da Nostalgia: Quanto custaria seu console clássico hoje, com inflação?'
 description: 'Um exercício financeiro revela a verdadeira "fortuna" que você gastaria para ter um console lendário da sua infância, se corrigíssemos os preços pela inflação atual.'
 pubDate: 'Sun Jul 05 2026'
-heroImage: '../../assets/quanto-custaria-um-volkswagen-bora-hoje-com-a-inflacao.webp'
+heroImage: '../../assets/mega-drive-console.webp'
 ogImage: '../../assets/og-quanto-custaria-um-volkswagen-bora-hoje-com-a-inflacao.webp'
 tags: ['Colecionáveis', 'Mercado Retrô', 'Análise Financeira', 'Hardware Clássico']
 ---

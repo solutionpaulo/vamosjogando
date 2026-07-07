@@ -2,7 +2,7 @@
 title: 'Bethesda em Crise: Demissões Abalam Fundações de Elder Scrolls Online e id Tech'
 description: 'Demissões recentes na Bethesda geram incerteza sobre o futuro de franquias como Elder Scrolls Online e a capacidade inovadora da id Tech, impactando diretamente o desenvolvimento de jogos.'
 pubDate: 'Tue Jul 07 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/bethesda-logo.webp'
 ogImage: '../../assets/og-demissoes-na-bethesda-podem-acabar-com-elder-scrolls-online-a-id-tech.webp'
 tags: ['Bethesda', 'Elder Scrolls Online', 'id Tech', 'Zenimax']
 ---
