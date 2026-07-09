@@ -2,10 +2,10 @@ name: Auto Publish AI Article
 
 on:
   schedule:
-    # Noticias 4x ao dia: 00:00, 06:00, 12:00, 18:00 (Horário de Brasília = UTC-3)
-    - cron: '0 3,9,15,21 * * *'
-    # Review de hardware 1x ao dia: 09:00 (Horário de Brasília = UTC-3)
-    - cron: '0 12 * * *'
+    # Noticias 3x ao dia: 00:00, 08:00, 16:00 (Horário de Brasília = UTC-3)
+    - cron: '0 3,11,19 * * *'
+    # Review de hardware 1x ao dia: 12:00 (Horário de Brasília = UTC-3)
+    - cron: '0 15 * * *'
   workflow_dispatch:
     inputs:
       generate_news:
@@ -34,7 +34,7 @@ jobs:
   publish-news:
     if: |
       (github.event_name == 'workflow_dispatch' && inputs.generate_news) ||
-      (github.event_name == 'schedule' && github.event.schedule != '0 12 * * *')
+      (github.event_name == 'schedule' && github.event.schedule != '0 15 * * *')
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -98,7 +98,7 @@ jobs:
   publish-review:
     if: |
       (github.event_name == 'workflow_dispatch' && inputs.generate_review) ||
-      github.event.schedule == '0 12 * * *'
+      github.event.schedule == '0 15 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
