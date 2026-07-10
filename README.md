@@ -176,6 +176,48 @@ Variáveis: **Settings → Secrets and variables → Actions → Variables**
 
 ---
 
+## Domínio Personalizado (GitHub Pages)
+
+Para usar um domínio próprio (ex: `www.vamosjogando.com.br`) no lugar de `solutionpaulo.github.io/vamosjogando`:
+
+### 1. Configurar DNS (provedor do domínio)
+
+| Tipo | Nome | Valor |
+|---|---|---|
+| `CNAME` | `www` | `solutionpaulo.github.io` |
+
+Para domínio **apex** (`vamosjogando.com.br` sem www), crie 4 registros **A**:
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+E um **CNAME** de `www` → `solutionpaulo.github.io`.
+
+### 2. Configurar GitHub
+
+1. **Settings** do repositório → **Pages**
+2. Em **Custom domain**, digite `www.vamosjogando.com.br` e salve
+3. Marque **Enforce HTTPS** (após propagação do DNS)
+
+### 3. Alterar no código (após DNS propagar)
+
+**`astro.config.mjs`:**
+```js
+site: 'https://www.vamosjogando.com.br',
+base: '/',        // ou remova a linha
+```
+
+**`src/consts.ts`:**
+```ts
+export const SITE_BASE = '';
+```
+
+Se houver URLs fixas em RSS ou sitemap, atualize também para `https://www.vamosjogando.com.br`.
+
+---
+
 ## Padrão de Commits
 
 ```

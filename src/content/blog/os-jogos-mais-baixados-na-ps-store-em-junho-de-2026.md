@@ -2,7 +2,7 @@
 title: 'EA Sports FC 26 Domina! PS Store Revela Top de Downloads de Junho/26'
 description: 'A PlayStation Store divulgou a lista dos jogos mais baixados em junho de 2026, com EA Sports FC 26 no topo. Resident Evil 4 e 007 First Light também se destacam, indicando as preferências dos gamers.'
 pubDate: 'Fri Jul 10 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/os-jogos-mais-baixados-na-ps-store-em-junho-de-2026.webp'
 ogImage: '../../assets/og-os-jogos-mais-baixados-na-ps-store-em-junho-de-2026.webp'
 tags: ['PlayStation', 'EA Sports FC', 'Resident Evil', 'Jogos Mais Baixados']
 ---
