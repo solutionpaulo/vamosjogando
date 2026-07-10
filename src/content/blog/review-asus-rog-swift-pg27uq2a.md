@@ -2,7 +2,7 @@
 title: 'Review: ASUS ROG Swift PG27UQ2A — A Imagem Perfeita no 4K?'
 description: 'O ASUS ROG Swift PG27UQ2A é um monitor gamer premium que combina resolução 4K, 144Hz e HDR com G-Sync Ultimate. Analisamos se este monitor de ponta vale o investimento para a melhor experiência visual.'
 pubDate: 'Sat Jul 04 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-asus-rog-swift-pg27uq2a.webp'
 ogImage: '../../assets/og-review-asus-rog-swift-pg27uq2a.webp'
 tags: ['Review', 'Hardware', 'ASUS ROG Swift PG27UQ2A', 'Monitor 4K', 'G-Sync']
 ---
