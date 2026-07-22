@@ -2,8 +2,8 @@
 title: 'Importações Batem Recorde Pós-Isenção: O Que Isso Significa para o Gamer?'
 description: 'Com o fim da taxa federal em compras internacionais, o Brasil registrou um recorde histórico de importações. Entenda como essa mudança pode beneficiar a comunidade gamer brasileira.'
 pubDate: 'Tue Jul 21 2026'
-heroImage: '../../assets/importacoes-batem-recorde-no-brasil-apos-fim-da-cobranca-de-imposto-federal.webp'
-ogImage: '../../assets/og-importacoes-batem-recorde-no-brasil-apos-fim-da-cobranca-de-imposto-federal.webp'
+heroImage: '../../assets/importacoes-correios.webp'
+ogImage: '../../assets/importacoes-correios.webp'
 tags: ['Mercado Gamer', 'Importação', 'Economia', 'Compras Online']
 ---
 O cenário de importações no Brasil ganhou um novo capítulo após o fim da cobrança do imposto federal para compras internacionais de até US$ 50. Dados recentes da Receita Federal revelam um aumento expressivo, com 28 milhões de encomendas registradas em junho, um recorde histórico. Para a comunidade gamer, que frequentemente busca produtos exclusivos, acessórios e jogos com preços mais competitivos fora do país, essa mudança pode representar uma janela de oportunidades e desafios. Mas, afinal, o que o fim da “taxa das blusinhas” significa na prática para quem vive e respira o mundo dos games?

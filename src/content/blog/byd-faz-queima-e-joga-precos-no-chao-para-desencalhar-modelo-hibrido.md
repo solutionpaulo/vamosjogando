@@ -2,8 +2,8 @@
 title: '"Caminho do Dragão": Preço Despenca em Última Tentativa de Conquistar Gamers!'
 description: 'O ambicioso RPG "Caminho do Dragão", que não engrenou nas vendas por seu alto preço inicial, agora recebe um corte brutal para atrair novos jogadores. Esta é a oportunidade perfeita para explorar seu vasto mundo.'
 pubDate: 'Tue Jul 21 2026'
-heroImage: '../../assets/byd-faz-queima-e-joga-precos-no-chao-para-desencalhar-modelo-hibrido.webp'
-ogImage: '../../assets/og-byd-faz-queima-e-joga-precos-no-chao-para-desencalhar-modelo-hibrido.webp'
+heroImage: '../../assets/caminho-dragao.webp'
+ogImage: '../../assets/caminho-dragao.webp'
 tags: ['RPG', 'Open World', 'Descontos', 'PC Gaming']
 ---
 O universo dos games é um campo de batalha, não apenas entre jogadores, mas também entre os próprios títulos disputando a atenção e o bolso do público. Lançamentos com alto potencial podem tropeçar por diversos motivos, e um deles é a estratégia de precificação. É o que parece ter acontecido com "Caminho do Dragão", um RPG de mundo aberto que prometia muito, mas não conseguiu deslanchar desde sua estreia.

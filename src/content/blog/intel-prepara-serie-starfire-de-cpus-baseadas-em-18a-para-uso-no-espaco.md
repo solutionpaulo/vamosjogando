@@ -2,8 +2,8 @@
 title: 'Intel Starfire: CPUs Rumo ao Espaço com Resistência Inovadora'
 description: 'A Intel prepara a série Starfire de processadores, focada em durabilidade extrema para missões espaciais. Conheça a tecnologia 18A que desafia as condições mais hostis do universo.'
 pubDate: 'Mon Jul 13 2026'
-heroImage: '../../assets/intel-prepara-serie-starfire-de-cpus-baseadas-em-18a-para-uso-no-espaco.webp'
-ogImage: '../../assets/og-intel-prepara-serie-starfire-de-cpus-baseadas-em-18a-para-uso-no-espaco.webp'
+heroImage: '../../assets/intel-logo.webp'
+ogImage: '../../assets/intel-logo.webp'
 tags: ['Intel', 'Hardware', 'Tecnologia', 'CPUs']
 ---
 A Intel, gigante no mundo dos semicondutores e peça fundamental para o coração de muitos PCs gamers, está olhando para além do horizonte terrestre. A empresa anunciou a série Starfire de CPUs, processadores desenhados não para a potência bruta que tanto buscamos em nossos rigs, mas para a resiliência inigualável em um dos ambientes mais hostis conhecidos: o espaço sideral. Este movimento sublinha a capacidade de inovação da Intel em frentes que vão muito além do desktop.

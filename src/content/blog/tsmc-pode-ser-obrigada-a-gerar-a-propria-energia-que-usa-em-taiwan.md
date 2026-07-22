@@ -2,8 +2,8 @@
 title: 'Energia Própria: O Desafio da TSMC e o Preço dos Seus Games'
 description: 'Taiwan pode obrigar a TSMC a gerar sua própria energia, o que levanta questões sobre o futuro da produção de chips e seus possíveis impactos no custo do hardware gamer globalmente.'
 pubDate: 'Mon Jul 20 2026'
-heroImage: '../../assets/tsmc-pode-ser-obrigada-a-gerar-a-propria-energia-que-usa-em-taiwan.webp'
-ogImage: '../../assets/og-tsmc-pode-ser-obrigada-a-gerar-a-propria-energia-que-usa-em-taiwan.webp'
+heroImage: '../../assets/tsmc-logo.webp'
+ogImage: '../../assets/tsmc-logo.webp'
 tags: ['Hardware', 'Semicondutores', 'TSMC', 'Mercado Gamer']
 ---
 A TSMC, gigante taiwanesa e pilar da indústria de semicondutores, é a mente por trás dos chips que alimentam seus consoles PlayStation, Xbox, e as placas de vídeo NVIDIA e AMD. Imagine a força que move o mundo dos games – ela vem de lá. Agora, essa máquina pode enfrentar um novo e significativo desafio: gerar a própria energia que consome, uma medida que pode reverberar diretamente no seu bolso e no futuro do hardware gamer.

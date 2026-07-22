@@ -2,8 +2,8 @@
 title: 'Qual Console Vale Mais a Pena em 2026? Análise de Custo-Benefício!'
 description: 'Com o cenário de games em constante evolução, desvendamos qual console de última geração oferece o melhor retorno para o seu investimento a longo prazo, considerando jogos, serviços e hardware.'
 pubDate: 'Sat Jul 11 2026'
-heroImage: '../../assets/quais-sao-os-carros-com-manutencao-mais-barata-do-brasil-em-2026.webp'
-ogImage: '../../assets/og-quais-sao-os-carros-com-manutencao-mais-barata-do-brasil-em-2026.webp'
+heroImage: '../../assets/comparacao-consoles.webp'
+ogImage: '../../assets/comparacao-consoles.webp'
 tags: ['PlayStation', 'Xbox', 'Nintendo', 'Consoles']
 ---
 A decisão de investir em um console de última geração vai muito além do preço de etiqueta. Em um mercado brasileiro desafiador, entender o custo-benefício a longo prazo é crucial para qualquer gamer. Afinal, qual plataforma oferece a melhor experiência sem pesar demais no bolso ao longo dos anos, considerando não só o hardware, mas também o acesso a jogos e serviços?

@@ -2,8 +2,8 @@
 title: 'Nuuvem: "New Game+" Traz Ofertas Imperdíveis em Jogos de PC!'
 description: 'A Nuuvem lança a promoção "New Game+", oferecendo uma lista de jogos de PC com descontos significativos por tempo limitado. É a chance perfeita para expandir sua biblioteca sem pesar no bolso.'
 pubDate: 'Sun Jul 12 2026'
-heroImage: '../../assets/jogos-de-pc-em-oferta-na-nuuvem-promocao-new-game.webp'
-ogImage: '../../assets/og-jogos-de-pc-em-oferta-na-nuuvem-promocao-new-game.webp'
+heroImage: '../../assets/nuuvem-logo-hero.webp'
+ogImage: '../../assets/nuuvem-logo-hero.webp'
 tags: ['Nuuvem', 'PC Gaming', 'Promoções', 'Descontos']
 ---
 A cada nova temporada, o mercado de games nos surpreende com lançamentos espetaculares e, para a alegria dos jogadores brasileiros, promoções que tornam esses títulos mais acessíveis. A Nuuvem, uma das plataformas digitais mais queridas no Brasil, acaba de anunciar sua mais recente campanha de ofertas, a "New Game+", prometendo agitar a comunidade de PC gamers com descontos generosos.

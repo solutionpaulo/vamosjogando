@@ -2,8 +2,8 @@
 title: 'GOG Libera Mega Saldão de Jogos PC com Descontos de até 94%!'
 description: 'A GOG está com um saldão imperdível de jogos de PC, oferecendo descontos de até 94% em diversos títulos clássicos e contemporâneos. Aproveite as ofertas por tempo limitado e expanda sua biblioteca de games.'
 pubDate: 'Thu Jul 16 2026'
-heroImage: '../../assets/jogos-de-pc-em-oferta-na-gog-com-ate-94percent-de-desconto-nesta-semana.webp'
-ogImage: '../../assets/og-jogos-de-pc-em-oferta-na-gog-com-ate-94percent-de-desconto-nesta-semana.webp'
+heroImage: '../../assets/gog-logo-hero.webp'
+ogImage: '../../assets/gog-logo-hero.webp'
 tags: ['GOG', 'PC Gaming', 'Promoção', 'Saldão']
 ---
 Para os aficionados por jogos de PC, a semana reserva uma excelente oportunidade de expandir a biblioteca digital sem esvaziar a carteira. A Good Old Games (GOG), conhecida por sua política de DRM-free e curadoria de clássicos, acaba de lançar um mega saldão com descontos que chegam a incríveis 94% em uma vasta seleção de títulos. É o momento perfeito para caçar aquelas pérolas que você sempre quis jogar ou revisitar grandes clássicos.

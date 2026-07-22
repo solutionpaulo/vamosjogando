@@ -2,8 +2,8 @@
 title: 'Sussurros da Mata: O Terror Nacional Ganha Voz e Traz Arrepios ao Brasil'
 description: 'Prepare-se para imergir no folclore brasileiro como nunca antes. "Sussurros da Mata", o novo jogo de terror, promete uma experiência arrepiante e autenticamente nacional.'
 pubDate: 'Sat Jul 18 2026'
-heroImage: '../../assets/nissan-kait-fica-com-precos-no-chao-em-julho-mas-nao-para-todo-mundo.webp'
-ogImage: '../../assets/og-nissan-kait-fica-com-precos-no-chao-em-julho-mas-nao-para-todo-mundo.webp'
+heroImage: '../../assets/sussurros-mata-hero.webp'
+ogImage: '../../assets/sussurros-mata-hero.webp'
 tags: ['Terror', 'Indie', 'Folclore', 'Brasil']
 ---
 A cena de desenvolvimento de jogos no Brasil está mais vibrante do que nunca, e com ela, cresce a expectativa por títulos que não apenas entretenham, mas que também celebrem nossa rica cultura. É nesse cenário que surge "Sussurros da Mata", um jogo de terror que promete levar os jogadores a uma imersão profunda e assustadora no coração do folclore brasileiro, após a revelação de seu aguardado trailer.
