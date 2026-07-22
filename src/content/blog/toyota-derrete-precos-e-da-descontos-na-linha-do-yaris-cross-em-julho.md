@@ -2,8 +2,8 @@
 title: 'Mega Descontos: Grandes Títulos e Consoles Acessíveis em Promoção!'
 description: 'Uma onda de promoções arrasadoras atingiu o mercado de games, tornando consoles e títulos AAA mais acessíveis do que nunca. Descubra como aproveitar esses ''preços derretidos'' e expandir sua biblioteca sem pesar no bolso.'
 pubDate: 'Mon Jul 20 2026'
-heroImage: '../../assets/mega-descontos.webp'
-ogImage: '../../assets/mega-descontos.webp'
+heroImage: '../../assets/switch-oled-hero.webp'
+ogImage: '../../assets/switch-oled-hero.webp'
 tags: ['Promoções', 'Consoles', 'GamesAAA', 'Hardware']
 ---
 Em um movimento que pegou a indústria de surpresa, grandes players do cenário gamer anunciaram descontos agressivos em seus catálogos e hardware selecionados. Essa iniciativa visa ampliar o acesso a experiências premium, beneficiando milhares de jogadores brasileiros ávidos por novidades.

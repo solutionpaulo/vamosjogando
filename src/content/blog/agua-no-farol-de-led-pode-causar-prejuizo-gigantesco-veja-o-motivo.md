@@ -2,8 +2,8 @@
 title: 'Umidade e Hardware Gamer: Proteja Seu Setup do Inimigo Invisível!'
 description: 'Seu setup gamer de ponta está em risco? Entenda como a umidade pode ser um inimigo silencioso, causando danos irreversíveis a componentes como LEDs e placas, e como se proteger de prejuízos que forçam a troca completa.'
 pubDate: 'Sat Jul 11 2026'
-heroImage: '../../assets/umidade-hardware.webp'
-ogImage: '../../assets/umidade-hardware.webp'
+heroImage: '../../assets/water-damage.webp'
+ogImage: '../../assets/water-damage.webp'
 tags: ['Hardware', 'PCGamer', 'Manutenção', 'Periféricos']
 ---
 No universo gamer, investimos tempo e dinheiro em máquinas potentes e periféricos de última geração, muitas vezes adornados com LEDs RGB que elevam a experiência visual. Mas, assim como acontece com tecnologias automotivas sofisticadas, como os faróis de LED de carros modernos, existe um inimigo silencioso que pode comprometer todo esse investimento: a umidade. Mais do que um simples incômodo visual, a infiltração de água ou o excesso de umidade no ambiente podem levar a prejuízos catastróficos, exigindo reparos caríssimos ou até a substituição completa de componentes.
