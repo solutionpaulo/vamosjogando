@@ -2,7 +2,7 @@
 title: 'Review: Galaxy S25 Ultra — A Consolidação da Excelência Android'
 description: 'Analisamos o Samsung Galaxy S25 Ultra, o flagship que promete redefinir a experiência móvel com hardware de ponta e recursos inovadores. Descubra se este gigante tecnológico justifica seu investimento para usuários exigentes.'
 pubDate: 'Mon Jul 13 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-galaxy-s25-ultra.webp'
 ogImage: '../../assets/og-review-galaxy-s25-ultra.webp'
 tags: ['Review', 'Hardware', 'Galaxy S25 Ultra', 'Smartphone Gamer', 'Celular Premium']
 ---

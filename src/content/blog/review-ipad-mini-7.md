@@ -2,7 +2,7 @@
 title: 'Review: iPad Mini 7 — O Poder no Formato Compacto Ideal para Mobilidade'
 description: 'O iPad Mini 7 eleva a experiência compacta a um novo nível com seu desempenho aprimorado e portabilidade incomparável. Descubra se este pequeno gigante da Apple é o companheiro ideal para suas tarefas e entretenimento.'
 pubDate: 'Wed Jul 15 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-ipad-mini-7.webp'
 ogImage: '../../assets/og-review-ipad-mini-7.webp'
 tags: ['Review', 'Hardware', 'Apple', 'iPad Mini 7', 'Tablet']
 ---
