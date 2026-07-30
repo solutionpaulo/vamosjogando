@@ -2,7 +2,7 @@
 title: 'Marvel Tokon no PC: Beta Decepciona e Levanta Preocupações com Otimização'
 description: 'O beta de Marvel Tokon no PC tem frustrado jogadores com problemas severos de desempenho, mesmo em configurações de hardware potentes. Isso acende um alerta sobre a otimização do jogo antes do lançamento oficial.'
 pubDate: 'Mon Jul 27 2026'
-heroImage: '../../assets/beta-de-marvel-tokon-e-marcado-pelo-desempenho-horrivel-na-versao-pc.webp'
+heroImage: '../../assets/marvel-tokon-fighting-souls-revela-abertura-oficial-assista-agora.webp'
 ogImage: '../../assets/og-beta-de-marvel-tokon-e-marcado-pelo-desempenho-horrivel-na-versao-pc.webp'
 tags: ['Marvel Tokon', 'PC Gaming', 'Otimização', 'Beta']
 ---

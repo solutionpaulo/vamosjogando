@@ -2,7 +2,7 @@
 title: 'Riot Games Revive a Magia: League Classic Celebra Lançamento em 16 LAN Parties'
 description: 'A Riot Games mergulha na nostalgia e promove 16 LAN parties gratuitas em diversas cidades brasileiras, marcando a estreia do League Classic com campeonatos e brindes exclusivos.'
 pubDate: 'Tue Jul 28 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/og-riot-games-promove-16-lan-parties-para-celebrar-estreia-do-league-classic-no-brasil.webp'
 ogImage: '../../assets/og-riot-games-promove-16-lan-parties-para-celebrar-estreia-do-league-classic-no-brasil.webp'
 tags: ['LeagueOfLegends', 'RiotGames', 'MOBA', 'EventosGaming']
 ---

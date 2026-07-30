@@ -2,7 +2,7 @@
 title: 'The Blood of Dawnwalker: Pré-Venda da Edição Steelbook com Desconto Brutal!'
 description: 'Gamers brasileiros podem garantir a cobiçada edição física steelbook de The Blood of Dawnwalker com um desconto imperdível na pré-venda. Descubra como aproveitar essa oferta exclusiva e adicionar um item de colecionador à sua estante.'
 pubDate: 'Tue Jul 28 2026'
-heroImage: '../../assets/pre-venda-de-the-blood-of-dawnwalker-com-steelbook-ganha-descontaco-com-cupons.webp'
+heroImage: '../../assets/the-blood-of-dawnwalker-tera-tempo-dinamico-e-decisoes-que-importam.webp'
 ogImage: '../../assets/og-pre-venda-de-the-blood-of-dawnwalker-com-steelbook-ganha-descontaco-com-cupons.webp'
 tags: ['The Blood of Dawnwalker', 'Edição Steelbook', 'Colecionáveis', 'Promoções']
 ---

@@ -2,7 +2,7 @@
 title: 'O Fenômeno Mobile: Como o Celular Redefine o Jogo no Brasil'
 description: 'Explore como o gaming mobile se tornou uma força dominante no Brasil, transformando hábitos e desafiando o mercado tradicional de consoles e PCs. Analisamos o impacto dessa revolução.'
 pubDate: 'Sat Jul 25 2026'
-heroImage: '../../assets/byd-reina-em-lista-de-hibridos-e-eletricos-mais-vendidos-do-1-semestre-no-brasil.webp'
+heroImage: '../../assets/celular-gamer-da-xiaomi-ganha-data-de-lancamento-oficial-veja-o-que-ja-sabemos.webp'
 ogImage: '../../assets/og-byd-reina-em-lista-de-hibridos-e-eletricos-mais-vendidos-do-1-semestre-no-brasil.webp'
 tags: ['MobileGaming', 'MercadoBrasileiro', 'Tendências', 'Análise']
 ---

@@ -2,7 +2,7 @@
 title: 'RTX 3050 em 2026: Notebook gamer chinês desafia a lógica do mercado!'
 description: 'Uma fabricante chinesa lançou um notebook gamer em 2026 com a desatualizada RTX 3050, gerando questionamentos sobre sua estratégia de mercado. Descubra os detalhes dessa configuração peculiar e o que ela significa para o segmento.'
 pubDate: 'Tue Jul 28 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/og-fabricante-chinesa-lanca-notebook-gamer-com-geforce-rtx-3050-em-pleno-2026.webp'
 ogImage: '../../assets/og-fabricante-chinesa-lanca-notebook-gamer-com-geforce-rtx-3050-em-pleno-2026.webp'
 tags: ['Notebook Gamer', 'Hardware', 'NVIDIA', 'Mechrevo']
 ---
