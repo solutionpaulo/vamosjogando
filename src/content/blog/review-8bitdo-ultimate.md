@@ -2,7 +2,7 @@
 title: 'Review: 8BitDo Ultimate — Versatilidade e customização em um só controle'
 description: 'O 8BitDo Ultimate Bluetooth oferece versatilidade premium para Switch e PC, combinando design clássico com recursos modernos e um prático dock. Descubra se este é o controle ideal para quem busca performance e customização a um preço justo.'
 pubDate: 'Fri Jul 24 2026'
-heroImage: '../../assets/review-8bitdo-ultimate.webp'
+heroImage: '../../assets/8bitdo-ultimate-white.png'
 ogImage: '../../assets/og-review-8bitdo-ultimate.webp'
 tags: ['Review', 'Hardware', '8BitDo Ultimate', 'Controle Gamer', 'Periféricos Gamer']
 ---
