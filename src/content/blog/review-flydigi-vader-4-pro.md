@@ -4,7 +4,7 @@ title: 'Review: Flydigi Vader 4 Pro
 	O Controle Gamer Completo para PC e Switch'
 description: 'O Flydigi Vader 4 Pro é um controle robusto e repleto de recursos, ideal para gamers de PC e Nintendo Switch que buscam durabilidade com Hall Effect e alta personalização.'
 pubDate: 'Sun Jul 26 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/og-review-flydigi-vader-4-pro.webp'
 ogImage: '../../assets/og-review-flydigi-vader-4-pro.webp'
 tags: ['Review', 'Hardware', 'Flydigi', 'Controle Gamer', 'Vader 4 Pro']
 ---

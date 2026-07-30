@@ -2,7 +2,7 @@
 title: 'Review: Gulikit KK3 — O Controle Premium sem Drift para Gamers Exigentes'
 description: 'Avaliamos o Gulikit KK3, o controle premium que promete o fim do temido drift com seus joysticks Hall Effect. Descubra se ele é o investimento ideal para sua gameplay.'
 pubDate: 'Sat Jul 25 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/og-review-gulikit-kk3.webp'
 ogImage: '../../assets/og-review-gulikit-kk3.webp'
 tags: ['Review', 'Hardware', 'Gulikit KK3', 'Controle Gamer', 'Periféricos']
 ---
