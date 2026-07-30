@@ -2,7 +2,7 @@
 title: 'Review: Beyerdynamic DT 900 Pro X — Imersão Sonora de Estúdio para Gamers e Audiófilos'
 description: 'Analisamos o Beyerdynamic DT 900 Pro X, um fone de ouvido aberto com drivers STELLAR.45 que entrega clareza e palco sonoro excepcionais. É a escolha ideal para gamers e produtores que buscam fidelidade de áudio sem compromissos.'
 pubDate: 'Wed Jul 29 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-beyerdynamic-dt-900-pro-x.jpg'
 ogImage: '../../assets/og-review-beyerdynamic-dt-900-pro-x.webp'
 tags: ['Review', 'Hardware', 'Beyerdynamic DT 900 Pro X', 'Fone de Ouvido', 'Áudio Gamer']
 ---

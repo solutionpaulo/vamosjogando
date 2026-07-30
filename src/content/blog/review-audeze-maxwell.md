@@ -2,7 +2,7 @@
 title: 'Review: Audeze Maxwell — O Som Planar Magnético sem Fio Perfeito para Gamers?'
 description: 'O Audeze Maxwell redefine o áudio sem fio para jogos com seus drivers planares magnéticos de alta fidelidade e bateria de 80 horas. Descubra se este headset premium vale o investimento para sua imersão sonora.'
 pubDate: 'Tue Jul 28 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-audeze-maxwell.jpg'
 ogImage: '../../assets/og-review-audeze-maxwell.webp'
 tags: ['Review', 'Hardware', 'Audeze Maxwell', 'Headset Gamer', 'Áudio']
 ---

@@ -2,7 +2,7 @@
 title: 'Review: Victrix Pro BFG — O Controle Modular Definitivo para Esportes Eletrônicos'
 description: 'Analisamos o Victrix Pro BFG, um controle modular e premium focado em performance competitiva. Descubra se sua versatilidade e preço justificam o investimento para jogadores exigentes.'
 pubDate: 'Mon Jul 27 2026'
-heroImage: '../../assets/review-victrix-pro-bfg.webp'
+heroImage: '../../assets/review-victrix-pro-bfg.jpg'
 ogImage: '../../assets/og-review-victrix-pro-bfg.webp'
 tags: ['Review', 'Hardware', 'Victrix Pro BFG', 'Controle Gamer', 'Periféricos Gamer']
 ---
