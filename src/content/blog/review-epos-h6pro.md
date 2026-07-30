@@ -2,7 +2,7 @@
 title: 'Review: EPOS H6Pro — Fidelidade Sonora e Conforto Premium para Gamers'
 description: 'O EPOS H6Pro oferece uma experiência de áudio imersiva e conforto excepcional para longas sessões de jogo, justificando seu preço premium com construção robusta e som de alta qualidade.'
 pubDate: 'Thu Jul 30 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-epos-h6pro.jpg'
 ogImage: '../../assets/og-review-epos-h6pro.webp'
 tags: ['Review', 'Hardware', 'EPOS H6Pro', 'Headset Gamer', 'Áudio Gamer']
 ---
