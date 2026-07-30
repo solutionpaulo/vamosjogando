@@ -2,7 +2,7 @@
 title: 'Steam Transforma Presentear e Listas de Desejos: Adeus Erros, Olá Organização!'
 description: 'As novas funções de presentear e a organização por categorias na lista de desejos do Steam prometem simplificar a compra de jogos e a gestão dos seus próximos títulos, tornando a experiência mais fluida para todos.'
 pubDate: 'Thu Jul 23 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/steam-logo.webp'
 ogImage: '../../assets/og-steam-facilita-presentes-e-ganha-nova-lista-de-desejos-com-categorias-personalizadas.webp'
 tags: ['Steam', 'PC Gaming', 'Atualização', 'Plataformas Digitais']
 ---

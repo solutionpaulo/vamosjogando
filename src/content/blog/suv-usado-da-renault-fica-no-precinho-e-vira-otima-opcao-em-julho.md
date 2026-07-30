@@ -2,7 +2,7 @@
 title: 'The Witcher 3: Por que o RPG épico ainda é a melhor compra de julho?'
 description: 'Com preços imperdíveis em julho, The Witcher 3 prova que um clássico pode ser a melhor escolha para quem busca aventura, conteúdo e economia. Descubra os motivos para mergulhar neste universo premiado.'
 pubDate: 'Fri Jul 24 2026'
-heroImage: '../../assets/suv-usado-da-renault-fica-no-precinho-e-vira-otima-opcao-em-julho.webp'
+heroImage: '../../assets/the-witcher-3-vendeu-65-milhoes-de-copias-songs-of-the-past-vai-ser-mostrado-na-gamescom.png'
 ogImage: '../../assets/og-suv-usado-da-renault-fica-no-precinho-e-vira-otima-opcao-em-julho.webp'
 tags: ['RPG', 'TheWitcher3', 'CDProjektRed', 'Promoções']
 ---

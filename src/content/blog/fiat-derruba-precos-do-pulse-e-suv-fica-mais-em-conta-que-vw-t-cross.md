@@ -2,7 +2,7 @@
 title: 'PlayStation 5 Slim com Descontos Históricos: PS5 Pro a Caminho?'
 description: 'Lojas brasileiras iniciam uma queima de estoque agressiva do PS5 Slim, oferecendo descontos significativos que podem sinalizar a chegada iminente da aguardada versão Pro.'
 pubDate: 'Thu Jul 23 2026'
-heroImage: '../../assets/fiat-derruba-precos-do-pulse-e-suv-fica-mais-em-conta-que-vw-t-cross.webp'
+heroImage: '../../assets/playstation-logo.webp'
 ogImage: '../../assets/og-fiat-derruba-precos-do-pulse-e-suv-fica-mais-em-conta-que-vw-t-cross.webp'
 tags: ['Playstation', 'PS5', 'Hardware', 'Promoções']
 ---

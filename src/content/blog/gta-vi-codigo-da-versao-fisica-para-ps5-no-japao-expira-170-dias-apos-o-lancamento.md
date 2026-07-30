@@ -2,7 +2,7 @@
 title: 'GTA VI: Códigos Físicos do PS5 no Japão Expiram em 170 Dias – O Que Significa?'
 description: 'A versão física de GTA VI para PS5 no Japão terá códigos que expiram 170 dias após o lançamento. Entenda as implicações dessa medida e o impacto para jogadores brasileiros.'
 pubDate: 'Fri Jul 24 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/og-gta-vi-codigo-da-versao-fisica-para-ps5-no-japao-expira-170-dias-apos-o-lancamento.webp'
 ogImage: '../../assets/og-gta-vi-codigo-da-versao-fisica-para-ps5-no-japao-expira-170-dias-apos-o-lancamento.webp'
 tags: ['GTA VI', 'Playstation', 'RockstarGames', 'MercadoDeGames']
 ---
