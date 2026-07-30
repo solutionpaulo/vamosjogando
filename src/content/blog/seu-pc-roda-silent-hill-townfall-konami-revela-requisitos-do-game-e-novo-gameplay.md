@@ -2,7 +2,7 @@
 title: 'Silent Hill: Townfall - Seu PC Grita ou Roda Liso? Requisitos e Gameplay Revelados!'
 description: 'A Konami detalha as exigências para rodar Silent Hill: Townfall no PC, apresentando uma disparidade notável entre configurações mínimas e recomendadas, além de um novo trailer de gameplay. Prepare-se para avaliar seu hardware e mergulhar no terror psicológico.'
 pubDate: 'Thu Jul 30 2026'
-heroImage: '../../assets/og-seu-pc-roda-silent-hill-townfall-konami-revela-requisitos-do-game-e-novo-gameplay.webp'
+heroImage: '../../assets/seu-pc-roda-silent-hill-townfall-konami-revela-requisitos-do-game-e-novo-gameplay.webp'
 ogImage: '../../assets/og-seu-pc-roda-silent-hill-townfall-konami-revela-requisitos-do-game-e-novo-gameplay.webp'
 tags: ['Silent Hill', 'Survival Horror', 'PC Gaming', 'Konami']
 ---
