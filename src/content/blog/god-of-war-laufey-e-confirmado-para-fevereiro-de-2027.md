@@ -2,7 +2,7 @@
 title: 'A Saga Continua: God of War Laufey Anunciado para Fevereiro de 2027!'
 description: 'God of War Laufey teve sua data de lançamento confirmada para fevereiro de 2027 durante a San Diego Comic-Con, indicando que o próximo capítulo da saga já está em desenvolvimento adiantado.'
 pubDate: 'Sat Jul 25 2026'
-heroImage: '../../assets/og-god-of-war-laufey-e-confirmado-para-fevereiro-de-2027.webp'
+heroImage: '../../assets/god-of-war-laufey-promete-a-historia-mais-surreal-de-toda-a-serie.jpg'
 ogImage: '../../assets/og-god-of-war-laufey-e-confirmado-para-fevereiro-de-2027.webp'
 tags: ['Playstation', 'GodofWar', 'AçãoAventura', 'SonySantaMonica']
 ---
