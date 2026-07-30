@@ -2,7 +2,7 @@
 title: 'RTX 50 Mais Caras na China: O Que Muda para o Gamer Brasileiro?'
 description: 'MSI e Colorful anunciam reajuste para as GeForce RTX 50 na China, com modelos de 16GB ficando mais caros. Entenda por que essa alta não se traduz diretamente para o mercado brasileiro de hardware.'
 pubDate: 'Wed Jul 29 2026'
-heroImage: '../../assets/msi-e-colorful-aumentam-precos-das-geforce-rtx-50-rtx-5070-ti-sobe-para-38percent-acima-do-msrp.webp'
+heroImage: '../../assets/review-nvidia-rtx-5080.webp'
 ogImage: '../../assets/og-msi-e-colorful-aumentam-precos-das-geforce-rtx-50-rtx-5070-ti-sobe-para-38percent-acima-do-msrp.webp'
 tags: ['NVIDIA', 'Hardware', 'RTX 50', 'Placas de Vídeo']
 ---

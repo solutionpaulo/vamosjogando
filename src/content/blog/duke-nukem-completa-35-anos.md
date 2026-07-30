@@ -2,7 +2,7 @@
 title: 'Duke Nukem Completa 35 Anos: A Origem de um Ícone Polêmico'
 description: 'Descubra como o primeiro Duke Nukem, lançado há 35 anos para MS-DOS, moldou um ícone dos games com sua ação sidescroller e inovadora distribuição shareware. Relembramos as raízes de uma franquia que marcou gerações.'
 pubDate: 'Tue Jul 28 2026'
-heroImage: '../../assets/duke-nukem-completa-35-anos.webp'
+heroImage: '../../assets/og-duke-nukem-completa-35-anos.webp'
 ogImage: '../../assets/og-duke-nukem-completa-35-anos.webp'
 tags: ['Duke Nukem', 'Apogee Software', 'MS-DOS', 'Games Clássicos']
 ---
