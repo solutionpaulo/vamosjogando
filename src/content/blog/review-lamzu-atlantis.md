@@ -2,7 +2,7 @@
 title: 'Review: Lamzu Atlantis — O Mouse Ultraleve que Desafia os Grandes do FPS'
 description: 'Analisamos o Lamzu Atlantis, um mouse que promete alta performance com seu design ultraleve e sensor preciso. Descubra se este periférico importado vale o investimento para suas gameplays competitivas.'
 pubDate: 'Tue Aug 04 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-lamzu-atlantis.webp'
 ogImage: '../../assets/og-review-lamzu-atlantis.webp'
 tags: ['Review', 'Hardware', 'Lamzu Atlantis', 'Mouse Gamer', 'Periféricos Gamer']
 ---

@@ -2,7 +2,7 @@
 title: 'Review: Razer Huntsman V3 Pro — A Precisão Óptica Analógica Reinventada'
 description: 'Analisamos o Razer Huntsman V3 Pro, um teclado gamer de alto desempenho com switches ópticos analógicos ajustáveis e Rapid Trigger. Descubra se esta máquina de precisão vale o investimento para elevar seu gameplay.'
 pubDate: 'Mon Aug 03 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-razer-huntsman-v3-pro.webp'
 ogImage: '../../assets/og-review-razer-huntsman-v3-pro.webp'
 tags: ['Review', 'Hardware', 'Razer Huntsman V3 Pro', 'Teclado Gamer', 'Periféricos Gamer']
 ---

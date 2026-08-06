@@ -2,7 +2,7 @@
 title: 'Review: Keychron Q3 — O Teclado Mecânico Premium para Entusiastas'
 description: 'O Keychron Q3 é um teclado mecânico que redefine a experiência de digitação com sua construção robusta em alumínio, montagem gasket e total personalização QMK/VIA. Ideal para quem busca qualidade e customização de alto nível.'
 pubDate: 'Sun Aug 02 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-keychron-q3.webp'
 ogImage: '../../assets/og-review-keychron-q3.webp'
 tags: ['Review', 'Hardware', 'Keychron Q3', 'Teclado Mecânico', 'Custom Keyboard']
 ---

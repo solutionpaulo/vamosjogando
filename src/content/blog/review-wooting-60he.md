@@ -2,7 +2,7 @@
 title: 'Review: Wooting 60HE — O Teclado Gamer com Resposta Instantânea e Precisão Analógica'
 description: 'Analisamos o Wooting 60HE, o teclado 60% que promete latência zero e acionamento personalizável. Descubra se a tecnologia analógica hall effect é o futuro dos esports no Brasil.'
 pubDate: 'Fri Jul 31 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-wooting-60he.webp'
 ogImage: '../../assets/og-review-wooting-60he.webp'
 tags: ['Review', 'Hardware', 'Wooting', 'Teclado Gamer', 'Periféricos Gamer']
 ---
