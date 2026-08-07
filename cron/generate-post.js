@@ -239,6 +239,7 @@ title: '${escapeYAML(article.title)}'
 description: '${escapeYAML(article.description)}'
 pubDate: '${new Date().toDateString()}'
 heroImage: '${heroImage}'${ogImage ? `\nogImage: '${ogImage}'` : ''}
+sourceUrl: '${escapeYAML(newsItem.link || '')}'
 tags: [${tags.map(t => `'${escapeYAML(t)}'`).join(', ')}]
 ---
 ${article.content}${rodapeAfiliado}

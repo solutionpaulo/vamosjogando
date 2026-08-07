@@ -77,6 +77,23 @@ jobs:
             echo "Nenhum post novo gerado neste ciclo."
           fi
 
+      - name: Verify and fix post images
+        if: steps.commit.outputs.generated == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run fix-images
+
+      - name: Commit image fixes
+        if: steps.commit.outputs.generated == 'true'
+        run: |
+          if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
+            git add src/content/blog/ src/assets/
+            git commit -m "fix(content): imagens revisadas e corrigidas $(date +'%Y-%m-%d %H:%M')" || true
+            git pull --rebase
+            git push
+            echo "Imagens corrigidas commitadas e enviadas!"
+          fi
+
       - name: Generate social media posts
         if: steps.commit.outputs.generated == 'true'
         env:
@@ -139,6 +156,23 @@ jobs:
           else
             echo "generated=false" >> "$GITHUB_OUTPUT"
             echo "Nenhuma review gerada neste ciclo."
+          fi
+
+      - name: Verify and fix post images
+        if: steps.commit.outputs.generated == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run fix-images
+
+      - name: Commit image fixes
+        if: steps.commit.outputs.generated == 'true'
+        run: |
+          if [ -n "$(git status --porcelain src/content/blog/ src/assets/)" ]; then
+            git add src/content/blog/ src/assets/
+            git commit -m "fix(content): imagens revisadas e corrigidas $(date +'%Y-%m-%d %H:%M')" || true
+            git pull --rebase
+            git push
+            echo "Imagens corrigidas commitadas e enviadas!"
           fi
 
   deploy:

@@ -13,7 +13,8 @@
     "generate": "node cron/generate-post.js",
     "generate:mock": "cross-env GEMINI_API_KEY= node cron/generate-post.js",
     "review": "node cron/generate-review.js",
-    "social": "node cron/social-promote.js"
+    "social": "node cron/social-promote.js",
+    "fix-images": "node cron/verify-images.js"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.6",
