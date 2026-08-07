@@ -2,7 +2,7 @@
 title: 'Denuvo em Crise? Crimson Desert e Avatar Crackeados no Mesmo Dia!'
 description: 'A controversa proteção Denuvo foi novamente superada, com Crimson Desert e Avatar: Frontiers of Pandora sendo crackeados no mesmo dia. Entenda o que isso significa para a segurança dos jogos e para os jogadores.'
 pubDate: 'Thu Aug 06 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/crimson-desert-e-avatar-frontiers-of-pandora-tiveram-o-denuvo-crackeado-no-mesmo-dia.webp'
 ogImage: '../../assets/og-crimson-desert-e-avatar-frontiers-of-pandora-tiveram-o-denuvo-crackeado-no-mesmo-dia.webp'
 tags: ['Denuvo', 'AntiPirataria', 'PCGaming', 'MercadoGames']
 ---

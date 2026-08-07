@@ -2,7 +2,7 @@
 title: 'Prepare o Gatilho! Promoção de Inverno PlayStation Traz Shooters Épicos com Até 90% OFF'
 description: 'A Promoção de Inverno da PlayStation Store chegou com força total, oferecendo descontos imperdíveis de até 90% em uma vasta seleção de jogos de tiro para PS4 e PS5. Garanta seus títulos favoritos antes que a oferta expire em 13 de agosto!'
 pubDate: 'Wed Aug 05 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/jogos-de-tiro-em-oferta-no-playstation-com-ate-90percent-de-desconto-veja-lista.webp'
 ogImage: '../../assets/og-jogos-de-tiro-em-oferta-no-playstation-com-ate-90percent-de-desconto-veja-lista.webp'
 tags: ['PlayStation', 'Promoção', 'FPS', 'PS Store']
 ---
