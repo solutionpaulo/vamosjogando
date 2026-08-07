@@ -2,8 +2,8 @@ name: Auto Publish AI Article
 
 on:
   schedule:
-    # Noticias 3x ao dia: 00:00, 08:00, 16:00 (Horário de Brasília = UTC-3)
-    - cron: '0 3,11,19 * * *'
+    # Noticias 2x ao dia: 08:00, 16:00 (Horário de Brasília = UTC-3)
+    - cron: '0 11,19 * * *'
     # Review de hardware 1x ao dia: 12:00 (Horário de Brasília = UTC-3)
     - cron: '0 15 * * *'
   workflow_dispatch:
