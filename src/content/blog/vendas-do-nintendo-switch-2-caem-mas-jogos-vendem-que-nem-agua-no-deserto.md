@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 07 2026'
 heroImage: '../../assets/vendas-do-nintendo-switch-2-caem-mas-jogos-vendem-que-nem-agua-no-deserto.webp'
 ogImage: '../../assets/og-vendas-do-nintendo-switch-2-caem-mas-jogos-vendem-que-nem-agua-no-deserto.webp'
 tags: ['Nintendo', 'Switch 2', 'Vendas', 'Mercado de Games']
+imageVerified: 'true'
 ---
 A Nintendo surpreendeu o mercado ao revelar uma queda de 34,4% nas vendas do Nintendo Switch 2 no último trimestre, em comparação ao período anterior. No entanto, a Big N tem motivos de sobra para comemorar: o desempenho estrondoso de seus jogos e adaptações cinematográficas não só compensou a desaceleração do hardware, como também impulsionou a receita da empresa acima das expectativas. É um cenário paradoxal que reforça o poder do conteúdo na estratégia da gigante japonesa.
 

@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 05 2026'
 heroImage: '../../assets/jogos-de-pc-em-oferta-na-epic-games-ate-90percent-de-desconto-nesta-semana.webp'
 ogImage: '../../assets/og-jogos-de-pc-em-oferta-na-epic-games-ate-90percent-de-desconto-nesta-semana.webp'
 tags: ['Epic Games Store', 'PC Gaming', 'Promoções', 'Descontos']
+imageVerified: 'true'
 ---
 A Epic Games Store é conhecida por suas ofertas agressivas e por distribuir jogos gratuitamente, criando uma base fiel de jogadores. Nesta semana, a plataforma surpreende novamente com uma leva de promoções que podem chegar a 90% de desconto, tornando a aquisição de grandes títulos mais acessível para os jogadores de PC brasileiros.
 

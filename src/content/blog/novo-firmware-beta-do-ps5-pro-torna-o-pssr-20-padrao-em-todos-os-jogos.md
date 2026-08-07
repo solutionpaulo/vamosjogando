@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 07 2026'
 heroImage: '../../assets/novo-firmware-beta-do-ps5-pro-torna-o-pssr-20-padrao-em-todos-os-jogos.webp'
 ogImage: '../../assets/og-novo-firmware-beta-do-ps5-pro-torna-o-pssr-20-padrao-em-todos-os-jogos.webp'
 tags: ['Playstation', 'PS5 Pro', 'PSSR', 'Hardware']
+imageVerified: 'true'
 ---
 A comunidade gamer está em polvorosa com as últimas novidades sobre o PlayStation 5 Pro. A Sony está preparando o terreno para o lançamento do console mais poderoso, e um novo firmware Beta vazado revela uma mudança que pode redefinir a experiência visual dos jogadores: a padronização do PSSR 2.0. Para nós do Vamos Jogando, isso significa uma imersão ainda maior e um salto qualitativo nos games.
 

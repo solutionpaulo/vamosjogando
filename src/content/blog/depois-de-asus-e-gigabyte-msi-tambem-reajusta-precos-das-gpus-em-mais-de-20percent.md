@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 07 2026'
 heroImage: '../../assets/depois-de-asus-e-gigabyte-msi-tambem-reajusta-precos-das-gpus-em-mais-de-20percent.webp'
 ogImage: '../../assets/og-depois-de-asus-e-gigabyte-msi-tambem-reajusta-precos-das-gpus-em-mais-de-20percent.webp'
 tags: ['Hardware', 'GPU', 'Preços', 'PCGaming']
+imageVerified: 'true'
 ---
 O cenário do hardware para PC gamers nunca esteve tão volátil. Após um período de relativa estabilidade, somos forçados a trazer uma notícia que pode impactar diretamente o bolso e os planos de upgrade de muitos jogadores brasileiros: o aumento significativo nos preços das placas de vídeo. Prepare-se para entender as razões e as consequências dessa nova onda de reajustes.
 

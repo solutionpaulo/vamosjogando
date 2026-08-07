@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 05 2026'
 heroImage: '../../assets/governo-diz-que-nao-consegue-intervir-na-crise-da-oi-e-uma-empresa-privada.webp'
 ogImage: '../../assets/og-governo-diz-que-nao-consegue-intervir-na-crise-da-oi-e-uma-empresa-privada.webp'
 tags: ['Internet', 'Conectividade', 'Infraestrutura', 'Brasil']
+imageVerified: 'true'
 ---
 A notícia de que o governo federal não intervirá na crise da Oi ressoa no cenário econômico brasileiro. Embora pareça distante do mundo dos games, a saúde das grandes operadoras de telecomunicações tem um impacto direto e significativo na qualidade e acessibilidade da internet que usamos para nossas sessões de jogo, streaming e comunicação.
 

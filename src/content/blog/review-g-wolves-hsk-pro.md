@@ -2,9 +2,10 @@
 title: 'Review: G-Wolves HSK Pro — O Ultraleve Definitivo para Fingertip'
 description: 'Analisamos o G-Wolves HSK Pro, um mouse ultraleve sem fio feito sob medida para o grip fingertip. Descubra se este pequeno notável entrega a performance e agilidade que você busca nos games competitivos.'
 pubDate: 'Fri Aug 07 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-g-wolves-hsk-pro.webp'
 ogImage: '../../assets/og-review-g-wolves-hsk-pro.webp'
 tags: ['Review', 'Hardware', 'G-Wolves HSK Pro', 'Mouse Gamer', 'Fingertip']
+imageVerified: 'true'
 ---
 
 ## Introdução

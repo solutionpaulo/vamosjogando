@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 05 2026'
 heroImage: '../../assets/review-pulsar-x2.webp'
 ogImage: '../../assets/og-review-pulsar-x2.webp'
 tags: ['Review', 'Hardware', 'Pulsar X2', 'Mouse Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

@@ -5,6 +5,7 @@ pubDate: 'Thu Aug 06 2026'
 heroImage: '../../assets/ps5-agora-vem-com-aviso-de-que-sony-nao-fara-mais-midia-fisica.webp'
 ogImage: '../../assets/og-ps5-agora-vem-com-aviso-de-que-sony-nao-fara-mais-midia-fisica.webp'
 tags: ['PlayStation', 'MídiaFísica', 'PS5', 'IndústriaGames']
+imageVerified: 'true'
 ---
 A indústria de games está em constante evolução, e a transição para o formato digital tem sido um tópico quente por anos. Agora, uma nova pista reforça essa tendência, gerando burburinho entre os jogadores: consoles PlayStation 5 recentes trazem um aviso que muitos interpretam como um sinal claro da Sony sobre o futuro da mídia física.
 

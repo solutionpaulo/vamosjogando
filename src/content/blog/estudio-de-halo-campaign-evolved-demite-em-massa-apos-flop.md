@@ -5,6 +5,7 @@ pubDate: 'Thu Aug 06 2026'
 heroImage: '../../assets/estudio-de-halo-campaign-evolved-demite-em-massa-apos-flop.webp'
 ogImage: '../../assets/og-estudio-de-halo-campaign-evolved-demite-em-massa-apos-flop.webp'
 tags: ['Halo', 'Xbox', '343 Industries', 'FPS']
+imageVerified: 'true'
 ---
 O universo de Halo, uma das franquias mais icônicas e influentes da história dos videogames, enfrenta um momento de profunda turbulência. A notícia das demissões em massa na Halo Studios, anteriormente conhecida como 343 Industries, chega pouco mais de uma semana após o lançamento de 'Campaign Evolved' e reacende debates sobre a gestão da série e o futuro de seus desenvolvedores. Para a comunidade brasileira de jogadores, que acompanha a saga do Master Chief há décadas, a situação é um misto de preocupação e decepção.
 

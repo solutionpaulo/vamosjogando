@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 05 2026'
 heroImage: '../../assets/hot-wheels-infinite-rush-revela-campanha-classes-de-veiculos-e-sistema-de-personalizacao-em-novo-trailer.webp'
 ogImage: '../../assets/og-hot-wheels-infinite-rush-revela-campanha-classes-de-veiculos-e-sistema-de-personalizacao-em-novo-trailer.webp'
 tags: ['Hot Wheels', 'Corrida', 'Mundo Aberto', 'Milestone']
+imageVerified: 'true'
 ---
 Preparem os motores, pilotos! A Milestone e a Mattel acabam de soltar um novo trailer de Hot Wheels Infinite Rush, mergulhando fundo nos detalhes que os fãs esperavam. O título, que promete levar a icônica franquia de carrinhos para um novo patamar de exploração e adrenalina, está cada vez mais próximo do seu lançamento oficial, agendado para 10 de setembro.
 

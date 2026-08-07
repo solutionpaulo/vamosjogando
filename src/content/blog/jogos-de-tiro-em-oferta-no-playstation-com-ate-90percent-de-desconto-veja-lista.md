@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 05 2026'
 heroImage: '../../assets/jogos-de-tiro-em-oferta-no-playstation-com-ate-90percent-de-desconto-veja-lista.webp'
 ogImage: '../../assets/og-jogos-de-tiro-em-oferta-no-playstation-com-ate-90percent-de-desconto-veja-lista.webp'
 tags: ['PlayStation', 'Promoção', 'FPS', 'PS Store']
+imageVerified: 'true'
 ---
 A PlayStation Store não brinca em serviço quando o assunto é promoção, e a tão aguardada Promoção de Inverno chegou para delírio dos fãs de jogos de tiro. Com uma chuva de descontos que podem chegar a impressionantes 90%, é a oportunidade perfeita para expandir sua biblioteca no PS4 e PS5 com clássicos e novidades do gênero.
 
