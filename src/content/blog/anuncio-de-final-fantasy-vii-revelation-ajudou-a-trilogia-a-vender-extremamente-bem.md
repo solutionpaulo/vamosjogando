@@ -2,7 +2,7 @@
 title: 'Final Fantasy VII Revelation Impulsiona Vendas e Garante Final Completo'
 description: 'O anúncio de Final Fantasy VII Revelation não só elevou as vendas da trilogia, como também trouxe a promessa do diretor de um final completo, sem futuros DLCs.'
 pubDate: 'Mon Aug 03 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/anuncio-de-final-fantasy-vii-revelation-ajudou-a-trilogia-a-vender-extremamente-bem.webp'
 ogImage: '../../assets/og-anuncio-de-final-fantasy-vii-revelation-ajudou-a-trilogia-a-vender-extremamente-bem.webp'
 tags: ['Final Fantasy', 'RPG', 'Square Enix', 'PlayStation']
 ---

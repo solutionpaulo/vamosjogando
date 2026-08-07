@@ -2,7 +2,7 @@
 title: 'MSI Celebra 40 Anos com RTX 5080 SUPRIM Draco Epic: Puro Poder e Exclusividade'
 description: 'Em edição limitada, a MSI lança a GeForce RTX 5080 SUPRIM Draco Epic para celebrar seus 40 anos, elevando o clock e oferecendo um pacote comemorativo para entusiastas.'
 pubDate: 'Tue Aug 04 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/msi-lanca-geforce-rtx-5080-suprim-draco-epic-em-edicao-limitada-para-seus-40-anos.webp'
 ogImage: '../../assets/og-msi-lanca-geforce-rtx-5080-suprim-draco-epic-em-edicao-limitada-para-seus-40-anos.webp'
 tags: ['MSI', 'RTX 5080', 'Hardware', 'Placa de Vídeo']
 ---
