@@ -2,10 +2,11 @@
 title: 'Marvel Tokon: PC em Xeque! Desempenho de Fighting Souls Decepciona de Novo'
 description: 'O tão aguardado Marvel Tokon: Fighting Souls chega ao PC com sérios problemas de desempenho, frustrando jogadores mesmo em máquinas potentes e repetindo falhas do Beta.'
 pubDate: 'Fri Aug 07 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/marvel-tokon-fighting-souls-decepciona-no-pc-por-problemas-de-desempenho.webp'
 ogImage: '../../assets/og-marvel-tokon-fighting-souls-decepciona-no-pc-por-problemas-de-desempenho.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/marvel-tokon-fighting-souls-decepciona-no-pc-por-problemas-de-desempenho/'
 tags: ['Marvel', 'FightingGame', 'PCGaming', 'Otimização']
+imageVerified: 'true'
 ---
 O lançamento de Marvel Tokon: Fighting Souls no PC era um dos mais aguardados pela comunidade de jogos de luta e fãs do universo Marvel. Contudo, a euforia deu lugar à frustração, com o título chegando à plataforma com problemas graves de desempenho que já haviam sido notados durante sua fase Beta, gerando uma onda de desapontamento entre os jogadores brasileiros e globalmente.
 

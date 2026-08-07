@@ -5,6 +5,7 @@ pubDate: 'Thu Aug 06 2026'
 heroImage: '../../assets/crimson-desert-e-avatar-frontiers-of-pandora-tiveram-o-denuvo-crackeado-no-mesmo-dia.webp'
 ogImage: '../../assets/og-crimson-desert-e-avatar-frontiers-of-pandora-tiveram-o-denuvo-crackeado-no-mesmo-dia.webp'
 tags: ['Denuvo', 'AntiPirataria', 'PCGaming', 'MercadoGames']
+imageVerified: 'true'
 ---
 A tecnologia anti-pirataria Denuvo tem sido um pilar controverso na indústria de jogos por anos, prometendo segurança robusta contra a pirataria nos primeiros dias de lançamento. Contudo, essa promessa parece estar cada vez mais frágil. Recentemente, dois títulos de grande porte, Crimson Desert e Avatar: Frontiers of Pandora, tiveram suas proteções Denuvo superadas e foram crackeados no mesmo dia, reacendendo o debate sobre a real eficácia e o custo-benefício dessa solução.
 

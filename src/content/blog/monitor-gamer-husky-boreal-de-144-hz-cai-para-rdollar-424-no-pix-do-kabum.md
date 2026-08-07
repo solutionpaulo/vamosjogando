@@ -5,6 +5,7 @@ pubDate: 'Thu Aug 06 2026'
 heroImage: '../../assets/monitor-gamer-husky-boreal-de-144-hz-cai-para-rdollar-424-no-pix-do-kabum.webp'
 ogImage: '../../assets/og-monitor-gamer-husky-boreal-de-144-hz-cai-para-rdollar-424-no-pix-do-kabum.webp'
 tags: ['Monitor Gamer', 'Hardware', 'Oferta', 'Husky Gaming']
+imageVerified: 'true'
 ---
 A busca por um monitor gamer que combine alta performance e um preço acessível é uma realidade constante para muitos entusiastas no Brasil. Com o mercado cada vez mais aquecido, encontrar uma pechincha que realmente faça a diferença no setup pode ser um desafio. É nesse cenário que o monitor Husky Gaming Boreal de 25 polegadas surge como uma opção notável, especialmente com a recente oferta que o coloca em um patamar de custo-benefício difícil de ignorar.
 
