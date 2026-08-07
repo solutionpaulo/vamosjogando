@@ -2,7 +2,7 @@
 title: 'PS5: Sony Garante Memória Até 2026 e Afasta Sombra da Escassez com GTA 6'
 description: 'A Sony anunciou que assegurou o estoque de RAM necessário para o PlayStation 5 até 2026, trazendo alívio aos jogadores e garantindo que o console esteja disponível para o lançamento de futuros blockbusters como GTA 6.'
 pubDate: 'Sun Aug 02 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/sony-garante-estoque-de-memoria-para-o-ps5-e-afasta-risco-de-falta-de-consoles-com-gta-6.webp'
 ogImage: '../../assets/og-sony-garante-estoque-de-memoria-para-o-ps5-e-afasta-risco-de-falta-de-consoles-com-gta-6.webp'
 tags: ['PlayStation 5', 'Sony', 'GTA 6', 'Mercado Gamer BR']
 ---

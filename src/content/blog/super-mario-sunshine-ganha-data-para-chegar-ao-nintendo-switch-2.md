@@ -2,7 +2,7 @@
 title: 'Super Mario Sunshine no Switch 2: O Retorno Aguardado via NSO!'
 description: 'Um dos títulos mais icônicos do GameCube, Super Mario Sunshine, está confirmado para o aguardado Nintendo Switch 2, exclusivo para assinantes do Pacote Adicional do Nintendo Switch Online. Prepare-se para reviver a clássica aventura em Delfino Plaza!'
 pubDate: 'Fri Jul 31 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/super-mario-sunshine-ganha-data-para-chegar-ao-nintendo-switch-2.webp'
 ogImage: '../../assets/og-super-mario-sunshine-ganha-data-para-chegar-ao-nintendo-switch-2.webp'
 tags: ['Nintendo Switch 2', 'Super Mario Sunshine', 'Nintendo Switch Online', 'GameCube']
 ---
