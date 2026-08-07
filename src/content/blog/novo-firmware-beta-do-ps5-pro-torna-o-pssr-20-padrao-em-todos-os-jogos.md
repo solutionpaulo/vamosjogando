@@ -2,7 +2,7 @@
 title: 'PS5 Pro: PSSR 2.0 se torna padrão, elevando os gráficos a outro nível!'
 description: 'O novo firmware Beta do PS5 Pro chega com o PSSR 2.0 como padrão em todos os jogos, prometendo uma revolução visual. Além disso, a atualização traz a aguardada opção de desligar o Bluetooth do console.'
 pubDate: 'Fri Aug 07 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/novo-firmware-beta-do-ps5-pro-torna-o-pssr-20-padrao-em-todos-os-jogos.webp'
 ogImage: '../../assets/og-novo-firmware-beta-do-ps5-pro-torna-o-pssr-20-padrao-em-todos-os-jogos.webp'
 tags: ['Playstation', 'PS5 Pro', 'PSSR', 'Hardware']
 ---
