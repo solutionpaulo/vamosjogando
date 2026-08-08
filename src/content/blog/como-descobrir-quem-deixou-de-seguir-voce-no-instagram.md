@@ -6,6 +6,7 @@ heroImage: '../../assets/como-descobrir-quem-deixou-de-seguir-voce-no-instagram.
 ogImage: '../../assets/og-como-descobrir-quem-deixou-de-seguir-voce-no-instagram.webp'
 sourceUrl: 'https://canaltech.com.br/apps/como-descobrir-quem-deixou-de-seguir-voce-no-instagram/'
 tags: ['Instagram', 'Redes Sociais', 'Unfollow', 'Privacidade Digital']
+imageVerified: 'true'
 ---
 A curiosidade é humana, e no mundo digital, saber quem parou de seguir você no Instagram pode ser uma questão bastante comum para muitos usuários. Diferente de outras plataformas, o Instagram não oferece uma notificação direta ou um histórico pronto de unfollows. Isso leva muitos a procurar por soluções, nem sempre seguras.Neste artigo, vamos mergulhar nos métodos mais confiáveis e seguros para desvendar quem deixou de te seguir, protegendo sempre a sua conta e os seus dados.
 

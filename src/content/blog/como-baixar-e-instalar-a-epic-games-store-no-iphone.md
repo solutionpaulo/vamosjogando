@@ -6,6 +6,7 @@ heroImage: '../../assets/como-baixar-e-instalar-a-epic-games-store-no-iphone.web
 ogImage: '../../assets/og-como-baixar-e-instalar-a-epic-games-store-no-iphone.webp'
 sourceUrl: 'https://canaltech.com.br/apps/como-baixar-e-instalar-a-epic-games-store-no-i-phone/'
 tags: ['iOS', 'Epic Games Store', 'Fortnite', 'CADE']
+imageVerified: 'true'
 ---
 Por anos, a batalha entre Epic Games e Apple dominou os tribunais e a atenção dos gamers. Agora, no Brasil, um capítulo decisivo se desenrola: a chegada oficial da Epic Games Store ao iOS, quebrando o monopólio da App Store e redefinindo a forma como jogamos no iPhone. Essa mudança, impulsionada por decisões regulatórias, não apenas abre as portas para títulos como Fortnite e Rocket League: Sideswipe, mas também acende um debate crucial sobre liberdade e concorrência no ecossistema mobile.
 
