@@ -2,9 +2,10 @@
 title: 'Review: Finalmouse UltralightX — O mouse mais leve e exclusivo para esports?'
 description: 'Analisamos o Finalmouse UltralightX, um mouse gamer ultraleve de liga de magnésio projetado para o mais alto nível de performance. Descubra se sua exclusividade e preço elevado valem o investimento para jogadores competitivos.'
 pubDate: 'Sat Aug 08 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-finalmouse-ultralightx.webp'
 ogImage: '../../assets/og-review-finalmouse-ultralightx.webp'
 tags: ['Review', 'Hardware', 'Finalmouse', 'Mouse Gamer', 'Esports']
+imageVerified: 'true'
 ---
 
 ## Introdução
