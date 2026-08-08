@@ -6,6 +6,7 @@ heroImage: '../../assets/mito-ou-verdade-abrir-e-fechar-a-geladeira-varias-vezes
 ogImage: '../../assets/og-mito-ou-verdade-abrir-e-fechar-a-geladeira-varias-vezes-gasta-mais-energia.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/mito-ou-verdade-abrir-e-fechar-a-geladeira-varias-vezes-gasta-mais-energia/'
 tags: ['Economia Gamer', 'Consumo de Energia', 'Dicas', 'Tecnologia Doméstica']
+imageVerified: 'true'
 ---
 No universo gamer, cada centavo economizado pode significar um novo jogo, um upgrade de periférico ou mais horas de diversão. Enquanto otimizamos CPUs e GPUs, frequentemente esquecemos que a eficiência em outras áreas da casa também impacta diretamente nosso orçamento. Que tal analisar um vilão inesperado: a geladeira?
 
