@@ -5,6 +5,7 @@ pubDate: 'Sun Aug 09 2026'
 heroImage: '../../assets/review-dell-alienware-aw3225qf.webp'
 ogImage: '../../assets/og-review-dell-alienware-aw3225qf.webp'
 tags: ['Review', 'Hardware', 'Alienware AW3225QF', 'Monitor Gamer', 'QD-OLED']
+imageVerified: 'true'
 ---
 
 ## Introdução
