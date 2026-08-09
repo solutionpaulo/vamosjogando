@@ -6,6 +6,7 @@ heroImage: '../../assets/soundbar-ou-home-theater-qual-melhora-o-som-da-sua-sala
 ogImage: '../../assets/og-soundbar-ou-home-theater-qual-melhora-o-som-da-sua-sala.webp'
 sourceUrl: 'https://canaltech.com.br/caixa-de-som/soundbar-ou-home-theater-qual-melhora-o-som-da-sua-sala/'
 tags: ['Audio', 'Hardware', 'Imersão', 'Setup Gamer']
+imageVerified: 'true'
 ---
 No mundo dos games, a imagem é apenas metade da batalha pela imersão. Um bom sistema de áudio pode transformar completamente a sua experiência, elevando a adrenalina de um tiroteio ou a tensão de uma trilha sonora. Mas, na hora de escolher entre uma soundbar e um home theater, qual opção realmente entrega a profundidade sonora que todo gamer busca?
 

@@ -2,10 +2,11 @@
 title: 'Breathedge GRATUITO na Steam: Não Perca Essa Aventura Espacial!'
 description: 'Mergulhe em Breathedge, o inusitado jogo de sobrevivência espacial com humor negro, disponível gratuitamente na Steam por tempo limitado. Uma chance imperdível de explorar o cosmos sem custos!'
 pubDate: 'Sat Aug 08 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/breathedge-de-graca-para-resgate-na-steam-por-tempo-limitado.webp'
 ogImage: '../../assets/og-breathedge-de-graca-para-resgate-na-steam-por-tempo-limitado.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/pc-games/breathedge-de-graca-para-resgate-na-steam-por-tempo-limitado/'
 tags: ['Steam', 'Sobrevivência', 'Aventura', 'PC']
+imageVerified: 'true'
 ---
 Para a alegria dos gamers brasileiros, a Steam está presenteando seus usuários com mais um título de peso de forma totalmente gratuita. Desta vez, o destaque vai para Breathedge, uma aventura de sobrevivência espacial que combina elementos de humor negro e exploração num cenário pós-apocalíptico... no espaço! É a oportunidade perfeita para quem busca uma experiência diferente sem gastar nada.
 
