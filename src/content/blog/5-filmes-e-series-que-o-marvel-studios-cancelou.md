@@ -6,6 +6,7 @@ heroImage: '../../assets/5-filmes-e-series-que-o-marvel-studios-cancelou.webp'
 ogImage: '../../assets/og-5-filmes-e-series-que-o-marvel-studios-cancelou.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/filmes-series-cancelados-marvel-studios/'
 tags: ['Marvel Studios', 'MCU', 'Cinema de Heróis', 'Cancelamentos']
+imageVerified: 'true'
 ---
 No universo cinematográfico em constante expansão da Marvel, onde cada anúncio de filme ou série gera uma onda de expectativa, é fácil esquecer que nem todo projeto consegue sair do papel. Mesmo com uma sequência impressionante de sucessos desde Homem de Ferro (2008), o estúdio coleciona também uma lista de produções que, por diversos motivos, foram engavetadas. Para a nossa comunidade de gamers, acostumados com cancelamentos de jogos e promessas não cumpridas, essa realidade não é estranha. Mas na Marvel, com seus bilhões em jogo, cada desistência tem um peso ainda maior.
 
