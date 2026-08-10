@@ -6,6 +6,7 @@ heroImage: '../../assets/konami-admite-problemas-na-ps5-depois-do-novo-patch-de-
 ogImage: '../../assets/og-konami-admite-problemas-na-ps5-depois-do-novo-patch-de-silent-hill-2.webp'
 sourceUrl: 'https://www.eurogamer.pt/konami-admite-problemas-na-ps5-depois-do-novo-patch-de-silent-hill-2'
 tags: ['Silent Hill', 'Konami', 'PlayStation', 'Remake']
+imageVerified: 'true'
 ---
 O aguardado remake de Silent Hill 2, um clássico do terror psicológico, prometia reacender a chama de nostalgia e arrepiar uma nova geração de jogadores no PlayStation 5. No entanto, o entusiasmo foi abalado por notícias preocupantes após o lançamento de um novo patch, que em vez de corrigir, trouxe à tona novos problemas visuais para os consoles da Sony.
 
