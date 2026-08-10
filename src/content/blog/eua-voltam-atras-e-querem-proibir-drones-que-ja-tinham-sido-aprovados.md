@@ -6,6 +6,7 @@ heroImage: '../../assets/eua-voltam-atras-e-querem-proibir-drones-que-ja-tinham-
 ogImage: '../../assets/og-eua-voltam-atras-e-querem-proibir-drones-que-ja-tinham-sido-aprovados.webp'
 sourceUrl: 'https://canaltech.com.br/produtos/eua-voltam-atras-e-querem-proibir-drones-que-ja-tinham-sido-aprovados/'
 tags: ['Drones', 'DJI', 'FCC', 'Legislação Tech']
+imageVerified: 'true'
 ---
 O cenário tecnológico global está em constante ebulição, e as decisões regulatórias de grandes potências como os Estados Unidos frequentemente reverberam por todo o mundo. Recentemente, uma proposta da Comissão Federal de Comunicações dos EUA (FCC) acendeu um alerta para fabricantes e consumidores: a possível proibição de drones que, ironicamente, já haviam sido aprovados anteriormente pela própria agência. Essa é uma reviravolta que promete agitar o mercado de tecnologia e levantar debates importantes sobre segurança nacional versus liberdade de mercado.
 

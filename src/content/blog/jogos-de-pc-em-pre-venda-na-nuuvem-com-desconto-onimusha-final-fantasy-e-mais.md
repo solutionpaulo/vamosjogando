@@ -6,6 +6,7 @@ heroImage: '../../assets/jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimush
 ogImage: '../../assets/og-jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimusha-final-fantasy-e-mais.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimusha-final-fantasy-e-mais/'
 tags: ['Nuuvem', 'PC Gaming', 'Pré-Venda', 'RPG']
+imageVerified: 'true'
 ---
 A cada nova temporada, o mercado de games nos presenteia com ondas de lançamentos que prometem revolucionar nossa experiência. Para o gamer brasileiro de PC, a Nuuvem se consolida como uma plataforma chave, e suas campanhas de pré-venda são sempre aguardadas. Desta vez, a loja digital agita a comunidade com ofertas robustas em títulos de peso, convidando os jogadores a garantirem suas cópias antes mesmo da estreia oficial.
 
