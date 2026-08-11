@@ -6,6 +6,7 @@ heroImage: '../../assets/por-que-as-grandes-empresas-querem-levar-data-centers-d
 ogImage: '../../assets/og-por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco.webp'
 sourceUrl: 'https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/'
 tags: ['Inteligência Artificial', 'Tecnologia', 'Exploração Espacial', 'Sustentabilidade']
+imageVerified: 'true'
 ---
 A corrida tecnológica em torno da Inteligência Artificial atingiu um novo patamar, e as ambições das maiores empresas do mundo estão se expandindo para além da Terra. Gigantes como SpaceX, Amazon e Blue Origin revelaram planos audaciosos para lançar mais de um milhão de data centers orbitais no espaço nos próximos dez anos. A ideia, à primeira vista, parece uma solução futurista para os crescentes desafios energéticos impostos pela IA, mas esconde riscos que podem redefinir nossa relação com o cosmos e o meio ambiente.
 

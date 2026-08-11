@@ -6,6 +6,7 @@ heroImage: '../../assets/fiat-derruba-preco-do-mobi-que-briga-com-kwid-pelo-post
 ogImage: '../../assets/og-fiat-derruba-preco-do-mobi-que-briga-com-kwid-pelo-posto-de-carro-mais-barato-do-brasil.webp'
 sourceUrl: 'https://canaltech.com.br/carros/derruba-preco-fiat-mobi/'
 tags: ['Orçamento Gamer', 'Economia', 'Fiat Mobi', 'Consumo']
+imageVerified: 'true'
 ---
 No mundo dos games, cada centavo conta. Seja para aquele lançamento aguardado, um upgrade de placa de vídeo ou a assinatura de um serviço, a gestão do orçamento é uma arte. Mas e se uma notícia vinda do setor automotivo pudesse, indiretamente, dar um fôlego extra às suas finanças gamers? A Fiat acaba de agitar o mercado de carros de entrada com um corte significativo no preço do Mobi, e nós do 'Vamos Jogando' estamos aqui para analisar como isso pode reverberar no seu bolso e, quem sabe, na sua próxima jogatina.
 
