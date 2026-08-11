@@ -6,6 +6,7 @@ heroImage: '../../assets/vendas-de-marvels-spider-man-2-disparam-apos-novo-filme
 ogImage: '../../assets/og-vendas-de-marvels-spider-man-2-disparam-apos-novo-filme-do-homem-aranha.webp'
 sourceUrl: 'https://meups.com.br/noticias/vendas-marvels-spider-man-2-disparam-filme/'
 tags: ['PlayStation', 'Marvel', 'SpiderMan', 'Vendas']
+imageVerified: 'true'
 ---
 O universo do Homem-Aranha prova mais uma vez sua força no entretenimento global. Em um movimento que reflete a poderosa sinergia entre diferentes mídias, as vendas de Marvel's Spider-Man 2, um dos maiores sucessos do PlayStation 5, tiveram um salto impressionante, coincidindo com a estreia de "Homem-Aranha: Um Novo Dia" nos cinemas. A notícia destaca como o apelo da marca Aranha transcende plataformas, gerando um entusiasmo renovado tanto nos cinemas quanto nos consoles.
 
