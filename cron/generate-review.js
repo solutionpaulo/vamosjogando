@@ -276,6 +276,14 @@ async function findWikipediaPageId(topic, lang = 'pt') {
   return data?.query?.search?.[0]?.pageid || null;
 }
 
+async function findWikipediaPageInfo(topic, lang) {
+  const data = await fetchJSON(
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(topic)}&srlimit=5`
+  );
+  const first = data?.query?.search?.[0];
+  return first ? { pageid: first.pageid, title: first.title } : null;
+}
+
 function isGoodImage(title) {
   const lower = title.toLowerCase();
   const bad = ['icon', 'button', 'banner', 'favicon', 'portal', 'category', 'sprite',
@@ -287,9 +295,16 @@ function isGoodImage(title) {
 
 function prioritizeImage(images) {
   const filtered = images.filter(i => isGoodImage(i.title));
+  const exact = filtered.find(x => {
+    const l = x.title.toLowerCase();
+    return l.includes('product') || l.includes('photo') || l.includes('retail');
+  });
+  if (exact) return exact;
   const cover = filtered.find(x => x.title.toLowerCase().includes('cover')
     || x.title.toLowerCase().includes('controller')
-    || x.title.toLowerCase().includes('console'));
+    || x.title.toLowerCase().includes('console')
+    || x.title.toLowerCase().includes('keyboard')
+    || x.title.toLowerCase().includes('mouse'));
   if (cover) return cover;
   const png = filtered.find(x => x.title.endsWith('.png'));
   if (png) return png;
@@ -298,33 +313,46 @@ function prioritizeImage(images) {
   return filtered[0] || images[0] || null;
 }
 
-async function getWikipediaImages(pageId) {
+async function getWikipediaImages(pageId, lang) {
   const data = await fetchJSON(
-    `https://en.wikipedia.org/w/api.php?action=query&prop=images&format=json&pageids=${pageId}&redirects=1`
+    `https://${lang}.wikipedia.org/w/api.php?action=query&prop=images&format=json&pageids=${pageId}&redirects=1`
   );
   return Object.values(data?.query?.pages || {})[0]?.images || [];
 }
 
-async function getImageUrl(imageTitle) {
+async function getImageUrl(imageTitle, lang) {
   const data = await fetchJSON(
-    `https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&titles=${encodeURIComponent(imageTitle)}`
+    `https://${lang}.wikipedia.org/w/api.php?action=query&prop=imageinfo&format=json&iiprop=url&titles=${encodeURIComponent(imageTitle)}`
   );
   return Object.values(data?.query?.pages || {})[0]?.imageinfo?.[0]?.url || null;
 }
 
+async function tryWikipediaLang(topic, lang) {
+  const page = await findWikipediaPageInfo(topic, lang);
+  if (!page) return null;
+  const images = await getWikipediaImages(page.pageid, lang);
+  if (!images.length) return null;
+  const best = prioritizeImage(images);
+  if (!best) return null;
+  const url = await getImageUrl(best.title, lang);
+  return url || null;
+}
+
 async function fetchWikipediaImage(topic) {
-  for (const lang of ['pt', 'en']) {
-    try {
-      const pageId = await findWikipediaPageId(topic, lang);
-      if (!pageId) continue;
-      const images = await getWikipediaImages(pageId);
-      if (!images.length) continue;
-      const best = prioritizeImage(images);
-      if (!best) continue;
-      const url = await getImageUrl(best.title);
-      if (url) return url;
-    } catch { }
-    await new Promise(r => setTimeout(r, 500));
+  const attempts = [
+    topic,
+    topic + ' product',
+    topic + ' hardware',
+    topic + ' official',
+  ];
+  for (const attempt of attempts) {
+    for (const lang of ['en', 'pt']) {
+      try {
+        const url = await tryWikipediaLang(attempt, lang);
+        if (url) return url;
+      } catch { }
+      await new Promise(r => setTimeout(r, 500));
+    }
   }
   return null;
 }
@@ -425,6 +453,54 @@ async function generateWithLLM(topic) {
   return generateMockReview(topic);
 }
 
+async function fetchOgImage(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': UA },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const match = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i) ||
+      html.match(/<meta\s+content="([^"]+)"\s+property="og:image"/i);
+    if (!match) return null;
+    return match[1].replace(/&amp;/g, '&');
+  } catch {
+    return null;
+  }
+}
+
+async function fetchOgFromSearch(topic) {
+  try {
+    const res = await fetch(
+      `https://html.duckduckgo.com/html/?q=${encodeURIComponent(topic + ' review')}`, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; VamosJogando/1.0)' },
+        signal: AbortSignal.timeout(10000),
+      }
+    );
+    const html = await res.text();
+    const urls = [...html.matchAll(/result__a[^>]*href="([^"]+)"/g)]
+      .map(m => m[1])
+      .filter(u => /https?:\/\//.test(u))
+      .map(u => {
+        try {
+          const parsed = new URL(u);
+          const ddg = parsed.searchParams.get('uddg');
+          return ddg ? decodeURIComponent(ddg) : u;
+        } catch {
+          return u;
+        }
+      });
+
+    for (const url of urls.slice(0, 5)) {
+      const og = await fetchOgImage(url);
+      if (og) return og;
+      await new Promise(r => setTimeout(r, 300));
+    }
+  } catch { }
+  return null;
+}
+
 function slugify(text) {
   return text
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
@@ -461,13 +537,20 @@ async function run() {
 
   console.log('Review gerado com sucesso.');
 
-  // Fetch image from Wikipedia
+  // Fetch image: Wikipedia first, then fallback to OG from product pages
   let heroImage = null;
   const searchTopic = extractSearchTopic(topic);
   console.log(`Buscando imagem para: ${searchTopic}`);
   const imgUrl = await fetchWikipediaImage(searchTopic);
   if (imgUrl) {
     heroImage = await downloadImage(imgUrl, slug);
+  }
+  if (!heroImage) {
+    console.log('  Wikipedia sem imagem adequada. Tentando OG de páginas de produto...');
+    const ogUrl = await fetchOgFromSearch(searchTopic);
+    if (ogUrl) {
+      heroImage = await downloadImage(ogUrl, slug);
+    }
   }
 
   // Generate OG image
