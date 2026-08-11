@@ -2,8 +2,8 @@
 title: 'Pré-Vendas Nuuvem: Onimusha e Final Fantasy em Destaque com Descontos Exclusivos!'
 description: 'A Nuuvem lança campanha de pré-vendas para PC com descontos imperdíveis em grandes títulos como Onimusha e Final Fantasy. Uma chance de garantir seus jogos antes do lançamento e economizar.'
 pubDate: 'Mon Aug 10 2026'
-heroImage: '../../assets/jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimusha-final-fantasy-e-mais.webp'
-ogImage: '../../assets/og-jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimusha-final-fantasy-e-mais.webp'
+heroImage: '../../assets/nuuvem-logo-hero.webp'
+ogImage: '../../assets/nuuvem-logo.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-pre-venda-na-nuuvem-com-desconto-onimusha-final-fantasy-e-mais/'
 tags: ['Nuuvem', 'PC Gaming', 'Pré-Venda', 'RPG']
 imageVerified: 'true'
