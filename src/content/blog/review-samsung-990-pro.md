@@ -5,6 +5,7 @@ pubDate: 'Tue Aug 11 2026'
 heroImage: '../../assets/review-samsung-990-pro.webp'
 ogImage: '../../assets/og-review-samsung-990-pro.webp'
 tags: ['Review', 'Hardware', 'Samsung', 'SSD', 'Armazenamento Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
