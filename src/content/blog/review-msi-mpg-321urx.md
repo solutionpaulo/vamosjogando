@@ -2,7 +2,7 @@
 title: 'Review: MSI MPG 321URX — A experiência 4K QD-OLED definitiva para jogos'
 description: 'Analisamos o MSI MPG 321URX, um monitor 4K QD-OLED de 32 polegadas com 240Hz. Descubra se esta potência visual vale o investimento para a sua jogatina.'
 pubDate: 'Mon Aug 10 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/review-msi-mpg-321urx.webp'
 ogImage: '../../assets/og-review-msi-mpg-321urx.webp'
 tags: ['Review', 'Hardware', 'MSI', 'Monitor Gamer', 'QD-OLED']
 ---
