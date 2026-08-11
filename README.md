@@ -10,7 +10,7 @@ Portal de notícias sobre videogames completamente autossuficiente. Usa **Astro*
 [Cron no GitHub Actions] (4x notícias + 1x review por dia)
           │
           ▼
-[Script Node.js] ──► Busca feeds RSS (8 fontes)
+[Script Node.js] ──► Busca feeds RSS (5 fontes)
           │
           ▼
 [Validação] ───────► Filtra notícias já publicadas
@@ -83,7 +83,7 @@ Criar variável de ambiente (não secret) `PUBLIC_GA_ID=G-XXXXXXXXXX` em **Setti
 ## Funcionalidades
 
 ### Geração de Conteúdo
-- **8 feeds RSS** (Eurogamer.pt, GameBlast, Combo Infinito, Adrenaline, Meu PS4, The Enemy, Canaltech, TecMundo)
+- **5 feeds RSS** (Eurogamer.pt, Adrenaline, Meu PS4, Canaltech, TecMundo)
 - **2 tipos de conteúdo**: notícias (4x/dia) e reviews de hardware (1x/dia)
 - **LLM com fallback**: Gemini 2.5 Flash (primário) → Groq/Llama (fallback automático)
 - **responseSchema**: validação tipada do JSON retornado pela IA (garante campos obrigatórios)
