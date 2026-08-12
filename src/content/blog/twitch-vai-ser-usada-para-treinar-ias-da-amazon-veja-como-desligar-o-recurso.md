@@ -6,6 +6,7 @@ heroImage: '../../assets/twitch-vai-ser-usada-para-treinar-ias-da-amazon-veja-co
 ogImage: '../../assets/og-twitch-vai-ser-usada-para-treinar-ias-da-amazon-veja-como-desligar-o-recurso.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/twitch-vai-ser-usada-para-treinar-ias-da-amazon-veja-como-desligar-o-recurso/'
 tags: ['Twitch', 'Amazon', 'InteligenciaArtificial', 'Streamers']
+imageVerified: 'true'
 ---
 A era da inteligência artificial avança a passos largos, e com ela, surgem novas questões sobre o uso de dados e conteúdo. Recentemente, a Twitch, plataforma de streaming da Amazon, introduziu uma política controversa: o uso do conteúdo de seus criadores para o treinamento de modelos de IA, ativado por padrão. Essa decisão levanta debates importantes sobre privacidade, propriedade intelectual e o futuro da criação de conteúdo digital.
 
