@@ -6,6 +6,7 @@ heroImage: '../../assets/skyrim-2-the-elder-scrolls-vi-ja-esta-jogavel-e-ganha-d
 ogImage: '../../assets/og-skyrim-2-the-elder-scrolls-vi-ja-esta-jogavel-e-ganha-dicas-sobre-subtitulo.webp'
 sourceUrl: 'https://canaltech.com.br/games/skyrim-2-the-elder-scrolls-vi-ja-esta-jogavel-e-ganha-dicas-sobre-subtitulo/'
 tags: ['The Elder Scrolls', 'Bethesda', 'RPG', 'Xbox']
+imageVerified: 'true'
 ---
 A longa espera parece estar chegando ao fim para os fãs de The Elder Scrolls. O RPG mais aguardado da Bethesda, The Elder Scrolls VI, está oficialmente jogável. Essa é a grande notícia que emerge de uma observação da CEO do Xbox, Asha Sharma, que não apenas confirmou o status do jogo, mas também atiçou a curiosidade da comunidade com dicas sobre seu subtítulo. Depois de oito anos desde seu anúncio inicial, a revelação de que o game já pode ser experienciado é um sopro de esperança para um dos maiores nomes do RPG ocidental.
 

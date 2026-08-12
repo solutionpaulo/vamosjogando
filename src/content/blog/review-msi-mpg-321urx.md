@@ -5,6 +5,7 @@ pubDate: 'Mon Aug 10 2026'
 heroImage: '../../assets/review-msi-mpg-321urx.webp'
 ogImage: '../../assets/og-review-msi-mpg-321urx.webp'
 tags: ['Review', 'Hardware', 'MSI', 'Monitor Gamer', 'QD-OLED']
+imageVerified: 'true'
 ---
 
 ## Introdução

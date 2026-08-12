@@ -2,10 +2,11 @@
 title: 'Guerra Contra a ''Taxa Sony'': Stop Killing Games Reforça Processo Coletivo'
 description: 'A organização Stop Killing Games se junta a um processo coletivo contra a Sony, acusando a gigante de usar sua posição para inflacionar preços e limitar escolhas na PlayStation Store. Entenda o que essa união significa para o futuro dos games e dos jogadores.'
 pubDate: 'Wed Aug 12 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/stop-killing-games-se-une-a-processo-coletivo-contra-a-taxa-sony.webp'
 ogImage: '../../assets/og-stop-killing-games-se-une-a-processo-coletivo-contra-a-taxa-sony.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/playstation/stop-killing-games-se-une-a-processo-coletivo-contra-a-taxa-sony/'
 tags: ['PlayStation', 'Sony', 'Mercado de Games', 'Direitos do Consumidor']
+imageVerified: 'true'
 ---
 A discussão sobre as taxas de comissão cobradas por plataformas digitais não é novidade, mas ela ganha um novo e poderoso capítulo com a entrada da Stop Killing Games em um processo coletivo contra a Sony. A “Taxa Sony”, referente à comissão de 30% aplicada às vendas na PlayStation Store, tem sido alvo de críticas por desenvolvedores e consumidores ao redor do mundo. Agora, essa batalha legal promete esquentar o debate sobre concorrência e os direitos dos jogadores no ecossistema PlayStation.
 
