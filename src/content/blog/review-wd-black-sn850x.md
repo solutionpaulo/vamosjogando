@@ -5,6 +5,7 @@ pubDate: 'Wed Aug 12 2026'
 heroImage: '../../assets/review-wd-black-sn850x.webp'
 ogImage: '../../assets/og-review-wd-black-sn850x.webp'
 tags: ['Review', 'Hardware', 'WD Black SN850X', 'SSD NVMe', 'Armazenamento Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
