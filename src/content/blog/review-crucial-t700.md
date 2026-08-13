@@ -2,7 +2,8 @@
 title: 'Review: Crucial T700 — A Nova Fronteira do Armazenamento PCIe Gen5'
 description: 'O Crucial T700 é o SSD NVMe PCIe Gen5 que redefine a velocidade, oferecendo performance extrema para entusiastas e criadores de conteúdo que buscam o topo.'
 pubDate: 'Thu Aug 13 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/review-crucial-t700.webp'
+imageVerified: 'true'
 ogImage: '../../assets/og-review-crucial-t700.webp'
 tags: ['Review', 'Hardware', 'Crucial T700', 'SSD NVMe', 'PCIe Gen5']
 ---
