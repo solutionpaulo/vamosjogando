@@ -6,6 +6,7 @@ heroImage: '../../assets/pai-de-master-chief-arrasa-os-visuais-do-novo-halo-camp
 ogImage: '../../assets/og-pai-de-master-chief-arrasa-os-visuais-do-novo-halo-campaign-evolved.webp'
 sourceUrl: 'https://www.eurogamer.pt/pai-de-master-chief-arrasa-os-visuais-do-novo-halo-campaign-evolved'
 tags: ['Halo', 'FPS', 'Análise', 'Xbox']
+imageVerified: 'true'
 ---
 A franquia Halo sempre foi sinônimo de excelência gráfica e inovação, estabelecendo padrões para o gênero FPS. No entanto, o recente lançamento de Halo: Campaign Evolved tem enfrentado um caminho turbulento, com relatos de vendas abaixo do esperado no PlayStation 5. Agora, a situação se agrava com um peso pesado da indústria: Marcus Lehto, um dos cocriadores da série e a mente por trás do icônico Master Chief, vindo a público para tecer duras críticas aos aspectos visuais do jogo. Sua manifestação reacende discussões importantes sobre a direção artística e a qualidade técnica da saga.
 
