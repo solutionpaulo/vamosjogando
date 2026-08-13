@@ -6,6 +6,7 @@ heroImage: '../../assets/celular-top-da-sony-mantem-p2-e-microsd-e-esta-vendendo
 ogImage: '../../assets/og-celular-top-da-sony-mantem-p2-e-microsd-e-esta-vendendo-muito-diz-marca.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/celular-top-da-sony-mantem-p2-e-microsd-e-esta-vendendo-muito-diz-marca/'
 tags: ['Sony', 'Xperia', 'Mobile Gaming', 'Hardware']
+imageVerified: 'true'
 ---
 A Sony, muitas vezes vista como uma marca que caminha na contramão das tendências do mercado de smartphones, parece ter encontrado uma fórmula de sucesso com o novo Xperia 1 VIII. Enquanto a indústria migra para fones sem fio e armazenamento na nuvem, o top de linha da gigante japonesa insiste em recursos que a comunidade gamer e entusiasta valoriza: a entrada P2 para fones de ouvido e o slot para cartão microSD. Essa estratégia, segundo a própria Sony, está resultando em vendas fortes e alta satisfação do consumidor, tanto no Japão quanto na Europa.
 
