@@ -6,6 +6,7 @@ heroImage: '../../assets/designer-de-uncharted-diz-que-remakes-ou-remasters-da-s
 ogImage: '../../assets/og-designer-de-uncharted-diz-que-remakes-ou-remasters-da-serie-nao-fazem-sentido.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/designer-de-uncharted-diz-que-remakes-ou-remasters-da-serie-nao-fazem-sentido/'
 tags: ['Uncharted', 'Playstation', 'NaughtyDog', 'Remakes']
+imageVerified: 'true'
 ---
 A indústria de videogames vive uma verdadeira febre de remakes e remasters. Jogos clássicos são revisitados com gráficos modernos e, por vezes, mecânicas atualizadas, reacendendo a nostalgia e atraindo novas gerações. No entanto, nem todos acreditam que essa é a fórmula para todo e qualquer título. Benson Russel, um dos designers da aclamada série Uncharted, jogou uma bomba nessa discussão ao afirmar que, para ele, remakes ou remasters de Uncharted simplesmente não fazem sentido. Mas qual o peso dessa declaração e o que ela significa para uma das franquias mais queridas do PlayStation?
 

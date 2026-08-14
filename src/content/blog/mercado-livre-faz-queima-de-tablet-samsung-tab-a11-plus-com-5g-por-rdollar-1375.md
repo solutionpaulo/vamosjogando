@@ -6,6 +6,7 @@ heroImage: '../../assets/mercado-livre-faz-queima-de-tablet-samsung-tab-a11-plus
 ogImage: '../../assets/og-mercado-livre-faz-queima-de-tablet-samsung-tab-a11-plus-com-5g-por-rdollar-1375.webp'
 sourceUrl: 'https://canaltech.com.br/tablet/mercado-livre-faz-queima-de-tablet-samsung-tab-a11-plus-com-5g-por-r-1375/'
 tags: ['Samsung', 'Tablet', 'Oferta', '5G']
+imageVerified: 'true'
 ---
 O mercado brasileiro de tecnologia acaba de ser agitado por uma notícia que interessa a muitos gamers: o Samsung Galaxy Tab A11 Plus 5G está com um desconto agressivo no Mercado Livre. Longe de ser um console, este tablet se posiciona como um dispositivo multifuncional que pode complementar e até mesmo potencializar a experiência de quem vive o universo dos jogos, seja para consumo de conteúdo, acesso a guias ou comunicação com a comunidade.
 
