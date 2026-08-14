@@ -6,6 +6,7 @@ heroImage: '../../assets/lanternas-o-que-saber-antes-de-assistir-a-serie-da-hbo-
 ogImage: '../../assets/og-lanternas-o-que-saber-antes-de-assistir-a-serie-da-hbo-max.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/lanternas-o-que-saber-antes-de-assistir-a-serie-da-hbo-max/'
 tags: ['DCU', 'HBO Max', 'Lanternas', 'Séries DC']
+imageVerified: 'true'
 ---
 Atenção, fãs do universo DC e entusiastas de narrativas complexas! A HBO Max está prestes a lançar "Lanternas", uma série que promete virar a página da forma como enxergamos os super-heróis em live-action. Longe das explosões e vilões da semana, prepare-se para um drama investigativo sombrio e maduro que mergulha nas profundezas da psique de dois dos mais icônicos patrulheiros galácticos.
 

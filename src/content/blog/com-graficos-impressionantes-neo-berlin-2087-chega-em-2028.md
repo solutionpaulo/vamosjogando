@@ -6,6 +6,7 @@ heroImage: '../../assets/com-graficos-impressionantes-neo-berlin-2087-chega-em-2
 ogImage: '../../assets/og-com-graficos-impressionantes-neo-berlin-2087-chega-em-2028.webp'
 sourceUrl: 'https://meups.com.br/noticias/graficos-impressionantes-neo-berlin-2087-28/'
 tags: ['Cyberpunk', 'Distopia', 'Gráficos', 'Lançamentos']
+imageVerified: 'true'
 ---
 Desde seu anúncio inicial em 2023, NEO BERLIN 2087 capturou a atenção da comunidade gamer com a promessa de gráficos revolucionários e uma imersão profunda em um futuro distópico. A espera, que se estenderá por cinco anos até 2028, apenas eleva as expectativas em torno deste que pode ser um dos grandes lançamentos da próxima década. Mas o que justifica um ciclo de desenvolvimento tão longo, e o que podemos esperar da Berlim do futuro?
 
