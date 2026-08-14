@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 14 2026'
 heroImage: '../../assets/review-herman-miller-aeron.webp'
 ogImage: '../../assets/og-review-herman-miller-aeron.webp'
 tags: ['Review', 'Hardware', 'Herman Miller', 'Aeron', 'Cadeira Ergonômica']
+imageVerified: 'true'
 ---
 
 ## Introdução
