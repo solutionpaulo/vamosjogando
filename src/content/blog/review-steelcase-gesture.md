@@ -5,6 +5,7 @@ pubDate: 'Sat Aug 15 2026'
 heroImage: '../../assets/review-steelcase-gesture.webp'
 ogImage: '../../assets/og-review-steelcase-gesture.webp'
 tags: ['Review', 'Hardware', 'Steelcase', 'Cadeira Ergonômica', 'Cadeira Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
