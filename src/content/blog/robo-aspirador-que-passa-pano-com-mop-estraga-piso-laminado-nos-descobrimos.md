@@ -6,6 +6,7 @@ heroImage: '../../assets/robo-aspirador-que-passa-pano-com-mop-estraga-piso-lami
 ogImage: '../../assets/og-robo-aspirador-que-passa-pano-com-mop-estraga-piso-laminado-nos-descobrimos.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/robo-aspirador-que-passa-pano-com-mop-estraga-piso-laminado-nos-descobrimos/'
 tags: ['Tecnologia Doméstica', 'Casa Inteligente', 'Manutenção', 'Lifehacks']
+imageVerified: 'true'
 ---
 No universo gamer, cada segundo é valioso. Entre raids épicas e partidas ranqueadas, a última coisa que queremos é perder tempo com a faxina. Robôs aspiradores surgem como verdadeiros aliados, prometendo manter o santuário gamer impecável. Mas, e se você tem piso laminado e um robô que também passa pano? Será que essa conveniência pode custar caro ao seu revestimento? Exploramos essa dúvida crucial para garantir que seu ambiente de jogo continue perfeito.
 
