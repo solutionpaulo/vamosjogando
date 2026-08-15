@@ -6,6 +6,7 @@ heroImage: '../../assets/primeiro-trailer-de-ahsoka-season-2.webp'
 ogImage: '../../assets/og-primeiro-trailer-de-ahsoka-season-2.webp'
 sourceUrl: 'https://www.eurogamer.pt/primeiro-trailer-de-ahsoka-season-2'
 tags: ['Ahsoka', 'StarWars', 'DisneyPlus', 'SériesTV']
+imageVerified: 'true'
 ---
 A galáxia muito, muito distante continua a se expandir no Disney+, e a notícia mais recente que agitou os fãs de Star Wars é a chegada do primeiro trailer de Ahsoka Season 2. Embora 2027 pareça um futuro distante, a Lucasfilm e a Disney+ já começam a preparar o terreno para o retorno de uma das personagens mais queridas da saga. Para os assinantes do Disney+ e devotos de Star Wars, essa revelação não é apenas uma prévia, mas um lembrete do investimento contínuo na narrativa de Dave Filoni.
 
