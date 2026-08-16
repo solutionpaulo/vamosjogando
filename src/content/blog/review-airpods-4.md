@@ -5,6 +5,7 @@ pubDate: 'Sun Aug 16 2026'
 heroImage: '../../assets/review-airpods-4.webp'
 ogImage: '../../assets/og-review-airpods-4.webp'
 tags: ['Review', 'Hardware', 'AirPods 4', 'Fone de Ouvido', 'Apple']
+imageVerified: 'true'
 ---
 
 ## Introdução
