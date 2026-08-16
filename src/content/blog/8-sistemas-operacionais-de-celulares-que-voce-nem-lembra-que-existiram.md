@@ -6,6 +6,7 @@ heroImage: '../../assets/8-sistemas-operacionais-de-celulares-que-voce-nem-lembr
 ogImage: '../../assets/og-8-sistemas-operacionais-de-celulares-que-voce-nem-lembra-que-existiram.webp'
 sourceUrl: 'https://canaltech.com.br/apps/sistemas-operacionais-celulares-que-voce-nao-lembrava/'
 tags: ['Tecnologia Mobile', 'História Tech', 'Sistemas Operacionais', 'Nostalgia Digital']
+imageVerified: 'true'
 ---
 No universo tecnológico atual, parece que Android e iOS sempre foram os reis absolutos dos smartphones. Mas antes da dominação dessas gigantes, o cenário mobile era um caldeirão de inovação, ambição e, por vezes, fracasso espetacular. Para os gamers que acompanham a evolução do hardware e software, entender essa história é como revisitar os consoles esquecidos: cada um com sua proposta, seu charme e seu eventual destino. Vamos mergulhar no passado e relembrar os sistemas operacionais de celular que moldaram o caminho, mas que hoje vivem apenas na memória.A era de ouro dos 'feature phones' e dos primeiros smartphones foi definida por plataformas ambiciosas que buscavam o seu lugar ao sol.
 

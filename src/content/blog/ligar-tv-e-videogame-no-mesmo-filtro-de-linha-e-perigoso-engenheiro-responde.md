@@ -6,6 +6,7 @@ heroImage: '../../assets/ligar-tv-e-videogame-no-mesmo-filtro-de-linha-e-perigos
 ogImage: '../../assets/og-ligar-tv-e-videogame-no-mesmo-filtro-de-linha-e-perigoso-engenheiro-responde.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/ligar-tv-e-videogame-no-mesmo-filtro-de-linha-e-perigoso-engenheiro-responde/'
 tags: ['Segurança Elétrica', 'Setup Gamer', 'Dicas Gamer', 'Hardware']
+imageVerified: 'true'
 ---
 A dúvida é comum na comunidade gamer brasileira: será que ligar a TV e o console de videogame no mesmo filtro de linha é perigoso? Com setups cada vez mais robustos e caros, a preocupação em sobrecarregar a rede elétrica e danificar equipamentos é mais do que válida. Mas, ao contrário do que muitos pensam, a matemática do consumo de energia esconde um detalhe crucial que pode estar sendo ignorado na hora de montar sua estação de jogos.
 
