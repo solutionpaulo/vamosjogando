@@ -6,6 +6,7 @@ heroImage: '../../assets/insomniac-lamenta-implacavel-massacre-de-negatividade-s
 ogImage: '../../assets/og-insomniac-lamenta-implacavel-massacre-de-negatividade-sobre-marvels-wolverine.webp'
 sourceUrl: 'https://www.eurogamer.pt/insomniac-lamenta-implacavel-massacre-de-negatividade-sobre-marvels-wolverine'
 tags: ['Marvel''s Wolverine', 'Insomniac Games', 'PlayStation', 'Single-player']
+imageVerified: 'true'
 ---
 O mundo dos games foi recentemente agitado pelo vazamento de um dos títulos mais aguardados da PlayStation Studios: Marvel's Wolverine. Imagens e vídeos de gameplay do novo projeto da Insomniac Games circularam na internet, provocando um debate intenso. Contudo, o que se seguiu foi uma onda de negatividade que levou a própria desenvolvedora a se manifestar sobre o ocorrido. Este episódio levanta questões importantes sobre as expectativas da comunidade e a natureza do desenvolvimento de jogos.
 
