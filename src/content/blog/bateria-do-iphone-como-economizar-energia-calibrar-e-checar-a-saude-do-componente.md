@@ -6,6 +6,7 @@ heroImage: '../../assets/bateria-do-iphone-como-economizar-energia-calibrar-e-ch
 ogImage: '../../assets/og-bateria-do-iphone-como-economizar-energia-calibrar-e-checar-a-saude-do-componente.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/bateria-do-iphone-como-economizar-energia-calibrar-e-checar-a-saude-do-componente/'
 tags: ['iPhone', 'Mobile Gaming', 'Hardware', 'Performance']
+imageVerified: 'true'
 ---
 No mundo dos games mobile, cada milissegundo e cada frame contam. Mas você já parou para pensar como a saúde da bateria do seu iPhone pode estar sabotando suas jogatinas mais intensas? Em "Vamos Jogando", sabemos que a performance é crucial, e é por isso que vamos mergulhar nos detalhes sobre como manter a bateria do seu iPhone em dia para garantir que seu gameplay nunca seja comprometido.
 
