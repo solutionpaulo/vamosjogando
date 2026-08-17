@@ -6,6 +6,7 @@ heroImage: '../../assets/atriz-de-sam-em-until-dawn-falece-aos-36-anos.webp'
 ogImage: '../../assets/og-atriz-de-sam-em-until-dawn-falece-aos-36-anos.webp'
 sourceUrl: 'https://meups.com.br/noticias/atriz-de-sam-until-dawn-falece-aos-36-anos/'
 tags: ['Until Dawn', 'PlayStation', 'Terror Interativo', 'Supermassive Games']
+imageVerified: 'true'
 ---
 A comunidade gamer foi surpreendida nesta semana com a triste notícia do falecimento de Hannah Pederson, a atriz que emprestou seu talento e voz para a personagem Sam no aclamado Until Dawn. Com apenas 36 anos, a partida de Pederson deixa um vazio e reacende as memórias de uma das experiências mais marcantes do terror interativo.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/sally-face-2-e-anunciado-em-aniversario-de-10-anos-da-f
 ogImage: '../../assets/og-sally-face-2-e-anunciado-em-aniversario-de-10-anos-da-franquia.webp'
 sourceUrl: 'https://meups.com.br/noticias/sally-face-2-e-anunciado-aniversario-10-anos/'
 tags: ['Sally Face', 'Indie Game', 'Terror Psicológico', 'Steam']
+imageVerified: 'true'
 ---
 A notícia do aniversário de 10 anos de Sally Face, acompanhada pelo anúncio de sua sequência, Sally Face 2, é um marco para fãs de narrativas sombrias e estilo visual único. O jogo original, com sua atmosfera de terror psicológico e mistérios envolventes, conquistou uma legião de admiradores ao redor do mundo, incluindo muitos aqui no Brasil. A expectativa agora é alta para o retorno de Sal Fisher e a continuação de sua jornada macabra.
 
