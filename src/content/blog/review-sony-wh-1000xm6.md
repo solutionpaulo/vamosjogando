@@ -2,9 +2,10 @@
 title: 'Review: Sony WH-1000XM6 — O Novo Padrão em Cancelamento de Ruído e Áudio Premium'
 description: 'Avaliamos o aguardado Sony WH-1000XM6, prometendo elevar a barra para fones de ouvido com cancelamento de ruído. Descubra se ele justifica o investimento para audiófilos e profissionais.'
 pubDate: 'Mon Aug 17 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-sony-wh-1000xm6.webp'
 ogImage: '../../assets/og-review-sony-wh-1000xm6.webp'
 tags: ['Review', 'Hardware', 'Sony WH-1000XM6', 'Fone de Ouvido', 'Cancelamento de Ruído']
+imageVerified: 'true'
 ---
 
 ## Introdução
