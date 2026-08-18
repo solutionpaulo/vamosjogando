@@ -5,6 +5,7 @@ pubDate: 'Tue Aug 18 2026'
 heroImage: '../../assets/review-samsung-galaxy-buds3-pro.webp'
 ogImage: '../../assets/og-review-samsung-galaxy-buds3-pro.webp'
 tags: ['Review', 'Hardware', 'Samsung', 'Fones de Ouvido', 'Galaxy Buds3 Pro']
+imageVerified: 'true'
 ---
 
 ## Introdução
