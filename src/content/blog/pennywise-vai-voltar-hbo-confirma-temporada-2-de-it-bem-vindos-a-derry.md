@@ -6,6 +6,7 @@ heroImage: '../../assets/pennywise-vai-voltar-hbo-confirma-temporada-2-de-it-bem
 ogImage: '../../assets/og-pennywise-vai-voltar-hbo-confirma-temporada-2-de-it-bem-vindos-a-derry.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/pennywise-vai-voltar-hbo-confirma-temporada-2-de-it-bem-vindos-a-derry/'
 tags: ['HBO Max', 'Terror', 'Stephen King', 'Série de TV']
+imageVerified: 'true'
 ---
 Para os fãs do universo aterrorizante de Stephen King, a espera acabou: a HBO confirmou oficialmente a segunda temporada de It: Bem-Vindos a Derry. O prelúdio sombrio dos filmes de It: A Coisa retorna para explorar ainda mais os horrores da cidade que serve de palco para o temível Pennywise, prometendo uma nova jornada ao passado assustador de Derry.
 
