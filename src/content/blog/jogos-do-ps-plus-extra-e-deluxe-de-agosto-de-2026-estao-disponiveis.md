@@ -6,6 +6,7 @@ heroImage: '../../assets/jogos-do-ps-plus-extra-e-deluxe-de-agosto-de-2026-estao
 ogImage: '../../assets/og-jogos-do-ps-plus-extra-e-deluxe-de-agosto-de-2026-estao-disponiveis.webp'
 sourceUrl: 'https://meups.com.br/noticias/jogos-ps-plus-extra-deluxe-de-agosto-26/'
 tags: ['Playstation Plus', 'RPG', 'Ação', 'Playstation']
+imageVerified: 'true'
 ---
 Agosto de 2026 chegou e, com ele, uma enxurrada de novos títulos desembarca no catálogo do PlayStation Plus Extra e Deluxe, trazendo novidades que prometem prender os jogadores por horas. A Sony parece ter mirado alto para este mês, entregando uma seleção robusta que atende a diferentes gostos e estilos de jogo. Para os assinantes brasileiros, esta é uma excelente oportunidade de acessar grandes produções sem custo adicional, reforçando o valor do serviço no cenário nacional.
 

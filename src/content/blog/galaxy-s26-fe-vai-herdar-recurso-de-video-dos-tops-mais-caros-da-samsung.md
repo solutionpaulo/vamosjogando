@@ -6,6 +6,7 @@ heroImage: '../../assets/galaxy-s26-fe-vai-herdar-recurso-de-video-dos-tops-mais
 ogImage: '../../assets/og-galaxy-s26-fe-vai-herdar-recurso-de-video-dos-tops-mais-caros-da-samsung.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/galaxy-s26-fe-vai-herdar-recurso-de-video-dos-tops-mais-caros-da-samsung/'
 tags: ['Samsung', 'Galaxy FE', 'Estabilização de Vídeo', 'Smartphones']
+imageVerified: 'true'
 ---
 A linha Fan Edition (FE) da Samsung sempre se destacou por trazer recursos de ponta de seus irmãos mais caros para um patamar de preço mais acessível. Agora, vazamentos indicam que o aguardado Galaxy S26 FE seguirá essa tradição, incorporando uma funcionalidade de vídeo que pode ser um verdadeiro divisor de águas para gamers e criadores de conteúdo mobile: o Horizontal Lock. Essa novidade sinaliza um compromisso da Samsung em democratizar tecnologias, tornando a produção de vídeos de alta qualidade mais acessível a todos.
 
