@@ -6,6 +6,7 @@ heroImage: '../../assets/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-geren
 ogImage: '../../assets/og-adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/'
 tags: ['IA', 'Produtividade', 'Claude', 'GoogleDrive', 'Gmail']
+imageVerified: 'true'
 ---
 A inteligência artificial está cada vez mais presente em nosso dia a dia, e não apenas para gerar textos ou imagens. Com a crescente demanda por automação e produtividade, assistentes de IA estão buscando ir além, integrando-se diretamente com as ferramentas que usamos diariamente. O Claude, da Anthropic, é o mais novo competidor a entrar de cabeça nesse cenário, trazendo uma série de novidades que prometem facilitar a vida de muitos, incluindo a comunidade gamer que muitas vezes busca otimizar seu tempo.
 
