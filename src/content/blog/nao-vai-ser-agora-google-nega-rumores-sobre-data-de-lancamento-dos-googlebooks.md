@@ -6,6 +6,7 @@ heroImage: '../../assets/nao-vai-ser-agora-google-nega-rumores-sobre-data-de-lan
 ogImage: '../../assets/og-nao-vai-ser-agora-google-nega-rumores-sobre-data-de-lancamento-dos-googlebooks.webp'
 sourceUrl: 'https://canaltech.com.br/notebook/nao-vai-ser-agora-google-nega-rumores-sobre-data-de-lancamento-dos-googlebooks/'
 tags: ['Google', 'Hardware', 'Notebooks', 'Android']
+imageVerified: 'true'
 ---
 O mercado de tecnologia estava em polvorosa com a expectativa de um grande anúncio do Google em setembro. Rumores apontavam para a possível estreia dos aguardados Googlebooks, sucessores dos populares Chromebooks, mas com uma proposta ambiciosa de rodar Android adaptado para desktop. Infelizmente, a gigante da tecnologia tratou de esfriar os ânimos dos mais ansiosos, confirmando que não há nenhum lançamento previsto para a data.
 

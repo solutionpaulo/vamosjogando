@@ -6,6 +6,7 @@ heroImage: '../../assets/estudio-de-doom-nao-desiste-do-id-tech-mesmo-depois-dos
 ogImage: '../../assets/og-estudio-de-doom-nao-desiste-do-id-tech-mesmo-depois-dos-despedimentos.webp'
 sourceUrl: 'https://www.eurogamer.pt/estudio-de-doom-nao-desiste-do-id-tech-mesmo-depois-dos-despedimentos'
 tags: ['id Software', 'DOOM', 'id Tech', 'FPS']
+imageVerified: 'true'
 ---
 Em um cenário de reestruturações e demissões que tem abalado o setor de games, especialmente os estúdios sob o guarda-chuva da Xbox, a id Software, lendária criadora da franquia DOOM, enviou uma mensagem clara e forte à sua comunidade: o motor id Tech permanece como a espinha dorsal de seus projetos futuros. Essa decisão, que reforça a independência tecnológica do estúdio, tem implicações significativas para a indústria e, claro, para os fãs.
 
