@@ -6,6 +6,7 @@ heroImage: '../../assets/acer-lanca-pc-completo-nitro-30-com-radeon-rx-9070-xt-e
 ogImage: '../../assets/og-acer-lanca-pc-completo-nitro-30-com-radeon-rx-9070-xt-e-cpu-ryzen-por-usdollar-3700.webp'
 sourceUrl: 'https://www.adrenaline.com.br/amd/acer-lanca-pc-completo-nitro-30-com-radeon-rx-9070-xt-e-cpu-ryzen-por-us-3-700/'
 tags: ['Hardware', 'PC Gamer', 'AMD', 'Acer']
+imageVerified: 'true'
 ---
 O cenário dos PCs gamers de alto desempenho acaba de ganhar um novo protagonista com o lançamento do Acer Nitro 30. A marca, conhecida por sua linha Predator e Nitro, investe pesado em uma configuração totalmente AMD, prometendo performance de elite para os jogadores mais exigentes. Mas será que esse novo monstro justifica o investimento e como ele se posiciona no mercado brasileiro?
 

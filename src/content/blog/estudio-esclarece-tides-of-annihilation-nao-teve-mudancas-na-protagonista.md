@@ -6,6 +6,7 @@ heroImage: '../../assets/estudio-esclarece-tides-of-annihilation-nao-teve-mudanc
 ogImage: '../../assets/og-estudio-esclarece-tides-of-annihilation-nao-teve-mudancas-na-protagonista.webp'
 sourceUrl: 'https://meups.com.br/noticias/tides-of-annihilation-esclarece-protagonista/'
 tags: ['Tides of Annihilation', 'Análise de Games', 'Desenvolvimento', 'Comunidade Gamer']
+imageVerified: 'true'
 ---
 O universo dos games é um caldeirão efervescente de paixões e opiniões, e por vezes, a percepção dos jogadores pode gerar discussões intensas. É o caso recente de *Tides of Annihilation*, onde uma suposta mudança na protagonista Gwendolyn incendiou as redes sociais, levando o estúdio a se posicionar. Vamos mergulhar nessa controvérsia e entender o que realmente aconteceu.
 

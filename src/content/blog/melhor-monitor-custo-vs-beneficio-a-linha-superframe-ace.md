@@ -6,6 +6,7 @@ heroImage: '../../assets/melhor-monitor-custo-vs-beneficio-a-linha-superframe-ac
 ogImage: '../../assets/og-melhor-monitor-custo-vs-beneficio-a-linha-superframe-ace.webp'
 sourceUrl: 'https://www.adrenaline.com.br/noticias/melhor-monitor-custo-vs-beneficio-a-linha-superframe-ace/'
 tags: ['Monitores Gamer', 'Hardware PC', 'Terabyte', 'Custo-Benefício']
+imageVerified: 'true'
 ---
 O mercado de hardware gamer no Brasil é notoriamente desafiador, com preços que frequentemente afastam entusiastas de setups de alta performance. Nesse cenário, a busca por componentes que aliem qualidade e acessibilidade se torna uma constante. É nesse vácuo que a Terabyte, uma das maiores lojas de informática do país, lança sua nova linha de monitores, a SuperFrame ACE, prometendo redefinir o conceito de custo-benefício para os jogadores brasileiros.
 
