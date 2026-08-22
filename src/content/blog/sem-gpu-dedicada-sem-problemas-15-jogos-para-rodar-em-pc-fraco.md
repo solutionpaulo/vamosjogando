@@ -6,6 +6,7 @@ heroImage: '../../assets/sem-gpu-dedicada-sem-problemas-15-jogos-para-rodar-em-p
 ogImage: '../../assets/og-sem-gpu-dedicada-sem-problemas-15-jogos-para-rodar-em-pc-fraco.webp'
 sourceUrl: 'https://canaltech.com.br/games/melhores-jogos-para-rodar-pc-fraco-sem-placa-de-video/'
 tags: ['Hardware', 'PC Gaming', 'Jogos Indie', 'Otimização']
+imageVerified: 'true'
 ---
 A realidade do mercado de hardware pode ser cruel, especialmente no Brasil. Com os preços das placas de vídeo dedicadas atingindo patamares estratosféricos, muitos gamers se viram com PCs equipados apenas com gráficos integrados, as chamadas iGPUs. Mas e se disséssemos que isso não é o fim da linha para a diversão? No "Vamos Jogando", mostramos que é totalmente possível desfrutar de uma vasta gama de títulos, de clássicos a lançamentos surpreendentes, mesmo sem uma GPU dedicada.
 

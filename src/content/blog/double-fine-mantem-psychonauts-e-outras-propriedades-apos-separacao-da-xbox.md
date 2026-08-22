@@ -6,6 +6,7 @@ heroImage: '../../assets/double-fine-mantem-psychonauts-e-outras-propriedades-ap
 ogImage: '../../assets/og-double-fine-mantem-psychonauts-e-outras-propriedades-apos-separacao-da-xbox.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/double-fine-mantem-psychonauts-e-outras-propriedades-apos-separacao-da-xbox/'
 tags: ['Double Fine', 'Psychonauts', 'Kickstarter', 'Indie Games']
+imageVerified: 'true'
 ---
 A Double Fine Productions, renomada por títulos como Psychonauts, Brütal Legend e Costume Quest, marca uma nova fase em sua história. Após um período sob a égide do Xbox, o estúdio anuncia sua independência, um movimento que reacende a chama da criatividade autônoma e promete novas aventuras para os fãs. Essa transição não é apenas burocrática; ela representa a retomada total do controle sobre suas valiosas propriedades intelectuais.
 
