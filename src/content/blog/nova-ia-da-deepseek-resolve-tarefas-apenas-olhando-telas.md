@@ -6,6 +6,7 @@ heroImage: '../../assets/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-tela
 ogImage: '../../assets/og-nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/'
 tags: ['Inteligência Artificial', 'DeepSeek', 'Automação', 'IA e Jogos']
+imageVerified: 'true'
 ---
 O universo da inteligência artificial não para de evoluir, e a cada nova ferramenta, imaginamos como ela pode redefinir não só o mercado de trabalho, mas também a forma como interagimos com o entretenimento. A DeepSeek, uma das gigantes chinesas no campo da IA, acaba de lançar um modelo experimental que promete ser um divisor de águas, especialmente no que tange à automação inteligente: o DeepSeek-V4-Flash-Vision-Exp.Este modelo experimental, já disponível para desenvolvedores, tem o potencial de ir muito além das aplicações corporativas, vislumbrando um futuro onde a IA compreende e interage com o nosso mundo digital de uma forma sem precedentes.
 
