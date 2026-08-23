@@ -6,6 +6,7 @@ heroImage: '../../assets/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-ge
 ogImage: '../../assets/og-por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/'
 tags: ['AI PCs', 'Hardware', 'Inteligência Artificial', 'Processamento Local']
+imageVerified: 'true'
 ---
 A ascensão da inteligência artificial transformou nossa interação com a tecnologia, com ferramentas como ChatGPT, Claude e Gemini operando na nuvem e acessíveis de qualquer PC. Isso levanta uma questão crucial para gamers e criadores: se o poder da IA está nos servidores remotos, qual o verdadeiro valor dos AI PCs, máquinas equipadas com hardware dedicado para IA? Vamos desmistificar o futuro do processamento inteligente.
 

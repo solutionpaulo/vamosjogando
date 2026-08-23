@@ -6,6 +6,7 @@ heroImage: '../../assets/netflix-revela-o-primeiro-trailer-da-minisserie-lego-on
 ogImage: '../../assets/og-netflix-revela-o-primeiro-trailer-da-minisserie-lego-one-piece.webp'
 sourceUrl: 'https://www.eurogamer.pt/netflix-revela-o-primeiro-trailer-da-minisserie-lego-one-piece'
 tags: ['One Piece', 'LEGO', 'Netflix', 'Animação']
+imageVerified: 'true'
 ---
 A Netflix continua a investir pesado em adaptações de animes e franquias amadas, e a mais recente revelação é uma que promete agitar tanto os fãs de mangás quanto os entusiastas de bloquinhos: a minissérie animada LEGO One Piece. Um trailer fresquinho acaba de desembarcar, mostrando como o vibrante mundo criado por Eiichiro Oda se encontra com o humor e a estética inconfundíveis dos bonecos LEGO.
 
