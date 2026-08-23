@@ -6,6 +6,7 @@ heroImage: '../../assets/o-que-sao-modelos-de-ia-de-pesos-abertos.webp'
 ogImage: '../../assets/og-o-que-sao-modelos-de-ia-de-pesos-abertos.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-pesos-abertos/'
 tags: ['IA em Games', 'Desenvolvimento de Jogos', 'Hardware Gaming', 'Tecnologia']
+imageVerified: 'true'
 ---
 A Inteligência Artificial já deixou de ser ficção científica para se integrar cada vez mais ao nosso cotidiano, e o mundo dos games não é exceção. Enquanto a maioria das grandes empresas de IA, como OpenAI e Google, mantém seus sistemas em caixas-pretas proprietárias, uma revolução silenciosa está ganhando força: a IA de pesos abertos. Imagine ter o poder de uma IA sofisticada rodando na sua própria máquina, disponível para personalização. Para a comunidade gamer e desenvolvedores, isso pode significar uma era de inovações sem precedentes. Vamos explorar como essa nova fronteira da IA pode impactar a forma como jogamos e criamos jogos.
 

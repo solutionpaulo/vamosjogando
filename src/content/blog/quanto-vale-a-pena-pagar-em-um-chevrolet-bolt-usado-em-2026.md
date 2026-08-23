@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-vale-a-pena-pagar-em-um-chevrolet-bolt-usado-em-
 ogImage: '../../assets/og-quanto-vale-a-pena-pagar-em-um-chevrolet-bolt-usado-em-2026.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-vale-a-pena-pagar-em-um-chevrolet-bolt-usado-em-2026/'
 tags: ['Hardware', 'Retrogaming', 'Análise', 'MercadoGamer']
+imageVerified: 'true'
 ---
 Para muitos gamers, a busca por desempenho de ponta e inovação tecnológica é uma constante. Mas o que acontece quando um hardware que já foi o ápice da potência começa a envelhecer? O 'Bolt Engine', um console ou plataforma de hardware que marcou época, teve seu lançamento acompanhado de um preço exorbitante, tornando-o um sonho distante para muitos. Agora, em 2026, seu valor no mercado de usados despencou drasticamente, levantando uma questão crucial: ele ainda é uma boa compra?
 
