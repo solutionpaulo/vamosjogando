@@ -6,6 +6,7 @@ heroImage: '../../assets/xiaomi-revela-mini-pc-com-tres-processadores-xring-dife
 ogImage: '../../assets/og-xiaomi-revela-mini-pc-com-tres-processadores-xring-diferentes-para-rodar-ia.webp'
 sourceUrl: 'https://www.adrenaline.com.br/hardware/xiaomi-revela-mini-pc-com-tres-processadores-xring-diferentes-para-rodar-ia/'
 tags: ['Xiaomi', 'Hardware', 'Mini PC', 'IA']
+imageVerified: 'true'
 ---
 A cada nova geração de hardware, a busca por mais potência e eficiência energética nos leva a inovações surpreendentes. Desta vez, a Xiaomi entra em cena com um protótipo de mini PC que desafia o convencional, combinando três 'cérebros' distintos em um único dispositivo. Mas o que isso realmente significa para o universo dos games, que sempre exige o máximo de processamento e inteligência?
 

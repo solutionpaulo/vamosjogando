@@ -6,6 +6,7 @@ heroImage: '../../assets/gamescom-opening-night-live-2026-onde-assistir-ao-vivo.
 ogImage: '../../assets/og-gamescom-opening-night-live-2026-onde-assistir-ao-vivo.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/gamescom-2026-ao-vivo-opening-night-live/'
 tags: ['Gamescom', 'TheWitcher', 'GearsOfWar', 'Metro2039']
+imageVerified: 'true'
 ---
 A Gamescom Opening Night Live (ONL) de 2026 está prestes a ligar os holofotes do mundo gamer nesta terça-feira, dia 25! Apresentado pelo icônico Geoff Keighley, este evento é tradicionalmente um palco para anúncios bombásticos, trailers eletrizantes e novidades que definem os próximos meses (e anos) da indústria. Para os gamers brasileiros, é a chance de ver em primeira mão o futuro dos seus títulos favoritos e descobrir as próximas obsessões. Prepare-se, pois a lista de confirmados já está deixando a comunidade em polvorosa!
 ## Os Destaques Confirmados: O Que Já Sabemos
