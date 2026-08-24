@@ -6,6 +6,7 @@ heroImage: '../../assets/modern-warfare-2-na-switch-2-apenas-em-formato-digital.
 ogImage: '../../assets/og-modern-warfare-2-na-switch-2-apenas-em-formato-digital.webp'
 sourceUrl: 'https://www.eurogamer.pt/modern-warfare-2-na-switch-2-apenas-em-formato-digital'
 tags: ['CallofDuty', 'NintendoSwitch', 'Activision', 'JogosDigitais']
+imageVerified: 'true'
 ---
 A notícia de que Call of Duty: Modern Warfare 2 está a caminho da aguardada Nintendo Switch 2, marcando o retorno da aclamada franquia à plataforma da Nintendo, gerou um misto de entusiasmo e ceticismo entre a comunidade gamer. No entanto, o anúncio vem com uma ressalva significativa: o jogo estará disponível *apenas* em formato digital. Essa decisão não é trivial e pode sinalizar uma mudança estratégica para a Nintendo e a Activision, com impactos notáveis para os jogadores, especialmente no Brasil.
 
