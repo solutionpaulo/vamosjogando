@@ -6,6 +6,7 @@ heroImage: '../../assets/garmin-lanca-smartwatch-top-com-satelite-e-mapas-que-ca
 ogImage: '../../assets/og-garmin-lanca-smartwatch-top-com-satelite-e-mapas-que-carregam-30percent-mais-rapido.webp'
 sourceUrl: 'https://canaltech.com.br/smartwatch/garmin-lanca-smartwatch-top-com-satelite-e-mapas-que-carregam-30-mais-rapido/'
 tags: ['Smartwatch', 'Garmin', 'Tecnologia', 'Fitness']
+imageVerified: 'true'
 ---
 No universo dos gadgets que nos acompanham no dia a dia, os smartwatches da Garmin sempre se destacaram pela robustez e foco em performance. Agora, a empresa eleva o patamar com o lançamento dos Fēnix 9 e Fēnix 9 Pro, uma nova geração que promete revolucionar a forma como interagimos com atividades ao ar livre, entregando tecnologia de ponta que pode interessar até mesmo o gamer que busca o máximo de sua performance física e tecnológica.
 

@@ -2,10 +2,11 @@
 title: 'Metro 2039: Retorno Sombrio a Moscou e Novo Rosto na Gamescom 2026'
 description: 'O aguardado Metro 2039 surpreende na Gamescom 2026 com um trailer sombrio, um novo protagonista e a promessa de uma Moscou ainda mais perigosa.'
 pubDate: 'Tue Aug 25 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/metro-2039-ganha-trailer-sombrio-na-gamescom-2026-com-novo-protagonista-e-volta-a-moscou.webp'
 ogImage: '../../assets/og-metro-2039-ganha-trailer-sombrio-na-gamescom-2026-com-novo-protagonista-e-volta-a-moscou.webp'
 sourceUrl: 'https://www.adrenaline.com.br/noticias/metro-2039-ganha-trailer-sombrio-na-gamescom-2026-com-novo-protagonista-e-volta-a-moscou/'
 tags: ['Metro', 'FPS', 'SurvivalHorror', 'Gamescom']
+imageVerified: 'true'
 ---
 A Gamescom 2026 mal começou e já entregou uma bomba para os fãs de survival horror: um novo trailer de Metro 2039, que promete levar os jogadores de volta aos túneis claustrofóbicos e superfícies geladas de uma Moscou pós-apocalíptica. A franquia, aclamada por sua narrativa densa e atmosfera sufocante, parece pronta para redefinir seus limites mais uma vez.
 
