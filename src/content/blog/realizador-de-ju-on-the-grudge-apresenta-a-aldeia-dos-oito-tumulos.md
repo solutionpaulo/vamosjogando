@@ -6,6 +6,7 @@ heroImage: '../../assets/realizador-de-ju-on-the-grudge-apresenta-a-aldeia-dos-o
 ogImage: '../../assets/og-realizador-de-ju-on-the-grudge-apresenta-a-aldeia-dos-oito-tumulos.webp'
 sourceUrl: 'https://www.eurogamer.pt/realizador-de-ju-on-the-grudge-apresenta-a-aldeia-dos-oito-tumulos'
 tags: ['Terror', 'Cinema', 'HorrorJapones', 'TakashiShimizu']
+imageVerified: 'true'
 ---
 O nome Takashi Shimizu ecoa nos corredores do terror com uma força quase sobrenatural, especialmente para quem cresceu assombrado pelas imagens perturbadoras de 'Ju-On: The Grudge'. Agora, o aclamado diretor japonês está de volta com um novo projeto que promete levar o público aos limites do medo: 'A Aldeia dos Oito Túmulos', cujo primeiro trailer já está entre nós.
 

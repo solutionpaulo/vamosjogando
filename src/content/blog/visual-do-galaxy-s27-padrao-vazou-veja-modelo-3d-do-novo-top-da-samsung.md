@@ -6,6 +6,7 @@ heroImage: '../../assets/visual-do-galaxy-s27-padrao-vazou-veja-modelo-3d-do-nov
 ogImage: '../../assets/og-visual-do-galaxy-s27-padrao-vazou-veja-modelo-3d-do-novo-top-da-samsung.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/visual-do-galaxy-s27-padrao-vazou-veja-modelo-3d-do-novo-top-da-samsung/'
 tags: ['Samsung', 'GalaxyS27', 'MobileGaming', 'HardwareMóvel']
+imageVerified: 'true'
 ---
 A corrida tecnológica no mercado de smartphones premium não para, e a Samsung, gigante do setor, já está com os olhos no futuro. Embora o foco principal do Vamos Jogando seja o universo dos games, é inegável que os smartphones de ponta se tornaram plataformas cruciais para muitos jogadores, especialmente no crescente segmento de mobile gaming. Recentemente, renders em 3D do aguardado Galaxy S27 e seus irmãos vazaram, oferecendo um vislumbre das inovações de design que podem definir a próxima geração de dispositivos Galaxy. Estas mudanças, ainda que sutis, podem ter um impacto direto na experiência do usuário, incluindo a forma como jogamos em nossos celulares.
 
