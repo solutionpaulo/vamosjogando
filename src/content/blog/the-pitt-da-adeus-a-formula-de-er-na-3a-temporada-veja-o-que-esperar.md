@@ -6,6 +6,7 @@ heroImage: '../../assets/the-pitt-da-adeus-a-formula-de-er-na-3a-temporada-veja-
 ogImage: '../../assets/og-the-pitt-da-adeus-a-formula-de-er-na-3a-temporada-veja-o-que-esperar.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/the-pitt-da-adeus-a-formula-de-er-na-3-temporada-veja-o-que-esperar/'
 tags: ['DramaMédico', 'HBO Max', 'ThePitt', 'SériesTV']
+imageVerified: 'true'
 ---
 Vamos Jogando costuma focar nos universos vibrantes dos games, mas não podemos ignorar quando narrativas complexas e inovações dramáticas surgem em outras mídias que também cativam nosso público. A aclamada série médica da HBO Max, The Pitt, que tem conquistado fãs e indicações ao Emmy por sua representação realista do caos de um pronto-socorro, está prestes a passar por uma transformação radical em sua terceira temporada, prevista para 2027. O que esperar dessa evolução que promete distanciar-se da fórmula clássica popularizada por ER?
 

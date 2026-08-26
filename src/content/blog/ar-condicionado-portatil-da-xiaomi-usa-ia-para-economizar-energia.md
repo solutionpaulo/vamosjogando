@@ -6,6 +6,7 @@ heroImage: '../../assets/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economiz
 ogImage: '../../assets/og-ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/'
 tags: ['Hardware', 'Tecnologia', 'Smart Home', 'Conforto Gamer']
+imageVerified: 'true'
 ---
 O calor excessivo é um inimigo silencioso da imersão e da performance nos jogos, especialmente em um país tropical como o Brasil. Ninguém merece ter a experiência comprometida por um ambiente abafado ou pelo estresse de uma conta de energia altíssima. Pensando nisso, a Xiaomi, gigante da tecnologia, acaba de revelar um novo ar-condicionado portátil que pode ser o aliado perfeito para manter seu setup gamer no paraíso térmico, e o melhor: com inteligência artificial para economizar na conta de luz.
 
