@@ -135,7 +135,6 @@ const REVIEW_TOPICS = [
   { name: 'RedMagic 10 Pro', search: 'RedMagic 10 Pro' },
   { name: 'Logitech G502 X Plus', search: 'Logitech G502 X' },
   { name: 'Razer Viper V3 Pro', search: 'Razer Viper V3 Pro' },
-  { name: 'Corsair K70 RGB Pro', search: 'Corsair K70 RGB Pro' },
   { name: 'SteelSeries Apex Pro TKL', search: 'SteelSeries Apex Pro TKL' },
   { name: 'Astro A50 X', search: 'Astro A50 X' },
   { name: 'HyperX Cloud III', search: 'HyperX Cloud III' },
@@ -205,6 +204,54 @@ const REVIEW_TOPICS = [
   { name: 'AirPods 4', search: 'AirPods 4' },
   { name: 'Sony WH-1000XM6', search: 'Sony WH-1000XM6' },
   { name: 'Samsung Galaxy Buds3 Pro', search: 'Samsung Galaxy Buds3 Pro' },
+
+  // === Consoles ===
+  { name: 'PlayStation 5 Pro', search: 'PlayStation 5 Pro' },
+  { name: 'Xbox Series S', search: 'Xbox Series S' },
+
+  // === GPUs ===
+  { name: 'NVIDIA RTX 5060 Ti', search: 'NVIDIA GeForce RTX 5060 Ti' },
+
+  // === Portáteis (PC Handhelds) ===
+  { name: 'MSI Claw 8 AI+', search: 'MSI Claw 8 AI plus handheld' },
+  { name: 'Razer Edge', search: 'Razer Edge handheld' },
+  { name: 'Anbernic RG556', search: 'Anbernic RG556 retro gaming handheld' },
+  { name: 'AYANEO 3', search: 'AYANEO 3 handheld' },
+
+  // === Controles ===
+  { name: 'GameSir Cyclone 2', search: 'GameSir Cyclone 2 controller' },
+  { name: 'PowerA Enhanced', search: 'PowerA Enhanced wired controller' },
+  { name: 'Razer Wolverine V3 Pro', search: 'Razer Wolverine V3 Pro controller' },
+  { name: 'Moza Racing R5', search: 'Moza R5 racing wheel' },
+
+  // === Headsets / Áudio ===
+  { name: 'SteelSeries Arctis Nova 5', search: 'SteelSeries Arctis Nova 5 headset' },
+  { name: 'Logitech G733', search: 'Logitech G733 headset' },
+  { name: 'JBL Quantum 910', search: 'JBL Quantum 910 headset' },
+  { name: 'Edifier G3000', search: 'Edifier G3000 speaker' },
+  { name: 'Razer Barracuda X', search: 'Razer Barracuda X headset' },
+
+  // === Teclados ===
+  { name: 'Keychron K2 Pro', search: 'Keychron K2 Pro mechanical keyboard' },
+  { name: 'Razer BlackWidow V4 Pro', search: 'Razer BlackWidow V4 Pro keyboard' },
+  { name: 'Logitech G213', search: 'Logitech G213 Prodigy keyboard' },
+
+  // === Mouses ===
+  { name: 'Logitech G203', search: 'Logitech G203 mouse' },
+  { name: 'Razer DeathAdder Essential', search: 'Razer DeathAdder Essential mouse' },
+
+  // === Monitores ===
+  { name: 'Samsung Odyssey G5', search: 'Samsung Odyssey G5 monitor' },
+  { name: 'LG UltraGear 27GP850', search: 'LG UltraGear 27GP850 monitor' },
+  { name: 'AOC 24G2', search: 'AOC 24G2 monitor' },
+
+  // === SSDs / Memória ===
+  { name: 'Kingston KC3000', search: 'Kingston KC3000 NVMe SSD' },
+  { name: 'Lexar NM790', search: 'Lexar NM790 NVMe SSD' },
+  { name: 'SanDisk Extreme Pro', search: 'SanDisk Extreme Pro storage' },
+
+  // === Cadeiras Ergonômicas ===
+  { name: 'ThunderX3 TGC12', search: 'ThunderX3 TGC12 gaming chair' },
 ];
 
 function getExistingSlugs() {
