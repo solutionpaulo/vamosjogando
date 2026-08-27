@@ -6,6 +6,7 @@ heroImage: '../../assets/rockstar-revela-que-o-romance-e-o-ingrediente-secreto-d
 ogImage: '../../assets/og-rockstar-revela-que-o-romance-e-o-ingrediente-secreto-de-gta-6.webp'
 sourceUrl: 'https://canaltech.com.br/games/rockstar-revela-que-o-romance-e-o-ingrediente-secreto-de-gta-6/'
 tags: ['GTA 6', 'Rockstar', 'Narrativa', 'MundoAberto']
+imageVerified: 'true'
 ---
 A Rockstar Games surpreendeu a comunidade gamer ao revelar um dos elementos mais intrigantes e potencialmente revolucionários de Grand Theft Auto VI: um sistema de romance dinâmico entre os protagonistas, Jason e Lucia. Longe de ser um mero pano de fundo, essa mecânica promete ser o "ingrediente secreto" que aprofundará a imersão e impactará diretamente a narrativa e o gameplay. O que isso significa para o futuro dos mundos abertos e para a experiência do jogador brasileiro?
 

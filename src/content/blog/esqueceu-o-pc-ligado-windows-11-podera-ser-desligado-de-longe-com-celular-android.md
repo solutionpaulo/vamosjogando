@@ -6,6 +6,7 @@ heroImage: '../../assets/esqueceu-o-pc-ligado-windows-11-podera-ser-desligado-de
 ogImage: '../../assets/og-esqueceu-o-pc-ligado-windows-11-podera-ser-desligado-de-longe-com-celular-android.webp'
 sourceUrl: 'https://canaltech.com.br/software/esqueceu-o-pc-ligado-windows-11-podera-ser-desligado-de-longe-com-celular-android/'
 tags: ['Windows 11', 'Android', 'Controle Remoto', 'PC Gaming']
+imageVerified: 'true'
 ---
 No universo dos jogos, onde cada segundo conta e a conveniência é ouro, a Microsoft parece estar preparando uma novidade que pode mudar a forma como interagimos com nossos PCs. A integração entre Windows e dispositivos móveis não é nova, mas as últimas descobertas no código do aplicativo 'Link to Windows' para Android apontam para um salto significativo: o controle remoto completo da energia do seu computador.
 
