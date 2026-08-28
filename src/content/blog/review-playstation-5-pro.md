@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 28 2026'
 heroImage: '../../assets/review-playstation-5-pro.webp'
 ogImage: '../../assets/og-review-playstation-5-pro.webp'
 tags: ['Review', 'Hardware', 'PlayStation 5 Pro', 'Console Gamer', 'Sony']
+imageVerified: 'true'
 ---
 
 ## Introdução
