@@ -6,6 +6,7 @@ heroImage: '../../assets/controle-especial-de-25-anos-do-xbox-sera-lancado-no-br
 ogImage: '../../assets/og-controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar.webp'
 sourceUrl: 'https://canaltech.com.br/games/controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar/'
 tags: ['Xbox', 'Hardware', 'Periféricos', 'Preços Brasil']
+imageVerified: 'true'
 ---
 A Microsoft celebrou os 25 anos da marca Xbox com o lançamento de uma edição especial do seu controle, o XBOX Edição Especial X25. Com um design nostálgico em verde translúcido, o periférico foi apresentado junto ao novo XBOX Series X25 durante o XBOX Games Showcase 2026. A notícia de sua chegada ao Brasil gerou grande expectativa, mas o entusiasmo rapidamente se transformou em frustração com a confirmação do preço: R$ 799. Mais uma vez, o gamer brasileiro se depara com uma disparidade de valores que desafia a lógica e testa a paciência da comunidade.
 

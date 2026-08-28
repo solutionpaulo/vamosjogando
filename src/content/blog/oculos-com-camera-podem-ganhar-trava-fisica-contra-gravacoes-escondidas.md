@@ -6,6 +6,7 @@ heroImage: '../../assets/oculos-com-camera-podem-ganhar-trava-fisica-contra-grav
 ogImage: '../../assets/og-oculos-com-camera-podem-ganhar-trava-fisica-contra-gravacoes-escondidas.webp'
 sourceUrl: 'https://canaltech.com.br/produtos/oculos-com-camera-podem-ganhar-trava-fisica-contra-gravacoes-escondidas/'
 tags: ['Meta', 'ÓculosInteligentes', 'Privacidade', 'TecnologiaVestível']
+imageVerified: 'true'
 ---
 No cenário tecnológico atual, a inovação em dispositivos vestíveis, como óculos inteligentes, anda de mãos dadas com um debate crucial: a privacidade. Com a crescente integração de câmeras e sensores em nosso dia a dia, a preocupação com gravações não consentidas se tornou um dos maiores entraves para a adoção massiva dessas tecnologias. É nesse contexto que a Meta, gigante por trás dos óculos Ray-Ban Meta, busca uma solução robusta que pode mudar o jogo da confiança do consumidor.
 
