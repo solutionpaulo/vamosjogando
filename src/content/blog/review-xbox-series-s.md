@@ -5,6 +5,7 @@ pubDate: 'Fri Aug 28 2026'
 heroImage: '../../assets/review-xbox-series-s.webp'
 ogImage: '../../assets/og-review-xbox-series-s.webp'
 tags: ['Review', 'Hardware', 'Xbox Series S', 'Console Gamer', 'Microsoft']
+imageVerified: 'true'
 ---
 
 ## Introdução
