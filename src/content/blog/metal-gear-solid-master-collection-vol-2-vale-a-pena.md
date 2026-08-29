@@ -6,6 +6,7 @@ heroImage: '../../assets/metal-gear-solid-master-collection-vol-2-vale-a-pena.we
 ogImage: '../../assets/og-metal-gear-solid-master-collection-vol-2-vale-a-pena.webp'
 sourceUrl: 'https://meups.com.br/review/metal-gear-solid-master-collection-vol-2/'
 tags: ['Metal Gear Solid', 'Konami', 'Coletânea', 'PT-BR']
+imageVerified: 'true'
 ---
 A saga Metal Gear Solid sempre foi sinônimo de narrativas complexas e gameplay inovador, deixando uma marca indelével na história dos videogames. Para muitos fãs, o acesso a algumas de suas obras mais importantes, como Metal Gear Solid 4: Guns of the Patriots, esteve restrito a plataformas antigas. Agora, com a chegada da Master Collection Vol. 2, essa realidade promete mudar, trazendo não apenas um dos mais aclamados capítulos da série, mas também localização para o público brasileiro.
 
