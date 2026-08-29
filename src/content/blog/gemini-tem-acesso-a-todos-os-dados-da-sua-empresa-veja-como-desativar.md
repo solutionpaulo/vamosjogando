@@ -6,6 +6,7 @@ heroImage: '../../assets/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-
 ogImage: '../../assets/og-gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/'
 tags: ['Privacidade', 'IA', 'Google', 'Dados']
+imageVerified: 'true'
 ---
 A notícia de que o Google Gemini tem acesso a uma vasta gama de dados corporativos em serviços como Gmail, Drive e Agenda, e que essa funcionalidade vem ativada por padrão, acendeu um alerta importante sobre privacidade. Embora o contexto seja empresarial, a discussão ressoa profundamente na comunidade gamer, onde a coleta e o uso de dados pessoais por plataformas e desenvolvedoras são temas de constante debate. Até que ponto as IAs podem ou devem ter acesso às nossas informações digitais, e como isso impacta a nossa experiência nos jogos?
 

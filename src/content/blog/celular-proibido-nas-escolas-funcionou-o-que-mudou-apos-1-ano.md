@@ -6,6 +6,7 @@ heroImage: '../../assets/celular-proibido-nas-escolas-funcionou-o-que-mudou-apos
 ogImage: '../../assets/og-celular-proibido-nas-escolas-funcionou-o-que-mudou-apos-1-ano.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/celular-proibido-nas-escolas-funcionou-o-que-mudou-apos-1-ano/'
 tags: ['Bem-Estar Digital', 'Foco', 'Comportamento Digital', 'Tecnologia e Sociedade']
+imageVerified: 'true'
 ---
 A recente movimentação do Ministério da Educação (MEC) para restringir o uso de celulares nas escolas brasileiras, um ano após a Lei nº 15.100/2025 entrar em vigor, trouxe à tona um debate crucial sobre o papel da tecnologia em nossas vidas. Embora o foco seja o ambiente educacional, as lições e os desafios levantados ressoam profundamente com a comunidade gamer. Afinal, nós, mais do que muitos, sabemos o que é ter nossa atenção disputada por telas e o valor de um bom foco. Mas o que a experiência escolar pode nos ensinar sobre equilíbrio digital no mundo dos jogos?
 
