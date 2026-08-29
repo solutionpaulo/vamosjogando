@@ -5,6 +5,7 @@ pubDate: 'Sat Aug 29 2026'
 heroImage: '../../assets/review-nvidia-rtx-5060-ti.webp'
 ogImage: '../../assets/og-review-nvidia-rtx-5060-ti.webp'
 tags: ['Review', 'Hardware', 'NVIDIA', 'RTX 5060 Ti', 'Placa de Vídeo']
+imageVerified: 'true'
 ---
 
 ## Introdução
