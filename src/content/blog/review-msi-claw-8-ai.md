@@ -5,6 +5,7 @@ pubDate: 'Sun Aug 30 2026'
 heroImage: '../../assets/review-msi-claw-8-ai.webp'
 ogImage: '../../assets/og-review-msi-claw-8-ai.webp'
 tags: ['Review', 'Hardware', 'MSI Claw 8 AI+', 'Handheld Gamer', 'Intel Lunar Lake']
+imageVerified: 'true'
 ---
 
 ## Introdução
