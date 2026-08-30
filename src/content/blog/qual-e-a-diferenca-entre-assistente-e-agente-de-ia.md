@@ -6,6 +6,7 @@ heroImage: '../../assets/qual-e-a-diferenca-entre-assistente-e-agente-de-ia.webp
 ogImage: '../../assets/og-qual-e-a-diferenca-entre-assistente-e-agente-de-ia.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-assistente-e-agente-de-ia/'
 tags: ['Inteligência Artificial', 'Automação', 'Desenvolvimento de IA', 'Tendências Tech']
+imageVerified: 'true'
 ---
 A inteligência artificial deixou de ser ficção científica para se tornar uma realidade palpável em nosso dia a dia. De comandos de voz a sugestões personalizadas, a IA nos cerca. Contudo, com essa popularização, surgem termos que, embora parecidos, carregam significados distintos. Você já se perguntou qual a verdadeira diferença entre um 'assistente de IA' e um 'agente de IA'? A resposta está na autonomia, e ela pode mudar radicalmente como interagimos com a tecnologia, inclusive no mundo dos games.
 
