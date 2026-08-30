@@ -6,6 +6,7 @@ heroImage: '../../assets/tablet-barato-roda-roblox-nos-testamos-aparelhos-de-ate
 ogImage: '../../assets/og-tablet-barato-roda-roblox-nos-testamos-aparelhos-de-ate-rdollar-1200.webp'
 sourceUrl: 'https://canaltech.com.br/tablet/tablet-barato-roda-roblox-nos-testamos-aparelhos-de-ate-r-1200/'
 tags: ['Roblox', 'Tablets', 'Performance', 'CustoBenefício']
+imageVerified: 'true'
 ---
 Roblox se consolidou como um fenômeno global, especialmente entre as crianças e adolescentes, com sua proposta de infinitas experiências criadas pela própria comunidade. A promessa de que ele "roda em quase tudo" é um atrativo e tanto, levando muitos pais a considerarem tablets mais acessíveis como porta de entrada para esse universo. Mas será que a experiência realmente compensa o investimento limitado?
 

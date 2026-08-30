@@ -6,6 +6,7 @@ heroImage: '../../assets/como-lembrar-onde-estacionou-o-carro-com-a-ajuda-do-goo
 ogImage: '../../assets/og-como-lembrar-onde-estacionou-o-carro-com-a-ajuda-do-google-maps.webp'
 sourceUrl: 'https://canaltech.com.br/apps/usar-google-maps-lembrar-onde-estacionou-carro/'
 tags: ['Google Maps', 'Gemini', 'Android', 'Produtividade Gamer']
+imageVerified: 'true'
 ---
 Depois de horas imersos em mundos fantásticos, seja explorando Westeros em um RPG ou dominando um MOBA, a volta à realidade pode ser um choque. Especialmente quando a pergunta 'Onde estacionei o carro?' surge, roubando preciosos minutos que poderiam ser dedicados a mais uma partida. Mas não tema, gamer! O Google Maps, com uma ajudinha do Gemini, está aqui para otimizar sua vida fora da tela e garantir que seu tempo seja gasto com o que realmente importa: jogar.
 
