@@ -6,6 +6,7 @@ heroImage: '../../assets/pre-venda-de-gta-6-explode-436percent-apos-evento-na-ne
 ogImage: '../../assets/og-pre-venda-de-gta-6-explode-436percent-apos-evento-na-netflix-ps5-atropela-o-xbox.webp'
 sourceUrl: 'https://canaltech.com.br/games/pre-venda-de-gta-6-explode-436-apos-evento-na-netflix-ps5-atropela-o-xbox/'
 tags: ['GTA 6', 'PlayStation 5', 'Xbox Series', 'Rockstar Games']
+imageVerified: 'true'
 ---
 A aguardada pré-venda de Grand Theft Auto VI já está quebrando todos os recordes, e um recente evento na Netflix amplificou ainda mais o frenesi. Os dados mais recentes da Sensor Tower e Newzoo revelam um sucesso estrondoso, com o PlayStation 5 emergindo como a plataforma dominante na corrida pelas reservas.
 
