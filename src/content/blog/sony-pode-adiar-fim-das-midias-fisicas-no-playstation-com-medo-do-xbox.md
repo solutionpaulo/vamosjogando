@@ -6,6 +6,7 @@ heroImage: '../../assets/sony-pode-adiar-fim-das-midias-fisicas-no-playstation-c
 ogImage: '../../assets/og-sony-pode-adiar-fim-das-midias-fisicas-no-playstation-com-medo-do-xbox.webp'
 sourceUrl: 'https://canaltech.com.br/games/sony-pode-adiar-fim-das-midias-fisicas-no-playstation-com-medo-do-xbox/'
 tags: ['PlayStation', 'Xbox', 'MídiaFísica', 'Digitalização']
+imageVerified: 'true'
 ---
 A Gamescom 2026 pode ter sido palco não apenas de grandes anúncios, mas também de uma reviravolta silenciosa e impactante nos bastidores da indústria. Circulam rumores de que a Sony estaria reconsiderando sua drástica estratégia de eliminar as mídias físicas no PlayStation a partir de 2028, impulsionada por um medo estratégico: a concorrência do Xbox e sua abordagem mais ponderada para o futuro digital.
 
