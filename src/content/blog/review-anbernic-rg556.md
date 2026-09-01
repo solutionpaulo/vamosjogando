@@ -2,9 +2,10 @@
 title: 'Review: Anbernic RG556 — O Emulador Android Poderoso com Tela AMOLED'
 description: 'O Anbernic RG556 chega como uma opção robusta para emulação de clássicos até a era PS2 e GameCube, oferecendo uma tela AMOLED vibrante e boa performance para o preço. Descubra se ele é o handheld retro ideal para você.'
 pubDate: 'Tue Sep 01 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-anbernic-rg556.webp'
 ogImage: '../../assets/og-review-anbernic-rg556.webp'
 tags: ['Review', 'Hardware', 'Anbernic RG556', 'Retro Gaming', 'Handheld Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
