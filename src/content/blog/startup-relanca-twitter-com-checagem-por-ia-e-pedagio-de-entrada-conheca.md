@@ -6,6 +6,7 @@ heroImage: '../../assets/startup-relanca-twitter-com-checagem-por-ia-e-pedagio-d
 ogImage: '../../assets/og-startup-relanca-twitter-com-checagem-por-ia-e-pedagio-de-entrada-conheca.webp'
 sourceUrl: 'https://canaltech.com.br/apps/startup-relanca-twitter-com-checagem-por-ia-e-pedagio-de-entrada-conheca/'
 tags: ['Twitter.now', 'Inteligência Artificial', 'Rede Social', 'Tecnologia']
+imageVerified: 'true'
 ---
 Para a alegria dos saudosistas e para o espanto de muitos, uma nova plataforma surge prometendo resgatar a essência do antigo Twitter, antes da era Musk. Batizada de Twitter.now, a iniciativa da startup Operation Bluebird não só aposta na nostalgia visual, com o icônico pássaro azul e o tema claro, mas também em um sistema robusto de checagem de fatos por inteligência artificial. No entanto, essa viagem no tempo tem um custo: um "pedágio" de entrada que levanta discussões sobre o futuro das redes sociais e seu modelo de monetização.
 

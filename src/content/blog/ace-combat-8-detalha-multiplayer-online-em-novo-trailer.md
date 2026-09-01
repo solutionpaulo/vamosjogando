@@ -6,6 +6,7 @@ heroImage: '../../assets/ace-combat-8-detalha-multiplayer-online-em-novo-trailer
 ogImage: '../../assets/og-ace-combat-8-detalha-multiplayer-online-em-novo-trailer.webp'
 sourceUrl: 'https://meups.com.br/novidades/ace-combat-8-detalha-multiplayer-onliine/'
 tags: ['Ace Combat', 'PlayStation', 'Xbox', 'PC Gaming']
+imageVerified: 'true'
 ---
 A franquia Ace Combat sempre foi sinônimo de combate aéreo de tirar o fôlego e histórias envolventes. Com o anúncio de Ace Combat 8: Wings of Theve, a expectativa já era alta, e agora, um novo trailer chegou para incendiar ainda mais os corações dos pilotos virtuais. A Bandai Namco finalmente detalhou o que podemos esperar do aguardado modo multiplayer online, prometendo levar a adrenalina das batalhas aéreas a um novo patamar.
 
