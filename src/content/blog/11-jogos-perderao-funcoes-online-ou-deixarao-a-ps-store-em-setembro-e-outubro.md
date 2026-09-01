@@ -2,10 +2,11 @@
 title: 'Adeus Digital: 11 Jogos Perderão Online ou Serão Removidos da PS Store'
 description: 'Um grupo de 11 títulos do PlayStation está com os dias contados, seja perdendo funções online cruciais ou sendo completamente removido da PS Store. Saiba quais jogos serão afetados e o impacto dessa decisão para os gamers.'
 pubDate: 'Tue Sep 01 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/11-jogos-perderao-funcoes-online-ou-deixarao-a-ps-store-em-setembro-e-outubro.webp'
 ogImage: '../../assets/og-11-jogos-perderao-funcoes-online-ou-deixarao-a-ps-store-em-setembro-e-outubro.webp'
 sourceUrl: 'https://meups.com.br/novidades/11-jogos-serao-removidos-ps-store-set-out/'
 tags: ['PlayStation', 'PSStore', 'ServiçosOnline', 'PreservaçãoDigital']
+imageVerified: 'true'
 ---
 No cenário dinâmico dos videogames, a notícia de que jogos perdem funcionalidades online ou são removidos das lojas digitais tornou-se, infelizmente, uma constante. É um lembrete agridoce da natureza efêmera de alguns de nossos títulos favoritos. Desta vez, a Sony anunciou que 11 jogos serão impactados entre setembro e outubro, perdendo seus serviços online ou sendo completamente retirados da PlayStation Store, o que levanta sérias questões sobre a longevidade dos nossos investimentos digitais.
 

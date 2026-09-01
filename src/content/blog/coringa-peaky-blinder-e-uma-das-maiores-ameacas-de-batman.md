@@ -6,6 +6,7 @@ heroImage: '../../assets/coringa-peaky-blinder-e-uma-das-maiores-ameacas-de-batm
 ogImage: '../../assets/og-coringa-peaky-blinder-e-uma-das-maiores-ameacas-de-batman.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/coringa-peaky-blinder-e-uma-das-maiores-ameacas-de-batman/'
 tags: ['Batman', 'Coringa', 'DC Comics', 'Animação']
+imageVerified: 'true'
 ---
 A cada nova iteração, o Coringa se reinventa, expandindo o mito do vilão mais icônico do Batman. De Jack Nicholson a Heath Ledger, passando pela voz inconfundível de Mark Hamill e as múltiplas facetas das HQs, a essência do Palhaço do Crime é a imprevisibilidade. Mas e se ele se tornasse ainda mais calculista? É exatamente essa a proposta da nova versão apresentada em Batman: Cruzado Encapuzado, que promete uma ameaça sem precedentes ao Homem-Morcego.
 
