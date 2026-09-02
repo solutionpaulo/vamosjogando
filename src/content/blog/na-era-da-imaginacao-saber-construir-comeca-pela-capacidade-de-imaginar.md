@@ -6,6 +6,7 @@ heroImage: '../../assets/na-era-da-imaginacao-saber-construir-comeca-pela-capaci
 ogImage: '../../assets/og-na-era-da-imaginacao-saber-construir-comeca-pela-capacidade-de-imaginar.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/na-era-da-imaginacao-saber-construir-comeca-pela-capacidade-de-imaginar/'
 tags: ['Inteligência Artificial', 'Desenvolvimento de Jogos', 'Inovação', 'Futuro dos Games']
+imageVerified: 'true'
 ---
 O mundo dos games sempre foi um berço de inovação e criatividade, mas o processo de transformar uma ideia brilhante em um jogo jogável nem sempre foi acessível. Agora, a inteligência artificial (IA) surge como um divisor de águas, prometendo derrubar as barreiras técnicas e ushering in uma verdadeira "Era da Imaginação" para desenvolvedores e jogadores. Como essa revolução tecnológica está redefinindo o que significa criar e jogar?
 

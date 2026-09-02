@@ -6,6 +6,7 @@ heroImage: '../../assets/star-wars-o-mandaloriano-e-grogu-chega-ao-disney-saiba-
 ogImage: '../../assets/og-star-wars-o-mandaloriano-e-grogu-chega-ao-disney-saiba-o-que-assistir-antes.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/star-wars-o-mandaloriano-e-grogu-chega-ao-disney-saiba-o-que-assistir-antes/'
 tags: ['Star Wars', 'Disney+', 'The Mandalorian', 'Grogu']
+imageVerified: 'true'
 ---
 O universo de Star Wars continua a se expandir, e os fãs brasileiros têm um novo motivo para celebrar: "Star Wars: O Mandaloriano e Grogu" chegou ao Disney+! O filme, que marcou o retorno da saga galáctica aos cinemas, agora está disponível no conforto do seu sofá, prometendo continuar as emocionantes aventuras de Din Djarin e seu adorável aprendiz. Se você está pronto para mergulhar de cabeça ou precisa de um refresco na memória, preparamos um guia para que sua experiência seja completa.
 
