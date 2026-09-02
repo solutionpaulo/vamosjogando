@@ -2,9 +2,10 @@
 title: 'Review: AYANEO 3 — Potência Premium para Jogos Portáteis'
 description: 'Analisamos o AYANEO 3, um handheld gamer Windows que promete alta performance e versatilidade. Descubra se esta máquina premium vale o investimento para levar seus jogos para qualquer lugar.'
 pubDate: 'Wed Sep 02 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-ayaneo-3.webp'
 ogImage: '../../assets/og-review-ayaneo-3.webp'
 tags: ['Review', 'Hardware', 'AYANEO 3', 'Handheld Gamer', 'PC Portátil']
+imageVerified: 'true'
 ---
 
 ## Introdução
