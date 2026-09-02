@@ -6,6 +6,7 @@ heroImage: '../../assets/ator-escalado-para-vingadores-guerras-secretas-da-pista
 ogImage: '../../assets/og-ator-escalado-para-vingadores-guerras-secretas-da-pistas-sobre-filme-dos-x-men.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/ator-escalado-para-vingadores-guerras-secretas-da-pistas-sobre-filme-dos-x-men/'
 tags: ['MCU', 'X-Men', 'Vingadores', 'Franklin Richards']
+imageVerified: 'true'
 ---
 A máquina de rumores do Universo Cinematográfico Marvel (MCU) está a todo vapor novamente, e desta vez, o epicentro é a aguardada produção "Vingadores: Guerras Secretas". A notícia da escalação de Noah Jupe, conhecido por seus papéis em "Um Lugar Silencioso" e "Ford vs. Ferrari", acendeu uma série de especulações que podem redefinir o futuro dos heróis na telona, especialmente no que diz respeito aos adorados X-Men e ao enigmático Franklin Richards.
 

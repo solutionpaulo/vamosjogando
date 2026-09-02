@@ -6,6 +6,7 @@ heroImage: '../../assets/guia-do-reels-stories-e-feed-no-instagram-truques-edica
 ogImage: '../../assets/og-guia-do-reels-stories-e-feed-no-instagram-truques-edicao-e-publicacao.webp'
 sourceUrl: 'https://canaltech.com.br/apps/guia-do-reels-stories-e-feed-no-instagram-truques-edicao-e-publicacao/'
 tags: ['Instagram', 'ConteudoGamer', 'DicasInstagram', 'Streamer']
+imageVerified: 'true'
 ---
 O Instagram se tornou uma das plataformas mais dinâmicas para compartilhar conteúdo e interagir com comunidades. Para gamers, que buscam visibilidade para suas gameplays épicas, memes hilários ou simplesmente para se conectar com outros entusiastas, dominar as ferramentas da rede social é crucial. Este guia vai além do básico, mostrando como otimizar cada formato – Reels, Stories e Feed – para que seu conteúdo gamer alcance o próximo nível.
 
