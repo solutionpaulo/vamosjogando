@@ -5,6 +5,7 @@ pubDate: 'Thu Sep 03 2026'
 heroImage: '../../assets/review-gamesir-cyclone-2.webp'
 ogImage: '../../assets/og-review-gamesir-cyclone-2.webp'
 tags: ['Review', 'Hardware', 'GameSir Cyclone 2', 'Controle Gamer', 'Periféricos']
+imageVerified: 'true'
 ---
 
 ## Introdução
