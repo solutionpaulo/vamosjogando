@@ -6,6 +6,7 @@ heroImage: '../../assets/rhapsody-in-scarlet-e-o-novo-jogo-de-aventura-da-konami
 ogImage: '../../assets/og-rhapsody-in-scarlet-e-o-novo-jogo-de-aventura-da-konami.webp'
 sourceUrl: 'https://meups.com.br/novidades/rhapsody-in-scarlet-jogo-de-aventura-konami/'
 tags: ['Konami', 'State of Play', 'Aventura', 'PlayStation']
+imageVerified: 'true'
 ---
 A Konami, uma desenvolvedora com um legado inegável no mundo dos games, tem sido mais conhecida nos últimos anos por suas parcerias e relançamentos do que por novos títulos originais de grande escala. No entanto, o recente State of Play virou o jogo, trazendo uma surpresa que agitou a comunidade: o anúncio de 'Rhapsody in Scarlet', uma aventura inédita que promete reacender a chama da inovação da empresa.
 

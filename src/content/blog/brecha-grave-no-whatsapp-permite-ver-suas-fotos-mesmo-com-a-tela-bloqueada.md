@@ -6,6 +6,7 @@ heroImage: '../../assets/brecha-grave-no-whatsapp-permite-ver-suas-fotos-mesmo-c
 ogImage: '../../assets/og-brecha-grave-no-whatsapp-permite-ver-suas-fotos-mesmo-com-a-tela-bloqueada.webp'
 sourceUrl: 'https://canaltech.com.br/apps/brecha-grave-no-whatsapp-permite-ver-suas-fotos-mesmo-com-a-tela-bloqueada/'
 tags: ['WhatsApp', 'SegurançaDigital', 'Android', 'Privacidade']
+imageVerified: 'true'
 ---
 No mundo digital de hoje, onde nossos smartphones são extensões de nós mesmos e repositórios de memórias, a segurança é paramount. Recentemente, uma descoberta alarmante no WhatsApp para Android acendeu um novo alerta sobre a privacidade de nossos dados.
 
