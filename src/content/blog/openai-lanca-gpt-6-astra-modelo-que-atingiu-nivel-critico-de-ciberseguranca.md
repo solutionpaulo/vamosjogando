@@ -6,6 +6,7 @@ heroImage: '../../assets/openai-lanca-gpt-6-astra-modelo-que-atingiu-nivel-criti
 ogImage: '../../assets/og-openai-lanca-gpt-6-astra-modelo-que-atingiu-nivel-critico-de-ciberseguranca.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/'
 tags: ['InteligênciaArtificial', 'OpenAI', 'Cibersegurança', 'DesenvolvimentoDeJogos']
+imageVerified: 'true'
 ---
 A inteligência artificial continua sua marcha implacável, e a OpenAI acaba de jogar um novo protagonista no tabuleiro global: o GPT-6 Astra. Anunciado como o modelo mais inteligente já desenvolvido pela empresa, o Astra não é apenas um avanço em capacidade computacional, mas também um marco que levanta questões profundas sobre autonomia e segurança, com implicações que podem ressoar até mesmo no universo dos games.
 

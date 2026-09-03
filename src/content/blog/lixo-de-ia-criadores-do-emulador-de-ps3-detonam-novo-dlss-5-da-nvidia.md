@@ -6,6 +6,7 @@ heroImage: '../../assets/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dl
 ogImage: '../../assets/og-lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia.webp'
 sourceUrl: 'https://canaltech.com.br/games/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia/'
 tags: ['Emulação', 'NVIDIA', 'DLSS', 'Hardware']
+imageVerified: 'true'
 ---
 A comunidade gamer está em polvorosa com a recente manifestação dos desenvolvedores do renomado emulador de PlayStation 3, RPCS3. Conhecidos por sua dedicação em trazer clássicos do PS3 para o PC, a equipe agora se volta contra uma das mais badaladas tecnologias da NVIDIA: o DLSS 5. A controvérsia reacende um debate fundamental sobre otimização de jogos e o papel das tecnologias de upscaling.
 
