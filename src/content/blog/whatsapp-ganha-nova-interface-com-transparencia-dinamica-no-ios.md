@@ -6,6 +6,7 @@ heroImage: '../../assets/whatsapp-ganha-nova-interface-com-transparencia-dinamic
 ogImage: '../../assets/og-whatsapp-ganha-nova-interface-com-transparencia-dinamica-no-ios.webp'
 sourceUrl: 'https://canaltech.com.br/apps/whatsapp-ganha-nova-interface-com-transparencia-dinamica-no-ios/'
 tags: ['Mobile Gaming', 'iOS', 'Design UX', 'Tecnologia']
+imageVerified: 'true'
 ---
 O WhatsApp, um dos aplicativos mais usados por gamers para organizar partidas e conversar com amigos, está recebendo uma notável atualização visual no iOS. A nova interface, inspirada no conceito Liquid Glass da Apple, traz transparência dinâmica e um toque moderno, substituindo o visual sólido anterior. Embora à primeira vista pareça apenas uma mudança estética em um aplicativo de mensagens, essa evolução no design da experiência do usuário (UX) levanta questões importantes sobre como as interfaces digitais estão se transformando e como isso pode, indiretamente, influenciar o universo dos games, desde apps companheiros até futuros dashboards de consoles.
 

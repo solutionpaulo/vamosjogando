@@ -6,6 +6,7 @@ heroImage: '../../assets/cupom-derruba-preco-de-smart-tv-4k-da-tcl-no-mercado-li
 ogImage: '../../assets/og-cupom-derruba-preco-de-smart-tv-4k-da-tcl-no-mercado-livre.webp'
 sourceUrl: 'https://meups.com.br/promocoes/cupom-smart-tv-4k-da-tcl-no-mercado-livre/'
 tags: ['PS5', 'Hardware', 'Promoção', 'SmartTV']
+imageVerified: 'true'
 ---
 A busca pela tela perfeita para desfrutar plenamente dos gráficos da nova geração de consoles é constante entre os gamers. Agora, uma oferta no Mercado Livre chama a atenção: a Smart TV 4K da TCL, que promete ser uma excelente companheira para o seu PlayStation 5, está com um preço ainda mais convidativo graças a um cupom.
 
