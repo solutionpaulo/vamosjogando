@@ -6,6 +6,7 @@ heroImage: '../../assets/elon-musk-barra-na-justica-uso-do-nome-twitter-em-nova-
 ogImage: '../../assets/og-elon-musk-barra-na-justica-uso-do-nome-twitter-em-nova-rede-social-entenda-o-embate.webp'
 sourceUrl: 'https://canaltech.com.br/internet-e-redes-sociais/elon-musk-barra-na-justica-uso-do-nome-twitter-em-nova-rede-social-entenda-o-embate/'
 tags: ['ElonMusk', 'XCorp', 'Twitter', 'MarcasDigitais']
+imageVerified: 'true'
 ---
 A transição do Twitter para X, orquestrada por Elon Musk, gerou uma série de mudanças e, como esperado, muita controvérsia. No entanto, a briga pela identidade da plataforma foi parar nos tribunais, e os resultados preliminares trazem um cenário inusitado que levanta questões sobre o valor das marcas no universo digital. Uma startup tentou capitalizar sobre o 'abandono' das antigas marcas, mas a Justiça norte-americana parece ter dividido as vitórias.
 
