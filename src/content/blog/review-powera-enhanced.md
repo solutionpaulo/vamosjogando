@@ -5,6 +5,7 @@ pubDate: 'Fri Sep 04 2026'
 heroImage: '../../assets/review-powera-enhanced.webp'
 ogImage: '../../assets/og-review-powera-enhanced.webp'
 tags: ['Review', 'Hardware', 'PowerA', 'Controle Gamer', 'Xbox']
+imageVerified: 'true'
 ---
 
 ## Introdução
