@@ -6,6 +6,7 @@ heroImage: '../../assets/bateria-sumindo-a-noite-truque-no-galaxy-zera-consumo-e
 ogImage: '../../assets/og-bateria-sumindo-a-noite-truque-no-galaxy-zera-consumo-enquanto-voce-dorme.webp'
 sourceUrl: 'https://canaltech.com.br/apps/bateria-samsung-galaxy-sumindo-dicas-para-zerar-consumo/'
 tags: ['Samsung Galaxy', 'Otimização Bateria', 'Dicas Mobile', 'One UI']
+imageVerified: 'true'
 ---
 A adrenalina de um novo jogo, a emoção de uma partida ranqueada ou a expectativa de um grande evento in-game: tudo isso exige um smartphone pronto para a ação. Contudo, é frustrante acordar e descobrir que seu Samsung Galaxy perdeu preciosos pontos de bateria durante a noite, mesmo sem uso. Pensando nos gamers que não querem ser pegos de surpresa com o celular descarregado, o blog 'Vamos Jogando' traz um guia para dominar as ferramentas de Modos e Rotinas da One UI e garantir que seu aparelho esteja sempre com carga para a próxima aventura.
 

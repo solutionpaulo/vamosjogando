@@ -6,6 +6,7 @@ heroImage: '../../assets/quais-sao-os-proximos-filmes-live-action-da-disney-conf
 ogImage: '../../assets/og-quais-sao-os-proximos-filmes-live-action-da-disney-confirmados.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/proximos-filmes-live-action-da-disney/'
 tags: ['Disney', 'Live-Action', 'Filmes', 'Nostalgia']
+imageVerified: 'true'
 ---
 A Disney não dá sinais de desacelerar sua máquina de nostalgia. Após sucessos retumbantes e fracassos notáveis, o estúdio segue firme na estratégia de adaptar suas clássicas animações para o formato live-action, gerando discussões acaloradas entre fãs e críticos. Mas o que vem por aí e como essas produções se encaixam na visão de um público que valoriza a essência das obras originais, assim como fazemos com games?
 
