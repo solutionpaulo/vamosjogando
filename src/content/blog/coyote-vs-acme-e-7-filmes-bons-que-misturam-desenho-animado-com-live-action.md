@@ -6,6 +6,7 @@ heroImage: '../../assets/coyote-vs-acme-e-7-filmes-bons-que-misturam-desenho-ani
 ogImage: '../../assets/og-coyote-vs-acme-e-7-filmes-bons-que-misturam-desenho-animado-com-live-action.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/coyote-vs-acme-filmes-bons-misturam-desenho-animado-e-live-action/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/update-30-de-blox-fruits-tudo-sobre-a-magnet-fruit-novo
 ogImage: '../../assets/og-update-30-de-blox-fruits-tudo-sobre-a-magnet-fruit-novo-first-sea-e-nivel-maximo-3000.webp'
 sourceUrl: 'https://www.eurogamer.pt/update-30-de-blox-fruits-tudo-sobre-a-magnet-fruit-novo-first-sea-e-nivel-maximo-3000'
 tags: ['Blox Fruits', 'Roblox', 'RPG', 'MMO']
+imageVerified: 'true'
 ---
 A comunidade brasileira de Blox Fruits está em polvorosa! A tão esperada Atualização 30 finalmente desembarcou no popular jogo do Roblox, trazendo consigo uma onda de inovações que prometem redefinir a experiência de milhares de jogadores. Considerada uma das maiores renovações da história do título, esta atualização não apenas adiciona conteúdo, mas reimagina elementos fundamentais que conhecíamos.
 
