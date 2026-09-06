@@ -5,6 +5,7 @@ pubDate: 'Sun Sep 06 2026'
 heroImage: '../../assets/review-moza-racing-r5.webp'
 ogImage: '../../assets/og-review-moza-racing-r5.webp'
 tags: ['Review', 'Hardware', 'Moza Racing R5', 'Volante Gamer', 'Sim Racing', 'Direct Drive']
+imageVerified: 'true'
 ---
 
 ## Introdução
