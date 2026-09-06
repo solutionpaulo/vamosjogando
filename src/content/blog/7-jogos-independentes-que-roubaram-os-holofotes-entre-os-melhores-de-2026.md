@@ -6,6 +6,7 @@ heroImage: '../../assets/7-jogos-independentes-que-roubaram-os-holofotes-entre-o
 ogImage: '../../assets/og-7-jogos-independentes-que-roubaram-os-holofotes-entre-os-melhores-de-2026.webp'
 sourceUrl: 'https://canaltech.com.br/games/jogos-indie-entre-os-melhores-2026/'
 tags: ['Roguelite', 'Deckbuilding', 'Ação Aventura', 'Multiplayer']
+imageVerified: 'true'
 ---
 O ano de 2026 prometia ser dominado por um colosso: GTA 6. A expectativa em torno do novo título da Rockstar Games é monumental, capaz de ofuscar qualquer outro lançamento. Contudo, em meio a essa sombra imponente, um grupo seleto de jogos independentes não só ousou brilhar, como roubou os holofotes, provando que a criatividade, a inovação e o foco na experiência do jogador podem, sim, competir de igual para igual com os maiores orçamentos da indústria. Prepare-se para conhecer as joias que estão redefinindo o que significa ser um "melhor jogo do ano".
 
