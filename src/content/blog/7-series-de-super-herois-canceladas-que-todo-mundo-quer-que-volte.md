@@ -6,6 +6,7 @@ heroImage: '../../assets/7-series-de-super-herois-canceladas-que-todo-mundo-quer
 ogImage: '../../assets/og-7-series-de-super-herois-canceladas-que-todo-mundo-quer-que-volte.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/series-super-herois-canceladas-que-precisam-voltar/'
 tags: ['SériesTV', 'Super-Heróis', 'Marvel', 'DC Comics']
+imageVerified: 'true'
 ---
 O universo dos super-heróis não se limita apenas às telonas. Para muitos fãs brasileiros, as séries oferecem uma imersão mais profunda, permitindo o desenvolvimento complexo de personagens e tramas. No entanto, essa jornada é frequentemente interrompida por uma vilã implacável: o cancelamento. Seja por cortes orçamentários, mudanças de estratégia de estúdios ou simplesmente a dificuldade em manter o engajamento, muitas produções de heróis caíram antes de completar suas histórias, deixando um vazio nos corações dos espectadores.
 
