@@ -6,6 +6,7 @@ heroImage: '../../assets/leaker-revela-novo-super-smash-bros-e-o-regresso-de-nin
 ogImage: '../../assets/og-leaker-revela-novo-super-smash-bros-e-o-regresso-de-nintendogs.webp'
 sourceUrl: 'https://www.eurogamer.pt/leaker-revela-novo-super-smash-bros-e-o-regresso-de-nintendogs'
 tags: ['Nintendo', 'SuperSmashBros', 'Nintendogs', 'Vazamentos']
+imageVerified: 'true'
 ---
 A comunidade gamer foi sacudida recentemente por rumores advindos de um conhecido leaker da Nintendo, que trouxe à tona duas informações que, se confirmadas, prometem incendiar as discussões e expectativas. Estamos falando de nada menos que a chegada de um novo título da aclamada série Super Smash Bros. e o surpreendente retorno da adorável franquia Nintendogs. Em um cenário onde a Nintendo tem surpreendido constantemente, a credibilidade de tais vazamentos eleva a ansiedade a um novo patamar.
 
