@@ -6,6 +6,7 @@ heroImage: '../../assets/naruto-ignorou-fas-ocidentais-para-preservar-a-identida
 ogImage: '../../assets/og-naruto-ignorou-fas-ocidentais-para-preservar-a-identidade.webp'
 sourceUrl: 'https://www.eurogamer.pt/naruto-ignorou-fas-ocidentais-para-preservar-a-identidade'
 tags: ['Naruto', 'Anime', 'CulturaJaponesa', 'MercadoAnime']
+imageVerified: 'true'
 ---
 O universo de Naruto, um dos animes mais icônicos e influentes da história, sempre gerou paixões e discussões globalmente. No entanto, uma recente revelação da Eurogamer.pt trouxe à tona uma decisão fundamental que moldou a obra: a intencionalidade em focar na audiência japonesa, ignorando as expectativas do público ocidental. Essa estratégia, segundo a reportagem, foi crucial para preservar a identidade cultural e a visão original do anime, gerando um debate importante sobre autenticidade e apelo global.
 

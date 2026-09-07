@@ -6,6 +6,7 @@ heroImage: '../../assets/windows-11-vai-arrancar-mais-depressa-e-funcionar-melho
 ogImage: '../../assets/og-windows-11-vai-arrancar-mais-depressa-e-funcionar-melhor-em-pcs-com-8-gb-de-ram.webp'
 sourceUrl: 'https://www.eurogamer.pt/windows-11-vai-arrancar-mais-depressa-e-funcionar-melhor-em-pcs-com-8-gb-de-ram'
 tags: ['Windows 11', 'Otimização', 'Hardware', 'PC Gaming']
+imageVerified: 'true'
 ---
 A Microsoft está pronta para entregar uma série de otimizações que prometem agitar o universo do Windows 11. Para a comunidade gamer, em especial, as novidades são um prato cheio: o sistema operacional passará por melhorias focadas em tornar o PC mais ágil, com destaque para máquinas que contam com 8GB de RAM, uma configuração ainda muito comum entre os jogadores brasileiros. Acabou a lentidão na inicialização e nos momentos de maior exigência? É o que vamos descobrir.
 
