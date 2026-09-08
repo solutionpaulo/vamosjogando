@@ -2,9 +2,10 @@
 title: 'Review: Logitech G733 — Conforto sem fios e estilo vibrante'
 description: 'Analisamos o Logitech G733, um headset gamer sem fio que combina leveza, conforto e áudio de qualidade, ideal para sessões longas. Descubra se ele é o fone perfeito para seu setup.'
 pubDate: 'Tue Sep 08 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/review-logitech-g733.webp'
 ogImage: '../../assets/og-review-logitech-g733.webp'
 tags: ['Review', 'Hardware', 'Logitech G733', 'Headset Gamer', 'Sem Fio']
+imageVerified: 'true'
 ---
 
 ## Introdução
