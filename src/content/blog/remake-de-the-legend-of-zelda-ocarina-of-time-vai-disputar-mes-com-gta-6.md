@@ -6,6 +6,7 @@ heroImage: '../../assets/remake-de-the-legend-of-zelda-ocarina-of-time-vai-dispu
 ogImage: '../../assets/og-remake-de-the-legend-of-zelda-ocarina-of-time-vai-disputar-mes-com-gta-6.webp'
 sourceUrl: 'https://canaltech.com.br/games/remake-de-the-legend-of-zelda-ocarina-of-time-vai-disputar-mes-com-gta-6/'
 tags: ['Nintendo', 'Zelda', 'Switch2', 'Remake']
+imageVerified: 'true'
 ---
 A Nintendo chocou o mundo dos games ao revelar o primeiro gameplay e a data de lançamento do remake de The Legend of Zelda: Ocarina of Time. O clássico atemporal, que chega em 05 de novembro de 2026, promete não apenas gráficos de última geração, mas também uma corajosa disputa no calendário contra um dos maiores lançamentos da história: GTA 6. Mas o que realmente significa esse movimento para os fãs brasileiros?
 
