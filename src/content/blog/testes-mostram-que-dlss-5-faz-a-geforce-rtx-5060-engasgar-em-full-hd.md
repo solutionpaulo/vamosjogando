@@ -6,6 +6,7 @@ heroImage: '../../assets/testes-mostram-que-dlss-5-faz-a-geforce-rtx-5060-engasg
 ogImage: '../../assets/og-testes-mostram-que-dlss-5-faz-a-geforce-rtx-5060-engasgar-em-full-hd.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/testes-mostram-que-dlss-5-faz-a-geforce-rtx-5060-engasgar-em-full-hd/'
 tags: ['NVIDIA', 'DLSS', 'RTX 50 Series', 'Performance Gaming']
+imageVerified: 'true'
 ---
 A promessa de tecnologias de upscaling como o DLSS da NVIDIA sempre foi entregar gráficos aprimorados com mínima perda de performance, ou até ganho. Contudo, os primeiros testes com a mais nova iteração, o DLSS 5, revelam um cenário mais complexo, especialmente para quem não possui as placas de vídeo mais potentes. A Digital Foundry, referência em análise técnica, colocou a GeForce RTX 5060 à prova, e os resultados em Full HD acendem um alerta para os gamers brasileiros.
 

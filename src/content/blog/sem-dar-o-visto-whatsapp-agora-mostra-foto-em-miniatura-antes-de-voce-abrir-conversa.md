@@ -6,6 +6,7 @@ heroImage: '../../assets/sem-dar-o-visto-whatsapp-agora-mostra-foto-em-miniatura
 ogImage: '../../assets/og-sem-dar-o-visto-whatsapp-agora-mostra-foto-em-miniatura-antes-de-voce-abrir-conversa.webp'
 sourceUrl: 'https://canaltech.com.br/apps/sem-dar-o-visto-whatsapp-agora-mostra-foto-em-miniatura-antes-de-voce-abrir-conversa/'
 tags: ['WhatsApp', 'Atualização', 'Privacidade', 'Mobile']
+imageVerified: 'true'
 ---
 O WhatsApp, ferramenta de comunicação indispensável para milhões de brasileiros, incluindo a comunidade gamer, acaba de lançar uma atualização que promete otimizar o fluxo de mensagens. Longe dos campos de batalha virtuais, mas essencial para a organização de grupos e a comunicação diária, a nova funcionalidade foca em agilidade e controle, permitindo que você decida o que ver e quando.
 
