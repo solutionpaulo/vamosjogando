@@ -2,9 +2,10 @@
 title: 'Review: JBL Quantum 910 — Áudio Imersivo com Head-Tracking e Cancelamento de Ruído'
 description: 'O JBL Quantum 910 promete áudio 360 com head-tracking e ANC para imersão total. Descubra se este headset premium vale o investimento para gamers exigentes.'
 pubDate: 'Wed Sep 09 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-jbl-quantum-910.webp'
 ogImage: '../../assets/og-review-jbl-quantum-910.webp'
 tags: ['Review', 'Hardware', 'JBL Quantum 910', 'Headset Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
