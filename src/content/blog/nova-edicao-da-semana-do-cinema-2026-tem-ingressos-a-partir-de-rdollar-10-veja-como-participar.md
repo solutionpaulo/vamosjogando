@@ -6,6 +6,7 @@ heroImage: '../../assets/nova-edicao-da-semana-do-cinema-2026-tem-ingressos-a-pa
 ogImage: '../../assets/og-nova-edicao-da-semana-do-cinema-2026-tem-ingressos-a-partir-de-rdollar-10-veja-como-participar.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/nova-edicao-da-semana-do-cinema-2026-tem-ingressos-por-r-10-veja-como-participar/'
 tags: ['Cultura Pop', 'Cinema', 'Eventos', 'Homem-Aranha']
+imageVerified: 'true'
 ---
 No universo dos games, a imersão em histórias complexas e mundos fantásticos é nossa paixão. Mas nem só de pixels vive o gamer! A cultura pop se entrelaça, e o cinema é uma das suas vertentes mais potentes, oferecendo narrativas que complementam e, muitas vezes, inspiram nossos jogos favoritos. A "Semana do Cinema 2026" chega como uma oportunidade imperdível para a comunidade gamer expandir seus horizontes culturais sem pesar no bolso.
 

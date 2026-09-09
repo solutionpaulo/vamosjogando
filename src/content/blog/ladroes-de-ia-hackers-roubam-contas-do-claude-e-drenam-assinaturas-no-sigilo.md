@@ -6,6 +6,7 @@ heroImage: '../../assets/ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-
 ogImage: '../../assets/og-ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-assinaturas-no-sigilo.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-assinaturas-no-sigilo/'
 tags: ['Cibersegurança', 'Inteligência Artificial', 'Golpes Online', 'Tecnologia']
+imageVerified: 'true'
 ---
 A Inteligência Artificial tem revolucionado diversas áreas, desde a criação de conteúdo até o desenvolvimento de jogos. No entanto, com o avanço tecnológico, surgem também novas vulnerabilidades. Uma grave onda de fraudes tem atingido usuários do Claude, a renomada IA da Anthropic, revelando um esquema onde hackers roubam créditos de assinaturas pagas de forma silenciosa e eficiente, deixando as vítimas com prejuízos significativos.
 
