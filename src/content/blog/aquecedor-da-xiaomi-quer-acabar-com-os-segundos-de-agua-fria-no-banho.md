@@ -6,6 +6,7 @@ heroImage: '../../assets/aquecedor-da-xiaomi-quer-acabar-com-os-segundos-de-agua
 ogImage: '../../assets/og-aquecedor-da-xiaomi-quer-acabar-com-os-segundos-de-agua-fria-no-banho.webp'
 sourceUrl: 'https://canaltech.com.br/produtos/aquecedor-da-xiaomi-quer-acabar-com-os-segundos-de-agua-fria-no-banho/'
 tags: ['Xiaomi', 'Smart Home', 'Tecnologia', 'Mercado Chinês']
+imageVerified: 'true'
 ---
 No mundo dos games, a busca por imersão e performance é constante. Mas e se a tecnologia pudesse transformar também os momentos mais banais do nosso dia? A Xiaomi, conhecida por sua vasta gama de produtos que vai de smartphones a panelas de arroz inteligentes, acaba de lançar um novo dispositivo na China que promete acabar com um dos maiores incômodos matinais: o banho frio inicial. Prepare-se para conhecer o `Mijia Smart Gas Water Heater 2 16L`, um aquecedor que talvez você nem soubesse que precisava, mas que certamente vai querer.
 

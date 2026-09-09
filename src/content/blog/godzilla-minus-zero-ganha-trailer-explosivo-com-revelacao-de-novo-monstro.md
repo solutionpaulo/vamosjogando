@@ -6,6 +6,7 @@ heroImage: '../../assets/godzilla-minus-zero-ganha-trailer-explosivo-com-revelac
 ogImage: '../../assets/og-godzilla-minus-zero-ganha-trailer-explosivo-com-revelacao-de-novo-monstro.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/godzilla-minus-zero-ganha-trailer-explosivo-com-revelacao-de-novo-monstro/'
 tags: ['Godzilla', 'Kaiju', 'Filmes', 'Toho']
+imageVerified: 'true'
 ---
 O universo cinematográfico de Godzilla continua a expandir-se, e o Japão, berço do Rei dos Monstros, não fica para trás. Após o aclamado 'Godzilla Minus One' de 2023, que conquistou corações e bilheterias com sua abordagem sombria e visceral, a Toho acaba de revelar um trailer explosivo para sua sequência direta, 'Godzilla Minus Zero'. Prepare-se para um confronto sem precedentes que promete redefinir o destino do Japão contra a sua mais temível criação.
 
