@@ -6,6 +6,7 @@ heroImage: '../../assets/as-vesperas-das-eleicoes-meta-terceiriza-combate-as-fak
 ogImage: '../../assets/og-as-vesperas-das-eleicoes-meta-terceiriza-combate-as-fake-news-entenda-os-perigos.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/as-vesperas-das-eleicoes-meta-terceiriza-combate-as-fake-news-entenda-os-perigos/'
 tags: ['Meta', 'Desinformação', 'Redes Sociais', 'Cidadania Digital']
+imageVerified: 'true'
 ---
 No cenário digital atual, onde a informação (e a desinformação) circula na velocidade da luz, a forma como as grandes plataformas lidam com o conteúdo enganoso é crucial para todos nós – incluindo a comunidade gamer, que é intensamente conectada. A Meta, gigante por trás de Facebook, Instagram e Threads, está em processo de uma mudança significativa na sua estratégia de combate às fake news. Às vésperas de importantes eleições em diversos países da América Latina (e potencialmente no Brasil), a empresa está testando as “Notas da Comunidade”, uma abordagem que transfere a responsabilidade da checagem profissional para os próprios usuários. Embora o Brasil ainda não faça parte da fase inicial, essa transição levanta sérias questões sobre a integridade da informação em nossas redes.
 

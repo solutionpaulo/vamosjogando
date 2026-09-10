@@ -6,6 +6,7 @@ heroImage: '../../assets/fotos-marcadas-agora-podem-ser-colocadas-no-feed-do-ins
 ogImage: '../../assets/og-fotos-marcadas-agora-podem-ser-colocadas-no-feed-do-instagram-veja-como-fazer.webp'
 sourceUrl: 'https://canaltech.com.br/apps/fotos-marcadas-agora-podem-ser-colocadas-no-feed-do-instagram-veja-como-fazer/'
 tags: ['Instagram', 'Redes Sociais', 'Comunidade Gamer', 'Dicas Gamer']
+imageVerified: 'true'
 ---
 O Instagram, plataforma que se tornou essencial para a comunidade gamer compartilhar conquistas, bastidores e momentos de eventos, acaba de lançar uma funcionalidade que promete mudar a forma como gamers e criadores de conteúdo gerenciam sua presença online. Longe de ser apenas uma questão estética, a nova opção de exibir fotos e posts marcados diretamente no seu feed principal pode ser uma ferramenta poderosa para destacar sua trajetória e colaborações no universo dos jogos.
 
