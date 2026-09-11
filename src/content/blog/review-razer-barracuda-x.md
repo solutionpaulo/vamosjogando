@@ -2,9 +2,10 @@
 title: 'Review: Razer Barracuda X — O Headset Sem Fio Versátil para Todas as Plataformas'
 description: 'O Razer Barracuda X promete conveniência sem fio em múltiplos dispositivos e grande conforto para longas sessões. Descubra se este headset é a escolha ideal para gamers que buscam flexibilidade e um bom custo-benefício.'
 pubDate: 'Fri Sep 11 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-razer-barracuda-x.webp'
 ogImage: '../../assets/og-review-razer-barracuda-x.webp'
 tags: ['Review', 'Hardware', 'Razer Barracuda X', 'Headset Gamer', 'Sem Fio']
+imageVerified: 'true'
 ---
 
 ## IntroduçãoO Razer Barracuda X chega ao mercado brasileiro como uma proposta interessante para gamers que buscam versatilidade. Posicionado na faixa de preço intermediária, geralmente encontrado entre R$500 e R$700, este headset sem fio promete ser a solução "tudo em um" para quem joga no PC, PlayStation, Nintendo Switch e até em dispositivos Android. Lançado com foco na praticidade, ele busca oferecer uma experiência sem cabos sem esvaziar o bolso.
