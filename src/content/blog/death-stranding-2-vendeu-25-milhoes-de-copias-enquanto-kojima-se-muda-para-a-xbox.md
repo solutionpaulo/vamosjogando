@@ -6,6 +6,7 @@ heroImage: '../../assets/death-stranding-2-vendeu-25-milhoes-de-copias-enquanto-
 ogImage: '../../assets/og-death-stranding-2-vendeu-25-milhoes-de-copias-enquanto-kojima-se-muda-para-a-xbox.webp'
 sourceUrl: 'https://www.eurogamer.pt/death-stranding-2-vendeu-25-milhoes-de-copias-enquanto-kojima-se-muda-para-a-xbox'
 tags: ['Hideo Kojima', 'Xbox', 'PlayStation', 'Physint']
+imageVerified: 'true'
 ---
 O mundo dos games foi abalado por uma notícia que poucos esperavam: Hideo Kojima, a mente brilhante por trás de clássicos como Metal Gear Solid e o recente Death Stranding, está levando seu próximo grande projeto, **Physint**, para o universo Xbox. Esta mudança marca o fim de uma era de colaboração com a Sony e levanta questionamentos sobre o futuro das grandes parcerias na indústria.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/loucura-hackers-usaram-drones-para-tentar-espiar-gta-vi
 ogImage: '../../assets/og-loucura-hackers-usaram-drones-para-tentar-espiar-gta-vi.webp'
 sourceUrl: 'https://meups.com.br/noticias/gta-vi-drones/'
 tags: ['GTA VI', 'Rockstar Games', 'Segurança', 'Vazamentos']
+imageVerified: 'true'
 ---
 A expectativa em torno de Grand Theft Auto VI é, sem dúvida, uma das maiores da história dos videogames. Com a Rockstar Games no comando, a pressão para entregar um título revolucionário é imensa, e com ela, vem uma preocupação sem precedentes com a segurança. Os recentes detalhes revelados sobre as tentativas de espionagem no desenvolvimento do jogo apenas confirmam o quão valiosos são os segredos de Vice City.
 
