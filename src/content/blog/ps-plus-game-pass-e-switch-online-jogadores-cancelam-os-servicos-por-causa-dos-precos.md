@@ -6,6 +6,7 @@ heroImage: '../../assets/ps-plus-game-pass-e-switch-online-jogadores-cancelam-os
 ogImage: '../../assets/og-ps-plus-game-pass-e-switch-online-jogadores-cancelam-os-servicos-por-causa-dos-precos.webp'
 sourceUrl: 'https://www.eurogamer.pt/ps-plus-game-pass-e-switch-online-jogadores-cancelam-os-servicos-por-causa-dos-precos'
 tags: ['PlayStation Plus', 'Xbox Game Pass', 'Nintendo Switch Online', 'Assinaturas']
+imageVerified: 'true'
 ---
 Enquanto gamers brasileiros já sentem o peso do custo de vida e dos jogos, uma nova pesquisa nos EUA acende um alerta significativo: a era das assinaturas de games pode estar enfrentando sua maior crise. A Eurogamer.pt reportou dados alarmantes que mostram jogadores desistindo de serviços essenciais, e a razão é uma só: o preço.
 

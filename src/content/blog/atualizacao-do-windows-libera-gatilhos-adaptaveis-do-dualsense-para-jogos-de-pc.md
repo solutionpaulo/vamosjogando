@@ -6,6 +6,7 @@ heroImage: '../../assets/atualizacao-do-windows-libera-gatilhos-adaptaveis-do-du
 ogImage: '../../assets/og-atualizacao-do-windows-libera-gatilhos-adaptaveis-do-dualsense-para-jogos-de-pc.webp'
 sourceUrl: 'https://canaltech.com.br/games/atualizacao-do-windows-libera-gatilhos-adaptaveis-do-dualsense-para-jogos-de-pc/'
 tags: ['DualSense', 'PC Gaming', 'PlayStation', 'Hardware']
+imageVerified: 'true'
 ---
 Desde o lançamento do PlayStation 5, o controle DualSense tem sido elogiado por suas inovações em imersão, especialmente os gatilhos adaptáveis e o feedback tátil. No entanto, a experiência no PC sempre foi uma montanha-russa de compatibilidade e frustração. Agora, uma atualização importante da Microsoft promete mudar esse cenário para sempre.## O Fim da "Maldição" no PC?
 A Microsoft liberou uma nova versão da API GameInput (versão 3.5) para PC, o que significa um avanço significativo para os gamers que utilizam o DualSense e DualSense Edge no Windows. Esta não é uma integração nativa do sistema operacional, mas sim uma ferramenta robusta para que os desenvolvedores possam, enfim, implementar os recursos avançados do controle em seus títulos de PC.## Como Desenvolvedores Podem Ativar a Magia do DualSense
