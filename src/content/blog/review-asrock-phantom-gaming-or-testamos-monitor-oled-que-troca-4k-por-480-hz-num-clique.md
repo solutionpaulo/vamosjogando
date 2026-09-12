@@ -6,6 +6,7 @@ heroImage: '../../assets/review-asrock-phantom-gaming-or-testamos-monitor-oled-q
 ogImage: '../../assets/og-review-asrock-phantom-gaming-or-testamos-monitor-oled-que-troca-4k-por-480-hz-num-clique.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/review-asrock-phantom-gaming-32/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

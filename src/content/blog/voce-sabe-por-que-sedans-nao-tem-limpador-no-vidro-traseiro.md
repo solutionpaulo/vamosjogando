@@ -6,6 +6,7 @@ heroImage: '../../assets/voce-sabe-por-que-sedans-nao-tem-limpador-no-vidro-tras
 ogImage: '../../assets/og-voce-sabe-por-que-sedans-nao-tem-limpador-no-vidro-traseiro.webp'
 sourceUrl: 'https://canaltech.com.br/carros/voce-sabe-por-que-sedans-nao-tem-limpador-no-vidro-traseiro/'
 tags: ['Simulação', 'Jogos de Corrida', 'Design de Games', 'Física de Jogos']
+imageVerified: 'true'
 ---
 Você já parou para pensar nos detalhes minuciosos que os desenvolvedores de jogos dedicam para trazer o máximo de realismo às suas criações? Mesmo em títulos de corrida ou simulação, a atenção à física do mundo real pode surpreender. Recentemente, uma curiosidade automotiva chamou a atenção: a razão pela qual a maioria dos sedans não possui limpador no vidro traseiro. E essa peculiaridade do design automotivo pode nos dizer muito sobre como os games simulam a realidade.
 
