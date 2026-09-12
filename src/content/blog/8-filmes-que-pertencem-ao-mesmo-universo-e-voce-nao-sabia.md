@@ -6,6 +6,7 @@ heroImage: '../../assets/8-filmes-que-pertencem-ao-mesmo-universo-e-voce-nao-sab
 ogImage: '../../assets/og-8-filmes-que-pertencem-ao-mesmo-universo-e-voce-nao-sabia.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/filmes-do-mesmo-universo-e-voce-nao-sabia/'
 tags: ['CulturaPop', 'Cinema', 'Narrativa', 'Franquias']
+imageVerified: 'true'
 ---
 Universos compartilhados se tornaram a mina de ouro da cultura pop, especialmente com o domínio de sagas como o MCU nos cinemas e franquias gigantescas nos games. Mas, e se te dissermos que a ideia de conectar mundos vai muito além do que você imagina, com filmes que você jamais associaria operando no mesmo plano existencial? No "Vamos Jogando", mergulhamos fundo nessas teias narrativas para revelar conexões cinematográficas que, assim como nos games, expandem a experiência e o lore de maneiras surpreendentes.
 

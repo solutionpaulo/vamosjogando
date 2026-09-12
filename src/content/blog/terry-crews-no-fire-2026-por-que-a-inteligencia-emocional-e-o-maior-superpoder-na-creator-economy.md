@@ -6,6 +6,7 @@ heroImage: '../../assets/terry-crews-no-fire-2026-por-que-a-inteligencia-emocion
 ogImage: '../../assets/og-terry-crews-no-fire-2026-por-que-a-inteligencia-emocional-e-o-maior-superpoder-na-creator-economy.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/terry-crews-no-fire-2026-por-que-a-inteligencia-emocional-e-o-maior-superpoder-na-creator-economy/'
 tags: ['Terry Crews', 'Conteúdo Gamer', 'Branding', 'Streamers']
+imageVerified: 'true'
 ---
 A paixão por games nos conecta a mundos fantásticos e comunidades vibrantes. Mas o que acontece quando a busca por números e algoritmos obscurece o que nos torna humanos? No Hotmart FIRE 2026, em meio a discussões sobre IA e escala, o ator Terry Crews trouxe um choque de realidade. Famoso por papéis icônicos e sua personalidade carismática, Crews subiu ao palco não para falar de tecnologia, mas de um "superpoder" que todo gamer, streamer ou desenvolvedor pode usar: a inteligência emocional e a autenticidade.
 
