@@ -2,9 +2,10 @@
 title: 'Review: Keychron K2 Pro — A Versatilidade Premiada em um Teclado Compacto'
 description: 'O Keychron K2 Pro combina uma construção robusta com conectividade sem fio e switches hot-swappable, oferecendo uma experiência de digitação premium e altamente personalizável. É a escolha ideal para quem busca versatilidade e qualidade, seja para trabalhar ou digitar.'
 pubDate: 'Sat Sep 12 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-keychron-k2-pro.webp'
 ogImage: '../../assets/og-review-keychron-k2-pro.webp'
 tags: ['Review', 'Hardware', 'Keychron K2 Pro', 'Teclado Mecânico', 'Teclado Wireless', 'Produtividade']
+imageVerified: 'true'
 ---
 
 ## Introdução
