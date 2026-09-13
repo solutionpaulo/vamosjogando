@@ -6,6 +6,7 @@ heroImage: '../../assets/10-melhores-edicoes-limitadas-do-nintendo-switch-ja-lan
 ogImage: '../../assets/og-10-melhores-edicoes-limitadas-do-nintendo-switch-ja-lancadas.webp'
 sourceUrl: 'https://canaltech.com.br/games/nintendo-switch-melhores-edicoes-limitadas/'
 tags: ['Nintendo', 'Switch', 'EdiçõesLimitadas', 'Colecionismo']
+imageVerified: 'true'
 ---
 A Nintendo, com sua inegável paixão por hardware e inovação, sempre soube como cativar seus fãs não apenas com jogos memoráveis, mas também com edições especiais de seus consoles. O Nintendo Switch, um híbrido revolucionário que conquistou corações desde 2017, tornou-se um verdadeiro palco para essa criatividade, colecionando algumas das versões mais bonitas e cobiçadas já lançadas. Diferente de seus concorrentes, a Big N imprime um carinho especial na hora de apresentar essas joias, transformando cada console em uma peça de arte.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-custaria-um-fiat-marea-hoje-com-a-inflacao.webp'
 ogImage: '../../assets/og-quanto-custaria-um-fiat-marea-hoje-com-a-inflacao.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-custaria-um-fiat-marea-hoje-com-a-inflacao/'
 tags: ['PlayStation', 'PS2', 'Economia Gamer', 'Retrogaming']
+imageVerified: 'true'
 ---
 Para muitos gamers brasileiros, o PlayStation 2 não foi apenas um console, mas um portal para uma era dourada dos videogames. Lançado globalmente no ano 2000, e chegando ao Brasil com grande expectativa, o PS2 dominou o mercado e se tornou um item quase onipresente nas casas de milhões. Mas, se este gigante da Sony fosse lançado hoje, com a devida correção monetária, qual seria o seu custo real? O 'Vamos Jogando' mergulha no túnel do tempo para descobrir.
 
