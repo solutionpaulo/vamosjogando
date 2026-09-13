@@ -6,6 +6,7 @@ heroImage: '../../assets/jbl-live-780nc-me-deixou-mal-acostumado-com-o-cancelame
 ogImage: '../../assets/og-jbl-live-780nc-me-deixou-mal-acostumado-com-o-cancelamento-de-ruido.webp'
 sourceUrl: 'https://canaltech.com.br/produtos/jbl-live-780nc-me-deixou-mal-acostumado-com-o-cancelamento-de-ruido/'
 tags: ['JBL', 'Headphone', 'Áudio Gamer', 'Cancelamento de Ruído']
+imageVerified: 'true'
 ---
 O universo dos games exige não apenas visuais incríveis, mas também uma experiência sonora que te coloque no centro da ação. Fones de ouvido de qualidade são essenciais para captar cada detalhe, desde passos inimigos sutis a trilhas sonoras épicas. Recentemente, colocamos as mãos no JBL Live 780NC, um headphone que promete elevar essa imersão a outro nível, principalmente para os gamers brasileiros que buscam algo além do básico. Analisamos se o investimento realmente vale a pena para quem vive e respira jogos.
 

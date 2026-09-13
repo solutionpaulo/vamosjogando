@@ -6,6 +6,7 @@ heroImage: '../../assets/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-
 ogImage: '../../assets/og-como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito.webp'
 sourceUrl: 'https://canaltech.com.br/carros/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito/'
 tags: ['Inteligência Artificial', 'Tecnologia', 'Mobilidade Urbana', 'Simulação']
+imageVerified: 'true'
 ---
 A realidade das grandes cidades brasileiras muitas vezes se choca com a frustração do trânsito. Para o gamer que passa horas otimizando rotas em *Cities: Skylines* ou gerenciando recursos em *SimCity*, a ideia de uma cidade "travada" por um sistema ineficiente é quase um erro de código. Mas e se disséssemos que a **Inteligência Artificial** está chegando às ruas para corrigir esse 'bug' urbano com semáforos inteligentes?
 
