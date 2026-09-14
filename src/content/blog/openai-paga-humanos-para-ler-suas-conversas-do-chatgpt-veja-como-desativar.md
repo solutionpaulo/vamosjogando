@@ -6,6 +6,7 @@ heroImage: '../../assets/openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-
 ogImage: '../../assets/og-openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-veja-como-desativar.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-veja-como-desativar/'
 tags: ['ChatGPT', 'Privacidade', 'OpenAI', 'SegurançaOnline']
+imageVerified: 'true'
 ---
 No mundo dos games e da tecnologia, a privacidade dos nossos dados é um tema cada vez mais crucial. Se você é um gamer que utiliza o ChatGPT para estratégias, scripts ou simplesmente para descontrair, uma recente revelação da OpenAI acende um alerta importante: suas conversas podem estar sendo lidas por humanos. Vamos mergulhar nessa polêmica e descobrir como você pode proteger sua privacidade digital.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/xbox-series-libera-novo-recurso-de-nostalgia-mas-deixa-
 ogImage: '../../assets/og-xbox-series-libera-novo-recurso-de-nostalgia-mas-deixa-consoles-antigos-de-fora.webp'
 sourceUrl: 'https://canaltech.com.br/games/xbox-series-libera-novo-recurso-de-nostalgia-mas-deixa-consoles-antigos-de-fora/'
 tags: ['Xbox', 'Xbox Series X|S', 'Atualização', 'Microsoft']
+imageVerified: 'true'
 ---
 A Microsoft continua a surpreender sua base de fãs com atualizações frequentes e significativas, e a mais recente para o Xbox Series X|S não é exceção. Sob a liderança de Asha Sharma, a marca tem focado em aprimorar a experiência do usuário, e esta nova leva de recursos é um testemunho disso, misturando um aceno ao passado com um olhar firme no futuro.
 
