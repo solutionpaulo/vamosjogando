@@ -6,6 +6,7 @@ heroImage: '../../assets/kabum-derreteu-preco-monitor-asus-tuf-260hz-por-rdollar
 ogImage: '../../assets/og-kabum-derreteu-preco-monitor-asus-tuf-260hz-por-rdollar-76499-no-pix.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/kabum-derreteu-preco-monitor-asus-tuf-260hz-por-r-76499-no-pix/'
 tags: ['Monitor Gamer', 'ASUS', 'Hardware', 'Promoção']
+imageVerified: 'true'
 ---
 Para todo gamer que busca um diferencial nas partidas online, um monitor de alta performance não é um luxo, mas uma necessidade. Lags e imagens borradas podem ser a diferença entre a vitória e a derrota. Felizmente, a KaBuM! trouxe uma oportunidade que promete mudar o jogo para muitos, derrubando o preço do Monitor Gamer ASUS TUF 23.8" com especificações de ponta.
 

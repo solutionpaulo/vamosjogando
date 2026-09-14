@@ -6,6 +6,7 @@ heroImage: '../../assets/lava-e-seca-da-xiaomi-de-14-kg-cabe-no-espaco-de-uma-de
 ogImage: '../../assets/og-lava-e-seca-da-xiaomi-de-14-kg-cabe-no-espaco-de-uma-de-10-kg-e-pode-ser-embutida.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/lava-e-seca-da-xiaomi-de-14-kg-cabe-no-espaco-de-uma-de-10-kg-e-pode-ser-embutida/'
 tags: ['Xiaomi', 'Eletrodomésticos', 'Tecnologia', 'Inovação']
+imageVerified: 'true'
 ---
 A Xiaomi, gigante chinesa conhecida por sua vasta gama de produtos que vão de smartphones a dispositivos de casa inteligente, surpreende novamente ao lançar um eletrodoméstico que promete revolucionar a rotina doméstica. Embora nosso foco seja o universo gamer, a inovação tecnológica inerente a produtos como a nova lava e seca Mijia merece nossa atenção, especialmente quando falamos de otimização de espaço e inteligência artificial — temas tão presentes no cotidiano de muitos gamers e entusiastas de tecnologia.
 
