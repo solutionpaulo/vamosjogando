@@ -7,6 +7,7 @@ pubDate: 'Mon Sep 14 2026'
 heroImage: '../../assets/review-logitech-g213.webp'
 ogImage: '../../assets/og-review-logitech-g213.webp'
 tags: ['Review', 'Hardware', 'Logitech G213', 'Teclado Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
