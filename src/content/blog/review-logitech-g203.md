@@ -5,6 +5,7 @@ pubDate: 'Tue Sep 15 2026'
 heroImage: '../../assets/review-logitech-g203.webp'
 ogImage: '../../assets/og-review-logitech-g203.webp'
 tags: ['Review', 'Hardware', 'Logitech G203', 'Mouse Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
