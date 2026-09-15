@@ -6,6 +6,7 @@ heroImage: '../../assets/a-ubisoft-esta-a-oferecer-for-honor-no-pc-ate-28-de-set
 ogImage: '../../assets/og-a-ubisoft-esta-a-oferecer-for-honor-no-pc-ate-28-de-setembro.webp'
 sourceUrl: 'https://www.eurogamer.pt/a-ubisoft-esta-a-oferecer-for-honor-no-pc-ate-28-de-setembro'
 tags: ['For Honor', 'Ubisoft', 'PC Gaming', 'Combate Tático']
+imageVerified: 'true'
 ---
 A Ubisoft está fazendo a alegria dos gamers de PC com uma notícia que nenhum guerreiro pode ignorar: For Honor, seu aclamado game de combate tático medieval, está disponível gratuitamente por tempo limitado! É a oportunidade perfeita para quem sempre quis empunhar uma espada ou machado e mergulhar em duelos intensos e batalhas épicas sem gastar um centavo.
 

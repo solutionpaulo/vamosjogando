@@ -6,6 +6,7 @@ heroImage: '../../assets/capitao-barbossa-regressaria-a-piratas-das-caraibas-par
 ogImage: '../../assets/og-capitao-barbossa-regressaria-a-piratas-das-caraibas-para-assombrar-jack-sparrow.webp'
 sourceUrl: 'https://www.eurogamer.pt/capitao-barbossa-regressaria-a-piratas-das-caraibas-para-assombrar-jack-sparrow'
 tags: ['Games', 'Eurogamer.pt', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
