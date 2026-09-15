@@ -6,6 +6,7 @@ heroImage: '../../assets/whatsapp-podera-silenciar-conversas-por-horario-com-nov
 ogImage: '../../assets/og-whatsapp-podera-silenciar-conversas-por-horario-com-novo-plano-pago-da-meta.webp'
 sourceUrl: 'https://canaltech.com.br/apps/whatsapp-podera-silenciar-conversas-por-horario-com-novo-plano-pago-da-meta/'
 tags: ['Meta One', 'Assinaturas', 'Criação de Conteúdo', 'Tecnologia']
+imageVerified: 'true'
 ---
 O cenário digital está em constante evolução, e a Meta, gigante por trás de plataformas como WhatsApp, Instagram e Facebook, não quer ficar para trás. Em uma aposta audaciosa no modelo de assinaturas, a empresa anunciou o Meta One, um novo serviço que promete funcionalidades exclusivas e, talvez, uma nova forma de interagir com o ambiente digital. Mas o que essa novidade significa para a comunidade gamer e para aqueles que vivem da criação de conteúdo nesse universo?
 

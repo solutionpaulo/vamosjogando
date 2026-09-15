@@ -6,6 +6,7 @@ heroImage: '../../assets/mais-jogos-rodando-emulador-de-ps3-no-pc-se-aproxima-de
 ogImage: '../../assets/og-mais-jogos-rodando-emulador-de-ps3-no-pc-se-aproxima-de-100percent-de-compatibilidade.webp'
 sourceUrl: 'https://canaltech.com.br/games/mais-jogos-rodando-emulador-de-ps3-no-pc-se-aproxima-de-100-de-compatibilidade/'
 tags: ['Emulação', 'PlayStation 3', 'RPCS3', 'Preservação de Games']
+imageVerified: 'true'
 ---
 O PlayStation 3, com sua arquitetura complexa, sempre foi um desafio para a emulação. Por anos, muitos de seus clássicos ficaram presos ao hardware original. No entanto, o projeto RPCS3 tem avançado a passos largos, e as últimas notícias trazem um alívio e uma empolgação gigantesca para a comunidade gamer: a lista de jogos totalmente jogáveis está cada vez maior, e o suporte a mídias físicas é uma virada de jogo.
 
