@@ -6,6 +6,7 @@ heroImage: '../../assets/google-quer-convencer-usuarios-a-cadastrarem-selfie-bio
 ogImage: '../../assets/og-google-quer-convencer-usuarios-a-cadastrarem-selfie-biometrica-para-casos-de-emergencia.webp'
 sourceUrl: 'https://canaltech.com.br/apps/google-quer-convencer-usuarios-a-cadastrarem-selfie-biometrica-para-casos-de-emergencia/'
 tags: ['Google', 'Segurança Online', 'Biometria', 'Privacidade']
+imageVerified: 'true'
 ---
 No universo dos games, a segurança das nossas contas digitais é primordial. Seja para proteger coleções de jogos na Steam, dados salvos na nuvem ou simplesmente o acesso a plataformas essenciais, um método de login robusto é sempre bem-vindo. Agora, o Google está lançando uma nova ferramenta que promete elevar a segurança das suas contas a um novo patamar: a selfie biométrica.
 

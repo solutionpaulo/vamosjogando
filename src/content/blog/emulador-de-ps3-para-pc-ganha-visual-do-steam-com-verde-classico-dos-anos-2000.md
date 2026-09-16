@@ -6,6 +6,7 @@ heroImage: '../../assets/emulador-de-ps3-para-pc-ganha-visual-do-steam-com-verde
 ogImage: '../../assets/og-emulador-de-ps3-para-pc-ganha-visual-do-steam-com-verde-classico-dos-anos-2000.webp'
 sourceUrl: 'https://canaltech.com.br/games/emulador-de-ps3-para-pc-ganha-visual-do-steam-com-verde-classico-dos-anos-2000/'
 tags: ['Emulação', 'PlayStation 3', 'RPCS3', 'Preservação']
+imageVerified: 'true'
 ---
 O mundo da emulação continua a desafiar os limites do que é possível, e o RPCS3, o notável emulador de PlayStation 3 para PC, está na vanguarda dessa revolução. Em um movimento que une nostalgia e funcionalidade, o software acaba de receber uma atualização visual que promete cativar os fãs de longa data do PC gaming, ao mesmo tempo em que consolida sua posição como uma ferramenta vital para a preservação de jogos.
 
