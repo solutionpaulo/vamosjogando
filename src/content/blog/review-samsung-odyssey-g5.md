@@ -5,6 +5,7 @@ pubDate: 'Thu Sep 17 2026'
 heroImage: '../../assets/review-samsung-odyssey-g5.webp'
 ogImage: '../../assets/og-review-samsung-odyssey-g5.webp'
 tags: ['Review', 'Hardware', 'Samsung Odyssey G5', 'Monitor Gamer', 'Curvo']
+imageVerified: 'true'
 ---
 
 ## Introdução
