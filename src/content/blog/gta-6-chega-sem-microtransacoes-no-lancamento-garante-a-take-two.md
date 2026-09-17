@@ -6,6 +6,7 @@ heroImage: '../../assets/gta-6-chega-sem-microtransacoes-no-lancamento-garante-a
 ogImage: '../../assets/og-gta-6-chega-sem-microtransacoes-no-lancamento-garante-a-take-two.webp'
 sourceUrl: 'https://www.eurogamer.pt/gta-6-chega-sem-microtransacoes-no-lancamento-garante-a-take-two'
 tags: ['GTA 6', 'Rockstar', 'Take-Two', 'Microtransações']
+imageVerified: 'true'
 ---
 A notícia de que Grand Theft Auto 6 não contará com microtransações em seu lançamento é um alívio para muitos jogadores, especialmente no Brasil, onde o custo dos jogos e as mecânicas de monetização se tornaram pontos sensíveis. Em um mercado saturado por passes de batalha, cosméticos e atalhos pagos, a promessa da Take-Two Interactive reacende a esperança por uma experiência inicial mais focada no conteúdo principal, livre de pressões para gastos adicionais.
 

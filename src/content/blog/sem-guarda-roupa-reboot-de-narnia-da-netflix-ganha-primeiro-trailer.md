@@ -6,6 +6,7 @@ heroImage: '../../assets/sem-guarda-roupa-reboot-de-narnia-da-netflix-ganha-prim
 ogImage: '../../assets/og-sem-guarda-roupa-reboot-de-narnia-da-netflix-ganha-primeiro-trailer.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/sem-guarda-roupa-reboot-de-narnia-da-netflix-ganha-primeiro-trailer/'
 tags: ['Netflix', 'Nárnia', 'Greta Gerwig', 'Fantasia']
+imageVerified: 'true'
 ---
 O mundo de Nárnia está de volta e, desta vez, pelas mãos da Netflix, com uma abordagem que promete surpreender tanto os fãs de longa data quanto os novatos. A gigante do streaming não poupou esforços para reviver a aclamada obra de C.S. Lewis, escalando a renomada diretora Greta Gerwig, conhecida por 'Barbie', para liderar o projeto. O primeiro teaser de 'Nárnia: O Sobrinho do Mago' já foi revelado, indicando uma jornada profunda pelas origens do universo mágico, muito antes dos Pevensie e do famoso guarda-roupa.
 
