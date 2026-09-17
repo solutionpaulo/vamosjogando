@@ -6,6 +6,7 @@ heroImage: '../../assets/ceo-do-twitch-deixa-escapar-que-o-online-de-gta-6-chega
 ogImage: '../../assets/og-ceo-do-twitch-deixa-escapar-que-o-online-de-gta-6-chega-em-2027.webp'
 sourceUrl: 'https://www.eurogamer.pt/ceo-do-twitch-deixa-escapar-que-o-online-de-gta-6-chega-em-2027'
 tags: ['GTA VI', 'Rockstar Games', 'GTA Online', 'Vazamento']
+imageVerified: 'true'
 ---
 A expectativa em torno de Grand Theft Auto VI é estratosférica, com cada pedaço de informação sendo dissecado pelos fãs. Recentemente, um comentário do CEO do Twitch, Dan Clancy, em uma entrevista à Bloomberg, acendeu um novo debate e preocupação entre a comunidade: o modo online de GTA 6 pode estar mais distante do que imaginamos.
 

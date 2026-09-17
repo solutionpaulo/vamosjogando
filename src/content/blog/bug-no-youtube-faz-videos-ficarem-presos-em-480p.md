@@ -6,6 +6,7 @@ heroImage: '../../assets/bug-no-youtube-faz-videos-ficarem-presos-em-480p.webp'
 ogImage: '../../assets/og-bug-no-youtube-faz-videos-ficarem-presos-em-480p.webp'
 sourceUrl: 'https://canaltech.com.br/apps/bug-no-youtube-faz-videos-ficarem-presos-em-480p/'
 tags: ['YouTube', 'Bug', 'Streaming', 'QualidadeDeVídeo']
+imageVerified: 'true'
 ---
 No universo dos games, a qualidade visual é primordial. Seja assistindo a uma gameplay detalhada, um trailer cinematográfico ou sua stream favorita, a expectativa é sempre pela melhor resolução possível. No entanto, um bug persistente no YouTube está transformando essa expectativa em frustração, prendendo muitos usuários, incluindo nossa comunidade gamer, a uma resolução máxima de 480p.
 
