@@ -2,9 +2,10 @@
 title: 'Review: LG UltraGear 27GP850 — O Monitor Gamer QHD de 180Hz com Cores Vibrantes'
 description: 'Avaliamos o LG UltraGear 27GP850, um monitor gamer de 27 polegadas que combina painel Nano IPS, 180Hz e 1ms para uma experiência visual imersiva e responsiva. Ideal para quem busca alta performance e fidelidade de cor sem comprometer a fluidez.'
 pubDate: 'Fri Sep 18 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/review-lg-ultragear-27gp850.webp'
 ogImage: '../../assets/og-review-lg-ultragear-27gp850.webp'
 tags: ['Review', 'Hardware', 'LG UltraGear', 'Monitor Gamer', 'Nano IPS']
+imageVerified: 'true'
 ---
 
 ## Introdução
