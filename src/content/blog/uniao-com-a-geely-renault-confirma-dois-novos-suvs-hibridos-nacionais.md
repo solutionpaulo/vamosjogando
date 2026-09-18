@@ -6,6 +6,7 @@ heroImage: '../../assets/uniao-com-a-geely-renault-confirma-dois-novos-suvs-hibr
 ogImage: '../../assets/og-uniao-com-a-geely-renault-confirma-dois-novos-suvs-hibridos-nacionais.webp'
 sourceUrl: 'https://canaltech.com.br/carros/sucessor-do-duster-ou-boreal-renault-confirma-dois-novos-suvs-hibridos-nacionais/'
 tags: ['Renault', 'Híbridos', 'SUVs', 'Investimento Brasil']
+imageVerified: 'true'
 ---
 A indústria automotiva brasileira está prestes a testemunhar uma significativa injeção de inovação e investimento. A Renault, com um aporte de R$ 2 bilhões, confirma a produção de dois novos SUVs híbridos no país, com lançamento previsto para 2027. Este movimento estratégico, realizado no Complexo Industrial Ayrton Senna no Paraná, sinaliza uma forte aposta da montadora francesa na eletrificação e na adaptação às demandas do consumidor local, com a inestimável colaboração da gigante chinesa Geely.
 

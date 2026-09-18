@@ -6,6 +6,7 @@ heroImage: '../../assets/onde-a-inteligencia-artificial-realmente-esta-mudando-o
 ogImage: '../../assets/og-onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/'
 tags: ['InteligênciaArtificial', 'DesenvolvimentoDeJogos', 'Tecnologia', 'IndústriaDeJogos']
+imageVerified: 'true'
 ---
 A inteligência artificial (IA) tem sido um dos temas mais quentes da última década, especialmente quando o assunto é o mundo dos games. No entanto, por trás dos holofotes de demonstrações conceituais e promessas mirabolantes, a verdadeira revolução da IA no setor de jogos acontece em uma camada menos glamorosa, mas infinitamente mais impactante: as operações e o desenvolvimento fundamental. Não estamos falando apenas de NPCs mais espertos, mas de como a IA está redefinindo o processo de criação e manutenção dos nossos jogos favoritos, gerando valor real para estúdios e, consequentemente, para nós, jogadores. Assim como no varejo, a capacidade de usar a IA para eficiência operacional é o grande divisor de águas.
 
