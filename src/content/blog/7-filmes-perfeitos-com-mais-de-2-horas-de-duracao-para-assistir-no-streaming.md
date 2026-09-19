@@ -6,6 +6,7 @@ heroImage: '../../assets/7-filmes-perfeitos-com-mais-de-2-horas-de-duracao-para-
 ogImage: '../../assets/og-7-filmes-perfeitos-com-mais-de-2-horas-de-duracao-para-assistir-no-streaming.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/filmes-perfeitos-com-mais-de-2-horas-de-duracao-streaming/'
 tags: ['Filmes', 'Imersão', 'Narrativa', 'Cultura Gamer']
+imageVerified: 'true'
 ---
 No universo dos games, a busca por imersão é constante. Horas se perdem em mundos abertos, narrativas intrincadas e desafios que nos prendem à tela. Mas e quando queremos uma pausa do controle, sem abrir mão dessa profundidade? A resposta pode estar em filmes de longa duração, que oferecem uma experiência cinematográfica tão rica e envolvente quanto as mais épicas jornadas virtuais.
 
