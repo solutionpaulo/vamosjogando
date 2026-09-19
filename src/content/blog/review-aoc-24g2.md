@@ -2,9 +2,10 @@
 title: 'Review: AOC 24G2 — O monitor gamer 144Hz IPS com ótimo custo-benefício'
 description: 'Analisamos o AOC 24G2, um monitor que combina painel IPS rápido, 144Hz e um suporte ergonômico por um preço competitivo, sendo ideal para a maioria dos jogadores.'
 pubDate: 'Sat Sep 19 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/review-aoc-24g2.webp'
 ogImage: '../../assets/og-review-aoc-24g2.webp'
 tags: ['Review', 'Hardware', 'AOC 24G2', 'Monitor Gamer', 'IPS 144Hz']
+imageVerified: 'true'
 ---
 
 ## Introdução
