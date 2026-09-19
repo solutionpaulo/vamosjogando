@@ -6,6 +6,7 @@ heroImage: '../../assets/pode-colocar-celular-quente-na-geladeira-o-risco-que-po
 ogImage: '../../assets/og-pode-colocar-celular-quente-na-geladeira-o-risco-que-pouca-gente-percebe.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/pode-colocar-celular-quente-na-geladeira-o-risco-que-pouca-gente-percebe/'
 tags: ['Smartphones', 'Manutenção', 'Hardware', 'Dicas']
+imageVerified: 'true'
 ---
 Para muitos gamers brasileiros, o smartphone é uma plataforma essencial, seja para jogar títulos mobile de ponta ou para acompanhar as novidades enquanto o console carrega. Com uso intenso, principalmente em longas sessões de jogo, é natural que o aparelho esquente. Nesses momentos de desespero, a geladeira ou o freezer podem parecer soluções rápidas e eficazes para resfriar o dispositivo. No entanto, essa prática, aparentemente inofensiva, pode ser um atalho para danos irreversíveis ao seu precioso hardware. Vamos entender por que.
 

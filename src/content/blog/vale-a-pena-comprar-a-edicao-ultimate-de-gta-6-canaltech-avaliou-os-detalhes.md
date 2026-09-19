@@ -6,6 +6,7 @@ heroImage: '../../assets/vale-a-pena-comprar-a-edicao-ultimate-de-gta-6-canaltec
 ogImage: '../../assets/og-vale-a-pena-comprar-a-edicao-ultimate-de-gta-6-canaltech-avaliou-os-detalhes.webp'
 sourceUrl: 'https://canaltech.com.br/games/gta-6-vale-a-pena-comprar-edicao-ultimate/'
 tags: ['GTA 6', 'Rockstar Games', 'Edição Ultimate', 'Preço de Lançamento']
+imageVerified: 'true'
 ---
 A chegada da pré-venda de Grand Theft Auto VI era um dos momentos mais aguardados pela comunidade gamer, e a Rockstar Games não decepcionou ao finalmente revelar os preços. No entanto, um detalhe chamou a atenção: a Edição Ultimate, que custa R$ 550 – R$ 100 a mais que a versão padrão –, tem liderado os pedidos, desafiando a lógica do mercado. Essa surpresa nos leva a questionar: será que o conteúdo extra realmente justifica o investimento para o gamer brasileiro?
 
