@@ -2,9 +2,10 @@
 title: 'Review: Kingston KC3000 — Velocidade Extrema e Confiabilidade para o seu PC'
 description: 'Analisamos o Kingston KC3000, um SSD NVMe PCIe Gen4 que entrega performance de ponta e alta durabilidade, ideal para gamers e profissionais que exigem o máximo de seu sistema.'
 pubDate: 'Sun Sep 20 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/review-kingston-kc3000.webp'
 ogImage: '../../assets/og-review-kingston-kc3000.webp'
 tags: ['Review', 'Hardware', 'Kingston', 'SSD', 'NVMe']
+imageVerified: 'true'
 ---
 
 ## Introdução
