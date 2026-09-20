@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-custaria-um-ford-explorer-hoje-com-a-correcao-da
 ogImage: '../../assets/og-quanto-custaria-um-ford-explorer-hoje-com-a-correcao-da-inflacao.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-custaria-um-ford-explorer-hoje-com-a-correcao-da-inflacao/'
 tags: ['Super Nintendo', 'Retrogaming', 'História dos Games', 'Economia Gamer']
+imageVerified: 'true'
 ---
 A nostalgia tem um preço, mas e se pudéssemos quantificar o valor de nossos consoles clássicos em dinheiro de hoje? Inspirados por recentes discussões sobre o custo de bens antigos corrigidos pela inflação, decidimos aplicar a mesma lógica a um ícone que marcou gerações de gamers brasileiros: o Super Nintendo (SNES). Este exercício nos permite uma nova perspectiva sobre a economia dos games ao longo das décadas.
 
