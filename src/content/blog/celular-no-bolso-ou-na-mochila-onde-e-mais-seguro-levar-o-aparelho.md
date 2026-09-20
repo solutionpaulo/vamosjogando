@@ -6,6 +6,7 @@ heroImage: '../../assets/celular-no-bolso-ou-na-mochila-onde-e-mais-seguro-levar
 ogImage: '../../assets/og-celular-no-bolso-ou-na-mochila-onde-e-mais-seguro-levar-o-aparelho.webp'
 sourceUrl: 'https://canaltech.com.br/smartphone/celular-no-bolso-ou-na-mochila-onde-e-mais-seguro-levar-o-aparelho/'
 tags: ['Gaming Mobile', 'Hardware', 'Performance', 'Manutenção']
+imageVerified: 'true'
 ---
 ## O Inimigo Invisível: Por Que Seu Celular Ferve ao Jogar?
 
