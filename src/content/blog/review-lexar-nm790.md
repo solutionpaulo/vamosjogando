@@ -2,9 +2,10 @@
 title: 'Review: Lexar NM790 — Performance Sólida com Excelente Custo-Benefício'
 description: 'Analisamos o Lexar NM790, um SSD NVMe PCIe Gen4 que entrega desempenho robusto sem exigir um investimento exorbitante. Perfeito para gamers e criadores de conteúdo que buscam um upgrade de armazenamento.'
 pubDate: 'Mon Sep 21 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/review-lexar-nm790.webp'
 ogImage: '../../assets/og-review-lexar-nm790.webp'
 tags: ['Review', 'Hardware', 'Lexar', 'NM790', 'SSD NVMe', 'Armazenamento']
+imageVerified: 'true'
 ---
 
 ## Introdução
