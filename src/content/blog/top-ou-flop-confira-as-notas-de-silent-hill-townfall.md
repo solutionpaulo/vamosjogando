@@ -6,6 +6,7 @@ heroImage: '../../assets/top-ou-flop-confira-as-notas-de-silent-hill-townfall.we
 ogImage: '../../assets/og-top-ou-flop-confira-as-notas-de-silent-hill-townfall.webp'
 sourceUrl: 'https://meups.com.br/noticias/confira-as-notas-de-silent-hill-townfall/'
 tags: ['Silent Hill', 'Terror', 'Metacritic', 'Survival Horror']
+imageVerified: 'true'
 ---
 A franquia Silent Hill é um nome que evoca nostalgia e arrepios em muitos gamers. Com uma história rica em terror psicológico e atmosferas perturbadoras, a série passou por um longo período de incertezas e projetos cancelados. A chegada de Silent Hill: Townfall, portanto, não é apenas um lançamento, mas um teste crucial para o renascimento de um dos pilares do survival horror. As expectativas estavam altíssimas, e agora, com a revelação de suas notas no Metacritic, a comunidade gamer tem um primeiro vislumbre de seu desempenho.
 

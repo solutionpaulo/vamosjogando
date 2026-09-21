@@ -6,6 +6,7 @@ heroImage: '../../assets/discord-remove-apps-que-burlavam-bloqueio-de-lives-apos
 ogImage: '../../assets/og-discord-remove-apps-que-burlavam-bloqueio-de-lives-apos-cobranca-da-anpd.webp'
 sourceUrl: 'https://canaltech.com.br/apps/discord-remove-apps-que-burlavam-bloqueio-de-lives-apos-cobranca-da-anpd/'
 tags: ['Discord', 'ANPD', 'Privacidade', 'Streaming']
+imageVerified: 'true'
 ---
 A plataforma de comunicação Discord, popular entre gamers por suas ferramentas de interação, viu-se novamente no centro de uma polêmica no Brasil. Após a intervenção da Agência Nacional de Proteção de Dados (ANPD), que suspendeu as funcionalidades de transmissão de vídeo ao vivo no país em agosto, descobriu-se que alguns aplicativos de terceiros ainda permitiam burlar o bloqueio. Agora, o Discord agiu para fechar essas brechas, mas a principal pergunta permanece: quando as lives voltarão para os jogadores brasileiros?
 
