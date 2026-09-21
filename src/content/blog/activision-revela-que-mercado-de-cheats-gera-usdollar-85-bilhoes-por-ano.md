@@ -6,6 +6,7 @@ heroImage: '../../assets/activision-revela-que-mercado-de-cheats-gera-usdollar-8
 ogImage: '../../assets/og-activision-revela-que-mercado-de-cheats-gera-usdollar-85-bilhoes-por-ano.webp'
 sourceUrl: 'https://meups.com.br/noticias/activision-revela-que-mercado-de-cheats-8-bi/'
 tags: ['Anticheat', 'MercadoGame', 'Trapaças', 'Activision']
+imageVerified: 'true'
 ---
 A frustração de encontrar um cheater em um jogo online é quase universal para qualquer gamer. Mas a escala do problema, revelada pela própria Activision, é chocante: as trapaças e serviços relacionados geram uma indústria paralela que movimenta impressionantes US$ 8,5 bilhões por ano. Este número colossal não apenas destaca a prevalência de softwares ilícitos, mas também a existência de um ecossistema complexo e lucrativo focado em desequilibrar a balança competitiva.
 

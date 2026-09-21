@@ -6,6 +6,7 @@ heroImage: '../../assets/novo-video-de-tomb-raider-mostra-egito-em-legacy-of-atl
 ogImage: '../../assets/og-novo-video-de-tomb-raider-mostra-egito-em-legacy-of-atlantis.webp'
 sourceUrl: 'https://meups.com.br/noticias/novo-video-de-tomb-raider-mostra-egito/'
 tags: ['Tomb Raider', 'Ação Aventura', 'Exploração', 'Legacy of Atlantis']
+imageVerified: 'true'
 ---
 A franquia Tomb Raider sempre foi sinônimo de aventura e exploração de ruínas antigas, e poucas locações evocam essa sensação tão fortemente quanto o Egito. Recentemente, um novo vídeo de desenvolvimento de Tomb Raider: Legacy of Atlantis foi divulgado, mergulhando fundo nos mistérios e belezas desérticas que Lara Croft terá pela frente.
 
