@@ -5,6 +5,7 @@ pubDate: 'Tue Sep 22 2026'
 heroImage: '../../assets/review-sandisk-extreme-pro.webp'
 ogImage: '../../assets/og-review-sandisk-extreme-pro.webp'
 tags: ['Review', 'Hardware', 'SanDisk Extreme Pro', 'SSD Portátil', 'Armazenamento Externo']
+imageVerified: 'true'
 ---
 
 ## Introdução
