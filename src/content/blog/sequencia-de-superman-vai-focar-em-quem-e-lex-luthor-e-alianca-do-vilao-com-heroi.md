@@ -6,6 +6,7 @@ heroImage: '../../assets/sequencia-de-superman-vai-focar-em-quem-e-lex-luthor-e-
 ogImage: '../../assets/og-sequencia-de-superman-vai-focar-em-quem-e-lex-luthor-e-alianca-do-vilao-com-heroi.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/sequencia-de-superman-vai-focar-em-quem-e-lex-luthor-e-alianca-do-vilao-com-heroi/'
 tags: ['Superman', 'DCU', 'FilmesDeHeróis', 'LexLuthor']
+imageVerified: 'true'
 ---
 Ainda estamos digerindo a empolgação com o futuro "Superman" (2025) de James Gunn, mas as notícias sobre sua sequência, intitulada "Superman: Homem do Amanhã", já começam a surgir e prometem uma abordagem surpreendente para o universo do Homem de Aço. O que se desenha é uma trama focada não apenas no herói, mas em seu icônico arqui-inimigo, Lex Luthor, e uma aliança que poucos poderiam prever.
 

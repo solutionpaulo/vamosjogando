@@ -6,6 +6,7 @@ heroImage: '../../assets/activision-toma-conta-de-halo-e-promete-sera-o-melhor-j
 ogImage: '../../assets/og-activision-toma-conta-de-halo-e-promete-sera-o-melhor-jogo-de-sempre.webp'
 sourceUrl: 'https://www.eurogamer.pt/activision-toma-conta-de-halo-e-promete-sera-o-melhor-jogo-de-sempre'
 tags: ['Halo', 'Activision', 'Xbox', 'FPS']
+imageVerified: 'true'
 ---
 A notícia pegou o mundo dos games de surpresa, abalando os alicerces da comunidade Xbox e, especialmente, os fãs de uma das franquias mais icônicas da história dos videogames: Halo. Em um movimento que redefine o futuro do Master Chief, a Microsoft anunciou que o desenvolvimento do próximo grande título de Halo será, a partir de agora, liderado pela Activision, a gigante por trás da série Call of Duty. Essa transição marca não apenas uma mudança de mãos, mas uma promessa ousada de transformar o que conhecemos da saga.
 
