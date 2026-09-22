@@ -6,6 +6,7 @@ heroImage: '../../assets/activision-assume-halo-e-promete-o-melhor-jogo-da-serie
 ogImage: '../../assets/og-activision-assume-halo-e-promete-o-melhor-jogo-da-serie.webp'
 sourceUrl: 'https://meups.com.br/noticias/activision-assume-halo-e-promete-o-melhor/'
 tags: ['Halo', 'Activision', 'Xbox', 'FPS']
+imageVerified: 'true'
 ---
 A notícia que balançou o mundo dos games chegou: Halo, a joia da coroa do Xbox, está sob nova gerência. Após a recente reestruturação da divisão Xbox, a Activision foi designada para assumir o desenvolvimento e a direção da aclamada franquia de ficção científica. Essa movimentação, que pegou muitos de surpresa, já vem acompanhada de uma promessa audaciosa que ressoa em toda a indústria: "o melhor jogo da série". Mas o que essa mudança significa para o futuro do Master Chief e para a vasta comunidade de fãs, especialmente no Brasil?
 

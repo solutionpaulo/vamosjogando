@@ -6,6 +6,7 @@ heroImage: '../../assets/microsoft-quer-saber-se-voce-compraria-o-project-helix-
 ogImage: '../../assets/og-microsoft-quer-saber-se-voce-compraria-o-project-helix-sem-leitor-de-disco.webp'
 sourceUrl: 'https://canaltech.com.br/games/microsoft-quer-saber-se-voce-compraria-o-project-helix-sem-leitor-de-disco/'
 tags: ['Xbox', 'Project Helix', 'Mídia Física', 'Consoles']
+imageVerified: 'true'
 ---
 A Microsoft está agitando o cenário dos games com uma pesquisa intrigante sobre o futuro do seu Project Helix, a próxima geração do Xbox. O foco principal? Saber se o leitor de disco físico ainda é um recurso "indispensável" para os jogadores, sinalizando uma possível e grande mudança na estratégia da empresa. A discussão levanta questões cruciais sobre a evolução do consumo de jogos e a visão da Xbox para a próxima década.
 
