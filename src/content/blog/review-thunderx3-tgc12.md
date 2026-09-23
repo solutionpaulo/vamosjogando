@@ -2,9 +2,10 @@
 title: 'Review: ThunderX3 TGC12 — Conforto Acessível para o Gamer Brasileiro'
 description: 'A ThunderX3 TGC12 se posiciona como uma cadeira gamer de entrada com bom custo-benefício. Descubra se ela entrega o conforto e a durabilidade que você procura para suas maratonas de jogo, sem pesar demais no bolso.'
 pubDate: 'Wed Sep 23 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-thunderx3-tgc12.webp'
 ogImage: '../../assets/og-review-thunderx3-tgc12.webp'
 tags: ['Review', 'Hardware', 'ThunderX3 TGC12', 'Cadeira Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução
