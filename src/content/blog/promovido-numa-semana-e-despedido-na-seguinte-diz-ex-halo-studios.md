@@ -6,6 +6,7 @@ heroImage: '../../assets/promovido-numa-semana-e-despedido-na-seguinte-diz-ex-ha
 ogImage: '../../assets/og-promovido-numa-semana-e-despedido-na-seguinte-diz-ex-halo-studios.webp'
 sourceUrl: 'https://www.eurogamer.pt/promovido-numa-semana-e-despedido-na-seguinte-diz-ex-halo-studios'
 tags: ['Xbox', 'Halo', '343 Industries', 'Microsoft']
+imageVerified: 'true'
 ---
 A notícia que abalou a comunidade gamer nesta semana veio diretamente dos corredores da Xbox: uma reestruturação profunda que promete mudar o curso da icônica franquia Halo. Mais do que uma simples transição de projetos, a movimentação para a Activision e o consequente desmantelamento da 343 Industries, a responsável por Halo nos últimos anos, deixaram um rastro de incerteza e histórias pessoais dramáticas, como a de um funcionário que foi promovido e demitido em questão de dias.
 

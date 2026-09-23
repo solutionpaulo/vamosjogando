@@ -6,6 +6,7 @@ heroImage: '../../assets/com-volante-e-pedais-logitech-g29-entra-em-oferta-no-me
 ogImage: '../../assets/og-com-volante-e-pedais-logitech-g29-entra-em-oferta-no-mercado-livre.webp'
 sourceUrl: 'https://meups.com.br/promocoes/logitech-g29-entra-oferta-no-mercado-livre/'
 tags: ['Sim Racing', 'Logitech', 'Hardware', 'Promoção']
+imageVerified: 'true'
 ---
 Para os entusiastas de corrida virtual no Brasil, o nome Logitech G29 ressoa como sinônimo de imersão e performance. Este volante com pedais é um dos periféricos mais desejados para quem busca sentir cada curva e aceleração de forma realista. Agora, uma oportunidade no Mercado Livre promete trazer essa experiência de ponta para mais jogadores, tornando o sonho do sim racing uma realidade mais acessível.
 
