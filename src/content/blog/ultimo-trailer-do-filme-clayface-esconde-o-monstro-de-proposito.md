@@ -6,6 +6,7 @@ heroImage: '../../assets/ultimo-trailer-do-filme-clayface-esconde-o-monstro-de-p
 ogImage: '../../assets/og-ultimo-trailer-do-filme-clayface-esconde-o-monstro-de-proposito.webp'
 sourceUrl: 'https://www.eurogamer.pt/ultimo-trailer-do-filme-clayface-esconde-o-monstro-de-proposito'
 tags: ['DC Comics', 'Batman', 'Filmes', 'Terror']
+imageVerified: 'true'
 ---
 O universo sombrio de Gotham City está prestes a ganhar uma nova e aterrorizante adição cinematográfica. Preparem-se, fãs do Batman e do bom terror, pois Clayface, ou Cara de Barro, está a caminho das telonas com uma abordagem que promete virar o cânone de cabeça para baixo. A notícia do seu filme solo, explorando a trágica descida à loucura de Matt Hagen, tem gerado burburinho, e o primeiro trailer inteligentemente esconde seu monstro, amplificando o mistério e a antecipação.
 
