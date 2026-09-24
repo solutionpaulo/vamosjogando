@@ -6,6 +6,7 @@ heroImage: '../../assets/whatsapp-testa-lembretes-de-aniversario-para-voce-nao-p
 ogImage: '../../assets/og-whatsapp-testa-lembretes-de-aniversario-para-voce-nao-passar-vergonha.webp'
 sourceUrl: 'https://canaltech.com.br/apps/whatsapp-testa-lembretes-de-aniversario-para-voce-nao-passar-vergonha/'
 tags: ['WhatsApp', 'Aplicativos', 'Tecnologia', 'QualidadeDeVidaDigital']
+imageVerified: 'true'
 ---
 Em um mundo onde a coordenação de raids, sessões multiplayer e a vida social se entrelaçam cada vez mais via aplicativos, um pequeno detalhe pode fazer toda a diferença: lembrar dos aniversários. O WhatsApp, a ferramenta de comunicação mais utilizada pelos brasileiros, está testando uma funcionalidade que promete acabar com aqueles constrangimentos de 'esqueci seu aniversário, meu parceiro!'. Prepare-se para nunca mais ser pego de surpresa, nem mesmo na correria entre uma partida e outra.
 
