@@ -6,6 +6,7 @@ heroImage: '../../assets/emulador-do-ps5-avanca-e-ja-da-boot-em-silent-hill-2-re
 ogImage: '../../assets/og-emulador-do-ps5-avanca-e-ja-da-boot-em-silent-hill-2-remake-em-pc-com-video-integrado.webp'
 sourceUrl: 'https://canaltech.com.br/games/emulador-do-ps5-avanca-e-ja-da-boot-em-silent-hill-2-remake-em-pc-com-video-integrado/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
