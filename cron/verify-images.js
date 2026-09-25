@@ -11,6 +11,10 @@ const ASSETS_DIR = path.join(process.cwd(), 'src/assets');
 const UA = 'VamosJogandoBot/1.0 (https://vamosjogando.com)';
 const RECENT_HOURS = Number(process.env.RECENT_HOURS || 72);
 const MIN_SCORE = Number(process.env.MIN_SCORE || 7);
+const FORCE_VERIFY = process.env.FORCE_VERIFY === 'true';
+const POST_LIMIT = Number(process.env.POST_LIMIT || 0);
+const API_DELAY_MS = Number(process.env.API_DELAY_MS || 0);
+const POST_SLUGS = new Set((process.env.POST_SLUGS || '').split(',').map(slug => slug.trim()).filter(Boolean));
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -280,11 +284,14 @@ async function run() {
     if (!parsed) continue;
     const pub = new Date(parsed.frontmatter.pubDate);
     if (isNaN(pub.getTime()) || pub < new Date(cutoff)) continue;
-    if (parsed.frontmatter.imageVerified === 'true') continue;
+    const slug = file.replace(/\.(md|mdx)$/, '');
+    if (POST_SLUGS.size > 0 && !POST_SLUGS.has(slug)) continue;
+    if (!FORCE_VERIFY && parsed.frontmatter.imageVerified === 'true') continue;
     candidates.push({ file, parsed, pub });
   }
 
   candidates.sort((a, b) => b.pub - a.pub);
+  if (POST_LIMIT > 0) candidates.splice(POST_LIMIT);
 
   if (candidates.length === 0) {
     console.log('Nenhum post recente pendente de verificação.');
@@ -296,6 +303,7 @@ async function run() {
   let verified = 0, replaced = 0, failed = 0;
 
   for (const post of candidates) {
+    if (post !== candidates[0] && API_DELAY_MS > 0) await sleep(API_DELAY_MS);
     const { title, description, tags, heroImage, sourceUrl } = post.parsed.frontmatter;
     const slug = post.file.replace(/\.(md|mdx)$/, '');
     const tagsList = Array.isArray(tags) ? tags : [];
@@ -320,6 +328,8 @@ async function run() {
         }
       } catch (err) {
         console.log(`  Erro na validação por visão: ${err.message}`);
+        failed++;
+        continue;
       }
     } else if (!needsReplacement && assetPath && !ai) {
       console.log('  - Sem API de visão — não re-valida; será verificada quando houver API.');
