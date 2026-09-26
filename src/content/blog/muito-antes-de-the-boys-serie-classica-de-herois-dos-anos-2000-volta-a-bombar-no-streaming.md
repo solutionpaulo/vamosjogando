@@ -6,6 +6,7 @@ heroImage: '../../assets/muito-antes-de-the-boys-serie-classica-de-herois-dos-an
 ogImage: '../../assets/og-muito-antes-de-the-boys-serie-classica-de-herois-dos-anos-2000-volta-a-bombar-no-streaming.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/muito-antes-de-the-boys-serie-classica-de-herois-dos-anos-2000-volta-a-bombar-no-streaming/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

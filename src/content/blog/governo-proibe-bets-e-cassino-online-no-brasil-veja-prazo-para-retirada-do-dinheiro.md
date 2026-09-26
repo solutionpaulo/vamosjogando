@@ -6,6 +6,7 @@ heroImage: '../../assets/governo-proibe-bets-e-cassino-online-no-brasil-veja-pra
 ogImage: '../../assets/og-governo-proibe-bets-e-cassino-online-no-brasil-veja-prazo-para-retirada-do-dinheiro.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/governo-proibe-bets-e-cassino-online-no-brasil-veja-prazo-para-retirada-do-dinheiro/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
