@@ -6,6 +6,7 @@ heroImage: '../../assets/quem-sao-os-10-personagens-mais-importantes-dos-x-men.w
 ogImage: '../../assets/og-quem-sao-os-10-personagens-mais-importantes-dos-x-men.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/quem-sao-os-x-men-mais-importantes/'
 tags: ['X-Men', 'MCU', 'Marvel', 'Quadrinhos']
+imageVerified: 'true'
 ---
 A saga dos X-Men é um pilar no universo dos quadrinhos, cativando gerações com suas histórias sobre preconceito, aceitação e a luta por coexistência. Com a promessa de sua integração ao Universo Cinematográfico Marvel (MCU), a expectativa não é apenas sobre *quais* mutantes veremos, mas *quem* realmente carrega o peso narrativo e a essência que moldaram o legado dos Filhos do Átomo. Além dos poderes espetaculares, são as personalidades, os conflitos e as jornadas de redenção que definem esses ícones. O "Vamos Jogando" mergulha nos personagens que consideramos indispensáveis para o sucesso da franquia nos cinemas.
 

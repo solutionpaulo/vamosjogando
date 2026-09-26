@@ -6,6 +6,7 @@ heroImage: '../../assets/sony-patenteia-matchmaking-com-historico-de-buscas.webp
 ogImage: '../../assets/og-sony-patenteia-matchmaking-com-historico-de-buscas.webp'
 sourceUrl: 'https://meups.com.br/noticias/sony-patenteia-matchmaking/'
 tags: ['PlayStation', 'Sony', 'Matchmaking', 'Inteligência Artificial']
+imageVerified: 'true'
 ---
 A busca por partidas justas e envolventes é um dos pilares da experiência multiplayer. Em um mundo onde a frustração de desequilíbrios pode afastar jogadores, a Sony parece estar dando um passo ousado para revolucionar o cenário. Uma patente recém-registrada pela gigante japonesa aponta para um futuro onde a inteligência artificial define quem você encontrará no campo de batalha, na pista de corrida ou na arena online, prometendo mudar fundamentalmente a dinâmica das partidas no PlayStation.## O Que É o Matchmaking com IA da Sony?
 A patente da Sony descreve um sistema de matchmaking inovador que vai muito além das métricas tradicionais de habilidade e conexão. A proposta central é utilizar inteligência artificial para analisar o 'histórico de buscas' do jogador, entre outros dados, para criar pareamentos mais inteligentes e personalizados. Imagine a IA aprendendo suas preferências de jogo, seu estilo e até mesmo o tipo de desafio que você busca.

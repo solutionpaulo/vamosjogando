@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-o-byd-dolphin-mini-desvalorizou-dois-anos-apos-o
 ogImage: '../../assets/og-quanto-o-byd-dolphin-mini-desvalorizou-dois-anos-apos-o-lancamento.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-o-byd-dolphin-mini-desvalorizou-dois-anos-apos-o-lancamento/'
 tags: ['EconomiaGamer', 'MercadoDigital', 'Análise', 'ValorDeMercado']
+imageVerified: 'true'
 ---
 No mundo dos games, estamos acostumados com 'nerfs' e 'buffs', com o valor de um item ou personagem subindo e descendo conforme o meta. Mas e se disséssemos que princípios econômicos semelhantes se aplicam ao mundo real, até mesmo para carros? A recente análise sobre a desvalorização do BYD Dolphin Mini, um elétrico que virou febre no Brasil, nos oferece uma lente interessante para observar como o valor é percebido e mantido, ou não, tanto no asfalto quanto nos pixels.
 
