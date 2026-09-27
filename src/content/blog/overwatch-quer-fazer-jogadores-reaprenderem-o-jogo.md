@@ -6,6 +6,7 @@ heroImage: '../../assets/overwatch-quer-fazer-jogadores-reaprenderem-o-jogo.webp
 ogImage: '../../assets/og-overwatch-quer-fazer-jogadores-reaprenderem-o-jogo.webp'
 sourceUrl: 'https://meups.com.br/noticias/overwatch-quer-fazer-jogadores-reaprenderem-o-jogo/'
 tags: ['Overwatch', 'Blizzard', 'FPS', 'Estrategia']
+imageVerified: 'true'
 ---
 ## Introdução
 Overwatch, o aclamado hero shooter da Blizzard, sempre foi conhecido por sua jogabilidade dinâmica e elenco de personagens variados. No entanto, uma recente declaração da Blizzard sinaliza uma ambição ainda maior: fazer com que cada grande novidade no jogo obrigue os jogadores a "reaprenderem" suas mecânicas e estratégias. Para a comunidade brasileira, acostumada a mergulhar fundo na meta, essa promessa pode significar tanto excitação quanto um novo desafio.

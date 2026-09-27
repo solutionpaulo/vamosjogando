@@ -6,6 +6,7 @@ heroImage: '../../assets/wardogs-vende-3-milhoes-de-copias-em-apenas-16-dias.web
 ogImage: '../../assets/og-wardogs-vende-3-milhoes-de-copias-em-apenas-16-dias.webp'
 sourceUrl: 'https://meups.com.br/noticias/wardogs-vende-3-milhoes-de-copias/'
 tags: ['Wardogs', 'Acesso Antecipado', 'Vendas de Jogos', 'Indústria de Games']
+imageVerified: 'true'
 ---
 O mundo dos games foi pego de surpresa com a ascensão meteórica de Wardogs. Em um feito que desafia as expectativas para jogos em acesso antecipado, o título conquistou a impressionante marca de 3 milhões de cópias vendidas em apenas 16 dias. Esse número não apenas valida o potencial do jogo, mas também reafirma a força de modelos de desenvolvimento que engajam a comunidade desde cedo.
 
