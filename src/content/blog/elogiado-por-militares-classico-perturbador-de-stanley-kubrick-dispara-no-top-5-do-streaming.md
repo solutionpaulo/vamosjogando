@@ -6,6 +6,7 @@ heroImage: '../../assets/elogiado-por-militares-classico-perturbador-de-stanley-
 ogImage: '../../assets/og-elogiado-por-militares-classico-perturbador-de-stanley-kubrick-dispara-no-top-5-do-streaming.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/elogiado-por-militares-classico-perturbador-de-stanley-kubrick-dispara-no-top-5-do-streaming/'
 tags: ['Full Metal Jacket', 'Guerra', 'Cinema e Games', 'Análise']
+imageVerified: 'true'
 ---
 No cenário atual de streaming, onde novidades pipocam a todo momento, é raro ver um clássico de décadas atrás roubar a cena. Mas foi exatamente isso que aconteceu com 'Nascido para Matar' (Full Metal Jacket), a obra-prima de Stanley Kubrick de 1987, que disparou entre os mais assistidos da HBO Max. Para nós, gamers que muitas vezes mergulhamos em conflitos virtuais, a ascensão deste filme oferece uma oportunidade única de refletir sobre o realismo, a desumanização e as narrativas complexas que a guerra pode oferecer, tanto nas telas quanto nos controles.
 

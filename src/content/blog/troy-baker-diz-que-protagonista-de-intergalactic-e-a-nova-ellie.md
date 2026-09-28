@@ -6,6 +6,7 @@ heroImage: '../../assets/troy-baker-diz-que-protagonista-de-intergalactic-e-a-no
 ogImage: '../../assets/og-troy-baker-diz-que-protagonista-de-intergalactic-e-a-nova-ellie.webp'
 sourceUrl: 'https://www.eurogamer.pt/troy-baker-diz-que-protagonista-de-intergalactic-e-a-nova-ellie'
 tags: ['Naughty Dog', 'Troy Baker', 'Intergalactic', 'PlayStation']
+imageVerified: 'true'
 ---
 A notícia de que Troy Baker, o aclamado dublador por trás de personagens como Joel em *The Last of Us*, fez uma declaração bombástica sobre o próximo título da Naughty Dog, *Intergalactic: The Heretic Prophet*, está agitando a comunidade gamer. Para os fãs do estúdio e da narrativa profunda, a comparação da protagonista com a icônica Ellie de The Last of Us eleva as expectativas a um nível estratosférico.
 
