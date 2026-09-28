@@ -6,6 +6,7 @@ heroImage: '../../assets/avatares-de-the-last-of-us-estao-disponiveis-de-graca-n
 ogImage: '../../assets/og-avatares-de-the-last-of-us-estao-disponiveis-de-graca-na-psn.webp'
 sourceUrl: 'https://meups.com.br/noticias/avatares-the-last-of-us-de-graca-psn/'
 tags: ['The Last of Us', 'PlayStation', 'PSN', 'Naughty Dog']
+imageVerified: 'true'
 ---
 No universo dos games, pequenos gestos podem gerar grande impacto na comunidade. Recentemente, a PlayStation e a Naughty Dog presentearam os fãs brasileiros de The Last of Us com uma novidade que, apesar de sutil, é bastante significativa: avatares temáticos gratuitos disponíveis na PSN.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/adeus-gems-google-vai-transformar-robos-do-gemini-em-sk
 ogImage: '../../assets/og-adeus-gems-google-vai-transformar-robos-do-gemini-em-skills-muito-mais-poderosas.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/adeus-gems-google-vai-transformar-robos-do-gemini-em-skills-muito-mais-poderosas/'
 tags: ['Inteligência Artificial', 'Google Gemini', 'Tecnologia', 'Inovação IA']
+imageVerified: 'true'
 ---
 O universo da inteligência artificial está em constante evolução, e o Google Gemini não fica para trás. Recentemente, a gigante da tecnologia anunciou uma mudança significativa que promete redefinir a forma como interagimos com seus assistentes de IA personalizados, os conhecidos "Gems", que agora darão lugar a algo muito mais ambicioso: as "Skills".
 
