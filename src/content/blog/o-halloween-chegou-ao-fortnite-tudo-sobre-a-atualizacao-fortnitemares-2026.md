@@ -6,6 +6,7 @@ heroImage: '../../assets/o-halloween-chegou-ao-fortnite-tudo-sobre-a-atualizacao
 ogImage: '../../assets/og-o-halloween-chegou-ao-fortnite-tudo-sobre-a-atualizacao-fortnitemares-2026.webp'
 sourceUrl: 'https://www.eurogamer.pt/o-halloween-chegou-ao-fortnite-tudo-sobre-a-atualizacao-fortnitemares-2026'
 tags: ['Fortnite', 'Fortnitemares', 'Halloween', 'BattleRoyale']
+imageVerified: 'true'
 ---
 A atmosfera de Halloween já começa a tomar conta dos games, e Fortnite não poderia ficar de fora dessa celebração macabra. O aguardado evento Fortnitemares 2026 está prestes a aterrissar na ilha, prometendo reviravoltas e uma experiência temática imersiva que deixará os jogadores brasileiros de cabelo em pé.
 
