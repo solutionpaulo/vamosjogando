@@ -6,6 +6,7 @@ heroImage: '../../assets/marca-cria-fone-que-usa-fluido-magnetico-para-reduzir-d
 ogImage: '../../assets/og-marca-cria-fone-que-usa-fluido-magnetico-para-reduzir-distorcoes-no-som.webp'
 sourceUrl: 'https://canaltech.com.br/fone-de-ouvido/marca-cria-fone-que-usa-fluido-magnetico-para-reduzir-distorcoes-no-som/'
 tags: ['FonesDeOuvido', 'ÁudioGamer', 'Technics', 'Periféricos']
+imageVerified: 'true'
 ---
 A qualidade de áudio é um pilar fundamental para a imersão e a performance em jogos, e a busca por uma experiência sonora impecável é constante. A Technics, marca conhecida por sua excelência em áudio, entra nesse cenário com uma proposta audaciosa: o novo fone de ouvido EAH-A1000, que promete revolucionar a pureza do som através de uma inédita tecnologia de fluido magnético. Mas como essa inovação impacta o universo gamer brasileiro?
 

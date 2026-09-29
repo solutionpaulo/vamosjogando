@@ -6,6 +6,7 @@ heroImage: '../../assets/diablo-4-nao-termina-quando-chegar-diablo-5.webp'
 ogImage: '../../assets/og-diablo-4-nao-termina-quando-chegar-diablo-5.webp'
 sourceUrl: 'https://www.eurogamer.pt/diablo-4-nao-termina-quando-chegar-diablo-5'
 tags: ['Diablo 4', 'Blizzard', 'RPG', 'Live-Service']
+imageVerified: 'true'
 ---
 A preocupação com o futuro de jogos live-service é uma constante na comunidade gamer. Muitos títulos sofrem com a queda de interesse e o fim do suporte quando a sequência é anunciada ou lançada. No entanto, a Blizzard está aqui para acalmar os fãs de Diablo 4, com a promessa de um suporte robusto e duradouro, independentemente do que aconteça com Diablo 5.
 
