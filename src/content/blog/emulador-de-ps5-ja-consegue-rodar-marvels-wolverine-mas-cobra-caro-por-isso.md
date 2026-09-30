@@ -6,6 +6,7 @@ heroImage: '../../assets/emulador-de-ps5-ja-consegue-rodar-marvels-wolverine-mas
 ogImage: '../../assets/og-emulador-de-ps5-ja-consegue-rodar-marvels-wolverine-mas-cobra-caro-por-isso.webp'
 sourceUrl: 'https://canaltech.com.br/games/emulador-de-ps5-ja-consegue-rodar-marvels-wolverine-mas-cobra-caro-por-isso/'
 tags: ['Emulação', 'PlayStation 5', 'PC Gaming', 'Hardware']
+imageVerified: 'true'
 ---
 A comunidade de PC gamers sempre busca formas de expandir suas bibliotecas e a chegada dos emuladores de PlayStation 5 está agitando o cenário. O ritmo de desenvolvimento é impressionante, prometendo levar jogos exclusivos para uma nova plataforma, mas não sem um custo inicial elevado. Este avanço, especialmente com títulos recém-lançados, levanta questões sobre o futuro da compatibilidade e acessibilidade no mundo dos jogos.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/asha-sharma-diz-que-a-xbox-nao-esta-a-venda.webp'
 ogImage: '../../assets/og-asha-sharma-diz-que-a-xbox-nao-esta-a-venda.webp'
 sourceUrl: 'https://www.eurogamer.pt/asha-sharma-diz-que-a-xbox-nao-esta-a-venda'
 tags: ['Xbox', 'Microsoft', 'Estratégia', 'Mercado de Games']
+imageVerified: 'true'
 ---
 Nas últimas semanas, o mundo dos games foi abalado por uma série de rumores e especulações intensas: a Xbox estaria à venda? A possibilidade de uma das maiores divisões de videogames do planeta ser negociada agitou a comunidade e gerou debates acalorados. Agora, finalmente, temos uma resposta definitiva que busca acalmar os ânimos e traçar um caminho claro para o futuro da marca.
 
