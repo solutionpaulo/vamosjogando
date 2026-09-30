@@ -6,6 +6,7 @@ heroImage: '../../assets/henry-cavill-junta-se-a-google-para-criar-um-novo-jogo.
 ogImage: '../../assets/og-henry-cavill-junta-se-a-google-para-criar-um-novo-jogo.webp'
 sourceUrl: 'https://www.eurogamer.pt/henry-cavill-junta-se-a-google-para-criar-um-novo-jogo'
 tags: ['Henry Cavill', 'Google', 'Gaming Hardware', 'Novos Jogos']
+imageVerified: 'true'
 ---
 A paixão de Henry Cavill pelo universo dos games não é novidade, mas sua mais recente empreitada eleva o nível. O ator, conhecido por seu amor por RPGs e por montar seu próprio PC gamer, acaba de anunciar uma parceria ambiciosa com ninguém menos que a Google. Esta colaboração promete agitar o mercado, especialmente com a menção de um novo hardware focado em jogos.
 

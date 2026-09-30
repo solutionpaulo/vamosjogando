@@ -6,6 +6,7 @@ heroImage: '../../assets/desbloqueio-do-ps5-e-ps5-pro-alcanca-videogames-desatua
 ogImage: '../../assets/og-desbloqueio-do-ps5-e-ps5-pro-alcanca-videogames-desatualizados-confira.webp'
 sourceUrl: 'https://canaltech.com.br/games/desbloqueio-do-ps5-e-ps5-pro-alcanca-videogames-desatualizados-confira/'
 tags: ['Playstation', 'PS5', 'Jailbreak', 'Segurança']
+imageVerified: 'true'
 ---
 Uma notícia bombástica agitou a comunidade gamer: uma nova vulnerabilidade, batizada de Relapse 13.60, foi descoberta e explorada com sucesso no sistema do PlayStation 5 e PlayStation 5 Pro. Essa falha permite o desbloqueio dos consoles, abrindo portas para modificações e softwares não autorizados pela Sony Interactive Entertainment (SIE). Mas o que isso significa para os gamers e para o futuro do PS5 no Brasil?
 
