@@ -6,6 +6,7 @@ heroImage: '../../assets/dia-das-criancas-10-sugestoes-de-presentes-para-crianca
 ogImage: '../../assets/og-dia-das-criancas-10-sugestoes-de-presentes-para-criancas-gamers.webp'
 sourceUrl: 'https://meups.com.br/promocoes/dia-das-criancas-10-presentes-para-gamers/'
 tags: ['Presentes', 'Hardware', 'Jogos', 'Promoções']
+imageVerified: 'true'
 ---
 O Dia das Crianças no Brasil transcende a ideia de ser apenas uma data para os mais jovens. Para a vasta comunidade gamer, é uma excelente oportunidade para celebrar a criança interior, ou até mesmo presentear aqueles que ainda estão começando suas jornadas épicas nos mundos virtuais. Mas como acertar no presente ideal para um gamer, um público tão diverso e exigente? O "Vamos Jogando" mergulha neste desafio para te ajudar a escolher a surpresa perfeita.
 

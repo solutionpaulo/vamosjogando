@@ -6,6 +6,7 @@ heroImage: '../../assets/spacex-lanca-satelites-criados-por-alunos-de-escolas-pu
 ogImage: '../../assets/og-spacex-lanca-satelites-criados-por-alunos-de-escolas-publicas-do-brasil-em-missao-historica.webp'
 sourceUrl: 'https://canaltech.com.br/ciencia-e-espaco/spacex-lanca-satelites-criados-por-alunos-de-escolas-publicas-do-brasil-em-missao-historica/'
 tags: ['Tecnologia', 'Inovação', 'Educação STEM', 'SpaceX']
+imageVerified: 'true'
 ---
 A comunidade gamer e entusiasta de tecnologia no Brasil sempre valorizou a inovação e o desenvolvimento de talentos locais. Hoje, temos um motivo a mais para celebrar: jovens estudantes de escolas públicas do nosso país alcançaram o espaço! Em uma colaboração inédita entre a startup Ideia Space e a Agência Espacial Brasileira (AEB), os satélites EduSat-2 e EduSat-3 foram lançados com sucesso por um foguete Falcon 9 da SpaceX, marcando um capítulo emocionante na história da educação e tecnologia brasileiras. Essa é a prova de que o potencial nacional é ilimitado e capaz de mirar nas estrelas.
 
