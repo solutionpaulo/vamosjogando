@@ -6,6 +6,7 @@ heroImage: '../../assets/netflix-aposta-em-sequestro-e-tensao-em-seu-grande-film
 ogImage: '../../assets/og-netflix-aposta-em-sequestro-e-tensao-em-seu-grande-filme-de-outubro.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/netflix-aposta-em-sequestro-e-tensao-em-seu-grande-filme-de-outubro/'
 tags: ['Netflix', 'Suspense', 'BenAffleck', 'Thriller']
+imageVerified: 'true'
 ---
 Em um cenário onde a linha entre o certo e o errado se dissolve sob pressão extrema, a Netflix aposta alto com "Sobrevivência" (originalmente "Reptile" ou "Kidnapped", dependendo da região, mas focando no nome usado no resumo), um thriller estrelado e dirigido por Ben Affleck. Para nossa audiência do "Vamos Jogando", que valoriza narrativas complexas e escolhas impactantes, este filme promete uma dose de tensão e questionamentos que extrapolam a tela.
 

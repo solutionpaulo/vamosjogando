@@ -6,6 +6,7 @@ heroImage: '../../assets/xbox-game-pass-vai-perder-oito-jogos-em-outubro-e-um-de
 ogImage: '../../assets/og-xbox-game-pass-vai-perder-oito-jogos-em-outubro-e-um-deles-e-um-jogo-do-ano.webp'
 sourceUrl: 'https://www.eurogamer.pt/xbox-game-pass-vai-perder-oito-jogos-em-outubro-e-um-deles-e-um-jogo-do-ano'
 tags: ['Xbox', 'GamePass', 'Assinatura', 'Perdas']
+imageVerified: 'true'
 ---
 A rotatividade de títulos no Xbox Game Pass é uma realidade que todo assinante já conhece. No entanto, algumas levas de saídas se destacam pela relevância dos jogos envolvidos. Outubro traz uma dessas ondas, com a despedida de oito jogos, e um deles carrega o peso de ter sido um aclamado 'Jogo do Ano'. Isso levanta questões sobre o planejamento para aproveitar ao máximo o serviço.
 
