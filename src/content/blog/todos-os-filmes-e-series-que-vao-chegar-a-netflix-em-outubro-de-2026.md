@@ -6,6 +6,7 @@ heroImage: '../../assets/todos-os-filmes-e-series-que-vao-chegar-a-netflix-em-ou
 ogImage: '../../assets/og-todos-os-filmes-e-series-que-vao-chegar-a-netflix-em-outubro-de-2026.webp'
 sourceUrl: 'https://www.eurogamer.pt/todos-os-filmes-e-series-que-vao-chegar-a-netflix-em-outubro-de-2026'
 tags: ['Cyberpunk', 'Netflix', 'Anime', 'Séries']
+imageVerified: 'true'
 ---
 A Netflix revelou a sua agenda de lançamentos para outubro de 2026, e para a comunidade gamer brasileira, um título em particular se destaca: o retorno de **Cyberpunk: Edgerunners**. A aclamada série animada que expandiu o universo de Night City fará seu aguardado retorno, prometendo reacender o interesse dos fãs no universo distópico da CD Projekt Red. Mas não é só isso; o mês vem recheado de novidades para diversos gostos.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/criador-da-primeira-playstation-diz-que-os-jogos-modern
 ogImage: '../../assets/og-criador-da-primeira-playstation-diz-que-os-jogos-modernos-pararam-no-tempo.webp'
 sourceUrl: 'https://www.eurogamer.pt/criador-da-primeira-playstation-diz-que-os-jogos-modernos-pararam-no-tempo'
 tags: ['PlayStation', 'Indústria de Games', 'Inovação', 'Opinião']
+imageVerified: 'true'
 ---
 Ken Kutaragi, uma figura lendária no mundo dos videogames e conhecido por ser o principal arquiteto por trás do PlayStation original, lançou uma provocação que reverberou por toda a indústria. Em uma declaração recente, Kutaragi questiona a verdadeira evolução dos jogos modernos, sugerindo que, apesar dos avanços gráficos e orçamentos estratosféricos, o conteúdo em si pode ter parado no tempo.
 
