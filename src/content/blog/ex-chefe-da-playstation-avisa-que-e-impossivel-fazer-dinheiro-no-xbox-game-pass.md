@@ -6,6 +6,7 @@ heroImage: '../../assets/ex-chefe-da-playstation-avisa-que-e-impossivel-fazer-di
 ogImage: '../../assets/og-ex-chefe-da-playstation-avisa-que-e-impossivel-fazer-dinheiro-no-xbox-game-pass.webp'
 sourceUrl: 'https://www.eurogamer.pt/ex-chefe-da-playstation-avisa-que-e-impossivel-fazer-dinheiro-no-xbox-game-pass'
 tags: ['Xbox Game Pass', 'PlayStation', 'Indústria de Games', 'Assinaturas']
+imageVerified: 'true'
 ---
 O modelo de negócios do Xbox Game Pass tem sido um tópico quente na indústria de games, elogiado por jogadores e debatido por desenvolvedores. Recentemente, uma voz influente adicionou mais lenha à fogueira: Shawn Layden, antigo chefe da PlayStation Worldwide Studios, que trouxe à tona sérias questões sobre a viabilidade econômica do serviço para os estúdios.
 

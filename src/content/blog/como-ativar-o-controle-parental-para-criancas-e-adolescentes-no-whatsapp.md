@@ -6,6 +6,7 @@ heroImage: '../../assets/como-ativar-o-controle-parental-para-criancas-e-adolesc
 ogImage: '../../assets/og-como-ativar-o-controle-parental-para-criancas-e-adolescentes-no-whatsapp.webp'
 sourceUrl: 'https://canaltech.com.br/apps/whatsapp-como-ativar-controle-parental/'
 tags: ['ControleParental', 'SegurançaDigital', 'WhatsAppKids', 'PrivacidadeOnline']
+imageVerified: 'true'
 ---
 No mundo conectado de hoje, onde o acesso à tecnologia começa cada vez mais cedo, a segurança digital dos nossos filhos se tornou uma prioridade inegociável. Para a comunidade gamer, que frequentemente interage online, essa preocupação é ainda mais latente. Pensando nisso, o WhatsApp acaba de lançar uma importante funcionalidade: o controle parental para contas de crianças e adolescentes, oferecendo aos pais uma ferramenta essencial para navegar nesse cenário.
 
