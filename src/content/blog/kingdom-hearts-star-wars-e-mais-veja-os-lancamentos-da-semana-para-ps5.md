@@ -6,6 +6,7 @@ heroImage: '../../assets/kingdom-hearts-star-wars-e-mais-veja-os-lancamentos-da-
 ogImage: '../../assets/og-kingdom-hearts-star-wars-e-mais-veja-os-lancamentos-da-semana-para-ps5.webp'
 sourceUrl: 'https://meups.com.br/lancamentos/kingdom-hearts-wars-lancamentos-da-semana/'
 tags: ['PS5', 'RPG', 'Star Wars', 'Kingdom Hearts']
+imageVerified: 'true'
 ---
 A semana promete ser agitada para os proprietários de PlayStation 5 no Brasil e no mundo. Com uma lista robusta de lançamentos, dois títulos em particular capturam a atenção e prometem muitas horas de diversão e emoção: as aguardadas chegadas de Kingdom Hearts e Star Wars. Prepare-se para mergulhar em mundos fantásticos e batalhas épicas.
 
