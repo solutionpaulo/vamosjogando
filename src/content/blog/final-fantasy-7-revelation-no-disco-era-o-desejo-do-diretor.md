@@ -6,6 +6,7 @@ heroImage: '../../assets/final-fantasy-7-revelation-no-disco-era-o-desejo-do-dir
 ogImage: '../../assets/og-final-fantasy-7-revelation-no-disco-era-o-desejo-do-diretor.webp'
 sourceUrl: 'https://www.eurogamer.pt/final-fantasy-7-revelation-no-disco-era-o-desejo-do-diretor'
 tags: ['Final Fantasy VII Rebirth', 'Square Enix', 'PlayStation', 'RPG']
+imageVerified: 'true'
 ---
 No cenário atual dos videogames, onde a ascensão das lojas digitais e a conveniência dos downloads dominam, a presença da mídia física muitas vezes se vê ameaçada. Grandes títulos por vezes chegam com apenas parte do jogo no disco, exigindo downloads massivos. É nesse contexto que a declaração de Naoki Hamaguchi, diretor de Final Fantasy VII Rebirth, ganha um peso especial, revelando um esforço louvável para os amantes do formato tradicional.
 
