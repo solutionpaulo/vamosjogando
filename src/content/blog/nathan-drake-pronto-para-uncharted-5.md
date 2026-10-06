@@ -6,6 +6,7 @@ heroImage: '../../assets/nathan-drake-pronto-para-uncharted-5.webp'
 ogImage: '../../assets/og-nathan-drake-pronto-para-uncharted-5.webp'
 sourceUrl: 'https://www.eurogamer.pt/nathan-drake-pronto-para-uncharted-5'
 tags: ['PlayStation', 'Uncharted', 'NaughtyDog', 'NathanDrake']
+imageVerified: 'true'
 ---
 A saga de Nathan Drake em Uncharted cativou milhões de jogadores ao redor do mundo, consolidando-se como um dos pilares narrativos do PlayStation. Embora a Naughty Dog tenha dado um aparente fim à jornada do caçador de tesouros com Uncharted 4: A Thief's End e o spin-off The Lost Legacy, a chama de um possível retorno sempre ardeu entre os fãs. Agora, quem reacende essa esperança é o próprio Nolan North, a voz inconfundível por trás de Drake.
 
