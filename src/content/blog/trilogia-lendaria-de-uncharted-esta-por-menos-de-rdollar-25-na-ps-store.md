@@ -6,6 +6,7 @@ heroImage: '../../assets/trilogia-lendaria-de-uncharted-esta-por-menos-de-rdolla
 ogImage: '../../assets/og-trilogia-lendaria-de-uncharted-esta-por-menos-de-rdollar-25-na-ps-store.webp'
 sourceUrl: 'https://meups.com.br/promocoes/trilogia-uncharted-menos-25-na-ps-store/'
 tags: ['PlayStation', 'Uncharted', 'Promoção', 'Aventura']
+imageVerified: 'true'
 ---
 Para os aficionados por aventura e narrativas cinematográficas, o nome Uncharted ressoa como um marco no universo PlayStation. Agora, a aclamada trilogia que definiu uma geração de jogos de ação e aventura está acessível como nunca antes, com uma oferta imperdível na PlayStation Store brasileira.
 
