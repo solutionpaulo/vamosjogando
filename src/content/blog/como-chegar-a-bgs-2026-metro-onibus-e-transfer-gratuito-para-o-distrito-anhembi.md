@@ -6,6 +6,7 @@ heroImage: '../../assets/como-chegar-a-bgs-2026-metro-onibus-e-transfer-gratuito
 ogImage: '../../assets/og-como-chegar-a-bgs-2026-metro-onibus-e-transfer-gratuito-para-o-distrito-anhembi.webp'
 sourceUrl: 'https://canaltech.com.br/games/como-chegar-a-bgs-2026-metro-onibus-e-transfer-gratuito-para-o-distrito-anhembi/'
 tags: ['BGS 2026', 'Eventos Gamer', 'Guia de Viagem', 'São Paulo']
+imageVerified: 'true'
 ---
 A Brasil Game Show (BGS), o maior evento de games da América Latina, está de volta ao Distrito Anhembi em 2026, de 9 a 12 de outubro. Após anos no Expo Center Norte, o retorno ao Anhembi pelo segundo ano consecutivo exige um planejamento cuidadoso para todos os gamers que vêm de São Paulo, de outros estados e até de outros países. Para garantir que sua experiência seja impecável do início ao fim, compilamos as melhores dicas de transporte e segurança.
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/quando-e-a-bgs-2026-veja-data-e-local.webp'
 ogImage: '../../assets/og-quando-e-a-bgs-2026-veja-data-e-local.webp'
 sourceUrl: 'https://canaltech.com.br/games/quando-e-a-bgs-2026-veja-data-e-local/'
 tags: ['BGS', 'Eventos', 'Brasil', 'Feiras de Games']
+imageVerified: 'true'
 ---
 A Brasil Game Show (BGS) se consolidou como o epicentro da cultura gamer na América Latina, e a edição de 2026 já começa a agitar a comunidade com as primeiras informações oficiais. Prepare-se para um evento que promete superar todas as expectativas, reunindo fãs, desenvolvedores e as maiores novidades do mundo dos jogos em um só lugar.
 

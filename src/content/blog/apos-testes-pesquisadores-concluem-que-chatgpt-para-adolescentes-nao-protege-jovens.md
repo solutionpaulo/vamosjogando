@@ -6,6 +6,7 @@ heroImage: '../../assets/apos-testes-pesquisadores-concluem-que-chatgpt-para-ado
 ogImage: '../../assets/og-apos-testes-pesquisadores-concluem-que-chatgpt-para-adolescentes-nao-protege-jovens.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/apos-testes-pesquisadores-concluem-que-chatgpt-para-adolescentes-nao-protege-jovens/'
 tags: ['Inteligencia Artificial', 'Segurança Online', 'Adolescentes', 'OpenAI']
+imageVerified: 'true'
 ---
 No universo digital de hoje, onde a inteligência artificial se entrelaça cada vez mais com o cotidiano, a segurança de usuários mais jovens se torna uma prioridade inegável. O ChatGPT, ferramenta da OpenAI que se popularizou rapidamente, lançou uma versão 'para adolescentes' visando oferecer um ambiente controlado. No entanto, uma recente avaliação da Common Sense Media acende um alerta grave sobre a eficácia dessas proteções.
 
