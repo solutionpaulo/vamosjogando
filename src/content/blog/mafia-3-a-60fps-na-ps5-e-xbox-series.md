@@ -6,6 +6,7 @@ heroImage: '../../assets/mafia-3-a-60fps-na-ps5-e-xbox-series.webp'
 ogImage: '../../assets/og-mafia-3-a-60fps-na-ps5-e-xbox-series.webp'
 sourceUrl: 'https://www.eurogamer.pt/mafia-3-a-60fps-na-ps5-e-xbox-series'
 tags: ['PS5', 'Xbox Series', 'Mafia 3', 'Ação']
+imageVerified: 'true'
 ---
 O ano é 1968, e a vibrante, porém perigosa, New Bordeaux serve de palco para a visceral saga de Lincoln Clay em Mafia III. Lançado originalmente em 2016, o jogo sempre foi elogiado por sua narrativa densa e atmosfera única. Agora, a 2K Games e a Hangar 13 trazem uma excelente notícia para os fãs e para quem ainda não experimentou essa jornada de vingança: Mafia III: Definitive Edition acaba de receber uma atualização nativa para o PlayStation 5 e Xbox Series X|S, elevando a experiência a um novo patamar de fluidez.
 

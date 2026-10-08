@@ -6,6 +6,7 @@ heroImage: '../../assets/eis-forza-horizon-6-a-correr-na-ps5.webp'
 ogImage: '../../assets/og-eis-forza-horizon-6-a-correr-na-ps5.webp'
 sourceUrl: 'https://www.eurogamer.pt/eis-forza-horizon-6-a-correr-na-ps5'
 tags: ['Forza Horizon', 'PlayStation 5', 'Xbox', 'Exclusividade']
+imageVerified: 'true'
 ---
 O mundo dos games foi abalado por uma notícia que, até pouco tempo, seria impensável. Forza Horizon 6, um dos pilares e grandes sucessos da marca Xbox, está oficialmente a caminho do PlayStation 5. Essa revelação marca uma das maiores quebras de exclusividade da história recente dos videogames, sinalizando uma mudança drástica nas estratégias de mercado.
 
