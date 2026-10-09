@@ -6,6 +6,7 @@ heroImage: '../../assets/youtube-music-testa-design-mais-moderno-com-capas-gigan
 ogImage: '../../assets/og-youtube-music-testa-design-mais-moderno-com-capas-gigantes-em-albuns-e-playlists.webp'
 sourceUrl: 'https://canaltech.com.br/apps/youtube-music-testa-design-mais-moderno-com-capas-gigantes-em-albuns-e-playlists/'
 tags: ['YouTube Music', 'Streaming', 'Design UI', 'Apps']
+imageVerified: 'true'
 ---
 O universo do streaming de música está em constante evolução, e o Google, através do YouTube Music, não fica para trás. A plataforma iniciou testes com um visual completamente renovado para suas páginas de álbuns e playlists, prometendo uma experiência mais imersiva e visualmente atraente para seus usuários. Prepare-se para ver suas capas favoritas como nunca antes!
 

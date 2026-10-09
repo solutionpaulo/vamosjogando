@@ -6,6 +6,7 @@ heroImage: '../../assets/criadores-de-ia-se-preparam-em-segredo-para-desastre-gl
 ogImage: '../../assets/og-criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/'
 tags: ['Inteligência Artificial', 'Cibersegurança', 'OpenAI', 'Futuro da Tecnologia']
+imageVerified: 'true'
 ---
 Quando pensamos em inteligência artificial, é comum visualizarmos assistentes virtuais, jogos mais inteligentes ou até mesmo avanços médicos. No entanto, o lado sombrio dessa tecnologia, frequentemente explorado na ficção científica, parece estar batendo à porta. Em um movimento que soa como roteiro de filme de suspense, líderes de gigantes da IA, como OpenAI e Anthropic, estão se preparando em segredo para um possível desastre global causado pela própria inteligência artificial nos próximos 6 a 12 meses.
 
