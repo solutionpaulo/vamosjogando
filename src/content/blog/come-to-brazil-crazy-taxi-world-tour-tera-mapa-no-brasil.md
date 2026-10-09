@@ -6,6 +6,7 @@ heroImage: '../../assets/come-to-brazil-crazy-taxi-world-tour-tera-mapa-no-brasi
 ogImage: '../../assets/og-come-to-brazil-crazy-taxi-world-tour-tera-mapa-no-brasil.webp'
 sourceUrl: 'https://meups.com.br/news/crazy-taxi-world-tour-tera-mapa-no-brasil/'
 tags: ['Crazy Taxi', 'SEGA', 'Mobile', 'Brasil']
+imageVerified: 'true'
 ---
 O clássico *Crazy Taxi* está de volta, e a notícia é ainda melhor para os jogadores brasileiros! A SEGA anunciou que *Crazy Taxi: World Tour*, a mais nova iteração da franquia, trará uma pitada de Brasil para as telas dos celulares, com um mapa exclusivo inspirado em nosso país. Prepare-se para acelerar pelas ruas brasileiras com a loucura característica dos taxistas mais insanos dos games. Essa é uma notícia que certamente fará a alegria de muitos fãs nostálgicos e novos jogadores.
 
