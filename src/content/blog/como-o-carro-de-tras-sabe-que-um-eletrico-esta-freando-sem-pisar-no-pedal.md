@@ -6,6 +6,7 @@ heroImage: '../../assets/como-o-carro-de-tras-sabe-que-um-eletrico-esta-freando-
 ogImage: '../../assets/og-como-o-carro-de-tras-sabe-que-um-eletrico-esta-freando-sem-pisar-no-pedal.webp'
 sourceUrl: 'https://canaltech.com.br/carros/como-o-carro-de-tras-sabe-que-um-eletrico-esta-freando-sem-pisar-no-pedal/'
 tags: ['Simulação', 'Racing Games', 'Carros Elétricos', 'Game Physics']
+imageVerified: 'true'
 ---
 No universo dos games, a busca por realismo é uma constante, especialmente em simuladores de corrida que desafiam a linha entre o virtual e o real. Enquanto gráficos e sons impressionam, são os detalhes sutis da física e da engenharia veicular que verdadeiramente capturam a essência de dirigir. Um desses detalhes, muitas vezes invisível para o jogador casual, mas crucial para a imersão, é a complexa relação entre a frenagem regenerativa dos carros elétricos e a sinalização luminosa.
 
