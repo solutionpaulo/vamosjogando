@@ -6,6 +6,7 @@ heroImage: '../../assets/apresentador-de-tv-dos-estados-unidos-tem-garagem-de-fa
 ogImage: '../../assets/og-apresentador-de-tv-dos-estados-unidos-tem-garagem-de-fazer-inveja-a-neymar.webp'
 sourceUrl: 'https://canaltech.com.br/carros/apresentador-de-tv-dos-estados-unidos-tem-garagem-de-fazer-inveja-a-neymar/'
 tags: ['Colecionismo', 'Cultura Gamer', 'Curiosidades', 'Paixão Automotiva']
+imageVerified: 'true'
 ---
 A notícia de que o lendário apresentador de TV americano Jay Leno possui uma garagem que 'faz inveja a Neymar' pode ter pego muitos de surpresa. Mas para além da comparação milionária, o que realmente impressiona é a paixão e a dedicação por trás de uma das coleções de carros mais fascinantes do mundo. No 'Vamos Jogando', olhamos para essa obsessão por preservar e exibir raridades e como ela espelha o espírito colecionista tão presente na nossa própria comunidade gamer.
 
