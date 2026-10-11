@@ -6,6 +6,7 @@ heroImage: '../../assets/filtro-de-linha-protege-a-tv-de-raio-o-que-ele-realment
 ogImage: '../../assets/og-filtro-de-linha-protege-a-tv-de-raio-o-que-ele-realmente-faz.webp'
 sourceUrl: 'https://canaltech.com.br/tv/filtro-de-linha-protege-a-tv-de-raio-o-que-ele-realmente-faz/'
 tags: ['Hardware', 'Segurança Elétrica', 'Dicas Gamer', 'Manutenção']
+imageVerified: 'true'
 ---
 Caros leitores de Vamos Jogando, todos nós investimos pesado em nossos consoles, TVs de última geração e setups gamers que são verdadeiros santuários. Mas em meio a uma tempestade, surge a dúvida: aquele filtro de linha baratinho realmente protege meus equipamentos valiosos de um raio? A resposta, como veremos, é mais complexa do que você imagina e pode salvar seu investimento de uma grande dor de cabeça. Não confunda quantidade de tomadas com proteção de verdade!
 

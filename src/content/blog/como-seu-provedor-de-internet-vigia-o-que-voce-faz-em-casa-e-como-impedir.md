@@ -6,6 +6,7 @@ heroImage: '../../assets/como-seu-provedor-de-internet-vigia-o-que-voce-faz-em-c
 ogImage: '../../assets/og-como-seu-provedor-de-internet-vigia-o-que-voce-faz-em-casa-e-como-impedir.webp'
 sourceUrl: 'https://canaltech.com.br/seguranca/como-seu-provedor-de-internet-vigia-o-que-voce-faz-em-casa-e-como-impedir/'
 tags: ['Privacidade', 'Segurança Online', 'VPN', 'Dicas Gamers']
+imageVerified: 'true'
 ---
 No universo dos games, mergulhamos em mundos épicos, travamos batalhas intensas e construímos comunidades vibrantes. Mas, enquanto você se diverte, já parou para pensar quem mais está 'observando' sua jornada online? Seu provedor de internet ocupa uma posição estratégica e tem acesso a mais informações sobre sua navegação do que você imagina, mesmo sem ver o conteúdo direto das suas partidas ou conversas. Vamos entender o que é visível e como proteger sua privacidade no campo de batalha digital.
 
