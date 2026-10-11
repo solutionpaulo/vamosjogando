@@ -6,6 +6,7 @@ heroImage: '../../assets/nintendo-nao-tem-planos-para-abandonar-os-jogos-em-form
 ogImage: '../../assets/og-nintendo-nao-tem-planos-para-abandonar-os-jogos-em-formato-fisico.webp'
 sourceUrl: 'https://www.eurogamer.pt/nintendo-nao-tem-planos-para-abandonar-os-jogos-em-formato-fisico'
 tags: ['Nintendo', 'Mídia Física', 'Colecionismo', 'Mercado de Games']
+imageVerified: 'true'
 ---
 Em um cenário onde a digitalização domina o entretenimento e muitas empresas apostam em um futuro sem cartuchos ou discos, a Nintendo surge como uma voz contrária. Para muitos jogadores, especialmente os colecionadores e aqueles em mercados emergentes, a notícia é um sopro de esperança e uma confirmação do valor que a Big N atribui à escolha do consumidor.
 

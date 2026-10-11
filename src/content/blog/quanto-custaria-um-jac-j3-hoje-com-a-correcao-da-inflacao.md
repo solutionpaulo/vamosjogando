@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-custaria-um-jac-j3-hoje-com-a-correcao-da-inflac
 ogImage: '../../assets/og-quanto-custaria-um-jac-j3-hoje-com-a-correcao-da-inflacao.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-custaria-um-jac-j3-hoje-com-a-correcao-da-inflacao/'
 tags: ['JAC Motors', 'Inflação', 'Mercado Automotivo', 'Economia Brasil']
+imageVerified: 'true'
 ---
 A trajetória da JAC Motors no Brasil é um capítulo à parte na história automotiva do país. Com um marketing agressivo, impulsionado por uma figura icônica como Fausto Silva, e preços competitivos, o JAC J3 conquistou muitos brasileiros em 2011. Mas e se esse lançamento fosse hoje? A inflação teria um papel chocante nessa história.
 
