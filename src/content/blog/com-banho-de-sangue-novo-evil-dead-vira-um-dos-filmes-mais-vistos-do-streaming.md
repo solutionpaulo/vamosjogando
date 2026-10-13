@@ -6,6 +6,7 @@ heroImage: '../../assets/com-banho-de-sangue-novo-evil-dead-vira-um-dos-filmes-m
 ogImage: '../../assets/og-com-banho-de-sangue-novo-evil-dead-vira-um-dos-filmes-mais-vistos-do-streaming.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/com-banho-de-sangue-novo-evil-dead-vira-um-dos-filmes-mais-vistos-do-streaming/'
 tags: ['Terror', 'Evil Dead', 'Streaming', 'Games de Horror']
+imageVerified: 'true'
 ---
 O terror tem provado ser um gênero resiliente, e a recente performance de 'A Morte do Demônio: Em Chamas' na HBO Max é a prova mais sangrenta disso. O filme não apenas se tornou um dos mais assistidos em tempo recorde, mas também reforça uma tendência que vemos reverberar fortemente no mundo dos games: o renascimento de produções que mergulham fundo no medo e na tensão.
 

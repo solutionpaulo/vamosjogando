@@ -6,6 +6,7 @@ heroImage: '../../assets/sucesso-co-op-peak-esta-a-caminho-da-playstation-5.webp
 ogImage: '../../assets/og-sucesso-co-op-peak-esta-a-caminho-da-playstation-5.webp'
 sourceUrl: 'https://www.eurogamer.pt/sucesso-co-op-peak-esta-a-caminho-da-playstation-5'
 tags: ['Peak', 'PlayStation 5', 'Co-op', 'Lançamento']
+imageVerified: 'true'
 ---
 Peak, o aclamado título co-op que conquistou milhões de jogadores no PC em 2025, está pronto para expandir seus horizontes e chegar ao PlayStation 5. A notícia, que agitou a comunidade gamer, promete levar a experiência intensa e colaborativa do jogo a uma nova base de fãs no console da Sony.
 
