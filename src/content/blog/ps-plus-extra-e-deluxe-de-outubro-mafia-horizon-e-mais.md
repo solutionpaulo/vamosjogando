@@ -2,10 +2,11 @@
 title: 'PS Plus Extra e Deluxe de outubro: Mafia, Horizon e mais'
 description: 'Uma análise detalhada sobre a recente notícia de que PS Plus Extra e Deluxe de outubro: Mafia, Horizon e mais, trazida pelo portal Meu PS4.'
 pubDate: 'Wed Oct 14 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/ps-plus-extra-e-deluxe-de-outubro-mafia-horizon-e-mais.webp'
 ogImage: '../../assets/og-ps-plus-extra-e-deluxe-de-outubro-mafia-horizon-e-mais.webp'
 sourceUrl: 'https://meups.com.br/noticias/ps-plus-extra-deluxe-outubro-mafia-horizon/'
 tags: ['Games', 'Meu PS4', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
