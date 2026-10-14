@@ -6,6 +6,7 @@ heroImage: '../../assets/itau-abre-capacitacao-gratis-em-ia-e-dados-para-o-merca
 ogImage: '../../assets/og-itau-abre-capacitacao-gratis-em-ia-e-dados-para-o-mercado-financeiro.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/itau-abre-capacitacao-gratis-em-ia-e-dados-para-o-mercado-financeiro/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

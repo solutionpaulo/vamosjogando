@@ -6,6 +6,7 @@ heroImage: '../../assets/estudo-preve-fim-dos-consoles-como-os-conhecemos-ate-20
 ogImage: '../../assets/og-estudo-preve-fim-dos-consoles-como-os-conhecemos-ate-2035-como-sera-o-futuro.webp'
 sourceUrl: 'https://canaltech.com.br/games/estudo-preve-fim-dos-consoles-como-os-conhecemos-ate-2035-como-sera-o-futuro/'
 tags: ['Streaming de Jogos', 'Consoles', 'Bloomberg Intelligence', 'Futuro dos Games']
+imageVerified: 'true'
 ---
 A cada nova geração de consoles, a comunidade gamer se questiona sobre o próximo salto tecnológico. Mas e se o próximo salto significasse o fim do hardware físico como o conhecemos? Um estudo recente da Bloomberg Intelligence lançou uma bomba no mercado, prevendo que os consoles dedicados serão “coisa do passado” até 2035, com o streaming de jogos tomando conta do cenário. Seria essa uma visão futurista ou um alarme falso? Vamos mergulhar nessa análise.
 

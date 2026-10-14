@@ -6,6 +6,7 @@ heroImage: '../../assets/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-u
 ogImage: '../../assets/og-elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/'
 tags: ['Inteligência Artificial', 'Tecnologia', 'Elon Musk', 'Assinaturas Digitais']
+imageVerified: 'true'
 ---
 No cenário atual onde serviços de assinatura dominam desde streamings a jogos, Elon Musk entra em campo com uma proposta ambiciosa: o 'X Subscription'. Unindo X Premium, Grok e Cursor, este pacote busca consolidar uma série de serviços sob um único (e pesado) preço.
 
