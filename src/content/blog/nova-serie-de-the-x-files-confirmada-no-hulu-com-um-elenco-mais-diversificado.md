@@ -6,6 +6,7 @@ heroImage: '../../assets/nova-serie-de-the-x-files-confirmada-no-hulu-com-um-ele
 ogImage: '../../assets/og-nova-serie-de-the-x-files-confirmada-no-hulu-com-um-elenco-mais-diversificado.webp'
 sourceUrl: 'https://www.eurogamer.pt/nova-serie-de-the-x-files-confirmada-no-hulu-com-um-elenco-mais-diversificado'
 tags: ['Arquivo X', 'Séries', 'Sci-Fi', 'Hulu']
+imageVerified: 'true'
 ---
 A notícia de um novo reboot para a lendária série *The X-Files* (Arquivo X no Brasil) acaba de agitar o mundo do entretenimento. Com a luz verde do Hulu para uma temporada completa, a franquia que marcou gerações com seus mistérios paranormais e conspirações governamentais está prestes a ganhar uma nova roupagem, liderada por nomes de peso e um elenco renovado.
 

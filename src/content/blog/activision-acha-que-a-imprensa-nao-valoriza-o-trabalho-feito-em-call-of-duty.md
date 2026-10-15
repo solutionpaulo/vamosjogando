@@ -6,6 +6,7 @@ heroImage: '../../assets/activision-acha-que-a-imprensa-nao-valoriza-o-trabalho-
 ogImage: '../../assets/og-activision-acha-que-a-imprensa-nao-valoriza-o-trabalho-feito-em-call-of-duty.webp'
 sourceUrl: 'https://www.eurogamer.pt/activision-acha-que-a-imprensa-nao-valoriza-o-trabalho-feito-em-call-of-duty'
 tags: ['Activision', 'CallofDuty', 'IndústriaDeGames', 'Análise']
+imageVerified: 'true'
 ---
 ## A Queixa da Activision: O "Imposto Call of Duty"
 A Activision, gigante por trás da aclamada e, por vezes, controversa franquia Call of Duty, veio a público expressar um descontentamento. Tyler Bahl, diretor de marketing, levanta uma questão intrigante sobre como a imprensa lida com o sucesso constante da série, chegando a cunhar o termo "imposto Call of Duty" para descrever a percepção de desvalorização do trabalho árduo envolvido.
