@@ -6,6 +6,7 @@ heroImage: '../../assets/por-que-o-alerta-da-defesa-civil-chega-depois-da-chuva-
 ogImage: '../../assets/og-por-que-o-alerta-da-defesa-civil-chega-depois-da-chuva-entenda-como-funciona.webp'
 sourceUrl: 'https://canaltech.com.br/apps/por-que-o-alerta-da-defesa-civil-chega-depois-da-chuva-entenda-como-funciona/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
