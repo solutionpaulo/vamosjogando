@@ -6,6 +6,7 @@ heroImage: '../../assets/cade-voce-whatsapp-prepara-botao-para-pedir-localizacao
 ogImage: '../../assets/og-cade-voce-whatsapp-prepara-botao-para-pedir-localizacao-de-amigos-com-um-toque.webp'
 sourceUrl: 'https://canaltech.com.br/apps/cade-voce-whatsapp-prepara-botao-para-pedir-localizacao-de-amigos-com-um-toque/'
 tags: ['WhatsApp', 'Comunicação', 'Aplicativos', 'Tecnologia']
+imageVerified: 'true'
 ---
 O WhatsApp se tornou uma ferramenta indispensável não apenas para a comunicação diária, mas também para a organização de encontros, eventos e, claro, as tão esperadas jogatinas entre amigos. Agora, o aplicativo de mensagens mais popular do Brasil parece estar preparando uma funcionalidade que promete simplificar ainda mais esses arranjos, especialmente para nossa comunidade gamer: um botão para solicitar a localização de um contato com um único toque.
 

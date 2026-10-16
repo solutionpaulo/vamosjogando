@@ -6,6 +6,7 @@ heroImage: '../../assets/a-mumia-4-ja-tem-titulo-oficial-e-data-de-estreia.webp'
 ogImage: '../../assets/og-a-mumia-4-ja-tem-titulo-oficial-e-data-de-estreia.webp'
 sourceUrl: 'https://www.eurogamer.pt/a-mumia-4-ja-tem-titulo-oficial-e-data-de-estreia'
 tags: ['Filmes', 'Aventura', 'Universal', 'Nostalgia']
+imageVerified: 'true'
 ---
 A franquia "A Múmia", imortalizada por Brendan Fraser e Rachel Weisz no final dos anos 90 e início dos 2000, conquistou uma legião de fãs com sua mistura única de aventura, comédia e terror. Após uma tentativa de reboot em 2017 que não emplacou, a Universal Pictures parece estar voltando às raízes com o anúncio de um novo capítulo na saga principal. A notícia de um novo filme, mesmo distante da data de lançamento, já movimenta as redes sociais e reacende a nostalgia dos que cresceram com as peripécias de Rick O'Connell.
 
