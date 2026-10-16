@@ -6,6 +6,7 @@ heroImage: '../../assets/pai-do-playstation-apoia-fim-dos-discos-e-diz-que-revol
 ogImage: '../../assets/og-pai-do-playstation-apoia-fim-dos-discos-e-diz-que-revolta-dos-fas-e-questao-de-mentalidade.webp'
 sourceUrl: 'https://canaltech.com.br/games/pai-do-playstation-apoia-fim-dos-discos-e-diz-que-revolta-dos-fas-e-questao-de-mentalidade/'
 tags: ['PlayStation', 'MídiaFísica', 'KenKutaragi', 'MercadoDigital']
+imageVerified: 'true'
 ---
 A discussão sobre o fim da mídia física é um tema recorrente na indústria de games, gerando debates acalorados entre desenvolvedores, publishers e, principalmente, jogadores. Agora, a polêmica ganha um novo capítulo com a voz de ninguém menos que Ken Kutaragi, o 'pai do PlayStation', que se posicionou firmemente a favor do digital, chamando a resistência dos fãs de uma 'questão de mentalidade'. Suas declarações trazem à tona a visão de um dos arquitetos do mundo dos consoles e as possíveis direções futuras para o entretenimento interativo.
 

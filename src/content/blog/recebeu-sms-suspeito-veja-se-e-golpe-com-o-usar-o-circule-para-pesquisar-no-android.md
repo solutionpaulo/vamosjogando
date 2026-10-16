@@ -6,6 +6,7 @@ heroImage: '../../assets/recebeu-sms-suspeito-veja-se-e-golpe-com-o-usar-o-circu
 ogImage: '../../assets/og-recebeu-sms-suspeito-veja-se-e-golpe-com-o-usar-o-circule-para-pesquisar-no-android.webp'
 sourceUrl: 'https://canaltech.com.br/software/recebeu-sms-suspeito-veja-se-e-golpe-com-o-usar-o-circule-para-pesquisar-no-android/'
 tags: ['SegurançaDigital', 'Android', 'Google', 'Scams']
+imageVerified: 'true'
 ---
 A crescente onda de golpes digitais é uma ameaça constante, e a comunidade gamer não está imune. Mensagens prometendo “lucros garantidos” em jogos de azar ou links suspeitos para promoções falsas podem roubar dados e dinheiro. Felizmente, o Google está intensificando a batalha contra essas fraudes com uma ferramenta integrada no Android que promete ser um verdadeiro escudo para os jogadores brasileiros. Acabou a incerteza ao receber aquele SMS estranho!
 
