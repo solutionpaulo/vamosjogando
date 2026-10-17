@@ -6,6 +6,7 @@ heroImage: '../../assets/kindle-na-black-friday-quanto-vale-pagar-em-cada-modelo
 ogImage: '../../assets/og-kindle-na-black-friday-quanto-vale-pagar-em-cada-modelo.webp'
 sourceUrl: 'https://canaltech.com.br/e-reader/kindle-na-black-friday-quanto-vale-pagar-em-cada-modelo/'
 tags: ['Kindle', 'BlackFriday', 'E-reader', 'DicasDeCompra']
+imageVerified: 'true'
 ---
 A Black Friday se aproxima, e com ela, a promessa de grandes descontos. Mas, para o consumidor brasileiro, especialmente o gamer que entende de hardware e valor, a cautela é essencial. No universo dos e-readers, o Kindle da Amazon é rei, e saber quanto realmente vale a pena pagar em cada modelo pode ser a diferença entre um ótimo negócio e uma compra impulsiva. Pensando nisso, preparamos um guia detalhado com os preços-alvo para cada versão do Kindle, baseado em históricos de ofertas e projeções de mercado. Nosso objetivo é que você não apenas compre um Kindle, mas que faça a melhor escolha pelo melhor preço, otimizando sua biblioteca digital para suas leituras pós-game ou de lore expandida. 
 
