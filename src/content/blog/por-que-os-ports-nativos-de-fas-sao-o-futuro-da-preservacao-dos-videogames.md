@@ -6,6 +6,7 @@ heroImage: '../../assets/por-que-os-ports-nativos-de-fas-sao-o-futuro-da-preserv
 ogImage: '../../assets/og-por-que-os-ports-nativos-de-fas-sao-o-futuro-da-preservacao-dos-videogames.webp'
 sourceUrl: 'https://canaltech.com.br/games/por-que-os-ports-nativos-sao-futuro-da-preservacao/'
 tags: ['Preservação de Games', 'Recompilação', 'Modding', 'Direitos Digitais']
+imageVerified: 'true'
 ---
 A discussão sobre a preservação de jogos eletrônicos nunca foi tão urgente. Em um cenário onde a Sony anuncia o fim da produção de mídias físicas para PlayStation até 2028 e as licenças digitais se assemelham mais a um aluguel do que a uma posse, a comunidade gamer se vê diante de um futuro incerto. Mas há uma luz no fim do túnel, e ela vem de onde menos se espera, ou melhor, de onde sempre esteve: dos próprios fãs.
 
