@@ -6,6 +6,7 @@ heroImage: '../../assets/como-editar-a-memoria-do-chatgpt.webp'
 ogImage: '../../assets/og-como-editar-a-memoria-do-chatgpt.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-chatgpt/'
 tags: ['ChatGPT', 'Inteligência Artificial', 'Personalização IA', 'Ferramentas Digitais']
+imageVerified: 'true'
 ---
 O ChatGPT, a ferramenta de inteligência artificial que revolucionou a interação digital, está sempre evoluindo para oferecer uma experiência mais personalizada. Uma das atualizações mais significativas é a forma como ele gerencia sua "memória", um recurso vital que armazena informações sobre suas preferências e histórico para otimizar futuras conversas. Entender e dominar essa funcionalidade é crucial para qualquer usuário que busca tirar o máximo proveito da IA.
 
