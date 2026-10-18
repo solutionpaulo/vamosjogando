@@ -6,6 +6,7 @@ heroImage: '../../assets/deputado-dos-eua-propoe-lei-para-proteger-propriedade-d
 ogImage: '../../assets/og-deputado-dos-eua-propoe-lei-para-proteger-propriedade-de-jogos-digitais.webp'
 sourceUrl: 'https://meups.com.br/noticias/deputado-eua-propriedade-jogos-digitais/'
 tags: ['Propriedade Digital', 'Legislação Games', 'Direitos do Consumidor', 'Mercado Digital']
+imageVerified: 'true'
 ---
 A relação entre gamers e suas coleções digitais sempre foi um tema de debate acalorado. Afinal, ao comprar um jogo na Steam, PlayStation Store ou Xbox Marketplace, estamos realmente "possuindo" o título ou apenas adquirindo uma licença de uso? Essa questão fundamental ganhou um novo capítulo com a proposta de legislação do deputado Ritchie Torres nos Estados Unidos, que busca formalizar a proteção da propriedade de jogos digitais. É um movimento que, se bem-sucedido, pode reverberar por todo o mercado global de videogames, inclusive no Brasil.
 
