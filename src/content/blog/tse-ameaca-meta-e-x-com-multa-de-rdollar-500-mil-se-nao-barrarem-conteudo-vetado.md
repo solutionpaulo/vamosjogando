@@ -6,6 +6,7 @@ heroImage: '../../assets/tse-ameaca-meta-e-x-com-multa-de-rdollar-500-mil-se-nao
 ogImage: '../../assets/og-tse-ameaca-meta-e-x-com-multa-de-rdollar-500-mil-se-nao-barrarem-conteudo-vetado.webp'
 sourceUrl: 'https://canaltech.com.br/internet-e-redes-sociais/tse-ameaca-meta-e-x-com-multa-de-r-500-mil-se-nao-barrarem-conteudo-vetado/'
 tags: ['ComunidadeGamer', 'MarketingDeJogos', 'PlataformasOnline', 'RegulacaoDigital']
+imageVerified: 'true'
 ---
 Embora a manchete inicial possa parecer distante do mundo dos games, a notícia de que o Tribunal Superior Eleitoral (TSE) ameaça Meta (Facebook, Instagram) e X (Twitter) com multas diárias de R$ 500 mil, caso não barrem conteúdos específicos e o impulsionamento pago de perfis, acende um alerta importante. Para nós, gamers e entusiastas da indústria, as plataformas digitais não são apenas espaços de entretenimento, mas pilares fundamentais para a comunicação, marketing e construção de comunidades. A forma como essas Big Techs são reguladas e forçadas a agir pode ter um efeito cascata que, sim, nos atinge.
 

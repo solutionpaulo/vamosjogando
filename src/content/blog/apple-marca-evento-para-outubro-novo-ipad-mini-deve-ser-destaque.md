@@ -6,6 +6,7 @@ heroImage: '../../assets/apple-marca-evento-para-outubro-novo-ipad-mini-deve-ser
 ogImage: '../../assets/og-apple-marca-evento-para-outubro-novo-ipad-mini-deve-ser-destaque.webp'
 sourceUrl: 'https://canaltech.com.br/tablet/apple-marca-evento-para-outubro-novo-ipad-mini-deve-ser-destaque/'
 tags: ['Apple', 'iPad Mini', 'MacBook Pro', 'Gaming Tech']
+imageVerified: 'true'
 ---
 A Apple está prestes a realizar seu segundo evento de outubro, o “Pro and Tell”, prometendo uma série de lançamentos que podem agitar o mercado de tecnologia. Enquanto a maioria dos olhos estará voltada para os novos iPad Mini e MacBook Pro, é inevitável questionar: qual o impacto dessas inovações no universo dos games, especialmente para o jogador brasileiro?
 
