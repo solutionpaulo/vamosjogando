@@ -6,6 +6,7 @@ heroImage: '../../assets/cyberpunk-mercenarios-2-tem-quantos-episodios.webp'
 ogImage: '../../assets/og-cyberpunk-mercenarios-2-tem-quantos-episodios.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/cyberpunk-mercenarios-2-tem-quantos-episodios/'
 tags: ['Cyberpunk', 'Netflix', 'Anime', 'Studio Trigger']
+imageVerified: 'true'
 ---
 A Night City de Cyberpunk 2077 está prestes a ganhar uma nova e eletrizante camada de histórias com a chegada de **Cyberpunk: Mercenários 2** à Netflix. A série animada, produzida pelo aclamado Studio Trigger, retorna com uma proposta ousada: uma aventura antológica que promete manter a intensidade e o estilo visual que consagraram a primeira temporada, mas agora com um elenco de personagens e tramas completamente inéditas. Prepare-se para mergulhar novamente no universo distópico e vibrante criado pela CD Projekt Red, onde a sobrevivência é uma arte e cada esquina esconde um novo perigo.
 

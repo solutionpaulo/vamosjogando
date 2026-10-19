@@ -6,6 +6,7 @@ heroImage: '../../assets/zenless-zone-zero-agora-e-para-maiores-de-16-anos-na-eu
 ogImage: '../../assets/og-zenless-zone-zero-agora-e-para-maiores-de-16-anos-na-europa.webp'
 sourceUrl: 'https://www.eurogamer.pt/zenless-zone-zero-agora-e-para-maiores-de-16-anos-na-europa'
 tags: ['Zenless Zone Zero', 'HoYoverse', 'RPG de Ação', 'Classificação Etária']
+imageVerified: 'true'
 ---
 O aguardado Zenless Zone Zero, novo RPG de ação da HoYoverse, está no centro de uma discussão importante na Europa. Recentemente, a classificação etária do jogo para PlayStation 5 foi alterada de PEGI 12 para PEGI 16, um salto significativo que levanta questionamentos sobre o conteúdo que os jogadores podem esperar. Essa mudança, que em breve deve se estender para as versões de PC e Xbox, sugere que o título pode ser mais maduro e intenso do que o antecipado pelos fãs.
 
