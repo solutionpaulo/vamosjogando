@@ -2,7 +2,7 @@
 title: 'Conexão Humana: O Elo Inabalável no Atendimento e Vendas de Games'
 description: 'Mesmo na era da hipertecnologia, a confiança e a empatia continuam sendo a base das relações entre marcas e consumidores. Entenda como essa dinâmica molda o futuro do mercado de games no Brasil.'
 pubDate: 'Fri Aug 07 2026'
-heroImage: '../../assets/tecnologia-muda-as-compras-mas-as-relacoes-humanas-continuam-no-centro.webp'
+heroImage: '../../assets/og-tecnologia-muda-as-compras-mas-as-relacoes-humanas-continuam-no-centro.webp'
 ogImage: '../../assets/og-tecnologia-muda-as-compras-mas-as-relacoes-humanas-continuam-no-centro.webp'
 tags: ['Marketing de Games', 'Atendimento ao Cliente', 'Comunidade Gamer', 'Experiência do Jogador']
 imageVerified: 'true'

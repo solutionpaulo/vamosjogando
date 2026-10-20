@@ -2,7 +2,7 @@
 title: 'Oportunidade 4K: Smart TV TCL com Preço Reduzido para o seu PS5!'
 description: 'Uma Smart TV 4K Ultra HD da TCL está com um preço especial no Mercado Livre, tornando-a uma opção atraente para quem busca otimizar a experiência com o PlayStation 5.'
 pubDate: 'Fri Sep 04 2026'
-heroImage: '../../assets/cupom-derruba-preco-de-smart-tv-4k-da-tcl-no-mercado-livre.webp'
+heroImage: '../../assets/og-cupom-derruba-preco-de-smart-tv-4k-da-tcl-no-mercado-livre.webp'
 ogImage: '../../assets/og-cupom-derruba-preco-de-smart-tv-4k-da-tcl-no-mercado-livre.webp'
 sourceUrl: 'https://meups.com.br/promocoes/cupom-smart-tv-4k-da-tcl-no-mercado-livre/'
 tags: ['PS5', 'Hardware', 'Promoção', 'SmartTV']

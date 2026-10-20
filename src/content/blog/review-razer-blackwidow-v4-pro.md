@@ -2,9 +2,10 @@
 title: 'Review: Razer BlackWidow V4 Pro — O teclado gamer supercompleto para todas as tarefas'
 description: 'O Razer BlackWidow V4 Pro é um teclado mecânico gamer premium que oferece um arsenal de funcionalidades, desde switches responsivos a múltiplas teclas macro e RGB vibrante. Ideal para quem busca performance máxima e versatilidade em jogos e produtividade, mas exige um investimento considerável.'
 pubDate: 'Sun Sep 13 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/og-review-razer-blackwidow-v4-pro.webp'
 ogImage: '../../assets/og-review-razer-blackwidow-v4-pro.webp'
 tags: ['Review', 'Hardware', 'Razer', 'Teclado Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

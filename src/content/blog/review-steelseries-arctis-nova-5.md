@@ -2,9 +2,10 @@
 title: 'Review: SteelSeries Arctis Nova 5 — Conectividade Sem Fio Multiplataforma de Ponta'
 description: 'O SteelSeries Arctis Nova 5 promete áudio imersivo e compatibilidade sem fio abrangente para gamers multiplataforma. Descubra se este headset entrega a versatilidade e qualidade sonora esperadas para justificar seu investimento.'
 pubDate: 'Mon Sep 07 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/og-review-steelseries-arctis-nova-5.webp'
 ogImage: '../../assets/og-review-steelseries-arctis-nova-5.webp'
 tags: ['Review', 'Hardware', 'SteelSeries', 'Arctis Nova 5', 'Headset Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

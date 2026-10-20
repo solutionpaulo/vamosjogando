@@ -2,9 +2,10 @@
 title: 'Review: Razer DeathAdder Essential — O custo-benefício que mantém a tradição'
 description: 'Um mouse gamer acessível que entrega a ergonomia clássica do DeathAdder e desempenho sólido para a maioria dos jogadores. Descubra se ele é a melhor opção para quem busca qualidade Razer sem esvaziar a carteira.'
 pubDate: 'Wed Sep 16 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/og-review-razer-deathadder-essential.webp'
 ogImage: '../../assets/og-review-razer-deathadder-essential.webp'
 tags: ['Review', 'Hardware', 'Razer', 'DeathAdder Essential', 'Mouse Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

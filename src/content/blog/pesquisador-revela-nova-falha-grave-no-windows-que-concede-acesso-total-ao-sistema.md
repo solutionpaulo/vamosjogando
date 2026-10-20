@@ -2,7 +2,7 @@
 title: 'Alerta Crítico: Falha ''ShieldBreak'' no Windows expõe PCs Gamers a risco total!'
 description: 'Uma nova e grave falha no Windows, o ''ShieldBreak'', permite acesso total ao sistema, colocando em risco dados e a segurança de gamers. Saiba como o exploit funciona e quem ainda pode estar vulnerável, mesmo com o Defender.'
 pubDate: 'Thu Aug 13 2026'
-heroImage: '../../assets/pesquisador-revela-nova-falha-grave-no-windows-que-concede-acesso-total-ao-sistema.webp'
+heroImage: '../../assets/og-pesquisador-revela-nova-falha-grave-no-windows-que-concede-acesso-total-ao-sistema.webp'
 ogImage: '../../assets/og-pesquisador-revela-nova-falha-grave-no-windows-que-concede-acesso-total-ao-sistema.webp'
 sourceUrl: 'https://www.adrenaline.com.br/microsoft/windows/nova-falha-no-windows-privilegio-system/'
 tags: ['Windows', 'SegurançaPC', 'Exploit', 'Microsoft']

@@ -2,7 +2,7 @@
 title: 'Review: Edifier G3000 — Áudio Gamer com Estilo e Conectividade Versátil'
 description: 'Analisamos o Edifier G3000, caixas de som com design futurista, RGB vibrante e áudio imersivo para jogos. Descubra se este sistema 2.0 é o upgrade que sua estação de batalha precisa.'
 pubDate: 'Thu Sep 10 2026'
-heroImage: '../../assets/review-edifier-g3000.webp'
+heroImage: '../../assets/og-review-edifier-g3000.webp'
 ogImage: '../../assets/og-review-edifier-g3000.webp'
 tags: ['Review', 'Hardware', 'Edifier G3000', 'Caixa de Som Gamer', 'Periféricos Gamer']
 imageVerified: 'true'
