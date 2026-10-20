@@ -98,6 +98,33 @@ Criar variável de ambiente (não secret) `PUBLIC_GA_ID=G-XXXXXXXXXX` em **Setti
 - **Validação**: imagens < 5KB são rejeitadas (placeholder)
 - **OG dinâmicas**: generate-og.js gera imagem 1200×630 com gradiente + título via sharp, integrado ao pipeline de geração
 
+### Verificação de Imagens (`npm run fix-images`)
+
+Reavalia as imagens de capa dos posts recentes e substitui as inadequadas.
+
+| Variável | Padrão | Descrição |
+| :--- | :---: | :--- |
+| `RECENT_HOURS` | `72` | Janela de tempo dos posts candidatos |
+| `POST_LIMIT` | `0` | Máximo de posts por execução (0 = todos) |
+| `POST_SLUGS` | — | Lista de slugs separados por vírgula |
+| `FORCE_VERIFY` | `false` | Reavalia posts já marcados como `imageVerified` |
+| `FORCE_REPLACE` | `false` | Força a substituição da capa, ignorando a nota |
+| `SKIP_VISION` | `false` | Desliga a validação por visão (Gemini) |
+| `PREFER_OG` | `false` | Usa a imagem OG gerada em vez de buscar na Wikipedia |
+| `MIN_SCORE` | `7` | Nota mínima (0-10) para aceitar a capa atual |
+| `MIN_CANDIDATE_SCORE` | `8` | Relevância mínima de uma candidata para ser usada |
+| `MIN_IMAGE_BYTES` | `5120` | Tamanho mínimo do WebP final (5KB) |
+| `SHARED_IMAGE_THRESHOLD` | `3` | Posts que compartilham a mesma imagem = genérica |
+| `TINY_IMAGE_BYTES` | `1024` | Abaixo disso a imagem é placeholder |
+
+**Como a capa é escolhida**
+1. A capa atual é validada por visão (Gemini 2.5 Flash). Nota < `MIN_SCORE` → troca.
+2. Capa claramente fraca (placeholder do projeto, arquivo degenerado, imagem genérica compartilhada por muitos posts) → troca, mesmo sem API.
+3. Candidatas são coletadas do `og:image` da fonte e do Wikipedia (PT → EN), pontuadas e ordenadas — a **melhor** candidata válida é adotada, não a primeira.
+4. Sem candidata acima de `MIN_CANDIDATE_SCORE`, usa a imagem OG gerada para o post.
+5. WebP final < `MIN_IMAGE_BYTES` ou idêntico à capa atual → candidata descartada.
+
+
 ### SEO
 - **OG tags**: og:image, og:title, og:description, Twitter cards em todas as páginas
 - **OG image dinâmica**: imagem personalizada com gradiente e título do artigo, gerada via sharp (SVG → WebP q85)

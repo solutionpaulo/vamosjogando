@@ -193,4 +193,22 @@ docs(MELHORIAS): marcar itens 1-5 como concluídos
 
 **Ideia:** Avaliar o artigo gerado por IA antes de publicar — legibilidade (Flesch), densidade de SEO, tom consistente.
 
-**Ação:** Script `cron/assess-quality.js` que analisa o texto gerado e atribui nota. Abaixo do threshold, rejeita e tenta gerar novamente com feedback no prompt.```
+**Ação:** Script `cron/assess-quality.js` que analisa o texto gerado e atribui nota. Abaixo do threshold, rejeita e tenta gerar novamente com feedback no prompt.
+
+---
+
+## ✅ 20. Verificação de Relevância das Imagens
+
+**Problema:** A verificação de imagens aceitava a **primeira** candidata que baixava, validava apenas o tamanho do *download* (não do WebP final) e não detectava quando a "troca" reescrevia bytes idênticos. Resultado: 10 posts ficaram com o mesmo ícone genérico de gamepad (4.374 bytes, vindo do `Crystal Clear app package games.png` do Wikipedia), fotos de show de banda em artigo de Mortal Shell, console PS2 em artigo de PS6 e até um estádio de beisebol em artigo sobre atendimento ao cliente.
+
+**Feito:** `cron/verify-images.js` reescrito com:
+
+- **Capa fraca sem depender de API**: placeholder do projeto, arquivo degenerado (< 1KB) ou imagem genérica compartilhada por muitos posts
+- **Cadeia de candidatas pontuada**: `og:image` da fonte + Wikipedia (PT → EN, até 3 páginas por idioma, só páginas relacionadas ao tópico). A pontuação separa **relevância** (tokens do tópico, *cover art*, *key art*) de **geração** (console mais novo; penaliza PS2 em artigo de PS6) e o bônus do tópico acompanha o título do artigo
+- **Adota a melhor candidata**, não a primeira: candidatas com nota abaixo de `MIN_CANDIDATE_SCORE` são descartadas
+- **Validação do WebP final** (≥ 5KB) e **detecção de no-op** (bytes idênticos à capa atual)
+- **Filtro de ícones de app/sistema** do Wikipedia (`crystal clear`, `app package`, `nuvola`, …)
+- **Fallback para a imagem OG gerada** quando nenhuma candidata atinge a nota mínima
+- **Novas flags**: `FORCE_REPLACE`, `SKIP_VISION`, `PREFER_OG`, `MIN_CANDIDATE_SCORE`, `SHARED_IMAGE_THRESHOLD`, `TINY_IMAGE_BYTES`
+
+**Resultado:** 21 posts com capa corrigida — 10 com o ícone genérico, 3 com placeholder do projeto, 4 com imagem compartilhada entre artigos sem relação (uma imagem de Ace Combat servia a review de fone JBL e a falha de segurança no Windows) e 4 com imagem inadequada por reuso de tema.
