@@ -2,10 +2,11 @@
 title: 'Mortal Shell II: Atualização Gratuita Expande o Horror com 15 Novas Masmorras'
 description: 'Mortal Shell II recebeu a aguardada atualização Rotten Autumn, trazendo 15 novas masmorras e desafios gratuitos para os fãs do soulslike.'
 pubDate: 'Tue Oct 20 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/mortal-shell-ii-ganha-atualizacao-gratuita-com-15-novas-masmorras-no-ps5.webp'
 ogImage: '../../assets/og-mortal-shell-ii-ganha-atualizacao-gratuita-com-15-novas-masmorras-no-ps5.webp'
 sourceUrl: 'https://meups.com.br/noticias/mortal-shell-ii-ganha-atualizacao-gratuita/'
 tags: ['Mortal Shell II', 'Souls-like', 'PlayStation 5', 'Atualização Gratuita']
+imageVerified: 'true'
 ---
 Mortal Shell II, conhecido por seu combate brutal e atmosfera sombria, acaba de receber uma injeção massiva de conteúdo. A atualização gratuita 'Rotten Autumn' promete reacender a chama da exploração e do desafio para seus fiéis jogadores no PlayStation 5. Para a audiência brasileira, que aprecia um bom desafio e valoriza conteúdo de qualidade, esta é uma notícia empolgante que garante ainda mais horas de sofrimento gratificante.
 

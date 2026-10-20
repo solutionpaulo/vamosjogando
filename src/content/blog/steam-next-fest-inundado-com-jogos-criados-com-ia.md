@@ -6,6 +6,7 @@ heroImage: '../../assets/steam-next-fest-inundado-com-jogos-criados-com-ia.webp'
 ogImage: '../../assets/og-steam-next-fest-inundado-com-jogos-criados-com-ia.webp'
 sourceUrl: 'https://www.eurogamer.pt/steam-next-fest-inundado-com-jogos-criados-com-ia'
 tags: ['Steam', 'IA', 'Indie Games', 'Valve']
+imageVerified: 'true'
 ---
 O Steam Next Fest, vitrine essencial para desenvolvedores independentes apresentarem suas inovações e demos ao público, encontrou um desafio inesperado em sua edição de outubro de 2026. O festival, conhecido por revelar joias e tendências, foi, segundo relatos da comunidade e da imprensa especializada, inundado por uma avalanche de jogos criados majoritariamente com inteligência artificial.
 
