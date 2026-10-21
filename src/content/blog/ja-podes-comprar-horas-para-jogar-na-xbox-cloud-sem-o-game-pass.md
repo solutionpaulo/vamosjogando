@@ -6,6 +6,7 @@ heroImage: '../../assets/ja-podes-comprar-horas-para-jogar-na-xbox-cloud-sem-o-g
 ogImage: '../../assets/og-ja-podes-comprar-horas-para-jogar-na-xbox-cloud-sem-o-game-pass.webp'
 sourceUrl: 'https://www.eurogamer.pt/ja-podes-comprar-horas-para-jogar-na-xbox-cloud-sem-o-game-pass'
 tags: ['Xbox Cloud Gaming', 'Game Pass', 'Microsoft', 'Cloud Gaming']
+imageVerified: 'true'
 ---
 O Xbox Cloud Gaming sempre foi um pilar da estratégia da Microsoft para levar jogos a todos, mas com uma "barreira de entrada" clara: a assinatura do Game Pass Ultimate. Agora, algo grande está em teste nos laboratórios da Xbox, prometendo redefinir como consumimos jogos na nuvem.
 

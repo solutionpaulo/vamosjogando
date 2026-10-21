@@ -6,6 +6,7 @@ heroImage: '../../assets/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-
 ogImage: '../../assets/og-chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas.webp'
 sourceUrl: 'https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/'
 tags: ['Segurança Online', 'Google Chrome', 'Cibersegurança', 'Proteção Gamer']
+imageVerified: 'true'
 ---
 Para nós, gamers brasileiros, a internet é um campo vasto de oportunidades: encontrar aquele jogo raro, participar de comunidades vibrantes, ou garimpar promoções imperdíveis. Mas, infelizmente, também é um terreno fértil para armadilhas como golpes, sites falsos e phishing que visam nossas contas e nossos bolsos. Pensando nisso, o Google Chrome acaba de anunciar um reforço significativo em suas defesas, utilizando inteligência artificial para nos alertar sobre ameaças em potencial. É uma camada extra de segurança que pode fazer toda a diferença na hora de navegar pelas lojas virtuais ou baixar mods.
 
