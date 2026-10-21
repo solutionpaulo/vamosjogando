@@ -6,6 +6,7 @@ heroImage: '../../assets/documentos-revelam-que-cupula-do-tiktok-ignorou-alertas
 ogImage: '../../assets/og-documentos-revelam-que-cupula-do-tiktok-ignorou-alertas-de-exploracao-de-criancas.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/documentos-revelam-que-cupula-do-tiktok-ignorou-alertas-de-exploracao-de-criancas/'
 tags: ['TikTok', 'SegurançaDigital', 'ÉticaTecnológica', 'RedesSociais']
+imageVerified: 'true'
 ---
 O mundo digital, frequentemente palco de inovações e entretenimento, também se revela um terreno fértil para graves problemas éticos e de segurança. Recentemente, uma bomba explodiu no universo do TikTok: documentos judiciais chocantes vieram à tona, revelando que a cúpula da popular plataforma ignorou alertas cruciais sobre a exploração sexual de crianças e adolescentes, além de falhas em suas próprias ferramentas de proteção. Para a comunidade gamer, que interage constantemente com ambientes online e muitas vezes é composta por um público jovem, essa notícia levanta um alerta sobre a responsabilidade das grandes plataformas digitais.
 

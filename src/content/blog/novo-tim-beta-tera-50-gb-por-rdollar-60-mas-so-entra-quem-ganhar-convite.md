@@ -6,6 +6,7 @@ heroImage: '../../assets/novo-tim-beta-tera-50-gb-por-rdollar-60-mas-so-entra-qu
 ogImage: '../../assets/og-novo-tim-beta-tera-50-gb-por-rdollar-60-mas-so-entra-quem-ganhar-convite.webp'
 sourceUrl: 'https://canaltech.com.br/telecom/novo-tim-beta-tera-50-gb-por-r-60-mas-so-entra-quem-ganhar-convite/'
 tags: ['TIM Beta', 'Mobile', 'Internet', 'Influenciadores']
+imageVerified: 'true'
 ---
 Para a comunidade gamer brasileira, ter uma conexão móvel robusta é tão essencial quanto um bom setup em casa. Seja para jogar online em qualquer lugar, assistir streams, baixar atualizações ou simplesmente manter-se conectado com amigos e criadores de conteúdo, um plano de dados generoso faz toda a diferença. Nesse cenário, o TIM Beta, conhecido por suas ofertas agressivas, acaba de se reinventar com o BetaCreator. Mas será que as novidades são realmente vantajosas para quem vive de olho na tela?
 

@@ -2,10 +2,11 @@
 title: 'Vampire: The Masquerade – Bloodlines: O Cult Clássico Pode Retornar?'
 description: 'Rumores apontam para o possível retorno de Vampire: The Masquerade – Bloodlines em uma versão remasterizada, reacendendo a esperança dos fãs de RPG.'
 pubDate: 'Wed Oct 21 2026'
-heroImage: '../../assets/vampire-the-masquerade-bloodlines-pode-ganhar-remaster.webp'
+heroImage: '../../assets/og-vampire-the-masquerade-bloodlines-pode-ganhar-remaster.webp'
 ogImage: '../../assets/og-vampire-the-masquerade-bloodlines-pode-ganhar-remaster.webp'
 sourceUrl: 'https://meups.com.br/noticias/vampire-the-masquerade-bloodlines-remaster/'
 tags: ['VampireTheMasquerade', 'RPG', 'PC', 'Remaster']
+imageVerified: 'true'
 ---
 Vampire: The Masquerade – Bloodlines, um RPG cult aclamado por sua narrativa profunda e atmosfera imersiva, pode estar prestes a ganhar uma versão remasterizada. Lançado originalmente em 2004 com diversos problemas técnicos, o título conquistou um lugar especial no coração dos jogadores, tornando-se um ícone apesar de seus defeitos. Agora, a possibilidade de um retorno com aprimoramentos técnicos e visuais está agitando a comunidade.
 
