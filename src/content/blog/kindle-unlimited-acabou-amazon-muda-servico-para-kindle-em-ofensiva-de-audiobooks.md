@@ -6,6 +6,7 @@ heroImage: '../../assets/kindle-unlimited-acabou-amazon-muda-servico-para-kindle
 ogImage: '../../assets/og-kindle-unlimited-acabou-amazon-muda-servico-para-kindle-em-ofensiva-de-audiobooks.webp'
 sourceUrl: 'https://canaltech.com.br/apps/kindle-unlimited-acabou-amazon-muda-servico-para-kindle-em-ofensiva-de-audiobooks/'
 tags: ['Amazon', 'Kindle+', 'Audiobooks', 'Ebooks']
+imageVerified: 'true'
 ---
 A Amazon, gigante do e-commerce e dos serviços digitais, surpreendeu o mercado ao anunciar uma mudança significativa em seu popular serviço de assinatura de e-books. O conhecido Kindle Unlimited dá lugar ao Kindle+, uma evolução que promete integrar ainda mais a experiência de leitura com o crescente universo dos audiobooks. Para a comunidade gamer, que frequentemente busca imersão em histórias e universos complexos, essa novidade pode abrir novas portas para consumir conteúdo fora dos consoles.
 

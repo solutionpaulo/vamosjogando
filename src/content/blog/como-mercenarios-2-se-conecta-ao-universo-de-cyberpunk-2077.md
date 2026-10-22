@@ -6,6 +6,7 @@ heroImage: '../../assets/como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-
 ogImage: '../../assets/og-como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-2077.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-2077/'
 tags: ['Cyberpunk2077', 'CyberpunkMercenarios', 'CDProjektRed', 'Netflix']
+imageVerified: 'true'
 ---
 A saga Cyberpunk está longe de se limitar apenas aos videogames. Com a estreia de Cyberpunk: Mercenários 2, a animação da Netflix se solidifica não apenas como um spin-off de alta qualidade, mas como uma peça fundamental na expansão narrativa do universo de Cyberpunk 2077. Este novo capítulo não só se aprofunda na sombria realidade de Night City, mas também estabelece conexões diretas com o game, revelando o futuro e, quem sabe, plantando as sementes para o próximo grande lançamento da CD Projekt Red. Prepare-se, pois o que vem a seguir contém spoilers da série!
 
