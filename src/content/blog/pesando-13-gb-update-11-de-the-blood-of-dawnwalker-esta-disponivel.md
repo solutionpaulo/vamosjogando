@@ -6,6 +6,7 @@ heroImage: '../../assets/pesando-13-gb-update-11-de-the-blood-of-dawnwalker-esta
 ogImage: '../../assets/og-pesando-13-gb-update-11-de-the-blood-of-dawnwalker-esta-disponivel.webp'
 sourceUrl: 'https://meups.com.br/noticias/update-11-the-blood-of-dawnwalker-disponivel/'
 tags: ['RPG', 'PlayStation', 'Atualização', 'The Blood of Dawnwalker']
+imageVerified: 'true'
 ---
 A comunidade gamer brasileira, sempre atenta aos grandes lançamentos e ao suporte pós-lançamento, tem agora mais um motivo para mergulhar fundo em The Blood of Dawnwalker. O RPG, que conquistou corações e mentes com sua narrativa densa e mecânicas envolventes, acaba de receber um patch monumental que promete transformar a experiência de jogo.
 

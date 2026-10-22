@@ -6,6 +6,7 @@ heroImage: '../../assets/carrie-season-2-trara-mais-terror-ao-prime-video.webp'
 ogImage: '../../assets/og-carrie-season-2-trara-mais-terror-ao-prime-video.webp'
 sourceUrl: 'https://www.eurogamer.pt/carrie-season-2-trara-mais-terror-ao-prime-video'
 tags: ['Prime Video', 'Séries', 'Terror', 'Stephen King']
+imageVerified: 'true'
 ---
 Para os fãs de horror e adaptações literárias, a notícia é um banquete macabro: 'Carrie', a série do Prime Video baseada na aclamada obra de Stephen King, foi oficialmente renovada para uma segunda temporada. A plataforma de streaming da Amazon aposta novamente na história da jovem com poderes telecinéticos para entregar mais terror e drama psicológico à sua audiência, um prato cheio para quem busca mais do que apenas jogos no entretenimento.
 
