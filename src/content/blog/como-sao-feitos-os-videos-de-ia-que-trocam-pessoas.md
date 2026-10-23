@@ -6,6 +6,7 @@ heroImage: '../../assets/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas.webp
 ogImage: '../../assets/og-como-sao-feitos-os-videos-de-ia-que-trocam-pessoas.webp'
 sourceUrl: 'https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/'
 tags: ['Inteligência Artificial', 'Deepfake', 'Tecnologia', 'Conteúdo Viral']
+imageVerified: 'true'
 ---
 As redes sociais foram inundadas nas últimas semanas por vídeos onde figuras conhecidas são inseridas em cenas populares, de comemorações de jogadores de futebol a performances musicais. Essa tendência viral, que troca personagens mantendo a alta qualidade visual, é fruto de uma tecnologia de Inteligência Artificial que está se tornando cada vez mais acessível. Mas por trás da diversão e dos memes, esconde-se um lado mais sombrio que merece atenção redobrada.
 

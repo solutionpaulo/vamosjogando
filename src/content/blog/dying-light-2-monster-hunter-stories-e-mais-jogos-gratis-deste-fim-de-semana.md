@@ -6,6 +6,7 @@ heroImage: '../../assets/dying-light-2-monster-hunter-stories-e-mais-jogos-grati
 ogImage: '../../assets/og-dying-light-2-monster-hunter-stories-e-mais-jogos-gratis-deste-fim-de-semana.webp'
 sourceUrl: 'https://canaltech.com.br/games/jogos-gratis-fim-de-semana-dying-light-2-monster-hunter-stories-e-mais/'
 tags: ['Xbox', 'PC', 'Nintendo Switch', 'Jogos Grátis']
+imageVerified: 'true'
 ---
 O fim de semana chegou e, com ele, uma avalanche de jogos gratuitos para a alegria dos gamers brasileiros. Seja você fã de RPGs de ação, esportes radicais ou quebra-cabeças clássicos, há opções imperdíveis para aproveitar sem gastar um tostão. Mergulhe em novas aventuras e revisite clássicos, tudo sem comprometer o orçamento que, talvez, já esteja reservado para "The Legend of Zelda: Ocarina of Time" ou "GTA 6".
 
