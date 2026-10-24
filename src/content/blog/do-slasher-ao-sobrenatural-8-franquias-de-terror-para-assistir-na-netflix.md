@@ -6,6 +6,7 @@ heroImage: '../../assets/do-slasher-ao-sobrenatural-8-franquias-de-terror-para-a
 ogImage: '../../assets/og-do-slasher-ao-sobrenatural-8-franquias-de-terror-para-assistir-na-netflix.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/slasher-sobrenatural-franquias-terror-assistir-netflix/'
 tags: ['Netflix', 'Terror', 'Slasher', 'Sobrenatural']
+imageVerified: 'true'
 ---
 Quem disse que a adrenalina se limita apenas aos controles e às telas dos seus jogos favoritos? Para a comunidade gamer, a imersão em histórias intensas e a busca por emoções fortes são parte integrante do nosso DNA. E quando o assunto é terror, o cinema e as séries se mostram um excelente complemento, oferecendo narrativas que nos prendem do início ao fim. A Netflix, sempre atenta aos desejos de sua vasta audiência, disponibiliza um catálogo robusto de franquias de terror que são um prato cheio para quem busca uma maratona de arrepiar, seja para dar uma pausa estratégica no grind ou para curtir uma noite temática com os amigos. Prepare a pipoca, apague as luzes e venha conferir nossa seleção!
 

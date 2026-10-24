@@ -6,6 +6,7 @@ heroImage: '../../assets/suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato
 ogImage: '../../assets/og-suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato-que-tera-em-outubro.webp'
 sourceUrl: 'https://canaltech.com.br/carros/suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato-que-tera-em-outubro/'
 tags: ['Elden Ring', 'FromSoftware', 'RPG', 'DLC']
+imageVerified: 'true'
 ---
 O lançamento de Shadow of the Erdtree, a colossal expansão de Elden Ring, era sem dúvida um dos momentos mais esperados no calendário de jogos de 2024. Mas o que a FromSoftware entregou vai muito além de um simples conteúdo adicional, redefinindo o que esperamos de um DLC no gênero Souls-like e, talvez, na indústria como um todo. Desde a revelação dos primeiros trailers, a expectativa já era altíssima, e agora, com o acesso à Terra da Sombra, os jogadores estão descobrindo que o Hidetaka Miyazaki e sua equipe guardavam ainda mais segredos.
 
