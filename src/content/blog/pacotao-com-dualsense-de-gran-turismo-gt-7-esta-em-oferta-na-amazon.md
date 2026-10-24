@@ -6,6 +6,7 @@ heroImage: '../../assets/pacotao-com-dualsense-de-gran-turismo-gt-7-esta-em-ofer
 ogImage: '../../assets/og-pacotao-com-dualsense-de-gran-turismo-gt-7-esta-em-oferta-na-amazon.webp'
 sourceUrl: 'https://meups.com.br/promocoes/pacotao-dualsense-gran-turismo-7-oferta-amazon/'
 tags: ['PlayStation', 'DualSense', 'GranTurismo', 'Oferta']
+imageVerified: 'true'
 ---
 A cena gamer brasileira está sempre atenta às melhores oportunidades de unir paixão e economia. Recentemente, a Amazon lançou uma oferta que promete agitar os fãs de automobilismo virtual: um pacote exclusivo que combina o aguardado Gran Turismo 7 com um DualSense em edição especial, tudo a um preço diferenciado para membros Prime. Uma oportunidade que merece uma análise aprofundada para a comunidade.
 
