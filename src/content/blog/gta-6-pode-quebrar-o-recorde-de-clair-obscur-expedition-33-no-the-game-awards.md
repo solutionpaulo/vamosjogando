@@ -6,6 +6,7 @@ heroImage: '../../assets/gta-6-pode-quebrar-o-recorde-de-clair-obscur-expedition
 ogImage: '../../assets/og-gta-6-pode-quebrar-o-recorde-de-clair-obscur-expedition-33-no-the-game-awards.webp'
 sourceUrl: 'https://canaltech.com.br/games/gta-6-pode-quebrar-o-recorde-de-clair-obscur-expedition-33-no-the-game-awards/'
 tags: ['GTA 6', 'The Game Awards', 'Rockstar Games', 'Indústria de Games']
+imageVerified: 'true'
 ---
 A expectativa em torno de Grand Theft Auto VI é estratosférica, com o próximo lançamento da Rockstar Games prometendo redefinir não apenas o mundo dos jogos, mas o entretenimento como um todo. Contudo, em meio a todo o burburinho sobre vendas recordes e impacto cultural, surge uma questão intrigante para a edição de 2026 do The Game Awards: será que GTA 6 pode realmente quebrar o recorde de 12 indicações e 9 prêmios de Clair Obscur: Expedition 33, o fenômeno independente de 2025? A análise vai além do óbvio, revelando um campo de batalha onde o tamanho do estúdio pode ser tanto uma força quanto uma barreira.
 
