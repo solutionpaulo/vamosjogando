@@ -6,6 +6,7 @@ heroImage: '../../assets/kaiju-no-8-the-final-mission-chega-em-2027.webp'
 ogImage: '../../assets/og-kaiju-no-8-the-final-mission-chega-em-2027.webp'
 sourceUrl: 'https://www.eurogamer.pt/kaiju-no-8-the-final-mission-chega-em-2027'
 tags: ['Anime', 'Kaiju No. 8', 'Filmes', 'Cultura Pop']
+imageVerified: 'true'
 ---
 A comunidade de fãs de anime e mangá está em polvorosa com a mais recente revelação sobre uma das obras mais aclamadas da atualidade: Kaiju No. 8. Originalmente uma série de mangá que conquistou milhões, e agora um anime de sucesso, a franquia se prepara para um grandioso desfecho cinematográfico que promete emocionar. Para muitos gamers, a conexão com narrativas épicas e visuais impactantes é imediata, e Kaiju No. 8 entrega isso com maestria.
 
