@@ -6,6 +6,7 @@ heroImage: '../../assets/7-jogos-removidos-de-lojas-digitais-que-nao-podem-mais-
 ogImage: '../../assets/og-7-jogos-removidos-de-lojas-digitais-que-nao-podem-mais-ser-jogados.webp'
 sourceUrl: 'https://canaltech.com.br/games/jogos-removidos-lojas-digitais-que-nao-podem-mais-ser-jogados/'
 tags: ['Preservação', 'Games Digitais', 'Licenças de Uso', 'Stop Killing Games']
+imageVerified: 'true'
 ---
 A discussão sobre a posse de jogos digitais não é nova, mas ganha força a cada vez que um título é sumariamente removido das lojas e, em alguns casos, das bibliotecas dos jogadores. A verdade nua e crua, reiterada por gigantes como Sony, Microsoft e Valve, é que o que compramos não é o jogo em si, mas uma licença de uso — um aluguel de longo prazo que pode ser revogado a qualquer momento.
 

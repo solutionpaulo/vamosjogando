@@ -6,6 +6,7 @@ heroImage: '../../assets/para-acabar-com-engasgos-youtube-adotara-novo-codec-que
 ogImage: '../../assets/og-para-acabar-com-engasgos-youtube-adotara-novo-codec-que-gasta-menos-internet.webp'
 sourceUrl: 'https://canaltech.com.br/software/para-acabar-com-engasgos-youtube-adotara-novo-codec-que-gasta-menos-internet/'
 tags: ['YouTube', 'Streaming', 'Tecnologia', 'Conectividade']
+imageVerified: 'true'
 ---
 Para o gamer brasileiro, a experiência de assistir gameplays, tutoriais ou transmissões ao vivo de esports no YouTube é frequentemente marcada por interrupções e um consumo de dados que pode pesar no bolso. Mas uma mudança significativa está no horizonte: o YouTube anunciou a adoção do novo codec AV2, prometendo revolucionar a forma como consumimos conteúdo em vídeo.Este avanço é crucial para uma comunidade que depende de uma entrega de conteúdo fluida e de alta fidelidade visual, especialmente em resoluções como 4K e 8K, que são cada vez mais presentes.
 
