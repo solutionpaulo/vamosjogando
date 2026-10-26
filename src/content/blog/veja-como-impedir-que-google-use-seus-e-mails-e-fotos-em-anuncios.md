@@ -6,6 +6,7 @@ heroImage: '../../assets/veja-como-impedir-que-google-use-seus-e-mails-e-fotos-e
 ogImage: '../../assets/og-veja-como-impedir-que-google-use-seus-e-mails-e-fotos-em-anuncios.webp'
 sourceUrl: 'https://canaltech.com.br/internet-e-redes-sociais/veja-como-impedir-que-google-use-seus-e-mails-e-fotos-em-anuncios/'
 tags: ['Privacidade', 'Segurança Digital', 'Google', 'Proteção de Dados']
+imageVerified: 'true'
 ---
 A era digital, com toda a sua conveniência e conectividade, também traz à tona debates importantes sobre privacidade e o uso de nossos dados pessoais. Recentemente, o Google atualizou suas políticas, permitindo o uso de informações de serviços como Gmail, Google Drive e Google Fotos para personalizar anúncios. Para a comunidade gamer, que vive e respira online, entender e controlar essa fronteira digital é mais crucial do que nunca. Afinal, seus dados de navegação, e-mails e até fotos podem estar alimentando um perfil que direciona anúncios – e você tem o poder de mudar isso. Este guia detalhado do "Vamos Jogando" mostrará como proteger sua privacidade e manter suas informações longe de campanhas publicitárias indesejadas.
 
