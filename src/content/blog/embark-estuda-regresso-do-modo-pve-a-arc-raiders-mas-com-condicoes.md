@@ -6,6 +6,7 @@ heroImage: '../../assets/embark-estuda-regresso-do-modo-pve-a-arc-raiders-mas-co
 ogImage: '../../assets/og-embark-estuda-regresso-do-modo-pve-a-arc-raiders-mas-com-condicoes.webp'
 sourceUrl: 'https://www.eurogamer.pt/embark-estuda-regresso-do-modo-pve-a-arc-raiders-mas-com-condicoes'
 tags: ['Arc Raiders', 'Embark Studios', 'PvE', 'FPS']
+imageVerified: 'true'
 ---
 Arc Raiders, o shooter da Embark Studios que inicialmente prometia uma experiência PvPvE intensa, parece estar em processo de uma significativa reavaliação. Após um teste público limitado, que permitiu aos jogadores explorarem o universo do game sem a constante ameaça de outros competidores, a comunidade se manifestou. Agora, a desenvolvedora considera seriamente a inclusão de um modo PvE permanente, o que pode mudar completamente a dinâmica do título e seu apelo para um público mais amplo.
 

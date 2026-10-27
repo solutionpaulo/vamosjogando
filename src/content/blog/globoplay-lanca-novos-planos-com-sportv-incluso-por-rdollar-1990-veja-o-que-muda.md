@@ -6,6 +6,7 @@ heroImage: '../../assets/globoplay-lanca-novos-planos-com-sportv-incluso-por-rdo
 ogImage: '../../assets/og-globoplay-lanca-novos-planos-com-sportv-incluso-por-rdollar-1990-veja-o-que-muda.webp'
 sourceUrl: 'https://canaltech.com.br/apps/globoplay-lanca-novos-planos-com-sportv-incluso-por-r-1990-veja-o-que-muda/'
 tags: ['Streaming', 'Globoplay', 'Sportv', 'Assinaturas']
+imageVerified: 'true'
 ---
 O cenário do streaming no Brasil está em constante evolução, com plataformas buscando novas estratégias para atrair e reter assinantes. Recentemente, o Globoplay movimentou o mercado ao anunciar uma reformulação significativa em seus planos, tornando o conteúdo do sportv mais acessível do que nunca. Essa mudança promete impactar diretamente o consumo de entretenimento, especialmente para aqueles que buscam uma variedade de esportes sem comprometer o orçamento.
 
