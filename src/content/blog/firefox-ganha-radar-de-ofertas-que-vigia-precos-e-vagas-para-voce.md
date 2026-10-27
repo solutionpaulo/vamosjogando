@@ -6,6 +6,7 @@ heroImage: '../../assets/firefox-ganha-radar-de-ofertas-que-vigia-precos-e-vagas
 ogImage: '../../assets/og-firefox-ganha-radar-de-ofertas-que-vigia-precos-e-vagas-para-voce.webp'
 sourceUrl: 'https://canaltech.com.br/apps/firefox-ganha-radar-de-ofertas-que-vigia-precos-e-vagas-para-voce/'
 tags: ['Firefox', 'Inteligência Artificial', 'Navegador', 'Ofertas']
+imageVerified: 'true'
 ---
 A corrida pela inteligência artificial nos navegadores está esquentando, e a Mozilla não quer ficar para trás. O Firefox acaba de receber uma atualização robusta para seu recurso Smart Window, trazendo ferramentas que prometem otimizar a vida online de seus usuários, com um olho nas ofertas e outro na carreira – e talvez até nos próximos lançamentos de games!
 

@@ -6,6 +6,7 @@ heroImage: '../../assets/parceiras-acusam-nvidia-de-interromper-fornecimento-de-
 ogImage: '../../assets/og-parceiras-acusam-nvidia-de-interromper-fornecimento-de-chip-para-fabricar-rtx-5090.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/parceiras-acusam-nvidia-de-interromper-fornecimento-de-chip-para-fabricar-rtx-5090/'
 tags: ['NVIDIA', 'RTX 5090', 'Hardware', 'Mercado Gamer']
+imageVerified: 'true'
 ---
 A expectativa em torno da GeForce RTX 5090 tem sido enorme, com gamers e entusiastas aguardando a próxima geração de placas de vídeo da NVIDIA. Contudo, rumores recentes, agora corroborados por fontes da indústria, lançam uma sombra sobre o lançamento dessa GPU. Há fortes indícios de que o "Time Verde" pode estar interrompendo o fornecimento de chips essenciais, sinalizando uma possível mudança estratégica que prioriza a Inteligência Artificial em detrimento do mercado de jogos de alto desempenho.
 
