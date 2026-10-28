@@ -6,6 +6,7 @@ heroImage: '../../assets/digital-foundry-elogia-os-60fps-de-phantom-blade-zero-n
 ogImage: '../../assets/og-digital-foundry-elogia-os-60fps-de-phantom-blade-zero-na-ps5.webp'
 sourceUrl: 'https://www.eurogamer.pt/digital-foundry-elogia-os-60fps-de-phantom-blade-zero-na-ps5'
 tags: ['PS5', 'Ação', 'Digital Foundry', 'Phantom Blade Zero']
+imageVerified: 'true'
 ---
 A expectativa em torno de Phantom Blade Zero, desenvolvido pelo estúdio chinês S-Game, tem sido alta. Com sua proposta de ação rápida e estilo visual impactante, o título para PlayStation 5 atraiu os olhares de gamers e críticos. Agora, a renomada Digital Foundry, especialista em análises técnicas, lançou seu veredito inicial, e as notícias são excelentes, especialmente para quem busca performance impecável no console da Sony.
 
