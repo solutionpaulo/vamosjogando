@@ -6,6 +6,7 @@ heroImage: '../../assets/anatel-vai-exigir-biometria-para-manter-numero-de-telef
 ogImage: '../../assets/og-anatel-vai-exigir-biometria-para-manter-numero-de-telefone-no-brasil.webp'
 sourceUrl: 'https://canaltech.com.br/seguranca/anatel-vai-exigir-biometria-para-manter-numero-de-telefone-no-brasil/'
 tags: ['Segurança Digital', 'Anatel', 'Biometria', 'Fraudes Online']
+imageVerified: 'true'
 ---
 No mundo dos games, a segurança digital é um pilar fundamental. De contas de jogos a dados pessoais, proteger-se online nunca foi tão crucial. Agora, a Agência Nacional de Telecomunicações (Anatel) traz uma medida que impactará a todos no Brasil, incluindo a comunidade gamer: a validação biométrica obrigatória para manter seu número de telefone ativo.
 

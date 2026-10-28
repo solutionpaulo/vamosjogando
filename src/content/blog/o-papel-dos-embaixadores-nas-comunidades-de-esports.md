@@ -6,6 +6,7 @@ heroImage: '../../assets/o-papel-dos-embaixadores-nas-comunidades-de-esports.web
 ogImage: '../../assets/og-o-papel-dos-embaixadores-nas-comunidades-de-esports.webp'
 sourceUrl: 'https://canaltech.com.br/games/o-papel-dos-embaixadores-nas-comunidades-de-esports/'
 tags: ['eSports', 'MarketingDeGames', 'ComunidadeGamer', 'CriadoresDeConteúdo']
+imageVerified: 'true'
 ---
 O universo dos games no Brasil é dinâmico e multifacetado. Longe de se prenderem a um único título, a maioria dos gamers navega por diversos mundos virtuais, dedicando-se a um jogo principal enquanto explora outros. Essa realidade, confirmada por levantamentos como o da Gamers Club, impõe um desafio constante às marcas e empresas de eSports: como manter a atenção e o engajamento de uma comunidade tão fluida? A resposta pode estar na figura dos embaixadores e criadores de conteúdo, que funcionam como a ponte vital entre a empresa e o público.
 
