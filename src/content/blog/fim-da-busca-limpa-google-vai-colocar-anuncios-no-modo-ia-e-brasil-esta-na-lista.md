@@ -6,6 +6,7 @@ heroImage: '../../assets/fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-
 ogImage: '../../assets/og-fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-ia-e-brasil-esta-na-lista.webp'
 sourceUrl: 'https://canaltech.com.br/mercado/fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-ia-e-brasil-esta-na-lista/'
 tags: ['Google', 'Inteligência Artificial', 'Mercado Digital', 'Busca']
+imageVerified: 'true'
 ---
 A forma como buscamos informações na internet está prestes a mudar drasticamente, e não necessariamente para melhor. O Google, gigante das buscas, anunciou que o Modo IA de sua Pesquisa, que já trazia respostas geradas por inteligência artificial, agora será palco para anúncios. E sim, o Brasil está na lista para receber essa novidade, com previsão de chegada no quarto trimestre de 2026. Para nós, gamers, que dependemos da busca para encontrar reviews, guias, notícias e os melhores preços, essa é uma alteração que merece atenção.
 

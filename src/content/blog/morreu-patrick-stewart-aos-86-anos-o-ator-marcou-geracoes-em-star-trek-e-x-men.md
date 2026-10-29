@@ -6,6 +6,7 @@ heroImage: '../../assets/morreu-patrick-stewart-aos-86-anos-o-ator-marcou-geraco
 ogImage: '../../assets/og-morreu-patrick-stewart-aos-86-anos-o-ator-marcou-geracoes-em-star-trek-e-x-men.webp'
 sourceUrl: 'https://www.eurogamer.pt/morreu-patrick-stewart-aos-86-anos-o-ator-marcou-geracoes-em-star-trek-e-x-men'
 tags: ['Star Trek', 'X-Men', 'Ator', 'Cultura Pop']
+imageVerified: 'true'
 ---
 A comunidade global lamenta a partida de Sir Patrick Stewart aos 86 anos. O lendário ator britânico deixou um legado imenso na cultura pop, eternizado em papéis que transcenderam as telas e se enraizaram profundamente no imaginário coletivo. Para nós, gamers, sua influência é particularmente sentida através dos personagens que ele tão brilhantemente encarnou e que, de diversas formas, inspiraram e povoaram o vasto universo dos videogames.
 
