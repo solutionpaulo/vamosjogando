@@ -2,10 +2,11 @@
 title: 'Game Streaming no Brasil: Fim da Luta por Hardware?'
 description: 'Analisamos como o game streaming está transformando a forma de jogar no Brasil, prometendo acesso a títulos AAA sem a necessidade de consoles caros ou PCs potentes.'
 pubDate: 'Fri Oct 30 2026'
-heroImage: '../../assets/tiggo-5x-fica-com-precos-no-chao-confira-prazos-e-condicoes.webp'
+heroImage: '../../assets/og-tiggo-5x-fica-com-precos-no-chao-confira-prazos-e-condicoes.webp'
 ogImage: '../../assets/og-tiggo-5x-fica-com-precos-no-chao-confira-prazos-e-condicoes.webp'
 sourceUrl: 'https://canaltech.com.br/carros/tiggo-5x-fica-com-precos-no-chao-confira-prazos-e-condicoes/'
 tags: ['CloudGaming', 'GameStreaming', 'Brasil', 'Tecnologia']
+imageVerified: 'true'
 ---
 A cada lançamento de um grande título, a pergunta que ecoa na comunidade gamer brasileira é sempre a mesma: meu hardware aguenta? A realidade econômica do país, somada aos altos custos de consoles e placas de vídeo, cria uma barreira significativa para muitos entusiastas. No entanto, uma tecnologia tem se mostrado cada vez mais promissora para mudar esse cenário: o game streaming.
 
