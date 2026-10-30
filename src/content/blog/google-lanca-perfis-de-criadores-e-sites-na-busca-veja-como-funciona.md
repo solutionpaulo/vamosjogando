@@ -6,6 +6,7 @@ heroImage: '../../assets/google-lanca-perfis-de-criadores-e-sites-na-busca-veja-
 ogImage: '../../assets/og-google-lanca-perfis-de-criadores-e-sites-na-busca-veja-como-funciona.webp'
 sourceUrl: 'https://canaltech.com.br/internet-e-redes-sociais/google-lanca-perfis-de-criadores-e-sites-na-busca-veja-como-funciona/'
 tags: ['Google', 'CriadoresDeConteudo', 'DescobertaDeConteudo', 'Gaming']
+imageVerified: 'true'
 ---
 ## A Nova Era da Descoberta de Conteúdo no Google
 
