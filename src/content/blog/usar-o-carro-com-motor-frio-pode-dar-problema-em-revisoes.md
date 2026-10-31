@@ -2,10 +2,11 @@
 title: 'Usar seu PC Gamer "frio" pode dar problema? Entenda o impacto no hardware!'
 description: 'Ligar o PC e exigir performance máxima imediatamente é comum, mas o hardware frio exige atenção, impactando o desgaste, a longevidade e a necessidade de manutenção dos seus componentes.'
 pubDate: 'Sat Oct 31 2026'
-heroImage: '../../assets/usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes.webp'
+heroImage: '../../assets/og-usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes.webp'
 ogImage: '../../assets/og-usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes.webp'
 sourceUrl: 'https://canaltech.com.br/carros/usar-o-carro-com-motor-frio-pode-dar-problema-em-revisoes-entenda/'
 tags: ['Hardware', 'Manutenção PC', 'Performance Gaming', 'Dicas Gamer']
+imageVerified: 'true'
 ---
 Para todo gamer, a experiência de ligar o PC ou console e mergulhar diretamente em um jogo é quase um ritual. A expectativa é que, com a tecnologia atual, nossos equipamentos estejam prontos para entregar desempenho máximo a qualquer momento. No entanto, assim como em motores automotivos, o hardware dos nossos queridos setups precisa de condições ideais de temperatura para operar sem estresse e prolongar sua vida útil. Ignorar a fase de "aquecimento" pode trazer consequências sérias que vão além de uma queda de FPS momentânea, afetando a saúde da sua máquina a longo prazo.
 
