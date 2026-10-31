@@ -6,6 +6,7 @@ heroImage: '../../assets/call-of-duty-modern-warfare-4-vale-a-pena.webp'
 ogImage: '../../assets/og-call-of-duty-modern-warfare-4-vale-a-pena.webp'
 sourceUrl: 'https://meups.com.br/review/call-of-duty-modern-warfare-4-vale-a-pena/'
 tags: ['FPS', 'CallofDuty', 'ModernWarfare', 'Review']
+imageVerified: 'true'
 ---
 Call of Duty sempre foi um pilar no cenário dos jogos de tiro em primeira pessoa, mas nem todas as suas iterações recentes conseguiram unanimidade. Com o lançamento de Modern Warfare 4, a expectativa é alta: a franquia consegue, de fato, resgatar a glória de seus títulos mais aclamados, apostando no que a tornou um fenômeno global?
 
