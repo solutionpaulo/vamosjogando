@@ -6,6 +6,7 @@ heroImage: '../../assets/6-melhores-filmes-de-terror-sobrenatural-para-assistir-
 ogImage: '../../assets/og-6-melhores-filmes-de-terror-sobrenatural-para-assistir-na-netflix.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/netflix-melhores-filmes-terror-sobrenatural-assistir/'
 tags: ['Terror', 'Netflix', 'Filmes', 'Sobrenatural']
+imageVerified: 'true'
 ---
 ## O Terror Sobrenatural Atinge a Tela para Gamers
 

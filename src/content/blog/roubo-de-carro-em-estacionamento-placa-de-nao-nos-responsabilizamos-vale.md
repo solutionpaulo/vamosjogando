@@ -6,6 +6,7 @@ heroImage: '../../assets/roubo-de-carro-em-estacionamento-placa-de-nao-nos-respo
 ogImage: '../../assets/og-roubo-de-carro-em-estacionamento-placa-de-nao-nos-responsabilizamos-vale.webp'
 sourceUrl: 'https://canaltech.com.br/carros/roubo-de-carro-em-estacionamento-placa-de-nao-nos-responsabilizamos-vale/'
 tags: ['Direito do Consumidor', 'Leis', 'Segurança', 'Dicas']
+imageVerified: 'true'
 ---
 Ao ir buscar aquele lançamento tão esperado, participar de um evento de eSports ou simplesmente visitar uma loja especializada, muitos gamers se deparam com a necessidade de estacionar seus veículos em shoppings, supermercados ou até em estacionamentos de estabelecimentos menores. Mas e se o impensável acontecer e seu carro ou moto for furtado? Aquelas placas de 'não nos responsabilizamos' realmente valem? A boa notícia para o consumidor brasileiro é que a lei está do seu lado. Vamos entender melhor.
 
