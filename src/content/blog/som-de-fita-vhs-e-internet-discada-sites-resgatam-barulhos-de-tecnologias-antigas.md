@@ -6,6 +6,7 @@ heroImage: '../../assets/som-de-fita-vhs-e-internet-discada-sites-resgatam-barul
 ogImage: '../../assets/og-som-de-fita-vhs-e-internet-discada-sites-resgatam-barulhos-de-tecnologias-antigas.webp'
 sourceUrl: 'https://canaltech.com.br/internet-e-redes-sociais/som-de-fita-vhs-e-internet-discada-sites-resgatam-barulhos-de-tecnologias-antigas/'
 tags: ['Nostalgia Gamer', 'História da Tecnologia', 'Preservação Digital', 'Evolução dos Games']
+imageVerified: 'true'
 ---
 No universo dos games, a evolução é constante, com gráficos cada vez mais realistas e mundos imersivos. Mas e os sons que acompanharam essa jornada, antes do clique suave do mouse ou do toque na tela? Antes dos carregamentos instantâneos, tínhamos a sinfonia analógica de fitas rebobinando, modems chiando para conectar à internet discada e o ruído característico de um console ligando. Hoje, enquanto o digital domina, iniciativas fascinantes buscam resgatar esses 'ruídos do passado', oferecendo uma poderosa dose de nostalgia e reflexão sobre como a tecnologia moldou nossa experiência gamer.
 

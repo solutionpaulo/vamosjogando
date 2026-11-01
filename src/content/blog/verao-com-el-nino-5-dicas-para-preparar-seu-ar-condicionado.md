@@ -6,6 +6,7 @@ heroImage: '../../assets/verao-com-el-nino-5-dicas-para-preparar-seu-ar-condicio
 ogImage: '../../assets/og-verao-com-el-nino-5-dicas-para-preparar-seu-ar-condicionado.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/verao-com-el-nino-5-dicas-para-preparar-seu-ar-condicionado/'
 tags: ['Setup Gamer', 'Dicas', 'Hardware', 'Conforto']
+imageVerified: 'true'
 ---
 O Brasil está se preparando para um dos verões mais quentes da história, com a influência do El Niño prometendo ondas de calor intensas e prolongadas. Para nós, gamers, isso significa mais do que apenas suor: é um desafio direto ao nosso conforto durante as longas sessões de jogo e, mais importante, à saúde do nosso precioso setup. CPUs e GPUs sofrem com temperaturas elevadas, e ninguém quer ver o framerate despencar ou o console desligar por superaquecimento. Mas não se preocupe! Como bons estrategistas, podemos nos preparar para essa batalha contra o calor.
 
