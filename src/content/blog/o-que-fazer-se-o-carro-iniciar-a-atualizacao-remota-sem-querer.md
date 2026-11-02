@@ -6,6 +6,7 @@ heroImage: '../../assets/o-que-fazer-se-o-carro-iniciar-a-atualizacao-remota-sem
 ogImage: '../../assets/og-o-que-fazer-se-o-carro-iniciar-a-atualizacao-remota-sem-querer.webp'
 sourceUrl: 'https://canaltech.com.br/carros/o-que-fazer-se-o-carro-iniciar-a-atualizacao-remota-sem-querer/'
 tags: ['Carros Conectados', 'Atualização Remota', 'Tecnologia Automotiva', 'Veículos Elétricos']
+imageVerified: 'true'
 ---
 O universo gamer está mais do que acostumado com a emoção – e por vezes a frustração – de um bom patch day. Aquelas atualizações que prometem corrigir bugs, adicionar conteúdo e melhorar a experiência. Mas e se o seu carro, que está cada vez mais parecido com um computador sobre rodas, decidisse iniciar um 'patch' inesperado no meio do estacionamento do supermercado? A tecnologia de atualização remota (OTA) é um avanço, mas vem com seus próprios dilemas. Entenda o que fazer quando seu veículo decide 'baixar um update' sem aviso prévio.
 
