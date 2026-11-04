@@ -6,6 +6,7 @@ heroImage: '../../assets/xbox-acusada-de-sabotar-a-arkane-e-marvels-blade.webp'
 ogImage: '../../assets/og-xbox-acusada-de-sabotar-a-arkane-e-marvels-blade.webp'
 sourceUrl: 'https://www.eurogamer.pt/xbox-acusada-de-sabotar-a-arkane-e-marvels-blade'
 tags: ['Xbox', 'Arkane', 'MarvelsBlade', 'IndústriaGames']
+imageVerified: 'true'
 ---
 A indústria de games está em constante ebulição, mas as recentes notícias envolvendo a Xbox e seus estúdios internos têm causado um alvoroço sem precedentes. Em meio a uma reestruturação agressiva visando a rentabilidade, a Microsoft tem sido alvo de acusações sérias de que estaria não apenas demitindo funcionários e cancelando jogos, mas também 'sabotando' o desenvolvimento de estúdios renomados como a Arkane Lyon e o aguardado *Marvel's Blade*.
 

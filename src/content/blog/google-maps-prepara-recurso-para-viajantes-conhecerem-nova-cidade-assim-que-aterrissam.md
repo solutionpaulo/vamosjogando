@@ -6,6 +6,7 @@ heroImage: '../../assets/google-maps-prepara-recurso-para-viajantes-conhecerem-n
 ogImage: '../../assets/og-google-maps-prepara-recurso-para-viajantes-conhecerem-nova-cidade-assim-que-aterrissam.webp'
 sourceUrl: 'https://canaltech.com.br/apps/google-maps-prepara-recurso-para-viajantes-conhecerem-nova-cidade-assim-que-aterrissam/'
 tags: ['Google Maps', 'Inteligência Artificial', 'Viagens', 'Tecnologia']
+imageVerified: 'true'
 ---
 O universo dos games nos leva a mundos fantásticos, mas a vida real também reserva aventuras, muitas vezes em novas cidades. Pensando nisso, o Google Maps está preparando uma atualização que promete transformar a experiência de qualquer viajante, com a ajuda da inteligência artificial. Mas, como sempre, a pergunta que fica é: e o Brasil nessa rota de inovações?
 
