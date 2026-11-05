@@ -6,6 +6,7 @@ heroImage: '../../assets/aplicacao-xbox-no-pc-recebe-atualizacao-e-fica-60percen
 ogImage: '../../assets/og-aplicacao-xbox-no-pc-recebe-atualizacao-e-fica-60percent-mais-rapida.webp'
 sourceUrl: 'https://www.eurogamer.pt/aplicacao-xbox-no-pc-recebe-atualizacao-e-fica-60-mais-rapida'
 tags: ['Xbox', 'PC Gaming', 'Game Pass', 'Otimização']
+imageVerified: 'true'
 ---
 A Microsoft, sempre atenta à comunidade gamer, acaba de lançar uma atualização significativa para a aplicação Xbox no PC. Em um cenário onde a velocidade e a fluidez são cruciais, essa novidade promete resolver um antigo gargalo e elevar o nível da experiência para milhões de jogadores, especialmente aqueles que dependem do Game Pass para explorar novos títulos.
 

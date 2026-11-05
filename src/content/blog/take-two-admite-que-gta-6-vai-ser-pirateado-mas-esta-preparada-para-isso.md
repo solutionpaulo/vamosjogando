@@ -6,6 +6,7 @@ heroImage: '../../assets/take-two-admite-que-gta-6-vai-ser-pirateado-mas-esta-pr
 ogImage: '../../assets/og-take-two-admite-que-gta-6-vai-ser-pirateado-mas-esta-preparada-para-isso.webp'
 sourceUrl: 'https://www.eurogamer.pt/take-two-admite-que-gta-6-vai-ser-pirateado-mas-esta-preparada-para-isso'
 tags: ['GTA 6', 'Pirataria', 'Take-Two', 'Rockstar Games']
+imageVerified: 'true'
 ---
 A expectativa em torno de Grand Theft Auto VI é estratosférica, e com ela, vem uma preocupação velha conhecida da indústria dos games: a pirataria. O CEO da Take-Two, Strauss Zelnick, empresa-mãe da Rockstar Games, abordou abertamente este tema no evento WSJ Tech, reconhecendo a inevitabilidade das cópias ilegais para um título do porte de GTA 6. Mas a grande questão é: o que significa estar "preparado" para um fenômeno dessa magnitude?
 
