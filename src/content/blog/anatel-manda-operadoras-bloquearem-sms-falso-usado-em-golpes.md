@@ -6,6 +6,7 @@ heroImage: '../../assets/anatel-manda-operadoras-bloquearem-sms-falso-usado-em-g
 ogImage: '../../assets/og-anatel-manda-operadoras-bloquearem-sms-falso-usado-em-golpes.webp'
 sourceUrl: 'https://canaltech.com.br/seguranca/anatel-manda-operadoras-bloquearem-sms-falso-usado-em-golpes/'
 tags: ['SegurançaDigital', 'GolpesOnline', 'Cibersegurança', 'ProteçãoDeDados']
+imageVerified: 'true'
 ---
 No cenário digital atual, onde boa parte da nossa vida, incluindo nossos valiosos perfis de jogos e transações in-game, está conectada, a segurança é uma preocupação constante. Golpes e fraudes online são uma ameaça real, e o SMS tem sido, infelizmente, uma ferramenta comum para criminosos. Pensando nisso, a Agência Nacional de Telecomunicações (Anatel) acaba de anunciar novas regras que prometem fortalecer a barreira contra essas investidas. Mas como isso afeta diretamente você, jogador brasileiro?
 
