@@ -2,10 +2,11 @@
 title: 'Esquenta Black Friday Amazon: Garanta 15% OFF em Jogos PS4/PS5!'
 description: 'A Amazon deu a largada para a Black Friday com um cupom de 15% de desconto em uma seleção de jogos de PS4 e PS5, além de acessórios. Prepare-se para atualizar sua biblioteca com grandes títulos por um preço reduzido.'
 pubDate: 'Fri Nov 06 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/esquenta-black-friday-na-amazon-traz-cupom-com-15percent-off-em-jogos.webp'
 ogImage: '../../assets/og-esquenta-black-friday-na-amazon-traz-cupom-com-15percent-off-em-jogos.webp'
 sourceUrl: 'https://meups.com.br/promocoes/esquenta-black-friday-amazon-cupom-15-off-jogos/'
 tags: ['PS4', 'PS5', 'Promoção', 'Black Friday']
+imageVerified: 'true'
 ---
 A temporada de caça às promoções está oficialmente aberta! Com a Black Friday se aproximando, a Amazon Brasil não perdeu tempo e já começou a aquecer o mercado com uma oferta imperdível para os gamers de PlayStation. Trata-se de um cupom exclusivo que garante 15% de desconto em uma vasta seleção de jogos para PS4 e PS5, além de alguns headsets, dando o pontapé inicial para as barganhas que esperamos ver nas próximas semanas. É a chance perfeita para quem busca aquela expansão, um novo lançamento ou até mesmo o headset gamer tão desejado antes da grande data.
 

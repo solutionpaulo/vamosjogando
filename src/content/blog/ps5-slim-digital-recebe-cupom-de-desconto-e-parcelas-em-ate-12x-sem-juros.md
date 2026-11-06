@@ -6,6 +6,7 @@ heroImage: '../../assets/ps5-slim-digital-recebe-cupom-de-desconto-e-parcelas-em
 ogImage: '../../assets/og-ps5-slim-digital-recebe-cupom-de-desconto-e-parcelas-em-ate-12x-sem-juros.webp'
 sourceUrl: 'https://meups.com.br/promocoes/ps5-slim-digital-recebe-cupom-12x-sem-juros/'
 tags: ['PlayStation', 'PS5', 'Promoção', 'Hardware']
+imageVerified: 'true'
 ---
 A chegada do PlayStation 5 Slim ao mercado brasileiro trouxe um novo fôlego para os entusiastas da marca, combinando o poder da nova geração com um design mais compacto. Agora, uma oferta chamativa no AliExpress promete tornar o console ainda mais acessível, especialmente a versão Digital, que já se destaca pelo custo-benefício. Para a nossa audiência, que valoriza análises aprofundadas e as melhores oportunidades, essa promoção merece atenção redobrada.
 
