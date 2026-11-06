@@ -6,6 +6,7 @@ heroImage: '../../assets/entregas-da-black-friday-podem-travar-o-transito-nas-gr
 ogImage: '../../assets/og-entregas-da-black-friday-podem-travar-o-transito-nas-grandes-cidades-do-brasil.webp'
 sourceUrl: 'https://canaltech.com.br/carros/entregas-da-black-friday-podem-travar-o-transito-nas-grandes-cidades-do-brasil/'
 tags: ['BlackFriday', 'E-commerceBrasil', 'AtrasosDeEntrega', 'LogísticaBR']
+imageVerified: 'true'
 ---
 A Black Friday no Brasil se tornou um evento colossal para o varejo, especialmente o online. Para os gamers, é a chance perfeita de arrematar aquele lançamento tão aguardado, um novo console ou periféricos com preços irresistíveis. Contudo, por trás da euforia das ofertas, esconde-se um desafio logístico que pode transformar a alegria da compra em frustração pela espera: o impacto das entregas no trânsito das grandes cidades e, consequentemente, no prazo de chegada dos seus preciosos itens gamers.
 

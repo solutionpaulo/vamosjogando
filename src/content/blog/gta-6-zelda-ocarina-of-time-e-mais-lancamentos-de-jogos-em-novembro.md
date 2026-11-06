@@ -2,10 +2,11 @@
 title: 'GTA 6, Zelda Ocarina of Time e mais lançamentos de jogos em novembro'
 description: 'Uma análise detalhada sobre a recente notícia de que GTA 6, Zelda Ocarina of Time e mais lançamentos de jogos em novembro, trazida pelo portal Canaltech.'
 pubDate: 'Fri Nov 06 2026'
-heroImage: '../../assets/gta-6-zelda-ocarina-of-time-e-mais-lancamentos-de-jogos-em-novembro.webp'
+heroImage: '../../assets/og-gta-6-zelda-ocarina-of-time-e-mais-lancamentos-de-jogos-em-novembro.webp'
 ogImage: '../../assets/og-gta-6-zelda-ocarina-of-time-e-mais-lancamentos-de-jogos-em-novembro.webp'
 sourceUrl: 'https://canaltech.com.br/games/lancamentos-jogos-novos-novembro-2026/'
 tags: ['Games', 'Canaltech', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
