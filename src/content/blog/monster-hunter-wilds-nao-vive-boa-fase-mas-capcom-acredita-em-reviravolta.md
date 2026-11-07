@@ -6,6 +6,7 @@ heroImage: '../../assets/monster-hunter-wilds-nao-vive-boa-fase-mas-capcom-acred
 ogImage: '../../assets/og-monster-hunter-wilds-nao-vive-boa-fase-mas-capcom-acredita-em-reviravolta.webp'
 sourceUrl: 'https://meups.com.br/noticias/monster-hunter-wilds-nao-vive-boa-fase-reviravolta/'
 tags: ['Monster Hunter Wilds', 'Capcom', 'Nintendo', 'PS5']
+imageVerified: 'true'
 ---
 Monster Hunter Wilds é, sem dúvida, um dos títulos mais antecipados da Capcom, prometendo levar a aclamada franquia de caça a monstros a um novo patamar no cenário dos games. Com lançamento previsto para 2025, a expectativa em torno do jogo é gigantesca. No entanto, notícias recentes trazem à tona um cenário surpreendente: o desenvolvimento, ou a percepção em torno dele, não estaria na melhor das fases. A boa notícia é que a Capcom, conhecida por sua proatividade e pela paixão de seus fãs, já estaria traçando um plano robusto para assegurar que Wilds alcance o sucesso estrondoso que merece.
 
