@@ -6,6 +6,7 @@ heroImage: '../../assets/pre-download-de-gta-6-comeca-na-proxima-semana-veja-o-q
 ogImage: '../../assets/og-pre-download-de-gta-6-comeca-na-proxima-semana-veja-o-que-fazer-antes.webp'
 sourceUrl: 'https://canaltech.com.br/games/pre-download-de-gta-6-comeca-na-proxima-semana-veja-o-que-fazer-antes/'
 tags: ['GTA 6', 'Rockstar Games', 'PlayStation 5', 'Xbox Series']
+imageVerified: 'true'
 ---
 A contagem regressiva para o lançamento de Grand Theft Auto VI está a todo vapor, e a Rockstar Games acaba de agitar a comunidade gamer com a notícia do início do pré-download! Prepare-se para mergulhar em Vice City, mas antes, confira tudo o que você precisa saber para não ficar de fora dessa.
 

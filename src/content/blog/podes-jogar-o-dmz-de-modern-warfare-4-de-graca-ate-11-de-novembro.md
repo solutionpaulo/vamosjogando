@@ -6,6 +6,7 @@ heroImage: '../../assets/podes-jogar-o-dmz-de-modern-warfare-4-de-graca-ate-11-d
 ogImage: '../../assets/og-podes-jogar-o-dmz-de-modern-warfare-4-de-graca-ate-11-de-novembro.webp'
 sourceUrl: 'https://www.eurogamer.pt/podes-jogar-o-dmz-de-modern-warfare-4-de-graca-ate-11-de-novembro'
 tags: ['Games', 'Eurogamer.pt', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

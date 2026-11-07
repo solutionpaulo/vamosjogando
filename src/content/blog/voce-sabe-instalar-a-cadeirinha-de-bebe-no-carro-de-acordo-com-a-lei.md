@@ -6,6 +6,7 @@ heroImage: '../../assets/voce-sabe-instalar-a-cadeirinha-de-bebe-no-carro-de-aco
 ogImage: '../../assets/og-voce-sabe-instalar-a-cadeirinha-de-bebe-no-carro-de-acordo-com-a-lei.webp'
 sourceUrl: 'https://canaltech.com.br/carros/voce-sabe-instalar-a-cadeirinha-de-bebe-no-carro-de-acordo-com-a-lei/'
 tags: ['SegurançaDigital', 'ControleParental', 'GamersMirins', 'FamíliaGamer']
+imageVerified: 'true'
 ---
 No mundo dos games, a emoção e a diversão são garantidas, mas a segurança, especialmente para os nossos futuros gamers, é um tema que exige atenção. Assim como a legislação brasileira impõe cuidados rigorosos para o transporte de crianças em veículos, o ambiente digital também demanda 'dispositivos de retenção' e regras claras para proteger os pequenos exploradores virtuais. Para pais gamers, entender e aplicar essas proteções é tão crucial quanto dominar a instalação de uma cadeirinha de bebê no carro.
 
