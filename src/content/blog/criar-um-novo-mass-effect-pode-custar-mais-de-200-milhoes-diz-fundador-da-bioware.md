@@ -6,6 +6,7 @@ heroImage: '../../assets/criar-um-novo-mass-effect-pode-custar-mais-de-200-milho
 ogImage: '../../assets/og-criar-um-novo-mass-effect-pode-custar-mais-de-200-milhoes-diz-fundador-da-bioware.webp'
 sourceUrl: 'https://www.eurogamer.pt/criar-um-novo-mass-effect-pode-custar-mais-de-200-milhoes-diz-fundador-da-bioware'
 tags: ['MassEffect', 'BioWare', 'RPG', 'EA']
+imageVerified: 'true'
 ---
 A recente notícia do fechamento da BioWare pela Electronic Arts e o consequente cancelamento de Mass Effect 5 abalaram a indústria e, em especial, a vasta legião de fãs da saga. Em meio a este cenário desolador, uma revelação do fundador da BioWare joga luz sobre os custos estratosféricos do desenvolvimento de jogos AAA, levantando questões cruciais sobre o futuro de franquias amadas e a viabilidade de grandes projetos.
 

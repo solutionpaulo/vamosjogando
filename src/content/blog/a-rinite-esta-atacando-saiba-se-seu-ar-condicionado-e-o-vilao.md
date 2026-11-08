@@ -6,6 +6,7 @@ heroImage: '../../assets/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o
 ogImage: '../../assets/og-a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/'
 tags: ['Saúde Gamer', 'Setup', 'Bem-estar', 'Dicas Gamer']
+imageVerified: 'true'
 ---
 Para nós, gamers, cada detalhe do ambiente importa. Um setup bem montado, periféricos de ponta e uma conexão estável são cruciais, mas o que dizer do ar que respiramos? Especialmente em regiões quentes do Brasil, o ar-condicionado é um aliado indispensável para manter o conforto durante longas horas de gameplay. No entanto, se não for bem cuidado, ele pode se transformar em um verdadeiro vilão, comprometendo sua saúde respiratória, seu foco e até mesmo sua performance no jogo. Vamos entender como proteger sua saúde e seu setup de um inimigo silencioso: a rinite e seus agravantes.
 
