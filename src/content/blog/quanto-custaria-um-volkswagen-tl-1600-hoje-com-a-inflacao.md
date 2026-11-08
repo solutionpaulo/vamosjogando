@@ -2,10 +2,11 @@
 title: 'O Preço da Nostalgia: Quanto Valeriam Consoles Clássicos Hoje?'
 description: 'Viaje no tempo conosco para desvendar como a inflação impactaria o valor de lançamento de consoles icônicos, revelando o custo real de ter uma máquina do passado hoje.'
 pubDate: 'Sun Nov 08 2026'
-heroImage: '../../assets/quanto-custaria-um-volkswagen-tl-1600-hoje-com-a-inflacao.webp'
+heroImage: '../../assets/og-quanto-custaria-um-volkswagen-tl-1600-hoje-com-a-inflacao.webp'
 ogImage: '../../assets/og-quanto-custaria-um-volkswagen-tl-1600-hoje-com-a-inflacao.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-custaria-um-volkswagen-tl-1600-hoje-com-a-inflacao/'
 tags: ['Retrogaming', 'Colecionismo', 'Hardware', 'Análise']
+imageVerified: 'true'
 ---
 A curiosidade humana por saber quanto custariam itens antigos nos dias de hoje, corrigidos pela inflação, não se restringe apenas a carros clássicos ou bens de consumo. No universo dos games, a paixão por consoles e jogos retrô move um mercado vibrante e, por vezes, especulativo. Afinal, se um Volkswagen TL 1600 de 1970 custaria quase R$ 90 mil hoje, quanto valeriam consoles que marcaram gerações, como o Super Nintendo, o PlayStation original ou o Nintendo 64, se fossem lançados agora?
 
