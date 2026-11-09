@@ -6,6 +6,7 @@ heroImage: '../../assets/alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-ap
 ogImage: '../../assets/og-alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-api-em-massa-no-github.webp'
 sourceUrl: 'https://canaltech.com.br/seguranca/alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-api-em-massa-no-github/'
 tags: ['Segurança Cibernética', 'Inteligência Artificial', 'Desenvolvimento', 'Vazamento de Dados']
+imageVerified: 'true'
 ---
 A crescente integração da Inteligência Artificial no cotidiano dos desenvolvedores trouxe inúmeros benefícios, mas também novos vetores de risco. Recentemente, o mundo da tecnologia foi sacudido por uma revelação preocupante: o Claude Code, assistente de IA da Anthropic, expôs milhares de senhas, chaves de API e outras credenciais sensíveis em repositórios públicos do GitHub. Este incidente serve como um alerta severo sobre a confiança que depositamos em ferramentas automatizadas, e suas implicações podem ecoar por todo o ecossistema digital, incluindo o desenvolvimento de jogos.
 
