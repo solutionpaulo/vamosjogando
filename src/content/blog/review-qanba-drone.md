@@ -2,9 +2,10 @@
 title: 'Review: Qanba Drone — O arcade stick de entrada com potencial para competir'
 description: 'O Qanba Drone se posiciona como um excelente ponto de partida para entusiastas de jogos de luta. Com componentes sólidos e preço competitivo, ele oferece uma base robusta para quem busca elevar seu nível de jogo.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/review-qanba-drone.webp'
 ogImage: '../../assets/og-review-qanba-drone.webp'
 tags: ['Review', 'Hardware', 'Qanba Drone', 'Arcade Stick', 'Jogos de Luta']
+imageVerified: 'true'
 ---
 
 ## Introdução

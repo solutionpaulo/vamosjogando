@@ -5,6 +5,7 @@ pubDate: 'Tue Nov 10 2026'
 heroImage: '../../assets/review-retroid-pocket-3.webp'
 ogImage: '../../assets/og-review-retroid-pocket-3.webp'
 tags: ['Review', 'Hardware', 'Retroid Pocket 3', 'Handheld', 'Emulação']
+imageVerified: 'true'
 ---
 
 ## Introdução

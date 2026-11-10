@@ -6,6 +6,7 @@ heroImage: '../../assets/novo-trailer-de-gta-6-mostra-o-que-a-versao-da-ps5-tem-
 ogImage: '../../assets/og-novo-trailer-de-gta-6-mostra-o-que-a-versao-da-ps5-tem-de-especial.webp'
 sourceUrl: 'https://www.eurogamer.pt/novo-trailer-de-gta-6-mostra-o-que-a-versao-da-ps5-tem-de-especial'
 tags: ['GTA 6', 'PlayStation 5', 'DualSense', 'Rockstar Games']
+imageVerified: 'true'
 ---
 A cada nova informação sobre Grand Theft Auto 6, a expectativa da comunidade gamer atinge níveis estratosféricos. Desta vez, a Sony e a Rockstar Games nos deram um vislumbre mais aprofundado do que a versão de PlayStation 5 do aguardado título tem a oferecer, e o grande protagonista é ele: o controle DualSense. Longe de ser apenas um acessório, o DualSense promete ser uma extensão vital da experiência de jogo, elevando a imersão a um novo patamar em Vice City.
 
