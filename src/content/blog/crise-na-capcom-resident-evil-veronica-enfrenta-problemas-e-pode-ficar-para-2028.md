@@ -6,6 +6,7 @@ heroImage: '../../assets/crise-na-capcom-resident-evil-veronica-enfrenta-problem
 ogImage: '../../assets/og-crise-na-capcom-resident-evil-veronica-enfrenta-problemas-e-pode-ficar-para-2028.webp'
 sourceUrl: 'https://canaltech.com.br/games/crise-na-capcom-remake-de-resident-evil-code-veronica-enfrenta-problemas-e-pode-ficar-para-2028/'
 tags: ['Resident Evil', 'Capcom', 'Remake', 'Survival Horror']
+imageVerified: 'true'
 ---
 A comunidade de fãs de Resident Evil aguarda ansiosamente o remake de Code: Veronica, um dos títulos mais pedidos para ganhar uma nova versão. No entanto, boatos recentes vindos de fontes geralmente confiáveis indicam que o lançamento pode estar mais distante do que o esperado, levantando questões sobre o cronograma da Capcom e a direção do projeto. Os vazamentos sugerem que o game pode não ver a luz do dia antes do fim de 2027 ou até mesmo 2028.
 
