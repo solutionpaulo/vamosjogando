@@ -2,7 +2,7 @@
 title: 'Review: AYANOO NEXT — O Poderoso Portátil Windows para Gamers Exigentes'
 description: 'O AYANOO NEXT entrega performance robusta de um PC em formato compacto, ideal para quem busca o máximo em portabilidade sem abrir mão da potência, mas seu preço elevado o posiciona para um nicho de entusiastas.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: ../../assets/og-review-ayanoo-next.webp
 ogImage: '../../assets/og-review-ayanoo-next.webp'
 tags: ['Review', 'Hardware', 'AYANOO NEXT', 'Handheld Gamer', 'PC Portátil']
 ---
