@@ -235,6 +235,26 @@ const REVIEW_TOPICS = [
   { name: 'AYANEO Pocket', search: 'AYANEO Pocket handheld' },
   { name: 'OneXPlayer', search: 'OneXPlayer handheld PC' },
 
+  // === Controladores Mobile ===
+  { name: 'Razer Kishi V2 Pro', search: 'Razer Kishi V2 Pro' },
+  { name: 'Steam Deck OLED', search: 'Steam Deck OLED' },
+
+  // === Handhelds Windows ===
+  { name: 'AYANOO NEXT', search: 'AYANOO NEXT handheld' },
+
+  // === Controladores Hall Effect ===
+  { name: 'GameSir T4K', search: 'GameSir T4K controller' },
+
+  // === Áudio Streaming ===
+  { name: 'Rode NT-USB Mini', search: 'Rode NT-USB Mini microphone' },
+  { name: 'Samsung Odyssey G6', search: 'Samsung Odyssey G6 monitor' },
+
+  // === Mouses ===
+  { name: 'Logitech G502 X', search: 'Logitech G502 X mouse' },
+
+  // === Headsets ===
+  { name: 'HyperX Cloud II', search: 'HyperX Cloud II headset' },
+
   // === Headsets / Áudio ===
   { name: 'SteelSeries Arctis Nova 5', search: 'SteelSeries Arctis Nova 5 headset' },
   { name: 'Logitech G733', search: 'Logitech G733 headset' },
