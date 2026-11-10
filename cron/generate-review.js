@@ -224,6 +224,17 @@ const REVIEW_TOPICS = [
   { name: 'Razer Wolverine V3 Pro', search: 'Razer Wolverine V3 Pro controller' },
   { name: 'Moza Racing R5', search: 'Moza R5 racing wheel' },
 
+  // === Joysticks e Arcade Sticks ===
+  { name: 'Qanba Drone', search: 'Qanba Drone arcade stick' },
+  { name: 'Hori Fightstick', search: 'Hori Fightstick arcade stick' },
+  { name: '8BitDo SN30 Pro', search: '8BitDo SN30 Pro' },
+  { name: '8BitDo SFC30', search: '8BitDo SFC30' },
+
+  // === Portáteis Avançados ===
+  { name: 'Retroid Pocket 3', search: 'Retroid Pocket 3 handheld' },
+  { name: 'AYANEO Pocket', search: 'AYANEO Pocket handheld' },
+  { name: 'OneXPlayer', search: 'OneXPlayer handheld PC' },
+
   // === Headsets / Áudio ===
   { name: 'SteelSeries Arctis Nova 5', search: 'SteelSeries Arctis Nova 5 headset' },
   { name: 'Logitech G733', search: 'Logitech G733 headset' },
