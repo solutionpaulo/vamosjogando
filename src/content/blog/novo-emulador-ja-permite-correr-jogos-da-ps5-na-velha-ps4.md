@@ -6,6 +6,7 @@ heroImage: '../../assets/novo-emulador-ja-permite-correr-jogos-da-ps5-na-velha-p
 ogImage: '../../assets/og-novo-emulador-ja-permite-correr-jogos-da-ps5-na-velha-ps4.webp'
 sourceUrl: 'https://www.eurogamer.pt/novo-emulador-ja-permite-correr-jogos-da-ps5-na-velha-ps4'
 tags: ['PlayStation', 'Emulação', 'PS4', 'PS5']
+imageVerified: 'true'
 ---
 A paixão por games sempre nos impulsiona a querer o melhor, a ter acesso aos títulos mais recentes e gráficos de ponta. No entanto, nem sempre a atualização para a nova geração de consoles é imediata para todos. É nesse cenário que surge uma notícia que agitou a comunidade gamer: um novo emulador estaria permitindo rodar jogos do PlayStation 5 na "velha" PlayStation 4. Mas será que é tão simples quanto parece? Vamos mergulhar nos detalhes e entender a real dimensão dessa novidade.
 

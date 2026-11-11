@@ -2,9 +2,10 @@
 title: 'Review: OneXPlayer — O PC gamer de bolso com Windows completo'
 description: 'Analisamos o OneXPlayer, um potente PC portátil que roda Windows e promete jogos AAA em qualquer lugar. Descubra se este console-PC vale o investimento para gamers exigentes.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: '../../assets/review-onexplayer.webp'
+heroImage: '../../assets/og-review-onexplayer.webp'
 ogImage: '../../assets/og-review-onexplayer.webp'
 tags: ['Review', 'Hardware', 'OneXPlayer', 'Handheld PC', 'PC Gamer Portátil']
+imageVerified: 'true'
 ---
 
 ## Introdução

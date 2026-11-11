@@ -2,9 +2,10 @@
 title: 'Review: Samsung Odyssey G6 — O monitor gamer que também é Smart TV?'
 description: 'Analisamos o Samsung Odyssey G6, um monitor gamer QHD de 240Hz com recursos de Smart TV Tizen. Descubra se a fusão de jogo e entretenimento vale o investimento para seu setup.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: ../../assets/og-review-samsung-odyssey-g6.webp
+heroImage: '../../assets/review-samsung-odyssey-g6.webp'
 ogImage: '../../assets/og-review-samsung-odyssey-g6.webp'
 tags: ['Review', 'Hardware', 'Samsung', 'Monitor Gamer', 'Odyssey G6', 'Smart Monitor']
+imageVerified: 'true'
 ---
 
 ## Introdução

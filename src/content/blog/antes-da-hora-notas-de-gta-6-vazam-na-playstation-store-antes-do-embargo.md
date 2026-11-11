@@ -6,6 +6,7 @@ heroImage: '../../assets/antes-da-hora-notas-de-gta-6-vazam-na-playstation-store
 ogImage: '../../assets/og-antes-da-hora-notas-de-gta-6-vazam-na-playstation-store-antes-do-embargo.webp'
 sourceUrl: 'https://canaltech.com.br/games/antes-da-hora-notas-de-gta-6-vazam-na-playstation-store-antes-do-embargo/'
 tags: ['GTA 6', 'Rockstar Games', 'PlayStation', 'Xbox']
+imageVerified: 'true'
 ---
 A cada novo vazamento, a expectativa por Grand Theft Auto VI atinge níveis estratosféricos. Desta vez, o burburinho vem das plataformas digitais da Sony e Microsoft, onde notas de avaliação de GTA 6 foram registradas antes mesmo do embargo oficial, reacendendo a discussão sobre a ansiedade em torno de um dos jogos mais aguardados da década.
 

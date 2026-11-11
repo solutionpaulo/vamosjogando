@@ -2,9 +2,10 @@
 title: 'Review: Rode NT-USB Mini — Qualidade de estúdio em formato compacto'
 description: 'Avaliamos o Rode NT-USB Mini, um microfone USB que promete áudio com qualidade de estúdio e design compacto. Descubra se ele é a escolha ideal para streamers e criadores de conteúdo que buscam simplicidade e performance.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: ../../assets/og-review-rode-nt-usb-mini.webp
+heroImage: '../../assets/og-review-rode-nt-usb-mini.webp'
 ogImage: '../../assets/og-review-rode-nt-usb-mini.webp'
 tags: ['Review', 'Hardware', 'Rode NT-USB Mini', 'Microfone Gamer', 'Streaming']
+imageVerified: 'true'
 ---
 
 ## Introdução

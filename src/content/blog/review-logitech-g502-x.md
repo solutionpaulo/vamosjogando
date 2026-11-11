@@ -6,6 +6,7 @@ pubDate: 'Tue Nov 10 2026'
 heroImage: '../../assets/review-logitech-g502-x.webp'
 ogImage: '../../assets/og-review-logitech-g502-x.webp'
 tags: ['Review', 'Hardware', 'Logitech G502 X', 'Mouse Gamer', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

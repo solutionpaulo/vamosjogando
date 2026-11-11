@@ -6,6 +6,7 @@ heroImage: '../../assets/sony-deita-fora-anos-de-trabalho-e-cancela-fairgamedoll
 ogImage: '../../assets/og-sony-deita-fora-anos-de-trabalho-e-cancela-fairgamedollar.webp'
 sourceUrl: 'https://www.eurogamer.pt/sony-deita-fora-anos-de-trabalho-e-cancela-fairgame'
 tags: ['Games', 'Eurogamer.pt', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

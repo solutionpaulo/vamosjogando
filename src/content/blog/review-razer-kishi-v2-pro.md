@@ -2,9 +2,10 @@
 title: 'Review: Razer Kishi V2 Pro — A experiência console premium com feedback háptico'
 description: 'O Razer Kishi V2 Pro eleva o jogo mobile com feedback háptico avançado e design ergonômico. Descubra se este controlador premium é o upgrade que seu smartphone gamer precisa.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: '../../assets/review-razer-kishi-v2-pro.webp'
+heroImage: '../../assets/og-review-razer-kishi-v2-pro.webp'
 ogImage: '../../assets/og-review-razer-kishi-v2-pro.webp'
 tags: ['Review', 'Hardware', 'Razer Kishi V2 Pro', 'Controle Mobile', 'Gaming Mobile']
+imageVerified: 'true'
 ---
 
 ## Introdução
