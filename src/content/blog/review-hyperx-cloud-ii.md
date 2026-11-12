@@ -2,9 +2,10 @@
 title: 'Review: HyperX Cloud II - Vale a Pena o Investimento?'
 description: 'Analisamos detalhadamente o HyperX Cloud II: design, desempenho, ergonomia e custo-benefício. Veja se este é o periférico ideal para o seu setup gamer.'
 pubDate: 'Tue Nov 10 2026'
-heroImage: '../../assets/review-hyperx-cloud-ii.webp'
+heroImage: '../../assets/og-review-hyperx-cloud-ii.webp'
 ogImage: '../../assets/og-review-hyperx-cloud-ii.webp'
 tags: ['Hardware', 'HyperX Cloud II', 'Review', 'Periféricos Gamer']
+imageVerified: 'true'
 ---
 
 ## Introdução

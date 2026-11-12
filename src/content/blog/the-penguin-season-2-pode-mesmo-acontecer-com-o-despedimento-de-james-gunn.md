@@ -6,6 +6,7 @@ heroImage: '../../assets/the-penguin-season-2-pode-mesmo-acontecer-com-o-despedi
 ogImage: '../../assets/og-the-penguin-season-2-pode-mesmo-acontecer-com-o-despedimento-de-james-gunn.webp'
 sourceUrl: 'https://www.eurogamer.pt/the-penguin-season-2-pode-mesmo-acontecer-com-o-despedimento-de-james-gunn'
 tags: ['DCU', 'Batman', 'Warner Bros.', 'The Penguin']
+imageVerified: 'true'
 ---
 A primeira temporada de The Penguin, spin-off do aclamado filme 'The Batman' de Matt Reeves, não apenas superou as expectativas, mas também conquistou uma legião de fãs e diversos prêmios, consolidando a performance icônica de Colin Farrell como Oswald Cobblepot. Em um momento de grandes transformações para o Universo DC nos cinemas e na televisão, a notícia de uma possível segunda temporada da série ressoa como um sinal claro da nova estratégia da DC Studios: investir em talentos comprovados e em narrativas de alta qualidade que cativam o público. Essa aposta pode redefinir o futuro da franquia, impactando até mesmo o universo dos games.
 
