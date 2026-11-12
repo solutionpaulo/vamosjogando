@@ -23,7 +23,7 @@ const posts = await getAllPosts();
 </BaseLayout>
 
 <script>
-  const BASE = document.querySelector('meta[name="base-url"]')?.content || '/vamosjogando';
+  const BASE = document.querySelector('meta[name="base-url"]')?.content || '/';
   const posts = JSON.parse(document.getElementById('search-data').textContent);
   const input = document.getElementById('search-input');
   const results = document.getElementById('results');
