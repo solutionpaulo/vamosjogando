@@ -6,6 +6,7 @@ heroImage: '../../assets/halo-campaign-evolved-vai-receber-cooperativo-para-4.we
 ogImage: '../../assets/og-halo-campaign-evolved-vai-receber-cooperativo-para-4.webp'
 sourceUrl: 'https://www.eurogamer.pt/halo-campaign-evolved-vai-receber-cooperativo-para-4'
 tags: ['Halo', 'Xbox', 'FPS', 'Cooperativo']
+imageVerified: 'true'
 ---
 A franquia Halo sempre foi sinônimo de combate épico e, para muitos, de experiências multiplayer inesquecíveis. Agora, a 343 Industries está elevando a barra novamente, trazendo uma atualização aguardada que promete revolucionar a forma como os fãs de longa data e novos jogadores vivenciam a campanha de "Halo: Campaign Evolved". Prepare-se para recrutar seu esquadrão, pois o caos cooperativo está prestes a ser liberado para até quatro jogadores.
 

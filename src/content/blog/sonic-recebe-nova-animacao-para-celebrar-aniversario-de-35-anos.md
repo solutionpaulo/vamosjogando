@@ -6,6 +6,7 @@ heroImage: '../../assets/sonic-recebe-nova-animacao-para-celebrar-aniversario-de
 ogImage: '../../assets/og-sonic-recebe-nova-animacao-para-celebrar-aniversario-de-35-anos.webp'
 sourceUrl: 'https://meups.com.br/noticias/sonic-recebe-nova-animacao-aniversario-35-anos/'
 tags: ['Sonic', 'SEGA', 'Animação', 'Aniversário']
+imageVerified: 'true'
 ---
 ## Sonic Completa 35 Anos: Uma Jornada Veloz
 
