@@ -1,1 +1,1 @@
-export const ADSENSE_CLIENT_ID = '';
+export const ADSENSE_CLIENT_ID = 'ca-pub-1032574173444348';
