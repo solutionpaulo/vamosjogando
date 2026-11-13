@@ -2,8 +2,8 @@
 title: 'Sonic 35 Anos: ''Memórias e Além'' Celebra o Ícone Azul com Estilo!'
 description: 'A SEGA comemora os 35 anos de Sonic the Hedgehog com uma nova animação, ''Memórias e Além'', prometendo um olhar nostálgico e emocionante para o futuro do ouriço.'
 pubDate: 'Thu Nov 12 2026'
-heroImage: '../../assets/sonic-recebe-nova-animacao-para-celebrar-aniversario-de-35-anos.webp'
-ogImage: '../../assets/og-sonic-recebe-nova-animacao-para-celebrar-aniversario-de-35-anos.webp'
+heroImage: 'https://cdn.sega.co.uk/mhc-sega/public/styles/480/public/content/media/images/raster/s_sonic_35th_logo-5c0234f6.png.webp?itok=Cc3Klel7'
+ogImage: 'https://cdn.sega.co.uk/mhc-sega/public/styles/480/public/content/media/images/raster/s_sonic_35th_logo-5c0234f6.png.webp?itok=Cc3Klel7'
 sourceUrl: 'https://meups.com.br/noticias/sonic-recebe-nova-animacao-aniversario-35-anos/'
 tags: ['Sonic', 'SEGA', 'Animação', 'Aniversário']
 imageVerified: 'true'
