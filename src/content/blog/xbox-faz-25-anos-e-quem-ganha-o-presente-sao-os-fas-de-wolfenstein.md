@@ -6,6 +6,7 @@ heroImage: '../../assets/xbox-faz-25-anos-e-quem-ganha-o-presente-sao-os-fas-de-
 ogImage: '../../assets/og-xbox-faz-25-anos-e-quem-ganha-o-presente-sao-os-fas-de-wolfenstein.webp'
 sourceUrl: 'https://canaltech.com.br/games/xbox-faz-25-anos-e-quem-ganha-o-presente-sao-os-fas-de-wolfenstein/'
 tags: ['Wolfenstein', 'Xbox', 'FPS', 'MachineGames']
+imageVerified: 'true'
 ---
 A Microsoft celebrou os 25 anos do Xbox com uma série de anúncios bombásticos, e o presente mais esperado pelos fãs de shooters e narrativas robustas acaba de ser confirmado: Wolfenstein 3 está oficialmente em produção! A notícia, divulgada pela CEO do Xbox, Asha Sharma, e posteriormente pela MachineGames, acende a chama da expectativa para o retorno de um dos protagonistas mais carismáticos e brutais dos games, BJ Blazkowicz.
 

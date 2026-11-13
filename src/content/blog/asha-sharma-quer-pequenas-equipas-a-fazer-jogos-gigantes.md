@@ -6,6 +6,7 @@ heroImage: '../../assets/asha-sharma-quer-pequenas-equipas-a-fazer-jogos-gigante
 ogImage: '../../assets/og-asha-sharma-quer-pequenas-equipas-a-fazer-jogos-gigantes.webp'
 sourceUrl: 'https://www.eurogamer.pt/asha-sharma-quer-pequenas-equipas-a-fazer-jogos-gigantes'
 tags: ['Games', 'Eurogamer.pt', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 

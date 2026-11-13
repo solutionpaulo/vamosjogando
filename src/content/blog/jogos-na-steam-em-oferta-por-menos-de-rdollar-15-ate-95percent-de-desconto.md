@@ -6,6 +6,7 @@ heroImage: '../../assets/jogos-na-steam-em-oferta-por-menos-de-rdollar-15-ate-95
 ogImage: '../../assets/og-jogos-na-steam-em-oferta-por-menos-de-rdollar-15-ate-95percent-de-desconto.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-por-menos-de-r-15-ate-95-de-desconto/'
 tags: ['Games', 'Adrenaline', 'Novidades']
+imageVerified: 'true'
 ---
 ## O que aconteceu?
 
