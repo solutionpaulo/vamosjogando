@@ -2,10 +2,11 @@
 title: 'Baldur''s Gate 3: O RPG que Redefiniu a Barra para o Gênero?'
 description: 'Analisamos como Baldur''s Gate 3 elevou o padrão para RPGs e o impacto de suas escolhas nos jogadores e desenvolvedores.'
 pubDate: 'Sat Nov 14 2026'
-heroImage: '../../assets/farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa.webp'
+heroImage: '../../assets/og-farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa.webp'
 ogImage: '../../assets/og-farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa.webp'
 sourceUrl: 'https://canaltech.com.br/carros/farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa/'
 tags: ['Baldur''sGate3', 'RPG', 'LarianStudios', 'Análise']
+imageVerified: 'true'
 ---
 Baldur's Gate 3 não é apenas mais um jogo de RPG; ele se tornou um fenômeno cultural e um divisor de águas na indústria dos games. Lançado pela Larian Studios, este título não só resgatou uma franquia amada, mas também demonstrou o poder da liberdade do jogador, da narrativa ramificada e de um desenvolvimento focado na qualidade. Muitos se perguntam: seria este o novo paradigma para o gênero?
 

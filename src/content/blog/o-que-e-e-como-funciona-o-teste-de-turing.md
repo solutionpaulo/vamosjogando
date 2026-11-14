@@ -6,6 +6,7 @@ heroImage: '../../assets/o-que-e-e-como-funciona-o-teste-de-turing.webp'
 ogImage: '../../assets/og-o-que-e-e-como-funciona-o-teste-de-turing.webp'
 sourceUrl: 'https://canaltech.com.br/ciencia-e-espaco/o-que-e-e-como-funciona-o-teste-de-turing/'
 tags: ['InteligênciaArtificial', 'TesteDeTuring', 'GPT-4', 'ÉticaIA']
+imageVerified: 'true'
 ---
 Alan Turing, um dos pais da computação moderna, propôs em 1950 um desafio que parecia distante: uma máquina conseguiria imitar a inteligência humana a ponto de ser indistinguível em uma conversa? O que antes era ficção científica, agora é uma realidade cada vez mais presente, com os avanços explosivos da Inteligência Artificial e dos modelos de linguagem. Prepare-se, pois a linha entre o humano e o artificial nunca foi tão tênue.
 
