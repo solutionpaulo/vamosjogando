@@ -6,6 +6,7 @@ heroImage: '../../assets/soundbar-jbl-quanto-vale-pagar-na-black-friday-2026.web
 ogImage: '../../assets/og-soundbar-jbl-quanto-vale-pagar-na-black-friday-2026.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/soundbar-jbl-quanto-vale-pagar-na-black-friday-2026/'
 tags: ['Áudio Gaming', 'Soundbar', 'JBL', 'Black Friday']
+imageVerified: 'true'
 ---
 No mundo dos games, a imagem é apenas metade da batalha. Um áudio imersivo pode transformar completamente a experiência, elevando a tensão, a emoção e até a performance em jogos competitivos. Com a Black Friday de 2026 se aproximando, a busca por upgrades no setup gamer se intensifica. E para quem busca um som de cinema sem a complexidade de um home theater completo, as soundbars JBL Cinema SB180 e SB595 surgem como fortes candidatas. Mas qual delas realmente vale a pena para o seu perfil de jogador? Nós do Vamos Jogando mergulhamos nos detalhes para te ajudar a escolher.
 

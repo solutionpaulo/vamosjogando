@@ -6,6 +6,7 @@ heroImage: '../../assets/nintendo-3ds-no-switch-site-de-zelda-da-esperancas-de-q
 ogImage: '../../assets/og-nintendo-3ds-no-switch-site-de-zelda-da-esperancas-de-que-isso-vai-acontecer.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/nintendo-3ds-no-switch-site-de-zelda-da-esperancas-de-que-isso-vai-acontecer/'
 tags: ['Nintendo Switch', '3DS', 'Zelda', 'Retrocompatibilidade']
+imageVerified: 'true'
 ---
 A comunidade gamer sempre sonha com a possibilidade de revisitar clássicos em plataformas modernas, e a Nintendo, com seu histórico de inovações e catálogos vastos, frequentemente alimenta essa expectativa. Recentemente, um detalhe no site oficial de The Legend of Zelda reacendeu a esperança de algo que muitos fãs do Switch anseiam: a chegada dos aclamados jogos do Nintendo 3DS ao console híbrido.
 
