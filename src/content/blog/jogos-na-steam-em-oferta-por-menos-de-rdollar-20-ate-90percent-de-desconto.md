@@ -2,10 +2,11 @@
 title: 'Steam Em Chamas: Jogos Por Menos de R$20 Para Você Ampliar Sua Biblioteca!'
 description: 'Aproveite a nova leva de promoções da Steam que traz centenas de títulos para PC por menos de R$20, com descontos que chegam a 90% por tempo limitado. Uma chance imperdível de expandir sua biblioteca de jogos sem esvaziar a carteira.'
 pubDate: 'Sat Nov 14 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/jogos-na-steam-em-oferta-por-menos-de-rdollar-20-ate-90percent-de-desconto.webp'
 ogImage: '../../assets/og-jogos-na-steam-em-oferta-por-menos-de-rdollar-20-ate-90percent-de-desconto.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-por-menos-de-r-20-ate-95-de-desconto/'
 tags: ['Steam', 'Promoções', 'PC Gaming', 'Jogos Baratos']
+imageVerified: 'true'
 ---
 O universo dos games para PC está sempre em constante movimento, e a Steam, a maior plataforma de distribuição digital de jogos, é mestre em manter a chama acesa com suas frequentes e aguardadas promoções. Periodicamente, a plataforma se renova, trazendo ofertas que permitem aos jogadores expandir suas bibliotecas sem comprometer o orçamento, uma tática especialmente bem-vinda em mercados como o brasileiro, onde o custo de vida e dos próprios jogos pode ser um desafio.
 
