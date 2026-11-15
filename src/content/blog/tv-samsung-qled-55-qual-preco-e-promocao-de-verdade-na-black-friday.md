@@ -6,6 +6,7 @@ heroImage: '../../assets/tv-samsung-qled-55-qual-preco-e-promocao-de-verdade-na-
 ogImage: '../../assets/og-tv-samsung-qled-55-qual-preco-e-promocao-de-verdade-na-black-friday.webp'
 sourceUrl: 'https://canaltech.com.br/tv/tv-samsung-qled-55-qual-preco-e-promocao-de-verdade-na-black-friday/'
 tags: ['Black Friday', 'TV Gamer', 'QLED', 'Mini LED']
+imageVerified: 'true'
 ---
 A Black Friday se aproxima e, com ela, a promessa de grandes descontos em eletrônicos. Para o gamer brasileiro, essa é a chance de ouro para turbinar o setup com uma TV nova, mas a empolgação pode ser um tiro no pé se a 'promoção' não for real. Neste guia, o 'Vamos Jogando' te ajuda a navegar pelo mar de ofertas das TVs Samsung QLED de 55 polegadas, garantindo que você faça um investimento inteligente para suas sessões de jogo.
 

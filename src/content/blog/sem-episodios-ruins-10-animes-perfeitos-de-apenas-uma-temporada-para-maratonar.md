@@ -6,6 +6,7 @@ heroImage: '../../assets/sem-episodios-ruins-10-animes-perfeitos-de-apenas-uma-t
 ogImage: '../../assets/og-sem-episodios-ruins-10-animes-perfeitos-de-apenas-uma-temporada-para-maratonar.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/animes-sem-episodios-ruins-com-apenas-uma-temporada/'
 tags: ['Anime', 'Maratona', 'Thriller', 'FicçãoCientífica']
+imageVerified: 'true'
 ---
 Para muitos de nós, gamers, o tempo é um recurso precioso. Entre sessões de jogos multiplayer, zerar o último RPG e acompanhar lançamentos, arranjar horas para se aprofundar em animes de dezenas (ou centenas!) de episódios pode ser um desafio. A boa notícia é que não é preciso sacrificar a qualidade ou o enredo para desfrutar de uma excelente animação japonesa. Existe um universo de obras fantásticas que entregam uma história completa, sem enrolação e sem aquele temido “filler”, em apenas uma temporada.
 
