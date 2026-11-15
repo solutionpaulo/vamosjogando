@@ -6,6 +6,7 @@ heroImage: '../../assets/quanto-custaria-um-fiat-punto-hoje-com-a-inflacao.webp'
 ogImage: '../../assets/og-quanto-custaria-um-fiat-punto-hoje-com-a-inflacao.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quanto-custaria-um-fiat-punto-hoje-com-a-inflacao/'
 tags: ['Playstation', 'PS2', 'RetroGaming', 'EconomiaGamer']
+imageVerified: 'true'
 ---
 O PlayStation 2 não foi apenas um console; foi um fenômeno cultural que marcou gerações de gamers no Brasil. Lançado no início dos anos 2000, ele dominou o mercado com sua vasta biblioteca de jogos e acessibilidade, tornando-se um item quase obrigatório em muitos lares. Mas, em um cenário de preços em constante mudança, você já parou para pensar quanto custaria um PS2 novo hoje, corrigido pela inflação? Essa curiosidade nos leva a uma viagem ao passado para entender o presente do poder de compra no universo dos games. É uma reflexão sobre a nostalgia e a realidade econômica que molda nosso hobby preferido.
 
