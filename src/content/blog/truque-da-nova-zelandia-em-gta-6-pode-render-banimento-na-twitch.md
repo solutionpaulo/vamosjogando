@@ -6,6 +6,7 @@ heroImage: '../../assets/truque-da-nova-zelandia-em-gta-6-pode-render-banimento-
 ogImage: '../../assets/og-truque-da-nova-zelandia-em-gta-6-pode-render-banimento-na-twitch.webp'
 sourceUrl: 'https://canaltech.com.br/games/truque-da-nova-zelandia-em-gta-6-pode-render-banimento-na-twitch/'
 tags: ['GTA 6', 'Twitch', 'Banimento', 'Streaming']
+imageVerified: 'true'
 ---
 A ansiedade por Grand Theft Auto 6 é palpável, e muitos fãs e criadores de conteúdo buscam qualquer forma de ter acesso ao jogo antes do lançamento oficial. Uma estratégia comum em outros lançamentos é o famoso 'truque da Nova Zelândia', que consiste em ajustar o fuso horário ou VPN para o país que recebe o game primeiro. No entanto, para GTA 6, essa tática pode ter consequências graves para streamers na Twitch.
 
