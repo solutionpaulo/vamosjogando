@@ -2,10 +2,11 @@
 title: 'Spyro: A Realm Beyond Pode Brilhar no The Game Awards 2026!'
 description: 'Activision e Toys For Bob sugerem a possível presença do aguardado Spyro: A Realm Beyond no palco do The Game Awards 2026. Prepare-se para possíveis novidades do dragão roxo no futuro próximo.'
 pubDate: 'Tue Nov 17 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/spyro-a-realm-beyond-deve-aparecer-no-the-game-awards-2026.webp'
 ogImage: '../../assets/og-spyro-a-realm-beyond-deve-aparecer-no-the-game-awards-2026.webp'
 sourceUrl: 'https://meups.com.br/noticias/spyro-a-realm-beyond-deve-aparecer-the-game-awards-26/'
 tags: ['Spyro', 'Activision', 'TheGameAwards', 'Plataforma']
+imageVerified: 'true'
 ---
 A comunidade gamer está sempre atenta aos sinais de novas aventuras, e um rumor recente tem atiçado a curiosidade dos fãs do carismático dragão roxo. A possibilidade de Spyro: A Realm Beyond fazer uma aparição no prestigiado The Game Awards 2026, embora distante, já gera burburinho, prometendo um futuro brilhante para a franquia clássica. Vamos mergulhar no que essa especulação pode significar para o futuro de Spyro e para os jogadores brasileiros.
 

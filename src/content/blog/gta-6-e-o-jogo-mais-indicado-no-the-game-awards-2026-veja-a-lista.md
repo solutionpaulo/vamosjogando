@@ -6,6 +6,7 @@ heroImage: '../../assets/gta-6-e-o-jogo-mais-indicado-no-the-game-awards-2026-ve
 ogImage: '../../assets/og-gta-6-e-o-jogo-mais-indicado-no-the-game-awards-2026-veja-a-lista.webp'
 sourceUrl: 'https://canaltech.com.br/games/gta-6-e-o-jogo-mais-indicado-no-the-game-awards-2026-veja-a-lista/'
 tags: ['GTA6', 'TheGameAwards', 'Zelda', 'Nintendo']
+imageVerified: 'true'
 ---
 O The Game Awards 2026 já está aquecendo os motores da comunidade gamer, e a lista de indicados revelada nesta terça-feira (17) trouxe surpresas e confirmações. Como esperado, Grand Theft Auto VI se destacou, liderando com impressionantes 8 indicações. No entanto, o que realmente chamou a atenção foi a concorrência acirrada pelo cobiçado prêmio de Jogo do Ano, prometendo uma noite de gala inesquecível para os fãs brasileiros e mundiais.
 
