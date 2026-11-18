@@ -6,6 +6,7 @@ heroImage: '../../assets/google-testa-recurso-no-android-para-usar-o-mesmo-numer
 ogImage: '../../assets/og-google-testa-recurso-no-android-para-usar-o-mesmo-numero-em-dois-celulares.webp'
 sourceUrl: 'https://canaltech.com.br/software/google-testa-recurso-no-android-para-usar-o-mesmo-numero-em-dois-celulares/'
 tags: ['Android', 'Google', 'Tecnologia', 'Smartphones']
+imageVerified: 'true'
 ---
 No mundo conectado dos games, a tecnologia não para de evoluir e impacta nossa vida em todas as frentes. Recentemente, uma notícia do universo Android chamou nossa atenção, prometendo uma revolução na forma como interagimos com nossos smartphones. O Google está nos bastidores desenvolvendo o 'Android Fast Switch', uma ferramenta que pode mudar a dinâmica de quem usa mais de um aparelho no dia a dia, trazendo conveniência para o gamer e o profissional.
 

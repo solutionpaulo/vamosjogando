@@ -6,6 +6,7 @@ heroImage: '../../assets/instagram-agora-permite-editar-stories-depois-de-public
 ogImage: '../../assets/og-instagram-agora-permite-editar-stories-depois-de-publicar-veja-como.webp'
 sourceUrl: 'https://canaltech.com.br/apps/instagram-agora-permite-editar-stories-depois-de-publicar-veja-como/'
 tags: ['Redes Sociais', 'Criadores de Conteúdo', 'Streaming', 'Dicas']
+imageVerified: 'true'
 ---
 Para a vibrante comunidade gamer brasileira, onde a agilidade e a conexão são essenciais, as redes sociais se tornaram plataformas cruciais. Seja para anunciar uma live, compartilhar um momento épico de gameplay ou interagir com a audiência, o Instagram Stories é uma ferramenta poderosa. Agora, uma novidade pode simplificar ainda mais a vida de quem produz conteúdo: a possibilidade de editar Stories já publicados.
 
