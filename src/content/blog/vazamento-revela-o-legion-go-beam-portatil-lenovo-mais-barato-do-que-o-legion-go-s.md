@@ -2,10 +2,11 @@
 title: 'Legion Go Beam Vazado: Lenovo mira no custo-benefício para portáteis no Brasil!'
 description: 'Um vazamento sugere que a Lenovo está preparando o Legion Go Beam, uma versão mais acessível do seu PC portátil, sacrificando recursos para atingir um preço competitivo e expandir seu alcance.'
 pubDate: 'Thu Nov 19 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/og-vazamento-revela-o-legion-go-beam-portatil-lenovo-mais-barato-do-que-o-legion-go-s.webp'
 ogImage: '../../assets/og-vazamento-revela-o-legion-go-beam-portatil-lenovo-mais-barato-do-que-o-legion-go-s.webp'
 sourceUrl: 'https://www.adrenaline.com.br/mobile/vazamento-revela-o-legion-go-beam-portatil-lenovo-mais-barato-do-que-o-legion-go-s/'
 tags: ['Lenovo', 'LegionGo', 'PCPortátil', 'Hardware']
+imageVerified: 'true'
 ---
 O mercado de PCs portáteis para jogos explodiu nos últimos anos, com gigantes como o Steam Deck, ROG Ally e, claro, o próprio Legion Go da Lenovo, competindo pela atenção dos gamers. No entanto, o preço ainda é uma barreira significativa para muitos entusiastas, especialmente no Brasil. Agora, um novo vazamento da Adrenaline aponta para uma estratégia da Lenovo para mudar esse cenário: o **Legion Go Beam**, uma versão mais enxuta e potencialmente mais barata.
 
