@@ -2,10 +2,11 @@
 title: 'Master Road X10: Mechrevo Traz Poder e IA ao Mundo dos Mini PCs Gamer'
 description: 'A Mechrevo revoluciona o mercado de mini PCs com o Master Road X10, integrando a tecnologia RTX Spark para otimização de SSD via IA. Conheça o futuro da computação compacta e potente.'
 pubDate: 'Fri Nov 20 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/og-mechrevo-lanca-master-road-x10-novo-mini-pc-com-rtx-spark.webp'
 ogImage: '../../assets/og-mechrevo-lanca-master-road-x10-novo-mini-pc-com-rtx-spark.webp'
 sourceUrl: 'https://www.adrenaline.com.br/nvidia/mechrevo-lanca-master-road-x10-novo-mini-pc-com-rtx-spark/'
 tags: ['Mini PC', 'Hardware Gamer', 'Inteligência Artificial', 'Mechrevo']
+imageVerified: 'true'
 ---
 A era dos gabinetes gigantes pode estar com os dias contados. Com a evolução da tecnologia de hardware, cada vez mais empresas buscam entregar performance de ponta em formatos compactos. A Mechrevo, conhecida por suas inovações, entra de vez na competição dos mini PCs com o lançamento do Master Road X10, prometendo não apenas um design reduzido, mas também uma tecnologia proprietária que pode mudar a forma como interagimos com o armazenamento de dados.
 
