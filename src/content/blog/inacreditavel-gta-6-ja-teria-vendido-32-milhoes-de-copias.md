@@ -6,6 +6,7 @@ heroImage: '../../assets/inacreditavel-gta-6-ja-teria-vendido-32-milhoes-de-copi
 ogImage: '../../assets/og-inacreditavel-gta-6-ja-teria-vendido-32-milhoes-de-copias.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/inacreditavel-gta-6-ja-teria-vendido-32-milhoes-de-copias/'
 tags: ['GTA6', 'RockstarGames', 'Vendas', 'MercadoDeGames']
+imageVerified: 'true'
 ---
 A expectativa em torno de Grand Theft Auto VI é, sem dúvida, a maior na história dos videogames. Desde o anúncio oficial do trailer, a internet tem sido um caldeirão de especulações e ansiedade. Contudo, o que acaba de surgir na mídia eleva essa febre a um patamar inacreditável: GTA 6 já teria gerado bilhões de dólares e vendido milhões de cópias *antes mesmo de ser lançado*.
 

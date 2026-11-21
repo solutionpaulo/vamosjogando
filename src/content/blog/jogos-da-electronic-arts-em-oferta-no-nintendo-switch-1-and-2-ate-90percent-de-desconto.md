@@ -6,6 +6,7 @@ heroImage: '../../assets/jogos-da-electronic-arts-em-oferta-no-nintendo-switch-1
 ogImage: '../../assets/og-jogos-da-electronic-arts-em-oferta-no-nintendo-switch-1-and-2-ate-90percent-de-desconto.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/nintendo/jogos-da-electronic-arts-em-oferta-no-nintendo-switch-1-2-ate-90-de-desconto/'
 tags: ['Nintendo Switch', 'EA', 'Promoções', 'eShop']
+imageVerified: 'true'
 ---
 Para a alegria dos proprietários de Nintendo Switch, a Electronic Arts acaba de lançar uma onda de promoções que promete agitar a eShop. Com descontos que chegam a incríveis 90%, é o momento perfeito para adicionar alguns dos títulos mais consagrados da publisher à sua coleção portátil.
 
