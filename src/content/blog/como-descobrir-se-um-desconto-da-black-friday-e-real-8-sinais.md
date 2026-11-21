@@ -2,10 +2,11 @@
 title: 'Black Friday Gamer: Cace Descontos Reais e Fuja das Falsas Ofertas!'
 description: 'A Black Friday pode ser uma armadilha para gamers. Aprenda a identificar as verdadeiras promoções de jogos e hardware para fazer a melhor compra e evitar o famoso ''metade do dobro''.'
 pubDate: 'Sat Nov 21 2026'
-heroImage: '../../assets/como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais.webp'
+heroImage: '../../assets/og-como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais.webp'
 ogImage: '../../assets/og-como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais.webp'
 sourceUrl: 'https://canaltech.com.br/produtos/como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais/'
 tags: ['BlackFriday', 'DicasDeCompra', 'Jogos', 'Hardware']
+imageVerified: 'true'
 ---
 A Black Friday se tornou um evento aguardado por gamers que buscam aquele console dos sonhos, um novo acessório ou jogos imperdíveis por preços mais acessíveis. Contudo, a empolgação pode rapidamente dar lugar à frustração quando nos deparamos com as famigeradas 'promoções' que, na verdade, não são nada vantajosas. Para blindar seu bolso e garantir que sua compra seja um verdadeiro upgrade, e não um arrependimento, o 'Vamos Jogando' traz um guia essencial para navegar pelas ofertas da Black Friday.
 

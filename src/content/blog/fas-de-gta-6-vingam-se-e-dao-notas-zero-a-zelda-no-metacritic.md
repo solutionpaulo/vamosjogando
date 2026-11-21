@@ -6,6 +6,7 @@ heroImage: '../../assets/fas-de-gta-6-vingam-se-e-dao-notas-zero-a-zelda-no-meta
 ogImage: '../../assets/og-fas-de-gta-6-vingam-se-e-dao-notas-zero-a-zelda-no-metacritic.webp'
 sourceUrl: 'https://www.eurogamer.pt/fas-de-gta-6-vingam-se-e-dao-notas-zero-a-zelda-no-metacritic'
 tags: ['Metacritic', 'ReviewBombing', 'GTA', 'Zelda']
+imageVerified: 'true'
 ---
 O universo gamer, frequentemente elogiado por sua paixão e união, também enfrenta desafios notáveis, como a toxicidade que pode surgir em momentos de rivalidade. Recentemente, essa tensão atingiu um novo patamar no Metacritic, onde fãs fervorosos de GTA 6 orquestraram uma 'vingança digital' contra The Legend of Zelda: Ocarina of Time, um dos títulos mais aclamados da história, após seu próprio jogo ter sido alvo de ataques.
 
