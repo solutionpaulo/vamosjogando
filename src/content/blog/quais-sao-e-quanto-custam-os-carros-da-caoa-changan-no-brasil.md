@@ -6,6 +6,7 @@ heroImage: '../../assets/quais-sao-e-quanto-custam-os-carros-da-caoa-changan-no-
 ogImage: '../../assets/og-quais-sao-e-quanto-custam-os-carros-da-caoa-changan-no-brasil.webp'
 sourceUrl: 'https://canaltech.com.br/carros/quais-sao-e-quanto-custam-os-carros-da-caoa-changan-no-brasil/'
 tags: ['JogosDeCorrida', 'DesignVeicular', 'TecnologiaAutomotiva', 'InovacaoNosGames']
+imageVerified: 'true'
 ---
 A indústria automobilística está em constante evolução, e a chegada de novas marcas e modelos no mercado brasileiro, como a Caoa Changan, não impacta apenas nossas estradas, mas também pode acender a chama da criatividade nos estúdios de desenvolvimento de jogos. Afinal, onde a inovação real termina e a imaginação virtual começa? No blog 'Vamos Jogando', mergulhamos nos lançamentos da Caoa Changan para vislumbrar como esses veículos podem moldar os cenários, desafios e a estética dos nossos próximos jogos favoritos.
 
