@@ -6,6 +6,7 @@ heroImage: '../../assets/cuidado-com-as-falsas-versoes-de-gta-6-para-pc-na-inter
 ogImage: '../../assets/og-cuidado-com-as-falsas-versoes-de-gta-6-para-pc-na-internet.webp'
 sourceUrl: 'https://www.eurogamer.pt/cuidado-com-as-falsas-versoes-de-gta-6-para-pc-na-internet'
 tags: ['GTA 6', 'Rockstar Games', 'Segurança Digital', 'PC Gaming']
+imageVerified: 'true'
 ---
 A febre por Grand Theft Auto VI é inegável. Desde o lançamento do trailer, a comunidade gamer global está em polvorosa, especulando sobre cada detalhe do que promete ser um dos maiores lançamentos da década. No Brasil, essa ansiedade não é diferente, e muitos jogadores de PC já sonham em rodar o título em suas máquinas. Contudo, essa expectativa tem sido explorada por criminosos digitais, que estão distribuindo supostas versões de GTA 6 para PC, carregadas de perigos.
 

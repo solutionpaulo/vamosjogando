@@ -6,6 +6,7 @@ heroImage: '../../assets/the-last-of-us-part-2-recebe-mod-multiplayer-gratis-no-
 ogImage: '../../assets/og-the-last-of-us-part-2-recebe-mod-multiplayer-gratis-no-pc.webp'
 sourceUrl: 'https://www.eurogamer.pt/the-last-of-us-part-2-recebe-mod-multiplayer-gratis-no-pc'
 tags: ['The Last of Us Part 2', 'Modding', 'Multiplayer', 'PC Gaming']
+imageVerified: 'true'
 ---
 A aguardada versão de The Last of Us Part 2 Remastered para PC mal chegou e já está agitando a comunidade de jogadores com uma novidade inesperada: um mod multiplayer totalmente gratuito. Enquanto a série é mundialmente conhecida por sua narrativa intensa e focada na experiência single-player, a paixão dos fãs extrapolou os limites e trouxe um novo fôlego ao jogo com a criação de um modo online.
 
