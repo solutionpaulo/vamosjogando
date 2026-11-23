@@ -2,10 +2,11 @@
 title: 'Vazamento de GTA 6: .exe Liberado – Port Não Oficial no PC à Vista?'
 description: 'Um hacker alega ter vazado um arquivo executável de GTA 6, reacendendo as discussões sobre um possível port não oficial para PC antes mesmo do lançamento da Rockstar.'
 pubDate: 'Mon Nov 23 2026'
-heroImage: '../../assets/cyberleek-libera-arquivo-exe-de-gta-6-e-abre-caminho-para-port-nao-oficial-no-pc.webp'
+heroImage: '../../assets/og-cyberleek-libera-arquivo-exe-de-gta-6-e-abre-caminho-para-port-nao-oficial-no-pc.webp'
 ogImage: '../../assets/og-cyberleek-libera-arquivo-exe-de-gta-6-e-abre-caminho-para-port-nao-oficial-no-pc.webp'
 sourceUrl: 'https://canaltech.com.br/games/cyberleek-libera-arquivo-exe-de-gta-6-e-abre-caminho-para-port-nao-oficial-no-pc/'
 tags: ['GTA6', 'RockstarGames', 'PCGaming', 'Vazamentos']
+imageVerified: 'true'
 ---
 Mais uma vez, o altamente aguardado Grand Theft Auto VI se encontra no centro de um furacão de vazamentos. Desta vez, o hacker Cyberleek afirma ter liberado um arquivo executável do jogo, criando uma onda de especulação sobre a chegada de um port não oficial para PC muito antes do lançamento oficial pela Rockstar Games.
 

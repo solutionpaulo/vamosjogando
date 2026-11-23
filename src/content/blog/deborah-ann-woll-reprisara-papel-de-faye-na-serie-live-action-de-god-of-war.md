@@ -6,6 +6,7 @@ heroImage: '../../assets/deborah-ann-woll-reprisara-papel-de-faye-na-serie-live-
 ogImage: '../../assets/og-deborah-ann-woll-reprisara-papel-de-faye-na-serie-live-action-de-god-of-war.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/deborah-ann-woll-reprisara-papel-de-faye-na-serie-live-action-de-god-of-war/'
 tags: ['God of War', 'Série Live-Action', 'Prime Video', 'Adaptação']
+imageVerified: 'true'
 ---
 A notícia de que Deborah Ann Woll voltará a interpretar Faye na série live-action de God of War pelo Prime Video é um aceno significativo para os fãs e um forte indicativo do compromisso da produção com a autenticidade. Em um cenário onde adaptações frequentemente geram apreensão, ter a atriz que deu voz e corpo (via captura de movimento) à personagem nos jogos originais é um ponto a favor incontestável. Para a comunidade brasileira de jogadores, que acompanha a saga de Kratos com paixão, essa escolha pode ser a chave para solidificar a confiança no projeto.
 
