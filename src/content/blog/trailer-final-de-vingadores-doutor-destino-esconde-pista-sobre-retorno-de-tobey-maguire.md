@@ -6,6 +6,7 @@ heroImage: '../../assets/trailer-final-de-vingadores-doutor-destino-esconde-pist
 ogImage: '../../assets/og-trailer-final-de-vingadores-doutor-destino-esconde-pista-sobre-retorno-de-tobey-maguire.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/trailer-final-de-vingadores-doutor-destino-esconde-pista-sobre-retorno-de-tobey-maguire/'
 tags: ['MCU', 'Homem-Aranha', 'Vingadores', 'Doutor Destino']
+imageVerified: 'true'
 ---
 O universo cinematográfico da Marvel está à beira de sua maior colisão de realidades em Vingadores: Doutor Destino, e a expectativa já é palpável. Cada novo material promocional é dissecado por milhões de fãs ao redor do mundo, e o trailer final não foi diferente. Uma cena em particular, envolvendo Shang-Chi em Nova York, acendeu a chama da esperança para um retorno que pode ser um dos mais aguardados da história do MCU: o Homem-Aranha de Tobey Maguire.
 
