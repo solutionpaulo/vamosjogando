@@ -6,6 +6,7 @@ heroImage: '../../assets/chevrolet-derrete-precos-da-s10-e-picape-fica-mais-em-c
 ogImage: '../../assets/og-chevrolet-derrete-precos-da-s10-e-picape-fica-mais-em-conta-que-toyota-hilux.webp'
 sourceUrl: 'https://canaltech.com.br/carros/chevrolet-derrete-precos-da-s10-e-picape-fica-mais-em-conta-que-toyota-hilux/'
 tags: ['PlayStation', 'Hardware', 'Gráficos', 'Tecnologia']
+imageVerified: 'true'
 ---
 A indústria de games está sempre em busca do próximo patamar visual. Com a atual geração de consoles já consolidada, os olhos dos jogadores e desenvolvedores se voltam para o que o futuro reserva, e as especulações sobre o PlayStation 6 começam a ganhar força, com um foco particular nas capacidades gráficas da nova plataforma. Rumores recentes apontam para um investimento massivo em aprimoramentos de Ray Tracing.
 

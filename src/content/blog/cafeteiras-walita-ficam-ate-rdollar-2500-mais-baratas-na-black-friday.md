@@ -6,6 +6,7 @@ heroImage: '../../assets/cafeteiras-walita-ficam-ate-rdollar-2500-mais-baratas-n
 ogImage: '../../assets/og-cafeteiras-walita-ficam-ate-rdollar-2500-mais-baratas-na-black-friday.webp'
 sourceUrl: 'https://canaltech.com.br/eletro/cafeteiras-walita-ficam-ate-r-2500-mais-baratas-na-black-friday/'
 tags: ['Lifestyle Gamer', 'Black Friday', 'Setup Gamer', 'Periféricos']
+imageVerified: 'true'
 ---
 Gamers sabem que a energia é crucial. Lutas contra chefes, ranqueadas competitivas, ou sessões de streaming noturnas exigem foco ininterrupto. E para muitos, esse combustível vem de uma boa xícara de café. A Black Friday traz uma oportunidade inesperada para aprimorar esse aspecto do seu setup: as cafeteiras Philips Walita estão com descontos significativos, chegando a R$ 2.500 mais baratas. Será que é hora de investir em um novo parceiro para suas madrugadas de gameplay?
 

@@ -2,10 +2,11 @@
 title: 'EA Sports FC 27: IA Ressuscita Voz Lendária dos Gramados!'
 description: 'EA Sports FC 27 chocará o mundo dos games ao trazer de volta o icônico comentarista John Motson, quatro anos após seu falecimento, utilizando inteligência artificial. Uma inovação que promete emocionar fãs e levantar debates sobre o futuro da imersão.'
 pubDate: 'Wed Nov 25 2026'
-heroImage: '../../assets/ea-sports-fc-27-vai-usar-ia-para-trazer-de-volta-comentarista-classico.webp'
+heroImage: '../../assets/og-ea-sports-fc-27-vai-usar-ia-para-trazer-de-volta-comentarista-classico.webp'
 ogImage: '../../assets/og-ea-sports-fc-27-vai-usar-ia-para-trazer-de-volta-comentarista-classico.webp'
 sourceUrl: 'https://www.adrenaline.com.br/games/ea-sports-fc-27-vai-usar-ia-para-trazer-de-volta-comentarista-classico/'
 tags: ['EA Sports FC', 'Inteligência Artificial', 'Futebol Virtual', 'Comentário Esportivo']
+imageVerified: 'true'
 ---
 O universo dos games de futebol está prestes a testemunhar um marco tecnológico e emocional. A EA Sports anunciou que EA Sports FC 27, o próximo capítulo de sua aclamada franquia, trará de volta uma das vozes mais emblemáticas da história dos jogos de futebol: o lendário comentarista John Motson.
 
