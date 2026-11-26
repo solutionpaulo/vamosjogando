@@ -6,6 +6,7 @@ heroImage: '../../assets/take-two-mandou-apagar-mais-de-3000-paginas-no-github-l
 ogImage: '../../assets/og-take-two-mandou-apagar-mais-de-3000-paginas-no-github-ligadas-a-gta-6-pc.webp'
 sourceUrl: 'https://www.eurogamer.pt/take-two-mandou-apagar-mais-de-3000-paginas-no-github-ligadas-a-gta-6-pc'
 tags: ['GTA6', 'RockstarGames', 'TakeTwo', 'PCGaming']
+imageVerified: 'true'
 ---
 A antecipação por Grand Theft Auto 6 é palpável, especialmente entre a comunidade de PC, que anseia pela próxima evolução da aclamada franquia da Rockstar Games. No entanto, essa espera vem acompanhada de especulações, vazamentos e, agora, de uma resposta cada vez mais agressiva da Take-Two Interactive, empresa-mãe da Rockstar. As últimas semanas trouxeram à tona uma escalada sem precedentes na luta contra o conteúdo não oficial, levantando dúvidas sobre como a empresa pretende gerenciar a relação com seus fãs e o desenvolvimento de um dos jogos mais esperados da década.
 
