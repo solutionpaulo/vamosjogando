@@ -1,0 +1,48 @@
+name: Test Deploy Workflow
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy'
+        required: false
+        default: 'main'
+      trigger_type:
+        description: 'Type of trigger'
+        required: false
+        default: 'manual'
+
+jobs:
+  test-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro
+        run: npm run build
+
+      - name: Show dist size
+        run: du -sh dist
+
+      - name: Check for hardlinks
+        run: |
+          echo "Arquivos com hard links > 1:"
+          find dist -type f -links +1 2>/dev/null || echo "Nenhum arquivo com hard link"
+          echo ""
+          echo "Total de symlinks:"
+          find dist -type l 2>/dev/null | wc -l
+          echo ""
+          echo "Top 10 maiores arquivos:"
+          find dist -type f -exec ls -s {} \; 2>/dev/null | sort -n | tail -10
