@@ -202,19 +202,20 @@ jobs:
       - name: Build Astro
         run: npm run build
 
-      - name: Verify dist folder
+      - name: Clean dist folder completely
         run: |
-          echo "=== Dist folder size ==="
+          echo "=== Removing dist folder ==="
+          rm -rf dist
+          echo "=== Rebuilding dist ==="
+          npm run build
+          echo "=== New dist folder size ==="
           du -sh dist
           echo "=== Checking for symlinks ==="
           find dist -type l | wc -l
-          echo "=== Listing dist contents ==="
-          ls -la dist/ | head -30
-
-      - name: Remove symlinks from dist
-        run: |
-          find dist -type l -delete 2>/dev/null || echo "No symlinks to remove"
-          echo "=== Symlinks removed ==="
+          echo "=== Checking for hardlinks ==="
+          find dist -type f -links +1 | wc -l
+          echo "=== Dist contents ==="
+          ls -la dist/ | head -20
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
