@@ -9,6 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       generate_news:
+    # trigger: updated
         description: 'Gerar notícias'
         type: boolean
         default: true
