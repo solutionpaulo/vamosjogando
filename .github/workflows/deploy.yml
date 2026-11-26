@@ -4,7 +4,6 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
-    # trigger: updated v2
 
 permissions:
   contents: read
