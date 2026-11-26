@@ -204,18 +204,22 @@ jobs:
 
       - name: Clean dist folder completely
         run: |
-          echo "=== Removing dist folder ==="
+          echo "=== Step 1: Removing dist folder ==="
           rm -rf dist
-          echo "=== Rebuilding dist ==="
+          echo "=== Step 2: Installing dependencies ==="
+          npm ci
+          echo "=== Step 3: Building Astro do-zero ==="
           npm run build
-          echo "=== New dist folder size ==="
+          echo "=== Step 4: Verifying dist contents ==="
           du -sh dist
-          echo "=== Checking for symlinks ==="
-          find dist -type l | wc -l
-          echo "=== Checking for hardlinks ==="
-          find dist -type f -links +1 | wc -l
-          echo "=== Dist contents ==="
-          ls -la dist/ | head -20
+          echo "=== Finding ALL symlinks ==="
+          find dist -type l -ls 2>/dev/null | head -10
+          echo "=== Finding hardlinks per file ==="
+          find dist -type f -links +1 -ls 2>/dev/null | head -10
+          echo "=== Total files in dist ==="
+          find dist -type f | wc -l
+          echo "=== Listing large folders ==="
+          du -sh dist/*/ 2>/dev/null | sort -rh | head -10
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
