@@ -210,7 +210,9 @@ jobs:
           npm ci
           echo "=== Step 3: Building Astro do-zero ==="
           npm run build
-          echo "=== Step 4: Verifying dist contents ==="
+          echo "=== Step 4: Cleaning symlinks from dist ==="
+          find dist -type l -delete 2>/dev/null || echo "No symlinks found"
+          echo "=== Step 5: Verifying dist contents ==="
           du -sh dist
           echo "=== Finding ALL symlinks ==="
           find dist -type l -ls 2>/dev/null | head -10
