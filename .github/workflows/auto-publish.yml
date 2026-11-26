@@ -212,12 +212,14 @@ jobs:
           npm run build
           echo "=== Step 4: Cleaning symlinks from dist ==="
           find dist -type l -delete 2>/dev/null || echo "No symlinks found"
-          echo "=== Step 5: Verifying dist contents ==="
-          du -sh dist
+          echo "=== Step 5: Listing ALL dist files with attributes ==="
+          ls -laR dist/ | head -100
           echo "=== Finding ALL symlinks ==="
           find dist -type l -ls 2>/dev/null | head -10
           echo "=== Finding hardlinks per file ==="
           find dist -type f -links +1 -ls 2>/dev/null | head -10
+          echo "=== Counting hidden files ==="
+          find dist -name ".*" -not -name "." -not -name ".." | wc -l
           echo "=== Total files in dist ==="
           find dist -type f | wc -l
           echo "=== Listing large folders ==="
