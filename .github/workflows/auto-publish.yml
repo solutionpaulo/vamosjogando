@@ -213,22 +213,61 @@ jobs:
           echo "=== Step 4: Removing ALL symlinks and fixing permissions ==="
           find dist -type l -delete 2>/dev/null
           find dist -type f -links +1 -delete 2>/dev/null
+          # Additional: force-remove any remaining symlinks by re-scanning
+          find dist -type l 2>/dev/null | while read link; do rm -f "$link" 2>/dev/null; done
+          # Remove any files that still have multiple hard links
+          find dist -type f -links +1 -delete 2>/dev/null
+          # Reset all permissions and reset uid/gid to break any stale references
           chmod -R u+rw,go-w dist 2>/dev/null
           chmod 755 dist 2>/dev/null
-          echo "=== Step 5: Verifying no links remain ==="
+          # Final scan: delete any newly found symlinks
+          find dist -type l -delete 2>/dev/null
+          # Verify and report
           ln_count=$(find dist -type l 2>/dev/null | wc -l)
-          echo "Symlinks: $ln_count"
+          echo "Symlinks remaining: $ln_count"
           hl_count=$(find dist -type f -links +1 2>/dev/null | wc -l)
-          echo "Hardlinks > 1: $hl_count"
+          echo "Hardlinks > 1 remaining: $hl_count"
           if [ "$ln_count" -gt 0 ] || [ "$hl_count" -gt 0 ]; then
-            echo "WARNING: Links found, attempting cleanup..."
-            find dist -type l -delete 2>/dev/null
-            find dist -type f -links +1 -delete 2>/dev/null
+            echo "ERROR: Links still present in dist folder!"
+            find dist -type l -exec ls -la {} \; 2>/dev/null
+            find dist -type f -links +1 -exec ls -la {} \; 2>/dev/null
+            exit 1
           fi
-          echo "=== Step 5: Listing ALL dist files with attributes ==="
-          ls -laR dist/ | head -50
-          echo "=== Listing large folders ==="
-          du -sh dist/*/ 2>/dev/null | sort -rh | head -10
+          echo "=== Step 5: Verified - no links in dist folder ==="
+
+      - name: Create clean artifact copy
+        run: |
+          #!/usr/bin/env bash
+          set -euo pipefail
+          
+          # Create clean copy directory
+          rm -rf /tmp/dist_clean
+          mkdir -p /tmp/dist_clean
+          
+          # Copy ONLY regular files from dist, preserving directory structure.
+          # For each file, compute the relative path and copy to the same location
+          # in the clean copy, explicitly skipping all symlinks.
+          # --no-preserve=links ensures we never preserve link properties.
+          find dist -type f -print0 | while IFS= read -r -d '' file; do
+            rel_path="${file#dist/}"
+            cp -a --no-preserve=links "$file" "/tmp/dist_clean/$rel_path"
+          done
+          
+          # Remove any symlinks that might exist in the clean copy (safety net)
+          find /tmp/dist_clean -type l -delete 2>/dev/null || true
+          
+          # Verify the clean copy has no symlinks before deploying
+          ln_count=$(find /tmp/dist_clean -type l 2>/dev/null | wc -l)
+          echo "Symlinks in clean artifact copy: $ln_count"
+          if [ "$ln_count" -gt 0 ]; then
+            echo "ERROR: Symlinks found in clean artifact copy!"
+            find /tmp/dist_clean -type l -exec ls -la {} \; 2>/dev/null
+            exit 1
+          fi
+          
+          # Remove original dist and rename clean copy
+          rm -rf dist
+          mv /tmp/dist_clean dist
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v4
