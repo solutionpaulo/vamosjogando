@@ -211,18 +211,23 @@ jobs:
           npm ci
           echo "=== Step 3: Building Astro do-zero ==="
           npm run build
-          echo "=== Step 4: Cleaning symlinks from dist ==="
-          find dist -type l -delete 2>/dev/null || echo "No symlinks found"
+          echo "=== Step 4: Removing ALL symlinks and fixing permissions ==="
+          find dist -type l -delete 2>/dev/null
+          find dist -type f -links +1 -delete 2>/dev/null
+          chmod -R u+rw,go-w dist 2>/dev/null
+          chmod 755 dist 2>/dev/null
+          echo "=== Step 5: Verifying no links remain ==="
+          ln_count=$(find dist -type l 2>/dev/null | wc -l)
+          echo "Symlinks: $ln_count"
+          hl_count=$(find dist -type f -links +1 2>/dev/null | wc -l)
+          echo "Hardlinks > 1: $hl_count"
+          if [ "$ln_count" -gt 0 ] || [ "$hl_count" -gt 0 ]; then
+            echo "WARNING: Links found, attempting cleanup..."
+            find dist -type l -delete 2>/dev/null
+            find dist -type f -links +1 -delete 2>/dev/null
+          fi
           echo "=== Step 5: Listing ALL dist files with attributes ==="
-          ls -laR dist/ | head -100
-          echo "=== Finding ALL symlinks ==="
-          find dist -type l -ls 2>/dev/null | head -10
-          echo "=== Finding hardlinks per file ==="
-          find dist -type f -links +1 -ls 2>/dev/null | head -10
-          echo "=== Counting hidden files ==="
-          find dist -name ".*" -not -name "." -not -name ".." | wc -l
-          echo "=== Total files in dist ==="
-          find dist -type f | wc -l
+          ls -laR dist/ | head -50
           echo "=== Listing large folders ==="
           du -sh dist/*/ 2>/dev/null | sort -rh | head -10
 
