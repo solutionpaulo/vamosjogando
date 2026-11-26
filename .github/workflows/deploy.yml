@@ -86,8 +86,10 @@ jobs:
           # For each file, compute the relative path and copy to the same location
           # in the clean copy, explicitly skipping all symlinks.
           # --no-preserve=links ensures we never preserve link properties.
+          # Create parent directories as needed before copying each file.
           find dist -type f -print0 | while IFS= read -r -d '' file; do
             rel_path="${file#dist/}"
+            mkdir -p "/tmp/dist_clean/$(dirname "$rel_path")"
             cp -a --no-preserve=links "$file" "/tmp/dist_clean/$rel_path"
           done
           
