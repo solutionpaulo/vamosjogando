@@ -6,6 +6,7 @@ heroImage: '../../assets/por-que-a-armadura-de-doutor-destino-resiste-a-magneto-
 ogImage: '../../assets/og-por-que-a-armadura-de-doutor-destino-resiste-a-magneto-em-vingadores-doomsday.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/por-que-a-armadura-de-doutor-destino-resiste-a-magneto-em-vingadores-doomsday/'
 tags: ['MCU', 'Vingadores', 'Doutor Destino', 'Magneto']
+imageVerified: 'true'
 ---
 A recente prévia de "Vingadores: Doomsday" agitou a comunidade gamer e fãs de quadrinhos ao apresentar um confronto inusitado: Doutor Destino contra Magneto. O embate, que termina com a surpreendente falha de Magneto em desmascarar Doom, levantou uma série de debates e questionamentos sobre os limites dos poderes dos personagens e a direção narrativa do Universo Cinematográfico Marvel (MCU).
 
