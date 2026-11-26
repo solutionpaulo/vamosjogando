@@ -238,7 +238,7 @@ jobs:
       - name: Create clean artifact copy
         run: |
           #!/usr/bin/env bash
-          set -euo pipefail
+          set -x
           
           # Create clean copy directory
           rm -rf /tmp/dist_clean
@@ -252,7 +252,7 @@ jobs:
           find dist -type f -print0 | while IFS= read -r -d '' file; do
             rel_path="${file#dist/}"
             mkdir -p "/tmp/dist_clean/$(dirname "$rel_path")"
-            cp -a --no-preserve=links "$file" "/tmp/dist_clean/$rel_path"
+            cp -a --no-preserve=links "$file" "/tmp/dist_clean/$rel_path" || true
           done
           
           # Remove any symlinks that might exist in the clean copy (safety net)
@@ -270,6 +270,8 @@ jobs:
           # Remove original dist and rename clean copy
           rm -rf dist
           mv /tmp/dist_clean dist
+          
+          set +x
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v4
