@@ -6,6 +6,7 @@ heroImage: '../../assets/cratera-do-tamanho-de-estadio-sonda-mostra-pela-1a-vez-
 ogImage: '../../assets/og-cratera-do-tamanho-de-estadio-sonda-mostra-pela-1a-vez-cicatriz-da-nasa-em-asteroide.webp'
 sourceUrl: 'https://canaltech.com.br/ciencia-e-espaco/cratera-do-tamanho-de-estadio-sonda-mostra-pela-1-vez-cicatriz-da-nasa-em-asteroide/'
 tags: ['Exploração Espacial', 'NASA', 'Defesa Planetária', 'Tecnologia']
+imageVerified: 'true'
 ---
 No vasto tabuleiro de xadrez do universo, onde cada movimento pode ter consequências cósmicas, a humanidade acaba de marcar um ponto crucial. O cenário não é um jogo de ficção científica, mas a realidade da exploração espacial e da defesa planetária. A Agência Espacial Europeia (ESA) e sua sonda Hera finalmente alcançaram o sistema de asteroides Didymos e Dimorphos, e as imagens que nos trazem são de tirar o fôlego, mostrando a “cicatriz” deixada pela missão DART da NASA. Para nós, gamers acostumados a desviar de meteoros em Starfield ou gerenciar colônias em Oxygen Not Included, essa é a prova de que a ficção pode, sim, inspirar a ciência a níveis épicos.
 

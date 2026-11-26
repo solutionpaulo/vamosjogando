@@ -6,6 +6,7 @@ heroImage: '../../assets/black-friday-radeon-rx-9050-de-8-gb-sai-por-menos-de-rd
 ogImage: '../../assets/og-black-friday-radeon-rx-9050-de-8-gb-sai-por-menos-de-rdollar-1800-na-kabum.webp'
 sourceUrl: 'https://canaltech.com.br/hardware/black-friday-radeon-rx-9050-de-8-gb-sai-por-menos-de-r-1800-na-kabum/'
 tags: ['Hardware', 'Placa de Vídeo', 'AMD', 'Black Friday']
+imageVerified: 'true'
 ---
 A Black Friday, período mais aguardado para quem busca ótimas pechinchas, chegou com força total no mercado de hardware brasileiro. Para os gamers que sonham em montar um PC potente ou dar um upgrade significativo sem comprometer o orçamento, as promoções são a chance perfeita. E a KaBuM! já está agitando as ofertas com uma placa de vídeo que promete chamar a atenção dos entusiastas de jogos em Full HD.
 
