@@ -6,6 +6,7 @@ heroImage: '../../assets/novo-eletrico-da-gwm-chega-na-china-quase-com-preco-de-
 ogImage: '../../assets/og-novo-eletrico-da-gwm-chega-na-china-quase-com-preco-de-chevrolet-onix.webp'
 sourceUrl: 'https://canaltech.com.br/carros/novo-eletrico-da-gwm-chega-na-china-quase-com-preco-de-chevrolet-onix/'
 tags: ['Simuladores de Corrida', 'Carros Elétricos', 'Tecnologia Automotiva', 'Design de Veículos']
+imageVerified: 'true'
 ---
 No universo dos games, a busca por realismo e inovação é constante. E, por vezes, a inspiração vem de onde menos esperamos: do mundo real. Recentemente, a GWM lançou na China o Ora 7, um carro elétrico que, à primeira vista, pode parecer distante dos nossos controles e teclados. Mas ao analisarmos suas características, percebemos que ele carrega um enorme potencial para revolucionar os nossos simuladores de corrida e jogos de mundo aberto.
 
