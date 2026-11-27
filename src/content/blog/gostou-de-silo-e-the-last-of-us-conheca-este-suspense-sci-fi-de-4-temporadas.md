@@ -6,6 +6,7 @@ heroImage: '../../assets/gostou-de-silo-e-the-last-of-us-conheca-este-suspense-s
 ogImage: '../../assets/og-gostou-de-silo-e-the-last-of-us-conheca-este-suspense-sci-fi-de-4-temporadas.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/gostou-de-silo-e-the-last-of-us-conheca-este-suspense-sci-fi-de-4-temporadas/'
 tags: ['Séries', 'Distorpia', 'Sci-Fi', 'Netflix']
+imageVerified: 'true'
 ---
 O universo dos games e das séries está cada vez mais entrelaçado, e não é raro que fãs de grandes títulos como *The Last of Us* busquem experiências narrativas semelhantes em outras mídias. Se você se encantou com a profundidade da luta pela sobrevivência em mundos desolados ou a intriga de uma sociedade subterrânea como em *Silo*, prepare-se para uma jornada sobre trilhos que vai muito além do simples entretenimento: *Expresso do Amanhã*.
 

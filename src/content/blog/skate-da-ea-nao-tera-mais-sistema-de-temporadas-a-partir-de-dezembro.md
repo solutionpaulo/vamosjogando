@@ -2,10 +2,11 @@
 title: 'Skate da EA abandona sistema de temporadas: Alívio ou incerteza para players?'
 description: 'A EA anunciou que o novo Skate não terá mais o sistema de temporadas a partir de dezembro. Entenda o impacto dessa decisão na experiência dos jogadores e no futuro do jogo.'
 pubDate: 'Fri Nov 27 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/og-skate-da-ea-nao-tera-mais-sistema-de-temporadas-a-partir-de-dezembro.webp'
 ogImage: '../../assets/og-skate-da-ea-nao-tera-mais-sistema-de-temporadas-a-partir-de-dezembro.webp'
 sourceUrl: 'https://meups.com.br/noticias/skate-da-ea-nao-ter-sistema-temporadas-dez/'
 tags: ['Skate', 'EA', 'Live Service', 'Jogos de Esporte']
+imageVerified: 'true'
 ---
 O cenário dos jogos online tem sido dominado pelo modelo 'live service', onde temporadas, passes de batalha e conteúdo regular mantêm os jogadores engajados. No entanto, o próximo título da série Skate, da Electronic Arts, parece estar remando contra essa maré. Recentemente, a desenvolvedora anunciou uma mudança significativa: o game não contará mais com o sistema de temporadas a partir de dezembro, levantando questões sobre o futuro do jogo e a experiência dos seus fãs.
 
