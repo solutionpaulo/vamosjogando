@@ -6,6 +6,7 @@ heroImage: '../../assets/starlink-mini-x-chega-ao-seu-menor-preco-de-toda-a-blac
 ogImage: '../../assets/og-starlink-mini-x-chega-ao-seu-menor-preco-de-toda-a-black-friday-2026-confira.webp'
 sourceUrl: 'https://canaltech.com.br/telecom/starlink-mini-x-chega-ao-seu-menor-preco-de-toda-a-black-friday-2026-confira/'
 tags: ['Starlink', 'InternetSatelital', 'HardwareGamer', 'BlackFriday']
+imageVerified: 'true'
 ---
 A instabilidade da internet é um pesadelo para qualquer gamer, especialmente no Brasil, onde a infraestrutura nem sempre alcança áreas mais remotas ou onde a qualidade da conexão varia drasticamente. Streamers, competidores de esports e jogadores casuais que viajam ou têm sítios e chácaras enfrentam o desafio constante de manter uma conexão confiável. É nesse cenário que a Starlink Mini X, agora com um preço inédito de Black Friday 2026, surge como uma solução que pode redefinir a forma como jogamos.
 

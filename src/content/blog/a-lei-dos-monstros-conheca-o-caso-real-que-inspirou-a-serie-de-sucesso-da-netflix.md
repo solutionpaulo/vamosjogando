@@ -6,6 +6,7 @@ heroImage: '../../assets/a-lei-dos-monstros-conheca-o-caso-real-que-inspirou-a-s
 ogImage: '../../assets/og-a-lei-dos-monstros-conheca-o-caso-real-que-inspirou-a-serie-de-sucesso-da-netflix.webp'
 sourceUrl: 'https://canaltech.com.br/entretenimento/a-lei-dos-monstros-conheca-o-caso-real-que-inspirou-a-serie-de-sucesso-da-netflix/'
 tags: ['Netflix', 'True Crime', 'Thriller Psicológico', 'Séries']
+imageVerified: 'true'
 ---
 O universo dos games é vasto e suas narrativas nos transportam para mundos imaginários, mas a realidade por vezes supera a ficção em termos de complexidade e horror. É com essa premissa que a minissérie polonesa 'A Lei dos Monstros' (Monstros – Caso Trynkiewicz) chega ao catálogo da Netflix, rapidamente escalando o ranking das produções mais assistidas no Brasil. Para a audiência do Vamos Jogando, que busca histórias com profundidade e dilemas morais, esta série oferece uma imersão na obscura linha entre a justiça, a lei e a natureza humana, tudo baseado em um caso real que chocou uma nação.
 
